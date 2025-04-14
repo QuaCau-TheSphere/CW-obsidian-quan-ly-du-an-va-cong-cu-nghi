@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-12-20T16:25
+updated: 2024-12-28T15:51
 alias:
   - Những đánh đổi phổ biến trong việc phát triển phần mềm
   - Ngành lập trình có rất nhiều đánh đổi
@@ -89,3 +89,4 @@ Simplicity in software design promotes ease of understanding and maintenance. Ho
 At different stages of software development, architects and development teams encountered some of the above trade-offs to to meet project objectives effectively. Understanding these trade-offs and finding the optimal balance is crucial for successful software delivery. Striking the right balance requires a holistic approach, considering project requirements, available resources, and stakeholder expectations. By consciously evaluating and managing trade-offs, software professionals can deliver successful software solutions that meet user needs while maintaining a balance between competing factors.
 
 Nguồn:: [Common Trade-offs in Software Development](https://medium.com/@i.vikas/common-trade-offs-in-software-development-13d6f322e83b)
+![](https://www.monkeyuser.com/2021/trolley-conundrum/209-trolley-conundrum.png)

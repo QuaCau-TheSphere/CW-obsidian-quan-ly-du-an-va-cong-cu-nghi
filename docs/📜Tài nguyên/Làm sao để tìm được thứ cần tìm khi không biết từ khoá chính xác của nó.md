@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-04-24T09:02
-updated: 2024-12-20T21:49
+updated: 2025-03-16T15:51
 title: Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó?
 alias: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
 description: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
@@ -16,7 +16,7 @@ Thực ra trong rất nhiều trường hợp, thứ cản trở ta có được
 ## Nếu tôi phải tự tìm hiểu một mình, thì đâu là nơi dễ gặp được từ khoá cần tìm nhất?
 Các gợi ý được sắp xếp theo mức độ tiêu tốn năng lượng.
 ### Máy tìm kiếm
-Nhược điểm của việc này là không ít chủ đề bị tấn công bởi SEO rác. Có thể giảm thiểu điều này bằng việc [Ẩn kết quả tìm kiếm rác trên Google](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Lo%E1%BA%A1i%20b%E1%BB%8F%20phi%E1%BB%81n%20nhi%E1%BB%85u,%20v%C6%B0%E1%BB%A3t%20r%C3%A0o%20c%E1%BA%A3n/Web/%E1%BA%A8n%20k%E1%BA%BFt%20qu%E1%BA%A3%20t%C3%ACm%20ki%E1%BA%BFm%20r%C3%A1c%20tr%C3%AAn%20Google.md), tuy nhiên cũng chỉ hạn chế được phần nào. Hơn nữa, kể cả khi không bị SEO rác, thì cũng có khả năng [❓Tác giả của một bài viết không bao giờ vét cạn được mọi từ khoá mà người đọc có thể sẽ nhập vào máy tìm kiếm để được gợi ý tới bài viết đó](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/%E2%9D%93T%C3%A1c%20gi%E1%BA%A3%20c%E1%BB%A7a%20m%E1%BB%99t%20b%C3%A0i%20vi%E1%BA%BFt%20kh%C3%B4ng%20bao%20gi%E1%BB%9D%20v%C3%A9t%20c%E1%BA%A1n%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%8Di%20t%E1%BB%AB%20kho%C3%A1%20m%C3%A0%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%8Dc%20c%C3%B3%20th%E1%BB%83%20s%E1%BA%BD%20nh%E1%BA%ADp%20v%C3%A0o%20m%C3%A1y%20t%C3%ACm%20ki%E1%BA%BFm%20%C4%91%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20g%E1%BB%A3i%20%C3%BD%20t%E1%BB%9Bi%20b%C3%A0i%20vi%E1%BA%BFt%20%C4%91%C3%B3.md).
+Nhược điểm của việc này là không ít chủ đề bị tấn công bởi SEO rác. Có thể giảm thiểu điều này bằng việc [Ẩn kết quả tìm kiếm rác trên Google](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Lo%E1%BA%A1i%20b%E1%BB%8F%20phi%E1%BB%81n%20nhi%E1%BB%85u,%20v%C6%B0%E1%BB%A3t%20r%C3%A0o%20c%E1%BA%A3n/Web/%E1%BA%A8n%20k%E1%BA%BFt%20qu%E1%BA%A3%20t%C3%ACm%20ki%E1%BA%BFm%20r%C3%A1c%20tr%C3%AAn%20Google.md), tuy nhiên cũng chỉ hạn chế được phần nào. Hơn nữa, kể cả khi không bị SEO rác, thì cũng có khả năng [❓Tác giả của một bài viết không bao giờ vét cạn được mọi từ khoá mà người đọc có thể sẽ nhập vào máy tìm kiếm để được gợi ý tới bài viết đó](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/%E2%9D%93T%C3%A1c%20gi%E1%BA%A3%20c%E1%BB%A7a%20m%E1%BB%99t%20b%C3%A0i%20vi%E1%BA%BFt%20kh%C3%B4ng%20bao%20gi%E1%BB%9D%20v%C3%A9t%20c%E1%BA%A1n%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%8Di%20t%E1%BB%AB%20kho%C3%A1%20m%C3%A0%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%8Dc%20c%C3%B3%20th%E1%BB%83%20s%E1%BA%BD%20nh%E1%BA%ADp%20v%C3%A0o%20m%C3%A1y%20t%C3%ACm%20ki%E1%BA%BFm%20%C4%91%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20g%E1%BB%A3i%20%C3%BD%20t%E1%BB%9Bi%20b%C3%A0i%20vi%E1%BA%BFt%20%C4%91%C3%B3.md).
 
 Có thể giảm bớt vấn đề này bằng việc thêm vào các từ khoá sau:
 - `filetype:pdf`
@@ -30,7 +30,7 @@ Có thể giảm bớt vấn đề này bằng việc thêm vào các từ khoá
 - Phần mục lục của [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists "List of lists of lists - Wikipedia")
 - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com)
 
-ChatGPT hay Gemini thực ra cũng nằm trong nhóm này, nhưng bởi vì [LLM là định dạng ảnh mờ của web](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/M%C3%B4%20h%C3%ACnh%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BB%9Bn/LLM%20l%C3%A0%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20%E1%BA%A3nh%20m%E1%BB%9D%20c%E1%BB%A7a%20web.md), nên dùng chúng sẽ không hiệu quả bằng. 
+ChatGPT hay Gemini thực ra cũng nằm trong nhóm này, nhưng bởi vì [LLM là định dạng ảnh mờ của web](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/M%C3%B4%20h%C3%ACnh%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BB%9Bn/Gi%E1%BB%9Bi%20h%E1%BA%A1n/LLM%20l%C3%A0%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20%E1%BA%A3nh%20m%E1%BB%9D%20c%E1%BB%A7a%20web.md), nên dùng chúng sẽ không hiệu quả bằng. 
 
 ### Các cộng đồng chuyên môn
 Diễn đàn chuyên về hỏi đáp [Stack Exchange](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Stack%20Exchange/index.md) có cơ chế bầu chọn theo tập thể, giúp đưa thông tin hữu ích nhất lên cao. Quora cũng là một diễn đàn hỏi đáp có cơ chế bầu chọn theo tập thể, nhưng có vẻ nó thiên về nghe những câu chuyện từ những người có uy tín hơn. Với những câu hỏi để tìm từ khoá thì bạn không có nhiều không gian để giải thích vấn đề, và cũng dễ gặp tình trạng câu trả lời chỉ chung chung. Nếu muốn có những cuộc thảo luận mở thì mình thấy Reddit tốt hơn.
@@ -51,7 +51,7 @@ Nếu dành thời gian để viết những gì bạn đã thử mà không đ�
 Thường đó sẽ là các danh sách được tuyển chọn, ví dụ như:
 - Phần mục lục của [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists "List of lists of lists - Wikipedia") trên Wikipedia (có thể tìm hiểu thêm về [Uy quyền sự thật của Wikipedia](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Wikipedia/Uy%20quy%E1%BB%81n%20s%E1%BB%B1%20th%E1%BA%ADt%20c%E1%BB%A7a%20Wikipedia.md))
 - Phần mục lục của [Awesome Projects](https://imq.github.io/awesome-projects/#/?id=books) trên GitHub
-
+- [Outline of academic disciplines - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines)
 Các kho kiến thức:
  - Với tiếng Việt thì có [trang giới thiệu về đối ⊷ thoại](https://doi-thoai.deno.dev/blog?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=đối+⊷+thoại&utm_content=⚡Hiểu+biết+sâu%2FNghĩ+về+việc+nghĩ%2FHọc+tập%2C+hiểu+biết%2FLàm+sao+để+tìm+được+thứ+ta+cần+khi+ta+không+biết+từ+khoá+chính+xác+của+nó.md&utm_term=).
 
@@ -59,6 +59,7 @@ Xem thêm:: [Làm sao để một người có thể tìm đến tài nguyên t�
 ### Các nghiên cứu tổng quan, sách nhập môn, bài giảng đại học
 Hết cách rồi, phải lao đầu vào nghiên cứu thật kỹ thôi.
 
+- Lên trang Wikipedia của khái niệm gần nhất mà bạn biết và đọc nó. Đọc luôn cả phần *Category* ở dưới
 - Lên YouTube kiếm playlist bài giảng
 - Tìm trên Google Scholars bằng truy vấn `[chủ đề] literature review`
 - Lên [LibGen](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/LibGen.md) tải sách 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-09-02T14:26
+updated: 2025-02-08T12:22
 ---
 Lý do:: [Việc hợp tác làm việc thời gian thực với dữ liệu được lưu ở máy cá nhân là một bài toán khó](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/L%C4%A9nh%20v%E1%BB%B1c/H%E1%BB%A3p%20t%C3%A1c%20l%C3%A0m%20vi%E1%BB%87c/Vi%E1%BB%87c%20h%E1%BB%A3p%20t%C3%A1c%20l%C3%A0m%20vi%E1%BB%87c%20th%E1%BB%9Di%20gian%20th%E1%BB%B1c%20v%E1%BB%9Bi%20d%E1%BB%AF%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20l%C6%B0u%20%E1%BB%9F%20m%C3%A1y%20c%C3%A1%20nh%C3%A2n%20l%C3%A0%20m%E1%BB%99t%20b%C3%A0i%20to%C3%A1n%20kh%C3%B3.md)
 
@@ -13,5 +13,7 @@ we became borrowers of our own data
 [Các nhóm làm việc qua mạng ngày càng nhiều](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/C%C3%A1c%20nh%C3%B3m%20l%C3%A0m%20vi%E1%BB%87c%20qua%20m%E1%BA%A1ng%20ng%C3%A0y%20c%C3%A0ng%20nhi%E1%BB%81u.md), [Có sự đánh đổi giữa sự tự do sử dụng dữ liệu và sự tiện lợi trong việc hợp tác](../../K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/%C4%90%C3%A1nh%20%C4%91%E1%BB%95i/C%C3%B3%20s%E1%BB%B1%20%C4%91%C3%A1nh%20%C4%91%E1%BB%95i%20gi%E1%BB%AFa%20s%E1%BB%B1%20t%E1%BB%B1%20do%20s%E1%BB%AD%20d%E1%BB%A5ng%20d%E1%BB%AF%20li%E1%BB%87u%20v%C3%A0%20s%E1%BB%B1%20ti%E1%BB%87n%20l%E1%BB%A3i%20trong%20vi%E1%BB%87c%20h%E1%BB%A3p%20t%C3%A1c.md) [Việc hợp tác làm việc thời gian thực với dữ liệu được lưu ở máy cá nhân là một bài toán khó](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/L%C4%A9nh%20v%E1%BB%B1c/H%E1%BB%A3p%20t%C3%A1c%20l%C3%A0m%20vi%E1%BB%87c/Vi%E1%BB%87c%20h%E1%BB%A3p%20t%C3%A1c%20l%C3%A0m%20vi%E1%BB%87c%20th%E1%BB%9Di%20gian%20th%E1%BB%B1c%20v%E1%BB%9Bi%20d%E1%BB%AF%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20l%C6%B0u%20%E1%BB%9F%20m%C3%A1y%20c%C3%A1%20nh%C3%A2n%20l%C3%A0%20m%E1%BB%99t%20b%C3%A0i%20to%C3%A1n%20kh%C3%B3.md)
 
 Nguồn:: [Local-first software: You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first/)
-[Những người tự thấy mình ngu công nghệ đơn giản là vì họ không được trao quyền tự trị dữ liệu](Nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20t%E1%BB%B1%20th%E1%BA%A5y%20m%C3%ACnh%20ngu%20c%C3%B4ng%20ngh%E1%BB%87%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20l%C3%A0%20v%C3%AC%20h%E1%BB%8D%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20trao%20quy%E1%BB%81n%20t%E1%BB%B1%20tr%E1%BB%8B%20d%E1%BB%AF%20li%E1%BB%87u.md)
+[Những người tự thấy mình ngu công nghệ đơn giản là vì họ không được trao quyền tự trị dữ liệu](./Nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20t%E1%BB%B1%20th%E1%BA%A5y%20m%C3%ACnh%20ngu%20c%C3%B4ng%20ngh%E1%BB%87%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20l%C3%A0%20v%C3%AC%20h%E1%BB%8D%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20trao%20quy%E1%BB%81n%20t%E1%BB%B1%20tr%E1%BB%8B%20d%E1%BB%AF%20li%E1%BB%87u.md)
 [Lập trình viên biết lập trình chủ yếu là nhờ biết google](../../Nh%C3%A2n%20h%E1%BB%8Dc/L%E1%BA%ADp%20tr%C3%ACnh%20vi%C3%AAn%20bi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%ACnh%20ch%E1%BB%A7%20y%E1%BA%BFu%20l%C3%A0%20nh%E1%BB%9D%20bi%E1%BA%BFt%20google.md)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qo5m92-9_QI?si=p9QofuYskpRD-0RD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

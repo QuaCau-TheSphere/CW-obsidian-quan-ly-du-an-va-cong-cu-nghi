@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-24T15:20
-updated: 2024-10-31T16:52
+updated: 2025-01-04T19:27
 ---
 Ví dụ:: Canvas
 Ưu điểm::
@@ -22,6 +22,9 @@ mermaid
 
 [Hành vi và phản ứng là những thứ native trong môi trường máy tính](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/H%C3%A0nh%20vi%20v%C3%A0%20ph%E1%BA%A3n%20%E1%BB%A9ng%20l%C3%A0%20nh%E1%BB%AFng%20th%E1%BB%A9%20native%20trong%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20m%C3%A1y%20t%C3%ADnh.md)
 [Quảng cáo trên Internet khác hẳn quảng cáo trên các phương tiện ở chỗ người tiêu dùng có thể tương tác với quảng cáo](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/Truy%E1%BB%81n%20th%C3%B4ng,%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Qu%E1%BA%A3ng%20c%C3%A1o%20tr%C3%AAn%20Internet%20kh%C3%A1c%20h%E1%BA%B3n%20qu%E1%BA%A3ng%20c%C3%A1o%20tr%C3%AAn%20c%C3%A1c%20ph%C6%B0%C6%A1ng%20ti%E1%BB%87n%20%E1%BB%9F%20ch%E1%BB%97%20ng%C6%B0%E1%BB%9Di%20ti%C3%AAu%20d%C3%B9ng%20c%C3%B3%20th%E1%BB%83%20t%C6%B0%C6%A1ng%20t%C3%A1c%20v%E1%BB%9Bi%20qu%E1%BA%A3ng%20c%C3%A1o.md)
+
+[Misleading graph - Wikipedia](https://en.wikipedia.org/wiki/Misleading_graph)
+[nihlibrary.nih.gov/sites/default/files/Creating\_Infographics\_with\_Inkscape.pdf](https://www.nihlibrary.nih.gov/sites/default/files/Creating_Infographics_with_Inkscape.pdf)
 
 ## Bảng liên kết các mảnh hiểu biết
 Nếu bạn muốn tự động hoá việc tạo một canvas từ ghi chú của mình, thì về mặt công nghệ bạn đang [đào lập luận](https://en.wikipedia.org/wiki/Argument_mining), và về mặt kỹ thuật bạn đang xuất [JSON Canvas](https://jsoncanvas.org/). Thử kiếm xem có ai đã kết hợp hai khái niệm đó vào một thư viện chưa? Nếu không phải là canvas mà là concept diagram hoặc knowledge graph chắc cũng đã có người làm. 

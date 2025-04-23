@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2024-09-21T21:29
-updated: 2025-03-09T12:20
+updated: 2025-04-22T19:45
 ---
 Lĩnh vực:: [Hệ thống thông tin](../L%C4%A9nh%20v%E1%BB%B1c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/index.md)
 Nhu cầu công nghệ:: [Hệ thống quản lý kiến thức](../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/H%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
-Nhu cầu công nghệ:: [Viết plugin](../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Vi%E1%BA%BFt%20plugin.md)
+Nhu cầu công nghệ:: [Viết tài liệu đặc tả yêu cầu](../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Vi%E1%BA%BFt%20t%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BA%B7c%20t%E1%BA%A3%20y%C3%AAu%20c%E1%BA%A7u.md)
 
 [Embark: Dynamic documents for making plans](https://www.inkandswitch.com/embark/)
 [Việc đổi mới sáng tạo bắt đầu bằng việc mỗi người có thể tự mình điều khiển được máy tính, chứ không phải có thêm một sản phẩm no code hay AI nữa](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/Vi%E1%BB%87c%20%C4%91%E1%BB%95i%20m%E1%BB%9Bi%20s%C3%A1ng%20t%E1%BA%A1o%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20b%E1%BA%B1ng%20vi%E1%BB%87c%20m%E1%BB%97i%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20th%E1%BB%83%20t%E1%BB%B1%20m%C3%ACnh%20%C4%91i%E1%BB%81u%20khi%E1%BB%83n%20%C4%91%C6%B0%E1%BB%A3c%20m%C3%A1y%20t%C3%ADnh,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20c%C3%B3%20th%C3%AAm%20m%E1%BB%99t%20s%E1%BA%A3n%20ph%E1%BA%A9m%20no%20code%20hay%20AI%20n%E1%BB%AFa.md)

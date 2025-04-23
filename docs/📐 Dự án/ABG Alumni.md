@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-11T13:46
-updated: 2025-01-11T13:55
+updated: 2025-04-19T15:35
 ---
 
 - Đăng nhập
@@ -10,4 +10,4 @@ updated: 2025-01-11T13:55
 - Kho lưu trữ dữ liệu của các thành viên trong cộng đồng nếu người đó sở hữu membership  
 - Mục bình luận
 Muốn lịch sử 
-Thư viện học liệu. BVis dụ như trong ABG thì có ghi hình lại. Ai có membership
+Thư viện học liệu. Ví dụ như trong ABG thì có ghi hình lại. Ai có membership

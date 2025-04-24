@@ -1,7 +1,10 @@
 ---
 share: true
 created: 2023-06-03T09:36
-updated: 2025-04-22T13:43
+updated: 2025-04-24T12:57
 ---
 Khái niệm:: [Triết học](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Tri%E1%BA%BFt%20h%E1%BB%8Dc.md)
 [Triết học là việc đặt câu hỏi về những giả định của mình](../Tri%E1%BA%BFt%20h%E1%BB%8Dc%20l%C3%A0%20vi%E1%BB%87c%20%C4%91%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi%20v%E1%BB%81%20nh%E1%BB%AFng%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh%20c%E1%BB%A7a%20m%C3%ACnh.md)
+[Trong khi khoa học thường đi liền với công nghệ, triết học khoa học thường nói về chân lý, còn triết học công nghệ thường nói về đạo đức](./Trong%20khi%20khoa%20h%E1%BB%8Dc%20th%C6%B0%E1%BB%9Dng%20%C4%91i%20li%E1%BB%81n%20v%E1%BB%9Bi%20c%C3%B4ng%20ngh%E1%BB%87,%20tri%E1%BA%BFt%20h%E1%BB%8Dc%20khoa%20h%E1%BB%8Dc%20th%C6%B0%E1%BB%9Dng%20n%C3%B3i%20v%E1%BB%81%20ch%C3%A2n%20l%C3%BD,%20c%C3%B2n%20tri%E1%BA%BFt%20h%E1%BB%8Dc%20c%C3%B4ng%20ngh%E1%BB%87%20th%C6%B0%E1%BB%9Dng%20n%C3%B3i%20v%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c.md)
+[Thứ triết lý mặc định của kỹ thuật phần mềm là chủ nghĩa cấu trúc logic, có gốc gác từ triết học sự tĩnh](../../C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/Ki%E1%BA%BFn%20tr%C3%BAc/Tri%E1%BA%BFt%20h%E1%BB%8Dc/Th%E1%BB%A9%20tri%E1%BA%BFt%20l%C3%BD%20m%E1%BA%B7c%20%C4%91%E1%BB%8Bnh%20c%E1%BB%A7a%20k%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0%20ch%E1%BB%A7%20ngh%C4%A9a%20c%E1%BA%A5u%20tr%C3%BAc%20logic,%20c%C3%B3%20g%E1%BB%91c%20g%C3%A1c%20t%E1%BB%AB%20tri%E1%BA%BFt%20h%E1%BB%8Dc%20s%E1%BB%B1%20t%C4%A9nh.md)
+[Triết học sự tĩnh cho ta máy tính, nhưng triết học chuyển động mới là thứ kiến trúc sư cần](../../C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/Ki%E1%BA%BFn%20tr%C3%BAc/Tri%E1%BA%BFt%20h%E1%BB%8Dc/Tri%E1%BA%BFt%20h%E1%BB%8Dc%20s%E1%BB%B1%20t%C4%A9nh%20cho%20ta%20m%C3%A1y%20t%C3%ADnh,%20nh%C6%B0ng%20tri%E1%BA%BFt%20h%E1%BB%8Dc%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%20m%E1%BB%9Bi%20l%C3%A0%20th%E1%BB%A9%20ki%E1%BA%BFn%20tr%C3%BAc%20s%C6%B0%20c%E1%BA%A7n.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-04T20:41
+updated: 2025-04-24T12:11
 ---
 Khái niệm:: 
 [Viết cho phép ta nghĩ về sự nghĩ](./%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Vi%E1%BA%BFt%20cho%20ph%C3%A9p%20ta%20ngh%C4%A9%20v%E1%BB%81%20s%E1%BB%B1%20ngh%C4%A9.md)
@@ -10,3 +10,4 @@ Nguồn:: [Andy Matuschak](../../%CE%9E%20Ngu%E1%BB%93n/M%C3%B4i%20tr%C6%B0%E1%B
 [Công cụ không chỉ là cách để đạt mục tiêu nhanh hơn, mà còn thay đổi tư duy của chúng ta](./C%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/C%C3%B4ng%20c%E1%BB%A5%20kh%C3%B4ng%20ch%E1%BB%89%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1t%20m%E1%BB%A5c%20ti%C3%AAu%20nhanh%20h%C6%A1n,%20m%C3%A0%20c%C3%B2n%20thay%20%C4%91%E1%BB%95i%20t%C6%B0%20duy%20c%E1%BB%A7a%20ch%C3%BAng%20ta.md)
 [Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm](../G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20thi%E1%BA%BFt%20k%E1%BA%BF/M%E1%BB%97i%20m%E1%BB%99t%20th%E1%BA%AFc%20m%E1%BA%AFc%20%C4%91%E1%BB%81u%20l%C3%A0m%20t%C4%83ng%20th%C3%AAm%20kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20nh%E1%BA%ADn%20th%E1%BB%A9c%20m%C3%A0%20ch%C3%BAng%20ta%20c%C3%B3%20trong%20t%C3%A2m%20tr%C3%AD,%20qua%20%C4%91%C3%B3%20l%C3%A0m%20ph%C3%A2n%20t%C3%A1n%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20c%E1%BB%A7a%20ta%20kh%E1%BB%8Fi%20th%E1%BB%A9%20m%C3%A0%20ta%20%C4%91%E1%BB%8Bnh%20l%C3%A0m.md)
 [Nghĩ về sự nghĩ làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm](./Ngh%C4%A9%20v%E1%BB%81%20s%E1%BB%B1%20ngh%C4%A9%20l%C3%A0m%20t%C4%83ng%20th%C3%AAm%20kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20nh%E1%BA%ADn%20th%E1%BB%A9c%20m%C3%A0%20ch%C3%BAng%20ta%20c%C3%B3%20trong%20t%C3%A2m%20tr%C3%AD,%20qua%20%C4%91%C3%B3%20l%C3%A0m%20ph%C3%A2n%20t%C3%A1n%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20c%E1%BB%A7a%20ta%20kh%E1%BB%8Fi%20th%E1%BB%A9%20m%C3%A0%20ta%20%C4%91%E1%BB%8Bnh%20l%C3%A0m.md)
+[Ý tưởng hoặc quan sát vừa nghĩ ra nếu không nhanh chóng ghi lại sẽ bị mất](./%C3%9D%20t%C6%B0%E1%BB%9Fng%20ho%E1%BA%B7c%20quan%20s%C3%A1t%20v%E1%BB%ABa%20ngh%C4%A9%20ra%20n%E1%BA%BFu%20kh%C3%B4ng%20nhanh%20ch%C3%B3ng%20ghi%20l%E1%BA%A1i%20s%E1%BA%BD%20b%E1%BB%8B%20m%E1%BA%A5t.md)

@@ -1,11 +1,12 @@
 ---
 share: true
 created: 2025-04-24T12:37
-updated: 2025-04-24T12:46
+updated: 2025-04-29T17:51
 ---
-Khái niệm:: 
+Khái niệm:: [Triết học](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Tri%E1%BA%BFt%20h%E1%BB%8Dc.md)
 Vì khoa học máy tính và phát triển phần mềm là hai ngành khác nhau, nên triết học khoa học máy tính và triết học phát triển phần mềm cũng có sự khác nhau. (Sự phân chia này chắc cũng đối xứng với [sự phân chia giữa triết học khoa học và triết học công nghệ](../../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Tri%E1%BA%BFt%20h%E1%BB%8Dc%20c%C3%B4ng%20ngh%E1%BB%87/Trong%20khi%20khoa%20h%E1%BB%8Dc%20th%C6%B0%E1%BB%9Dng%20%C4%91i%20li%E1%BB%81n%20v%E1%BB%9Bi%20c%C3%B4ng%20ngh%E1%BB%87,%20tri%E1%BA%BFt%20h%E1%BB%8Dc%20khoa%20h%E1%BB%8Dc%20th%C6%B0%E1%BB%9Dng%20n%C3%B3i%20v%E1%BB%81%20ch%C3%A2n%20l%C3%BD,%20c%C3%B2n%20tri%E1%BA%BFt%20h%E1%BB%8Dc%20c%C3%B4ng%20ngh%E1%BB%87%20th%C6%B0%E1%BB%9Dng%20n%C3%B3i%20v%E1%BB%81%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c.md).) [Triết học khoa học máy tính lấy trung tâm là triết học ngôn ngữ](../../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Tri%E1%BA%BFt%20h%E1%BB%8Dc%20c%C3%B4ng%20ngh%E1%BB%87/Tri%E1%BA%BFt%20h%E1%BB%8Dc%20ng%C3%B4n%20ng%E1%BB%AF%20l%C3%A0%20trung%20t%C3%A2m%20c%E1%BB%A7a%20tri%E1%BA%BFt%20h%E1%BB%8Dc%20khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh.md), còn triết học phát triển phần mềm lấy trung tâm là triết học chuyển động. 
 
 [Thứ triết lý mặc định của kỹ thuật phần mềm là chủ nghĩa cấu trúc logic, có gốc gác từ triết học sự tĩnh](./Th%E1%BB%A9%20tri%E1%BA%BFt%20l%C3%BD%20m%E1%BA%B7c%20%C4%91%E1%BB%8Bnh%20c%E1%BB%A7a%20k%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0%20ch%E1%BB%A7%20ngh%C4%A9a%20c%E1%BA%A5u%20tr%C3%BAc%20logic,%20c%C3%B3%20g%E1%BB%91c%20g%C3%A1c%20t%E1%BB%AB%20tri%E1%BA%BFt%20h%E1%BB%8Dc%20s%E1%BB%B1%20t%C4%A9nh.md)
 [Triết học sự tĩnh và triết học chuyển động](../../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/B%E1%BA%A3n%20th%E1%BB%83%20lu%E1%BA%ADn/Tri%E1%BA%BFt%20h%E1%BB%8Dc%20s%E1%BB%B1%20t%C4%A9nh%20v%C3%A0%20tri%E1%BA%BFt%20h%E1%BB%8Dc%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng.md)
+[Nhiệm vụ của kiến trúc sư không phải là liệt kê hết các tình huống sẽ xảy ra, mà là thiết kế để dù các tình huống không ngờ tới xảy ra thì vẫn hoạt động ổn định](../Nhi%E1%BB%87m%20v%E1%BB%A5%20c%E1%BB%A7a%20ki%E1%BA%BFn%20tr%C3%BAc%20s%C6%B0%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20li%E1%BB%87t%20k%C3%AA%20h%E1%BA%BFt%20c%C3%A1c%20t%C3%ACnh%20hu%E1%BB%91ng%20s%E1%BA%BD%20x%E1%BA%A3y%20ra,%20m%C3%A0%20l%C3%A0%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%83%20d%C3%B9%20c%C3%A1c%20t%C3%ACnh%20hu%E1%BB%91ng%20kh%C3%B4ng%20ng%E1%BB%9D%20t%E1%BB%9Bi%20x%E1%BA%A3y%20ra%20th%C3%AC%20v%E1%BA%ABn%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20%E1%BB%95n%20%C4%91%E1%BB%8Bnh.md)
 Nguồn:: 

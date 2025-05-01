@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2023-10-27T18:59
-updated: 2025-04-30T22:21
+updated: 2025-05-01T16:05
 cssClass: wide-table
-alias: heading, đặt tên
+alias: heading, đặt tên, filename, title
+description: Có nhiều vị trí tiêu đề với những chức năng khác nhau, và có nhiều cách khác nhau để thay đổi chúng. Nên dùng loại nào cho trường hợp nào?
 ---
 Một tiêu đề có rất nhiều chức năng:
 - Tạo kích thích cho người đọc, khiến họ thấy vì sao họ cần đọc bài đó, dù họ đang không tìm kiếm thông tin về nó
@@ -63,8 +64,17 @@ Nên trong trường hợp này là dùng `title` để thay đổi tiêu đề 
 |                                                                                                                    | Search autocomplete, kết quả Google                                 | Không cần chỉnh | `alias`, `title`, filename                          |                                                                                    |
 | Tiêu đề lúc chia sẻ trên Facebook                                                                                  | Tiêu đề trong Open Graph (`meta property="og:title"`)               | `ogTitle`       | `title`, filename                                   |                                                                                    |
 
-
 Xem thêm:: [Các loại alias](./C%C3%A1c%20lo%E1%BA%A1i%20alias.md)
+
+## Tên dài
+| Cách xử lý                                    | Ưu điểm                                  | Nhược điểm                                                                      |
+| --------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------- |
+| Không thay đổi tên, nhưng thay đổi `filename` | Khi liên kết thì không phải alias        | URL trên web và trên máy khác nhau. Nếu có ký tự đặc biệt thì vẫn không để được |
+| Thay đổi tên, và thay đổi `title`             | URL trên web và trên máy không khác nhau | Khi liên kết thì phải có alias                                                  |
+
+- Có lúc chỉ muốn đặt tiêu đề là câu hỏi, dù có thể đặt theo chủ đề. VD: [Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó?](../../L%C3%A0m%20sao%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%A9%20c%E1%BA%A7n%20t%C3%ACm%20khi%20kh%C3%B4ng%20bi%E1%BA%BFt%20t%E1%BB%AB%20kho%C3%A1%20ch%C3%ADnh%20x%C3%A1c%20c%E1%BB%A7a%20n%C3%B3.md)
+- Có lúc thì chỉ muốn đặt theo chủ đề, dù có thể đặt theo câu hỏi. VD: [Các loại tiêu đề và cách dùng chúng](C%C3%A1c%20lo%E1%BA%A1i%20ti%C3%AAu%20%C4%91%E1%BB%81%20v%C3%A0%20c%C3%A1ch%20d%C3%B9ng%20ch%C3%BAng.md)
+
 ## Path
 Giữ nguyên path?
 Phản đối:
@@ -72,5 +82,4 @@ Phản đối:
 - Người muốn tìm đến thì sẽ tìm được thôi. Search cũng không khó
 
 
-Có lúc chỉ muốn đặt tiêu đề là câu hỏi, dù có thể đặt theo chủ đề: [Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó?](../../L%C3%A0m%20sao%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%A9%20c%E1%BA%A7n%20t%C3%ACm%20khi%20kh%C3%B4ng%20bi%E1%BA%BFt%20t%E1%BB%AB%20kho%C3%A1%20ch%C3%ADnh%20x%C3%A1c%20c%E1%BB%A7a%20n%C3%B3.md). Có lúc thì chỉ muốn đặt theo chủ đề, dù có thể đặt theo câu hỏi: [Các loại tiêu đề và cách dùng chúng](C%C3%A1c%20lo%E1%BA%A1i%20ti%C3%AAu%20%C4%91%E1%BB%81%20v%C3%A0%20c%C3%A1ch%20d%C3%B9ng%20ch%C3%BAng.md)
 

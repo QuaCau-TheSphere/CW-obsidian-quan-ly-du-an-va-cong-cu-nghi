@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-12-28T15:51
+updated: 2025-05-01T22:36
 alias:
   - Những đánh đổi phổ biến trong việc phát triển phần mềm
   - Ngành lập trình có rất nhiều đánh đổi
@@ -11,7 +11,7 @@ description: Đâu là những đánh đổi phổ biến trong việc phát tri
 Khái niệm:: [Đánh đổi](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/%C4%90%C3%A1nh%20%C4%91%E1%BB%95i.md), [Trực giác](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%E1%BB%B1c%20gi%C3%A1c.md)
 Đó chính là lý do [Lập trình thực ra là dùng ẩn dụ](../../%E1%BA%A8n%20d%E1%BB%A5%20v%C3%A0%20mental%20model/L%E1%BA%ADp%20tr%C3%ACnh%20th%E1%BB%B1c%20ra%20l%C3%A0%20d%C3%B9ng%20%E1%BA%A9n%20d%E1%BB%A5.md), vì [Ẩn dụ là cách ta hiểu code bằng cơ thể](../../%E1%BA%A8n%20d%E1%BB%A5%20v%C3%A0%20mental%20model/%E1%BA%A8n%20d%E1%BB%A5%20l%C3%A0%20c%C3%A1ch%20ta%20hi%E1%BB%83u%20code%20b%E1%BA%B1ng%20c%C6%A1%20th%E1%BB%83.md)
 [Các ngành khác đều làm việc với những vật thể cụ thể trong không gian. Chỉ có ngành lập trình là không có điều đó](../../%E1%BA%A8n%20d%E1%BB%A5%20v%C3%A0%20mental%20model/C%C3%A1c%20ng%C3%A0nh%20kh%C3%A1c%20%C4%91%E1%BB%81u%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20v%E1%BA%ADt%20th%E1%BB%83%20c%E1%BB%A5%20th%E1%BB%83%20trong%20kh%C3%B4ng%20gian.%20Ch%E1%BB%89%20c%C3%B3%20ng%C3%A0nh%20l%E1%BA%ADp%20tr%C3%ACnh%20l%C3%A0%20kh%C3%B4ng%20c%C3%B3%20%C4%91i%E1%BB%81u%20%C4%91%C3%B3.md)
-[Khi đang có việc và phải bỏ dở để học một công cụ, ta không nhức đầu khi đó là công cụ vật lý, nhưng lại nhức đầu khi đó là công cụ số](../Nh%E1%BB%A9c%20%C4%91%E1%BA%A7u/Khi%20%C4%91ang%20c%C3%B3%20vi%E1%BB%87c%20v%C3%A0%20ph%E1%BA%A3i%20b%E1%BB%8F%20d%E1%BB%9F%20%C4%91%E1%BB%83%20h%E1%BB%8Dc%20m%E1%BB%99t%20c%C3%B4ng%20c%E1%BB%A5,%20ta%20kh%C3%B4ng%20nh%E1%BB%A9c%20%C4%91%E1%BA%A7u%20khi%20%C4%91%C3%B3%20l%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20v%E1%BA%ADt%20l%C3%BD,%20nh%C6%B0ng%20l%E1%BA%A1i%20nh%E1%BB%A9c%20%C4%91%E1%BA%A7u%20khi%20%C4%91%C3%B3%20l%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20s%E1%BB%91.md) 
+[Khi đang dành tâm trí cho một công việc nhưng phải tạm hoãn giữa chừng để học một công cụ, ta sẽ không nhức đầu khi đó là công cụ vật lý, nhưng lại nhức đầu khi đó là công cụ số](../Nh%E1%BB%A9c%20%C4%91%E1%BA%A7u/Khi%20%C4%91ang%20d%C3%A0nh%20t%C3%A2m%20tr%C3%AD%20cho%20m%E1%BB%99t%20c%C3%B4ng%20vi%E1%BB%87c%20nh%C6%B0ng%20ph%E1%BA%A3i%20t%E1%BA%A1m%20ho%C3%A3n%20gi%E1%BB%AFa%20ch%E1%BB%ABng%20%C4%91%E1%BB%83%20h%E1%BB%8Dc%20m%E1%BB%99t%20c%C3%B4ng%20c%E1%BB%A5,%20ta%20s%E1%BA%BD%20kh%C3%B4ng%20nh%E1%BB%A9c%20%C4%91%E1%BA%A7u%20khi%20%C4%91%C3%B3%20l%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20v%E1%BA%ADt%20l%C3%BD,%20nh%C6%B0ng%20l%E1%BA%A1i%20nh%E1%BB%A9c%20%C4%91%E1%BA%A7u%20khi%20%C4%91%C3%B3%20l%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20s%E1%BB%91.md) 
 [Học lập trình nhức đầu hơn học các ngành khác vì nó có quá nhiều đánh đổi, đồng thời cũng kém tính vận động trong không gian hơn, nên ta ít có khả năng nảy sinh trực giác hơn](../Nh%E1%BB%A9c%20%C4%91%E1%BA%A7u/H%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh%20nh%E1%BB%A9c%20%C4%91%E1%BA%A7u%20h%C6%A1n%20h%E1%BB%8Dc%20c%C3%A1c%20ng%C3%A0nh%20kh%C3%A1c%20v%C3%AC%20n%C3%B3%20c%C3%B3%20qu%C3%A1%20nhi%E1%BB%81u%20%C4%91%C3%A1nh%20%C4%91%E1%BB%95i,%20%C4%91%E1%BB%93ng%20th%E1%BB%9Di%20c%C5%A9ng%20k%C3%A9m%20t%C3%ADnh%20v%E1%BA%ADn%20%C4%91%E1%BB%99ng%20trong%20kh%C3%B4ng%20gian%20h%C6%A1n,%20n%C3%AAn%20ta%20%C3%ADt%20c%C3%B3%20kh%E1%BA%A3%20n%C4%83ng%20n%E1%BA%A3y%20sinh%20tr%E1%BB%B1c%20gi%C3%A1c%20h%C6%A1n.md)
 
 ---

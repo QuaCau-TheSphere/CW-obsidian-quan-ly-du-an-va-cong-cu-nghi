@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2025-02-25T15:16
-updated: 2025-02-25T15:17
+updated: 2025-05-01T22:30
 ---
+[Cách để tìm công cụ đúng nhu cầu của mình](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%C3%A1ch%20%C4%91%E1%BB%83%20t%C3%ACm%20c%C3%B4ng%20c%E1%BB%A5%20%C4%91%C3%BAng%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20m%C3%ACnh.md)
 THÔNG TIN CÁ NHÂN
 Ths. Luật học - Vũ Thị Ngọc Hà
 Pháp luât về KSTTKT

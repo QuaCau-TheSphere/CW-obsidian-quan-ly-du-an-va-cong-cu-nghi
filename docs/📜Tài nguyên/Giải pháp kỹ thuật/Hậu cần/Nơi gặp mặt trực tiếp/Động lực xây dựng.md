@@ -1,17 +1,17 @@
 ---
 share: true
 created: 2024-10-09T13:32
-updated: 2024-10-09T14:00
+updated: 2025-05-01T14:17
 ---
-Không giữ được vì dữ liệu không được lưu trữ ở định dạng đơn giản
-Không 
-Dễ thao tác nhất 
+## Đặt lợi ích của người dùng lên trên lợi ích của người quản lý
+Điều đó sẽ khiến cho nơi này không bị quảng cáo, popup, kích thích tiêu dùng. Ghi chú những thứ lắt nhắt hay bị quên như giá gửi xe.
 
-Phải là ở [Obsidian lưu dữ liệu ở định dạng đơn giản](../../../../%E2%9A%94%EF%B8%8F%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20Obsidian%20v%C3%A0%20Git/%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/Obsidian%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20%E1%BB%9F%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20%C4%91%C6%A1n%20gi%E1%BA%A3n.md)
-Ưu tiên việc nhập liệu và chia sẻ dữ liệu. Đó là lý do Notion (và các SaaS khác) không phù hợp
+## Phải dễ dàng đáp ứng các nhu cầu khác nhau
+Một người ở TPHCM sẽ có nhu cầu khác với một người ở Hà Nội. Một người khuyết tật nhìn có nhu cầu khác với một người khuyết tật nghe. Một người đi xe máy có nhu cầu khác với một người đi xe buýt.
 
-Phải dễ dành đáp ứng . Một tổ chức ở TPHCM sẽ chỉ cần quan tâm một vài địa điểm ở đó, và không cần quan tâm ở Hà Nội làm gì.
-Tài liệu động, phần mềm cá nhân
+## Ưu tiên việc nhập liệu và chia sẻ dữ liệu 
+Cũng không phải là không có các dự án tổng hợp tài nguyên trước đây, nhưng tất cả chúng đều chết yểu sau một thời gian. Lý do là vì dữ liệu không được lưu trữ ở định dạng đơn giản, không dễ thao tác, khiến cho việc nhập liệu và chia sẻ dữ liệu trở nên khó khăn. 
 
-Ghi chú những thứ lắt nhắt: giá gửi xe, 
-Đặt duy nhất lợi ích của người dùng, nên sẽ không bị quảng cáo, popup, kích thích tiêu dùng gì ở đây
+---
+
+Tất cả những điều đó khiến cho nơi này phải trở thành một [Tài liệu động](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md) cho mọi người. Đó là lý do các SaaS như Notion không phù hợp để làm nơi lưu trữ dữ liệu.

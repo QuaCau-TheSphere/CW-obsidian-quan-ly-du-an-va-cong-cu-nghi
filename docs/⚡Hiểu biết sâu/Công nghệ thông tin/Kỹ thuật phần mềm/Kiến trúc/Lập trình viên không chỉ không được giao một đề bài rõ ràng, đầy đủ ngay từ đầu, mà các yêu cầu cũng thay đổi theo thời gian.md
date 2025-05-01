@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-22T15:09
-updated: 2025-04-24T13:07
+updated: 2025-04-26T12:44
 ---
 Khái niệm:: 
 
@@ -30,3 +30,4 @@ Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/wa
 
 [Việc làm sản phẩm thì muốn làm thật ít chức năng càng tốt, nhưng việc viết phần mềm  đòi hỏi nên lên kế hoạch các chức năng kỹ càng](Vi%E1%BB%87c%20l%C3%A0m%20s%E1%BA%A3n%20ph%E1%BA%A9m%20th%C3%AC%20mu%E1%BB%91n%20l%C3%A0m%20th%E1%BA%ADt%20%C3%ADt%20ch%E1%BB%A9c%20n%C4%83ng%20c%C3%A0ng%20t%E1%BB%91t,%20nh%C6%B0ng%20vi%E1%BB%87c%20vi%E1%BA%BFt%20ph%E1%BA%A7n%20m%E1%BB%81m%20%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20n%C3%AAn%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch%20c%C3%A1c%20ch%E1%BB%A9c%20n%C4%83ng%20k%E1%BB%B9%20c%C3%A0ng.md)
 [Mỗi một nhiệm vụ đều chứa những cái không biết, vì nếu đã biết rồi thì nó đã trở thành thư viện](../M%E1%BB%97i%20m%E1%BB%99t%20nhi%E1%BB%87m%20v%E1%BB%A5%20%C4%91%E1%BB%81u%20ch%E1%BB%A9a%20nh%E1%BB%AFng%20c%C3%A1i%20kh%C3%B4ng%20bi%E1%BA%BFt,%20v%C3%AC%20n%E1%BA%BFu%20%C4%91%C3%A3%20bi%E1%BA%BFt%20r%E1%BB%93i%20th%C3%AC%20n%C3%B3%20%C4%91%C3%A3%20tr%E1%BB%9F%20th%C3%A0nh%20th%C6%B0%20vi%E1%BB%87n.md)
+[Những vấn đề ở cấp độ byte cũng gây ảnh hưởng tới các quyết định ở cấp độ chiến lược kiến trúc thượng tầng](./Nh%E1%BB%AFng%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20%E1%BB%9F%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20byte%20c%C5%A9ng%20g%C3%A2y%20%E1%BA%A3nh%20h%C6%B0%E1%BB%9Fng%20t%E1%BB%9Bi%20c%C3%A1c%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20%E1%BB%9F%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20ki%E1%BA%BFn%20tr%C3%BAc%20th%C6%B0%E1%BB%A3ng%20t%E1%BA%A7ng.md)

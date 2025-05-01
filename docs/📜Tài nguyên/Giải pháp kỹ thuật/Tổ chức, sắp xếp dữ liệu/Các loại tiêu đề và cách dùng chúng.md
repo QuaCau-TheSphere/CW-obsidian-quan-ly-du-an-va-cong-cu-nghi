@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-10-27T18:59
-updated: 2024-11-12T21:18
+updated: 2025-04-30T22:21
 cssClass: wide-table
-alias: heading
+alias: heading, đặt tên
 ---
 Một tiêu đề có rất nhiều chức năng:
 - Tạo kích thích cho người đọc, khiến họ thấy vì sao họ cần đọc bài đó, dù họ đang không tìm kiếm thông tin về nó
@@ -33,7 +33,7 @@ Người dùng cá nhân hoặc dự án nhỏ có nên dùng WordPress hay khô
 ![](https://i.imgur.com/koC5yyi.png)
 
 
-Giờ, nếu bạn không có tiêu : thì đang đinh ninh tiêu đề phải giống, nếu khác thì sẽ bị khựng. Nhưng nếu để nguyên tiêu đề của cây thư mục thì sẽ bị lệch so với nội dung, nên cần phải có thể một tiêu đề khác để chuẩn bị cho mình rằng nội dung mới có tiêu đề khác với tiêu đề từ cây thư mục.
+Giờ, nếu bạn không có tiêu đề thì đang đinh ninh tiêu đề phải giống, nếu khác thì sẽ bị khựng. Nhưng nếu để nguyên tiêu đề của cây thư mục thì sẽ bị lệch so với nội dung, nên cần phải có thể một tiêu đề khác để chuẩn bị cho mình rằng nội dung mới có tiêu đề khác với tiêu đề từ cây thư mục.
 
 Các ghi chú tương tự: [📜Tài nguyên](../../index.md), [Nhu cầu công việc](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/index.md)
 
@@ -53,11 +53,11 @@ Bổ sung những thông tin được hiểu ngầm trong lúc truy cập từ c
 
 Nên trong trường hợp này là dùng `title` để thay đổi tiêu đề trên cao luôn.
 
-| Vai trò                                                                                                            | Vị trí xuất hiện                                                    | Cách điều chỉnh | Nếu không điều chỉnh thì mặc định sẽ lấy giá trị từ | Lý do cần điều chỉnh mà không dùng mặc định được                                   |
+| Vai trò                                                                                                            | Vị trí xuất hiện                                                    | Cách điều chỉnh | Nếu không điều chỉnh thì mặc định sẽ lấy giá trị từ | Sử dụng khi                                                                        |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | --------------- | --------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Quản lý tập tin từ hệ điều hành. Tạo slug                                                                          | filename: lúc xuất file, terminal, Windows Explorer                 | filename        | Luôn có                                             | Không có                                                                           |
-| Cho phép filename không phải slugify quá nhiều ký tự đặc biệt                                                      | Enveloppe tạo git                                                   | `filename`      | filename                                            | Tìm filename có ký tự đặc biệt bằng đúng với ký tự được nhập ở bàn phím            |
-| Nhận diện bài viết, tóm tắt nội dung, quản lý theo cấu trúc của tác giả hoặc người đang tìm kiếm theo một cấu trúc | Tiêu đề: trên cao, file explorer, breadcrumb, menu, navigation pane | `title`         | filename                                            | filename không được chứa ký tự đặc biệt hoặc quá dài, nhưng tiêu đề lại có         |
+| Quản lý tập tin từ hệ điều hành. Tạo slug                                                                          | filename: lúc xuất file, terminal, Windows Explorer                 | filename        | Luôn có                                             | Luôn sử dụng                                                                       |
+| Cho phép filename không phải slugify quá nhiều ký tự đặc biệt                                                      | Enveloppe tạo git                                                   | `filename`      | filename                                            | Tiêu đề chứa ký tự đặc biệt hoặc quá dài                                           |
+| Nhận diện bài viết, tóm tắt nội dung, quản lý theo cấu trúc của tác giả hoặc người đang tìm kiếm theo một cấu trúc | Tiêu đề: trên cao, file explorer, breadcrumb, menu, navigation pane | `title`         | filename                                            | Tiêu đề đọc từ cây thư mục giống với tiêu đề nội dung về mặt ngữ nghĩa             |
 | Tạo dự đoán cho người đọc về nội dung bên trong, làm cho họ thấy vì sao họ cần đọc bài đó, đáp ứng câu hỏi của họ  | Headline (`<title>`, `<h1>`)                                        | Markdown `#`    | `title`, filename                                   | Mental model của người đã hiểu nó rồi khác với mental model của người chưa hiểu nó |
 | Nối tiếp dòng suy nghĩ                                                                                             | Liên kết (`[[]]`, `<a>`)                                            | `alias`         | `title`, filename                                   |                                                                                    |
 |                                                                                                                    | Search autocomplete, kết quả Google                                 | Không cần chỉnh | `alias`, `title`, filename                          |                                                                                    |

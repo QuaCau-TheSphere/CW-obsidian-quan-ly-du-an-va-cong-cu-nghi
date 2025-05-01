@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-23T15:06
-updated: 2024-10-09T13:35
+updated: 2025-05-01T14:07
 alias:
   - Kho địa điểm để chọn nơi gặp mặt
   - Hướng dẫn sử dụng kho địa điểm để chọn nơi gặp mặt
@@ -73,9 +73,10 @@ Các **quán có phòng riêng**  thu tiền bằng việc bán nước cho khá
 Số lượng:: sốLượngTốiThiểuCủaPhòngNhỏNhất - sốLượngTốiĐaCủaPhòngLớnNhất
 ```
 
-Tất nhiên, bạn đi ít hơn nhưng mua thêm ly thì cũng không sao. Nếu chỉ có một số thì mặc định sẽ là số lượng tối đa của phòng lớn nhất.
+- Ví dụ, một quán có 3 phòng riêng. Để được thuê phòng nhỏ nhất thì cần tối thiểu 5 người đi (đi ít hơn nhưng mua 5 ly thì cũng thuê được). Phòng lớn nhất chỉ chứa được tối đa 30 người. Vậy trường này sẽ ghi là `Số lượng:: 5 - 30`
+- Nếu chỉ có một số (VD: `Số lượng:: 30`) thì mặc định sẽ là số lượng tối đa của phòng lớn nhất. Thường đó là trường hợp bao nguyên quán, nên không cần ghi số lượng nhỏ nhất
 
-Các **dịch vụ cho thuê phòng họp**, khác với các quán nước, thu tiền từ người tổ chức. Bạn thuê phòng lớn nhất nhưng chỉ đến một mình họ cũng không quan tâm. Nên chỉ cần tạo một bảng giá theo số lượng tối đa của phòng là đủ.
+Các **dịch vụ cho thuê phòng họp**, khác với các quán nước, thu tiền từ người tổ chức. Bạn thuê phòng lớn nhất nhưng chỉ đến một người họ cũng không quan tâm. Nên chỉ cần tạo một bảng giá theo số lượng tối đa của phòng là đủ.
 
 Khi một địa điểm có điểm cộng thì ghi đơn giản là *Điểm cộng*, nhưng khi nó có điểm trừ thì lại không ghi là *Điểm trừ*, mà ghi là *Lưu ý*. Bởi vì từ "điểm trừ" tạo cảm giác không thay đổi được, chắc chắn sẽ tạo ra vấn đề, còn từ "lưu ý" thì tạo cảm giác tuỳ nhu cầu của mỗi người, có người quan tâm nhiều có người quan tâm ít. Nó cũng tạo cảm giác có thể có cách xử lý (dù tất nhiên không phải xử lý gì thì cũng vui hơn).
 

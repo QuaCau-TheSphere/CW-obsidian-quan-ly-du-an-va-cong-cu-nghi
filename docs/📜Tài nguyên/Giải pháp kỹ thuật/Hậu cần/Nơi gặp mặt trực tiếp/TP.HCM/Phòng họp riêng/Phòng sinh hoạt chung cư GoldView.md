@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-12-20T11:22
+updated: 2025-05-06T15:24
 description: Tầng 5, chung cư The GoldView, 346 Bến Vân Đồn
 ---
+![IMG_20250505_104328.jpg](../../../../../../attachments/IMG_20250505_104328.jpg)
 Địa chỉ:: 346 Bến Vân Đồn (tầng 5)
 Quận:: 4
 Số người tối thiểu:: 
@@ -17,13 +18,17 @@ Facebook::
 
 Giờ mở cửa::
 Giờ đóng cửa:: 21:30
-Ghi chú:: Chỉ được mượn 1 lần/tháng. Cọc 1tr. Trả cọc sau 3 ngày
+Ghi chú:: Chỉ được mượn 1 lần/tháng. Cọc 1tr. Trả cọc sau 3 ngày. Cần có người dắt lên
 
 Wifi:
 - PHONG HOP: 12345678
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.718638602646!2d106.68929217511733!3d10.756154159567224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f8a42f114ef%3A0x95ae0451733a83f5!2sThe%20Gold%20View!5e0!3m2!1sen!2s!4v1724399988785!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+## Hướng dẫn di chuyển
+Từ thang máy tầng 5 lô A1, bạn sẽ thấy có một cái hành lang:
 ![IMG_20250505_104448.jpg](../../../../../../attachments/IMG_20250505_104448.jpg)
+
+Đi hết một nửa hành lang đó bạn sẽ tới khu thang máy của lô A2. Ở bên phải bạn sẽ thấy có một cái hành lang nữa:
 ![IMG_20250505_104414.jpg](../../../../../../attachments/IMG_20250505_104414.jpg)
-![IMG_20250505_104328.jpg](../../../../../../attachments/IMG_20250505_104328.jpg)
+
+Phòng họp ở cuối hành lang này:
 ![IMG_20250505_104301.jpg](../../../../../../attachments/IMG_20250505_104301.jpg)

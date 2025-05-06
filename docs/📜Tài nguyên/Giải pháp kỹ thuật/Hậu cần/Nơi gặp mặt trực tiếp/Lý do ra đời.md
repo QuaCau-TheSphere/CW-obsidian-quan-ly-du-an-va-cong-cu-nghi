@@ -1,7 +1,8 @@
 ---
 share: true
-created: 2024-10-09T13:32
-updated: 2025-05-01T14:17
+created: 2025-05-06T12:52
+updated: 2025-05-06T12:54
+alias: Lý do ra đời kho địa điểm để chọn nơi gặp mặt
 ---
 ## Đặt lợi ích của người dùng lên trên lợi ích của người quản lý
 Điều đó sẽ khiến cho nơi này không bị quảng cáo, popup, kích thích tiêu dùng. Ghi chú những thứ lắt nhắt hay bị quên như giá gửi xe.

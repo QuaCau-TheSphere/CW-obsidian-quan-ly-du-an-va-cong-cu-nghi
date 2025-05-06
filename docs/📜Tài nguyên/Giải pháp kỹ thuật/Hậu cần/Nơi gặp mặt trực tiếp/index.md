@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-23T15:06
-updated: 2025-05-06T12:29
+updated: 2025-05-06T12:55
 alias:
   - Kho địa điểm để chọn nơi gặp mặt
   - Hướng dẫn sử dụng kho địa điểm để chọn nơi gặp mặt
@@ -21,7 +21,7 @@ title: Nơi gặp mặt trực tiếp
 Chọn [TP.HCM](./TP.HCM/index.md) hoặc [Hà Nội](./H%C3%A0%20N%E1%BB%99i/index.md) để bắt đầu. 
 
 ## Tiêu chí thêm địa điểm
-- Có chính sách hỗ trợ các dự án phi lợi nhuận, hoặc có lợi ích cho người làm phi lợi nhuận hoặc đối tượng hưởng lợi của họ (VD: gần nhà nhau, có người quen, tiếp cận được cho người khuyết tật)
+- Có chính sách hỗ trợ các dự án phi lợi nhuận, hoặc có lợi ích cho người làm phi lợi nhuận hoặc đối tượng hưởng lợi của họ (VD: gần nhà nhau, có người quen, tiếp cận được cho người khuyết tật, v.v.)
 - Được đề xuất trong nơi thảo luận, hoặc được yêu cầu kéo dữ liệu mới (pull request) trên GitHub
 - Có điểm cộng khác lạ
 
@@ -81,8 +81,8 @@ Các **dịch vụ cho thuê phòng họp**, khác với các quán nước, thu
 Khi một địa điểm có điểm cộng thì ghi đơn giản là *Điểm cộng*, nhưng khi nó có điểm trừ thì lại không ghi là *Điểm trừ*, mà ghi là *Lưu ý*. Bởi vì từ "điểm trừ" tạo cảm giác không thay đổi được, chắc chắn sẽ tạo ra vấn đề, còn từ "lưu ý" thì tạo cảm giác tuỳ nhu cầu của mỗi người, có người quan tâm nhiều có người quan tâm ít. Nó cũng tạo cảm giác có thể có cách xử lý (dù tất nhiên không phải xử lý gì thì cũng vui hơn).
 
 ## Xem thêm
-- [Động lực xây dựng](./%C4%90%E1%BB%99ng%20l%E1%BB%B1c%20x%C3%A2y%20d%E1%BB%B1ng.md)
-- [Hướng dẫn đóng góp](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20%C4%91%C3%B3ng%20g%C3%B3p.md)
+- [Lý do ra đời kho địa điểm để chọn nơi gặp mặt](./L%C3%BD%20do%20ra%20%C4%91%E1%BB%9Di.md)   
+- [Hướng dẫn đóng góp kho địa điểm để chọn nơi gặp mặt](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20%C4%91%C3%B3ng%20g%C3%B3p.md)
 
 ## Nơi thảo luận
 <button onclick="location.href='https://doi-thoai.deno.dev/Discord.4s.1'" type="button">Mở Discord</button>

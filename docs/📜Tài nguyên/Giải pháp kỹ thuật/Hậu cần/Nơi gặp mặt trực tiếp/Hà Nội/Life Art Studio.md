@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-30T02:00
-updated: 2025-05-01T13:53
+updated: 2025-05-06T12:34
 description: Tầng 3, số 1, ngõ 189 Hoàng Hoa Thám, Ba Đình
 ---
 Địa chỉ:: Tầng 3, số 1, ngõ 189 Hoàng Hoa Thám
@@ -20,7 +20,7 @@ Giờ đóng cửa:: 23h
 Ghi chú::
 
 > [!Attention] Phần lưu ý và điểm cộng chưa đánh giá chính xác
-> Lý do là vì mẫu tạo mới (template) được thiết kế theo kiểu thấy sai thì xoá, chứ không phải kiểu thấy đúng thì ghi.  Đọc bài [Nơi gặp mặt trực tiếp](../index.md) để biết thêm chi tiết.
+> Lý do là vì mẫu tạo mới (template) được thiết kế theo kiểu thấy sai thì xoá, chứ không phải kiểu thấy đúng thì ghi.  Đọc bài [Hướng dẫn sử dụng kho địa điểm để chọn nơi gặp mặt](../index.md) để biết thêm chi tiết.
 
 Lưu ý:
 - Xe lăn không tiếp cận được
@@ -32,6 +32,7 @@ Lưu ý:
 - Không nói to được
 - Không vận động cơ thể được
 - Giá chưa bao gồm thuế
+- Bàn không đúng kích thước làm việc
 
 Điểm cộng:
 - [x] Nằm la liệt được

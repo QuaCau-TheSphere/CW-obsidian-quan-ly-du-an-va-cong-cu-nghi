@@ -22,3 +22,8 @@ Ghi chú:: Chỉ được mượn 1 lần/tháng. Cọc 1tr. Trả cọc sau 3 n
 Wifi:
 - PHONG HOP: 12345678
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.718638602646!2d106.68929217511733!3d10.756154159567224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f8a42f114ef%3A0x95ae0451733a83f5!2sThe%20Gold%20View!5e0!3m2!1sen!2s!4v1724399988785!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+![IMG_20250505_104448.jpg](../../../../../../attachments/IMG_20250505_104448.jpg)
+![IMG_20250505_104414.jpg](../../../../../../attachments/IMG_20250505_104414.jpg)
+![IMG_20250505_104328.jpg](../../../../../../attachments/IMG_20250505_104328.jpg)
+![IMG_20250505_104301.jpg](../../../../../../attachments/IMG_20250505_104301.jpg)

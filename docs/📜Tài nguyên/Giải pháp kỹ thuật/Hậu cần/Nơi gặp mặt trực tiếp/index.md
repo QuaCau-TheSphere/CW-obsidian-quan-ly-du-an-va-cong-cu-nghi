@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-23T15:06
-updated: 2025-05-01T14:07
+updated: 2025-05-06T12:29
 alias:
   - Kho địa điểm để chọn nơi gặp mặt
   - Hướng dẫn sử dụng kho địa điểm để chọn nơi gặp mặt
@@ -28,12 +28,12 @@ Chọn [TP.HCM](./TP.HCM/index.md) hoặc [Hà Nội](./H%C3%A0%20N%E1%BB%99i/in
 Bạn có thể fork repo này để làm bộ tài nguyên cho riêng bạn.
 
 ## Ý đồ thiết kế
-### Phân loại các thuộc tính của địa điểm
+### Định nghĩa điểm cộng, điểm trừ
 - Những thuộc tính được xem là **điểm cộng** khi ta không mặc định là nó luôn có ở đó. Có thì tốt, không có thì thường là không sao. Nên với những thuộc tính này, nếu địa điểm đó có thì sẽ liệt kê ra, còn nếu không thì sẽ không nói gì
 - Những thuộc tính được xem là **điểm trừ** khi ta mặc định là nó luôn có ở đó. Nếu không có thì thường là có sao. Nên với những thuộc tính này, nếu địa điểm đó không có thì sẽ có cảnh báo, còn nếu có thì sẽ không nói gì
 
-#### Những thuộc tính mặc định là luôn có
-Các thuộc tính này nếu không có thì là điểm trừ:
+#### Những thuộc tính là điểm trừ cho mọi loại địa điểm
+Đây là những thuộc tính mặc định là luôn có cho mọi loại địa điểm:
 - [x] Nhà vệ sinh
 - [x] Xe lăn tiếp cận được
 - [x] Không có loa làm ồn
@@ -41,15 +41,15 @@ Các thuộc tính này nếu không có thì là điểm trừ:
 - [x] Không có đèn nhấp nháy hoặc quảng cáo động
 - [x] Giá đã bao gồm thuế
 
-#### Những thuộc tính mặc định là không có
-Các thuộc tính này nếu có thì là điểm cộng:
+#### Những thuộc tính là điểm cộng cho mọi loại địa điểm
+Đây là những thuộc tính mặc định là luôn không có cho mọi loại địa điểm:
 - [x] Nằm la liệt được
 - [x] Không gian ngoài trời
 - [x] Có đàn hoặc sân khấu nhỏ
 - [x] Nuôi chó mèo
 - [x] Webcam
 
-#### Những thuộc tính mà sự mặc định tuỳ vào loại địa điểm
+#### Những thuộc tính mà việc là điểm cộng hoặc điểm trừ tuỳ vào loại địa điểm
 Với **không gian ngoài trời** thì những thuộc tính này mặc định là không có, nếu có thì là điểm cộng. Với các loại hình khác thì mặc định là luôn có, nếu không có thì là điểm trừ:
 - [x] Wifi 
 - [x] Ổ điện
@@ -66,7 +66,7 @@ Với **phòng họp riêng** hoặc **quán có phòng riêng** thì những th
 - [x] Không bị ồn từ bên ngoài
 
 ### Cách thông tin được ghi chú
-Với các **quán nước**, giá nước sẽ là giá món đắt nhất trong 5 món rẻ nhất. Lý do là vì một người muốn tiết kiệm vẫn có thể sẵn sàng mua một thứ đắt hơn thứ rẻ nhất một chút. Trong các bảng so sánh thì giá sẽ bằng tổng của giá nước và giá giữ xe.
+Với các **quán nước**, giá nước sẽ là giá món đắt nhất trong 3 món rẻ nhất. Lý do là vì một người muốn tiết kiệm vẫn có thể sẵn sàng mua một thứ đắt hơn thứ rẻ nhất một chút. Trong các bảng so sánh thì giá sẽ bằng tổng của giá nước và giá giữ xe.
 
 Các **quán có phòng riêng**  thu tiền bằng việc bán nước cho khách, nên cơ bản là họ cũng không có giá phòng, mà chỉ có giá nước. Điều này khiến cho quán ràng buộc số lượng người đi tối thiểu để được mượn phòng. Cộng với việc người tổ chức quan tâm xem có phòng nào đủ cho sự kiện hay không, trường `Số lượng` sẽ được ghi dưới dạng sau:
 ```

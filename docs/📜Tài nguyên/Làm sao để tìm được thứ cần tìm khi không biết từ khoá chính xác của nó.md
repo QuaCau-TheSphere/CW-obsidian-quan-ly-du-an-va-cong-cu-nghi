@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-04-24T09:02
-updated: 2025-03-16T15:51
+updated: 2025-05-12T17:31
 title: Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó?
 alias: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
 description: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
@@ -28,9 +28,9 @@ Có thể giảm bớt vấn đề này bằng việc thêm vào các từ khoá
 - [Không gian vector từ của Google](https://projector.tensorflow.org/)
 - Từ điển các từ đồng nghĩa, gần nghĩa (synonyms) 
 - Phần mục lục của [List of lists of lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists "List of lists of lists - Wikipedia")
-- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com)
+- [Wikipedia Map](https://wikipedia.luk.ke/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com)
 
-ChatGPT hay Gemini thực ra cũng nằm trong nhóm này, nhưng bởi vì [LLM là định dạng ảnh mờ của web](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/M%C3%B4%20h%C3%ACnh%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BB%9Bn/Gi%E1%BB%9Bi%20h%E1%BA%A1n/LLM%20l%C3%A0%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20%E1%BA%A3nh%20m%E1%BB%9D%20c%E1%BB%A7a%20web.md), nên dùng chúng sẽ không hiệu quả bằng. 
+Các LLM như ChatGPT hay Gemini thực ra cũng nằm trong nhóm này, nhưng bởi vì [LLM là định dạng ảnh mờ của web](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/M%C3%B4%20h%C3%ACnh%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BB%9Bn/Gi%E1%BB%9Bi%20h%E1%BA%A1n/LLM%20l%C3%A0%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20%E1%BA%A3nh%20m%E1%BB%9D%20c%E1%BB%A7a%20web.md), nên dùng chúng sẽ không hiệu quả bằng. 
 
 ### Các cộng đồng chuyên môn
 Diễn đàn chuyên về hỏi đáp [Stack Exchange](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Stack%20Exchange/index.md) có cơ chế bầu chọn theo tập thể, giúp đưa thông tin hữu ích nhất lên cao. Quora cũng là một diễn đàn hỏi đáp có cơ chế bầu chọn theo tập thể, nhưng có vẻ nó thiên về nghe những câu chuyện từ những người có uy tín hơn. Với những câu hỏi để tìm từ khoá thì bạn không có nhiều không gian để giải thích vấn đề, và cũng dễ gặp tình trạng câu trả lời chỉ chung chung. Nếu muốn có những cuộc thảo luận mở thì mình thấy Reddit tốt hơn.

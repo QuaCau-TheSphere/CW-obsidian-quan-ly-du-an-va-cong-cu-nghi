@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-26T10:33
-updated: 2024-10-18T15:35
+updated: 2025-05-13T11:20
 description: 4 yếu tố để một người trở thành chuyên gia":" (1) Dành nhiều thời gian tập luyện, (2) Quy luật trong lĩnh vực đó không thay đổi theo thời gian, (3) Nhận được sự phản hồi nhanh chóng cho những gì mình làm, (4) Luôn tìm cách bước ra ngoài vùng thoải mái
 alias:
   - Làm sao để giỏi hơn?
@@ -20,6 +20,8 @@ Nếu một lĩnh vực nào mà kết quả chủ yếu dựa vào xác suất 
 Nếu quy luật trong lĩnh vực bạn muốn trở nên giỏi hơn không thay đổi theo thời gian, thì như bạn thấy, các điều kiện còn lại không có điều kiện nào là về năng khiếu cả. Nếu bạn chịu khó dành nhiều thời gian tập luyện và tìm cách giải quyết những vấn đề khó, thì bạn đã đáp ứng được 3/4 điều kiện. Bạn chỉ còn cần đi kiếm sự phản hồi cho những gì mình làm mà thôi. 
 
 Tham khảo:: [Veritasium](../../../%CE%9E%20Ngu%E1%BB%93n/Veritasium.md), <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=5eW6Eagr9XA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Kiến thức là các niềm tin đúng có cơ sở](../../H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/Ki%E1%BA%BFn%20th%E1%BB%A9c%20l%C3%A0%20c%C3%A1c%20ni%E1%BB%81m%20tin%20%C4%91%C3%BAng%20c%C3%B3%20c%C6%A1%20s%E1%BB%9F.md)
 [Con người cố gắng nhìn ra mẫu hình, kể cả khi đó chỉ là sự ngẫu nhiên](./Con%20ng%C6%B0%E1%BB%9Di%20c%E1%BB%91%20g%E1%BA%AFng%20nh%C3%ACn%20ra%20m%E1%BA%ABu%20h%C3%ACnh,%20k%E1%BB%83%20c%E1%BA%A3%20khi%20%C4%91%C3%B3%20ch%E1%BB%89%20l%C3%A0%20s%E1%BB%B1%20ng%E1%BA%ABu%20nhi%C3%AAn.md) 
 [Cờ vua trông như là tư duy logic, nhưng thật ra chỉ là nhìn thấy mẫu hình](./C%E1%BB%9D%20vua%20tr%C3%B4ng%20nh%C6%B0%20l%C3%A0%20t%C6%B0%20duy%20logic,%20nh%C6%B0ng%20th%E1%BA%ADt%20ra%20ch%E1%BB%89%20l%C3%A0%20nh%C3%ACn%20th%E1%BA%A5y%20m%E1%BA%ABu%20h%C3%ACnh.md)
 [Trực giác là việc nhìn ra mẫu hình không hơn không kém](./Tr%E1%BB%B1c%20gi%C3%A1c%20l%C3%A0%20vi%E1%BB%87c%20nh%C3%ACn%20ra%20m%E1%BA%ABu%20h%C3%ACnh%20kh%C3%B4ng%20h%C6%A1n%20kh%C3%B4ng%20k%C3%A9m.md) 

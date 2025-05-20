@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-02-02T14:36
+updated: 2025-05-19T14:23
 ---
 Khái niệm:: 
 Coders often work alone, unsupported, unpaid, at labours of love. They must build tenuous trust relations, be clever diplomats and team leaders, and be articulate in stating their needs and aims.
@@ -19,3 +19,11 @@ Lý do:: [Phản hồi và sự giúp đỡ trả lại là những thứ xa x�
 [Lập trình là lĩnh vực dễ nhức đầu vì cần phải học rất nhiều công cụ khác nhau trong lúc làm việc](../K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/Nh%E1%BB%A9c%20%C4%91%E1%BA%A7u/L%E1%BA%ADp%20tr%C3%ACnh%20l%C3%A0%20l%C4%A9nh%20v%E1%BB%B1c%20d%E1%BB%85%20nh%E1%BB%A9c%20%C4%91%E1%BA%A7u%20v%C3%AC%20c%E1%BA%A7n%20ph%E1%BA%A3i%20h%E1%BB%8Dc%20r%E1%BA%A5t%20nhi%E1%BB%81u%20c%C3%B4ng%20c%E1%BB%A5%20kh%C3%A1c%20nhau%20trong%20l%C3%BAc%20l%C3%A0m%20vi%E1%BB%87c.md)
 [Phản hồi và sự giúp đỡ trả lại là những thứ xa xỉ với người được giúp](../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Gi%C3%BAp%20%C4%91%E1%BB%A1%20nhau/Ph%E1%BA%A3n%20h%E1%BB%93i%20v%C3%A0%20s%E1%BB%B1%20gi%C3%BAp%20%C4%91%E1%BB%A1%20tr%E1%BA%A3%20l%E1%BA%A1i%20l%C3%A0%20nh%E1%BB%AFng%20th%E1%BB%A9%20xa%20x%E1%BB%89%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20%C4%91%C6%B0%E1%BB%A3c%20gi%C3%BAp.md)
 [core-js/docs/2023-02-14-so-whats-next.md at master · zloirock/core-js · GitHub](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md)
+[2347: Dependency - explain xkcd](https://www.explainxkcd.com/wiki/index.php/2347:_Dependency)
+
+[![Someday ImageMagick will finally break for good and we'll have a long period of scrambling as we try to reassemble civilization from the rubble.](https://www.explainxkcd.com/wiki/images/d/d7/dependency.png)](https://www.explainxkcd.com/wiki/index.php/File:dependency.png "Someday ImageMagick will finally break for good and we'll have a long period of scrambling as we try to reassemble civilization from the rubble.")  
+
+
+[![A modified version of the xkcd-2347 comic about dependencies that says "every conversation about dependencies since 2020", in which the lynchpin block is now labelled "this fucking comic".](https://cdn.masto.host/swisssocial/media_attachments/files/112/766/542/522/872/369/original/8c4683d5cc402035.png)](https://cdn.masto.host/swisssocial/media_attachments/files/112/766/542/522/872/369/original/8c4683d5cc402035.png)
+
+[](https://swiss.social/@mhoye@mastodon.social "@mhoye@mastodon.social")

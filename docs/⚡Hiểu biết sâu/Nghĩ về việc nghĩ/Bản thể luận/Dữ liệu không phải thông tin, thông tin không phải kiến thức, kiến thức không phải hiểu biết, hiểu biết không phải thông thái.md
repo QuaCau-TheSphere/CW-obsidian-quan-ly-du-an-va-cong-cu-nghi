@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-10-22T21:45
-updated: 2025-05-13T11:20
+updated: 2025-05-23T20:34
 ---
+Khái niệm:: [Kiến thức](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFn%20th%E1%BB%A9c.md)
 > Data is not information, information is not knowledge, knowledge is not understanding, understanding is not wisdom.
 — Clifford Stoll
 
@@ -12,3 +13,5 @@ updated: 2025-05-13T11:20
 
 > Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
 — Brian O'Driscoll
+
+[Knowledge forms when we accumulate, mix, connect and visualize information](../H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/Knowledge%20forms%20when%20we%20accumulate,%20mix,%20connect%20and%20visualize%20information.md)

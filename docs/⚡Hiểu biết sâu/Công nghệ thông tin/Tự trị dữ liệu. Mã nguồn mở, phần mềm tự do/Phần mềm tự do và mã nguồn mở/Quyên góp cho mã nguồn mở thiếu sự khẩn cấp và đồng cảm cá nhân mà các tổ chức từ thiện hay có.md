@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-06-07T18:30
-updated: 2025-03-02T19:25
+updated: 2025-05-27T15:43
 ---
 Nguồn:: [Are donations effective for open source projects? | Opensource.com](https://opensource.com/business/13/7/donations-open-source-projects)
 [Crowdfunding depends on highly visible public work](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BB%B9,%20g%E1%BB%8Di%20v%E1%BB%91n/G%E1%BB%8Di%20v%E1%BB%91n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Crowdfunding%20depends%20on%20highly%20visible%20public%20work.md)
-[Người viết code thường làm một mình, không được hỗ trợ, không được trả tiền, chỉ vì sự đam mê. Họ cần xây dựng rất nhiều mối quan hệ tin tưởng được nhau](../../Nh%C3%A2n%20h%E1%BB%8Dc/Ng%C6%B0%E1%BB%9Di%20vi%E1%BA%BFt%20code%20th%C6%B0%E1%BB%9Dng%20l%C3%A0m%20m%E1%BB%99t%20m%C3%ACnh,%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3,%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20tr%E1%BA%A3%20ti%E1%BB%81n,%20ch%E1%BB%89%20v%C3%AC%20s%E1%BB%B1%20%C4%91am%20m%C3%AA.%20H%E1%BB%8D%20c%E1%BA%A7n%20x%C3%A2y%20d%E1%BB%B1ng%20r%E1%BA%A5t%20nhi%E1%BB%81u%20m%E1%BB%91i%20quan%20h%E1%BB%87%20tin%20t%C6%B0%E1%BB%9Fng%20%C4%91%C6%B0%E1%BB%A3c%20nhau.md)
+[Người viết code thường làm một mình, không được hỗ trợ, không được trả tiền, chỉ làm vì sự đam mê. Họ cần xây dựng rất nhiều mối quan hệ tin tưởng được nhau](../../Nh%C3%A2n%20h%E1%BB%8Dc/Ng%C6%B0%E1%BB%9Di%20vi%E1%BA%BFt%20code%20th%C6%B0%E1%BB%9Dng%20l%C3%A0m%20m%E1%BB%99t%20m%C3%ACnh,%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3,%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20tr%E1%BA%A3%20ti%E1%BB%81n,%20ch%E1%BB%89%20l%C3%A0m%20v%C3%AC%20s%E1%BB%B1%20%C4%91am%20m%C3%AA.%20H%E1%BB%8D%20c%E1%BA%A7n%20x%C3%A2y%20d%E1%BB%B1ng%20r%E1%BA%A5t%20nhi%E1%BB%81u%20m%E1%BB%91i%20quan%20h%E1%BB%87%20tin%20t%C6%B0%E1%BB%9Fng%20%C4%91%C6%B0%E1%BB%A3c%20nhau.md)
 [Hiện tượng khuếch tán trách nhiệm, người ngoài đứng nhìn](Hi%E1%BB%87n%20t%C6%B0%E1%BB%A3ng%20khu%E1%BA%BFch%20t%C3%A1n%20tr%C3%A1ch%20nhi%E1%BB%87m,%20ng%C6%B0%E1%BB%9Di%20ngo%C3%A0i%20%C4%91%E1%BB%A9ng%20nh%C3%ACn.md) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Mo4lTAeWeM?si=TxiMA_WcpCSccnvt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

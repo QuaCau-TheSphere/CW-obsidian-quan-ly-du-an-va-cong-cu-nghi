@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-14T11:49
+updated: 2025-05-26T19:55
 ---
-Khái niệm:: [Ý tưởng](%C3%9D%20t%C6%B0%E1%BB%9Fng.md)
+Khái niệm:: [Ý tưởng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/%C3%9D%20t%C6%B0%E1%BB%9Fng.md)
 
 Nguồn:: [To Solve Your Hardest Problems Don’t Think About Them — For a While](https://www.thomasessl.com/blog/2017/11/15/how-to-solve-your-hardest-problems-dont-think-about-themfor-awhile)
 Nguồn:: [Wikipedia](../../../%CE%9E%20Ngu%E1%BB%93n/Wikipedia.md), [Incubation (psychology) - Wikipedia](https://en.wikipedia.org/wiki/Incubation_(psychology))

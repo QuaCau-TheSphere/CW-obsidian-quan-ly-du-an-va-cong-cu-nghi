@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-24T15:20
-updated: 2025-01-04T19:27
+updated: 2025-05-26T12:33
 ---
 Ví dụ:: Canvas
 Ưu điểm::
@@ -14,6 +14,7 @@ https://www.napkin.ai/
 [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
 [Category:Diagrams - Wikipedia](https://en.wikipedia.org/wiki/Category:Diagrams)
 ![](https://i.imgur.com/5rO0fMW.jpeg)
+[Cool Guides](https://www.reddit.com/r/coolguides/)
 - UX Mapping Methods Compared: A Cheat Sheet (https://lnkd.in/e-X8YUgt)
 - An overview of mapping techniques used in UX Design Process (https://lnkd.in/dkPMBqg9)
 - 16 UX mapping techniques to improve your Product development process (https://lnkd.in/dYTKccXA)
@@ -36,6 +37,7 @@ Nó giống như một bàn làm việc được trải ra hơn là
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MifNyU49_JA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> OVA,
 
 Không gọi là đồ thị mạng lưới, vì dù nó 
+
 ## Có tương tác? 
 Chỉ trừ khi nào mình xác định là phải đọc trên giấy, chứ nếu người đọc chỉ đọc trên màn hình thì tại sao
 

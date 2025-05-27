@@ -1,8 +1,12 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-29T13:44
+updated: 2025-05-22T15:06
 ---
-Khái niệm:: 
+- [❓Hệ thống phân cấp đã có từ thời linh trưởng, chứ không cần phải tới thời Aristotle](../../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/Ph%C3%A2n%20lo%E1%BA%A1i,%20ph%C3%A2n%20c%E1%BA%A5p/%E2%9D%93H%E1%BB%87%20th%E1%BB%91ng%20ph%C3%A2n%20c%E1%BA%A5p%20%C4%91%C3%A3%20c%C3%B3%20t%E1%BB%AB%20th%E1%BB%9Di%20linh%20tr%C6%B0%E1%BB%9Fng,%20ch%E1%BB%A9%20kh%C3%B4ng%20c%E1%BA%A7n%20ph%E1%BA%A3i%20t%E1%BB%9Bi%20th%E1%BB%9Di%20Aristotle.md)
+- [Phân loại khách hàng tốt nhất là phân loại bằng niềm tin](../../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/Truy%E1%BB%81n%20th%C3%B4ng,%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Ph%C3%A2n%20lo%E1%BA%A1i%20kh%C3%A1ch%20h%C3%A0ng%20t%E1%BB%91t%20nh%E1%BA%A5t%20l%C3%A0%20ph%C3%A2n%20lo%E1%BA%A1i%20b%E1%BA%B1ng%20ni%E1%BB%81m%20tin.md)
+- [Có 4 loại phân loại](../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/B%E1%BA%A3n%20th%E1%BB%83%20lu%E1%BA%ADn/Ph%C3%A2n%20lo%E1%BA%A1i/C%C3%B3%204%20lo%E1%BA%A1i%20ph%C3%A2n%20lo%E1%BA%A1i.md)
+- [Phân loại, dán nhãn, khai báo metadata là những cái tên khác nhau cho cùng một thứ](../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/B%E1%BA%A3n%20th%E1%BB%83%20lu%E1%BA%ADn/Ph%C3%A2n%20lo%E1%BA%A1i/Ph%C3%A2n%20lo%E1%BA%A1i,%20d%C3%A1n%20nh%C3%A3n,%20khai%20b%C3%A1o%20metadata%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A1i%20t%C3%AAn%20kh%C3%A1c%20nhau%20cho%20c%C3%B9ng%20m%E1%BB%99t%20th%E1%BB%A9.md)
+- [Việc phân loại không quan trọng bằng việc chuẩn bị cho sự thay đổi sự phân loại](../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/B%E1%BA%A3n%20th%E1%BB%83%20lu%E1%BA%ADn/Ph%C3%A2n%20lo%E1%BA%A1i/Vi%E1%BB%87c%20ph%C3%A2n%20lo%E1%BA%A1i%20kh%C3%B4ng%20quan%20tr%E1%BB%8Dng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20chu%E1%BA%A9n%20b%E1%BB%8B%20cho%20s%E1%BB%B1%20thay%20%C4%91%E1%BB%95i%20s%E1%BB%B1%20ph%C3%A2n%20lo%E1%BA%A1i.md)
+- [Hoạt động trung tâm của lập trình hướng vật thể là phân loại](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/L%C4%A9nh%20v%E1%BB%B1c/L%E1%BA%ADp%20tr%C3%ACnh%20h%C6%B0%E1%BB%9Bng%20v%E1%BA%ADt%20th%E1%BB%83/Ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20trung%20t%C3%A2m%20c%E1%BB%A7a%20l%E1%BA%ADp%20tr%C3%ACnh%20h%C6%B0%E1%BB%9Bng%20v%E1%BA%ADt%20th%E1%BB%83%20l%C3%A0%20ph%C3%A2n%20lo%E1%BA%A1i.md)
 
-Nguồn:: 

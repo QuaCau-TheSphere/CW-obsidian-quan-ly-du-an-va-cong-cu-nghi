@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-02-27T15:45
-updated: 2025-02-11T22:45
+updated: 2025-05-23T19:46
 description: WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ tạo web hiệu quả nhất
 blog: true
 alias:
@@ -61,7 +61,7 @@ WordPress ra đời năm 2003. 21 năm đã trôi qua, và công nghệ web cũn
 
 Xem thêm:: [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
 
-[Phá vỡ silo thông tin, nắm bắt nhu cầu các bên và sử dụng các nguồn tài nguyên cộng đồng hiệu quả](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/9%20Blog/Vai%20tr%C3%B2%20c%E1%BB%A7a%20c%C3%A1c%20ph%E1%BA%A7n%20m%E1%BB%81m%20ghi%20ch%C3%BA%20%C4%91%E1%BB%99ng%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20m%C3%A1y%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20v%C3%A0%20%E1%BB%9F%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20%C4%91%C6%A1n%20gi%E1%BA%A3n.md)
+[Phá vỡ silo thông tin, nắm bắt nhu cầu các bên và sử dụng các nguồn tài nguyên cộng đồng hiệu quả](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/M%C3%B4%20t%E1%BA%A3%20d%E1%BB%B1%20%C3%A1n.md)
 
 ## Nơi thảo luận
 ![](https://i.imgur.com/4fq665i.png)

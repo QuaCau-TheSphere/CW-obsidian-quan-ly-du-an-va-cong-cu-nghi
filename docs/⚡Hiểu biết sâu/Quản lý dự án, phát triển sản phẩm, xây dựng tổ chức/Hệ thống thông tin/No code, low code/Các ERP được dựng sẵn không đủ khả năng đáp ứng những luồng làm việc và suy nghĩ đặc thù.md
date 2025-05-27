@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2024-10-07T22:19
-updated: 2024-12-20T21:51
+updated: 2025-05-23T20:04
 ---
 Bài viết này dành cho những ai đang tìm kiếm một hệ thống quản lý hoặc hoạch định tài nguyên doanh nghiệp (ERP — [enterprise resource planning](https://en.wikipedia.org/wiki/Enterprise_resource_planning "Enterprise resource planning - Wikipedia")) đáp ứng được những nhu cầu này:
 - [ ] Có khả năng tuỳ chỉnh theo đúng luồng làm việc, suy nghĩ của mình
 - [ ] Không phải dành quá nhiều thời gian để xây dựng hệ thống đó
 - [ ] Chi phí thấp
 
-Bài viết hy vọng các lập luận nó đưa ra đủ thuyết phục để bạn thấy rằng một hệ thống đáp ứng được tất cả những điều kiện như vậy là không tồn tại.
+Bài viết sẽ lập luận rằng một hệ thống đáp ứng được tất cả những điều kiện như vậy là không tồn tại.
 
 ### Các ERP được dựng sẵn không đủ khả năng đáp ứng những luồng làm việc và suy nghĩ đặc thù
 ![Dùng ERP dựng sẵn.png](../../../../attachments/D%C3%B9ng%20ERP%20d%E1%BB%B1ng%20s%E1%BA%B5n.png)

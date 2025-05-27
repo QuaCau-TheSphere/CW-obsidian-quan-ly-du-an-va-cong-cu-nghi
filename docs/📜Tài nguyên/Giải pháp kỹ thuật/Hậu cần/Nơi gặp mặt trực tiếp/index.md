@@ -1,19 +1,20 @@
 ---
 share: true
 created: 2024-08-23T15:06
-updated: 2025-05-06T12:55
+updated: 2025-05-27T12:50
 alias:
   - Kho địa điểm để chọn nơi gặp mặt
   - Hướng dẫn sử dụng kho địa điểm để chọn nơi gặp mặt
+  - Tìm nơi gặp mặt trực tiếp
 description: Làm sao để tìm được nơi phù hợp để gặp mặt trực tiếp?
-title: Nơi gặp mặt trực tiếp
+title: Kho địa điểm để chọn nơi gặp mặt
 ---
 ![](https://i.imgur.com/CXHXI7y.png)
-# Kho địa điểm để chọn nơi gặp mặt 
 Đây là một danh sách tổng hợp các địa điểm gặp mặt trực tiếp, bao gồm:
 - Địa điểm công cộng
 - Không gian làm việc chung
 - Phòng họp riêng
+- Phòng tập
 - Quán có phòng riêng
 - Quán không có phòng riêng
 - Nhà riêng
@@ -36,10 +37,12 @@ Bạn có thể fork repo này để làm bộ tài nguyên cho riêng bạn.
 Đây là những thuộc tính mặc định là luôn có cho mọi loại địa điểm:
 - [x] Nhà vệ sinh
 - [x] Xe lăn tiếp cận được
-- [x] Không có loa làm ồn
+- [x] Bị bên ngoài làm ồn
 - [x] Không cần đặt chỗ trước
 - [x] Không có đèn nhấp nháy hoặc quảng cáo động
 - [x] Giá đã bao gồm thuế
+- [x] Dùng ly giấy để phục vụ khách ngồi tại chỗ
+- [x] Không được bày đồ ăn
 
 #### Những thuộc tính là điểm cộng cho mọi loại địa điểm
 Đây là những thuộc tính mặc định là luôn không có cho mọi loại địa điểm:
@@ -48,6 +51,12 @@ Bạn có thể fork repo này để làm bộ tài nguyên cho riêng bạn.
 - [x] Có đàn hoặc sân khấu nhỏ
 - [x] Nuôi chó mèo
 - [x] Webcam
+- [x] Thảm tập
+- [x] Gương soi
+- [x] Nước ngon
+- [x] Phong cách thiết kế thú vị
+- [x] Không dùng đường
+- [x] Dùng nguyên liệu tại địa phương
 
 #### Những thuộc tính mà việc là điểm cộng hoặc điểm trừ tuỳ vào loại địa điểm
 Với **không gian ngoài trời** thì những thuộc tính này mặc định là không có, nếu có thì là điểm cộng. Với các loại hình khác thì mặc định là luôn có, nếu không có thì là điểm trừ:
@@ -81,8 +90,8 @@ Các **dịch vụ cho thuê phòng họp**, khác với các quán nước, thu
 Khi một địa điểm có điểm cộng thì ghi đơn giản là *Điểm cộng*, nhưng khi nó có điểm trừ thì lại không ghi là *Điểm trừ*, mà ghi là *Lưu ý*. Bởi vì từ "điểm trừ" tạo cảm giác không thay đổi được, chắc chắn sẽ tạo ra vấn đề, còn từ "lưu ý" thì tạo cảm giác tuỳ nhu cầu của mỗi người, có người quan tâm nhiều có người quan tâm ít. Nó cũng tạo cảm giác có thể có cách xử lý (dù tất nhiên không phải xử lý gì thì cũng vui hơn).
 
 ## Xem thêm
-- [Lý do ra đời kho địa điểm để chọn nơi gặp mặt](./L%C3%BD%20do%20ra%20%C4%91%E1%BB%9Di.md)   
-- [Hướng dẫn đóng góp kho địa điểm để chọn nơi gặp mặt](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20%C4%91%C3%B3ng%20g%C3%B3p.md)
+- [Lý do ra đời](./L%C3%BD%20do%20ra%20%C4%91%E1%BB%9Di.md)
+- [Hướng dẫn đóng góp](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20%C4%91%C3%B3ng%20g%C3%B3p.md)
 
 ## Nơi thảo luận
 <button onclick="location.href='https://doi-thoai.deno.dev/Discord.4s.1'" type="button">Mở Discord</button>

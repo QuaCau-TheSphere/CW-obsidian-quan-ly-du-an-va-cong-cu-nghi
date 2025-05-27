@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-22T22:30
-updated: 2025-02-08T12:25
+updated: 2025-05-23T19:46
 alias: Phần mềm cá nhân
 ---
 Khái niệm:: [Sáng tạo](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%C3%A1ng%20t%E1%BA%A1o.md)
@@ -15,6 +15,6 @@ Kể cả khi ta không cần có nhu cầu tuỳ biến gì cả, thì đa số
 
 Những thứ đó chỉ có thể được giải quyết bằng việc mỗi người có thể tự mình điều khiển được máy tính. Tức là họ biết cách lập trình cơ bản. [Lập trình là việc hướng dẫn máy làm theo đúng ý mình, chứ không phải chỉ mỗi viết code](./L%E1%BA%ADp%20tr%C3%ACnh%20l%C3%A0%20vi%E1%BB%87c%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20m%C3%A1y%20l%C3%A0m%20theo%20%C4%91%C3%BAng%20%C3%BD%20m%C3%ACnh,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20ch%E1%BB%89%20m%E1%BB%97i%20vi%E1%BA%BFt%20code.md). [Dữ liệu chính là lập trình](../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u%20ch%C3%ADnh%20l%C3%A0%20l%E1%BA%ADp%20tr%C3%ACnh.md). [Việc lưu trữ dữ liệu tại máy cá nhân và ở định dạng đơn giản sẽ giúp người dùng quen thuộc hơn với việc lập trình](./Vi%E1%BB%87c%20l%C6%B0u%20tr%E1%BB%AF%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20m%C3%A1y%20c%C3%A1%20nh%C3%A2n%20v%C3%A0%20%E1%BB%9F%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20s%E1%BA%BD%20gi%C3%BAp%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20quen%20thu%E1%BB%99c%20h%C6%A1n%20v%E1%BB%9Bi%20vi%E1%BB%87c%20l%E1%BA%ADp%20tr%C3%ACnh.md).
 
-Xem thêm:: [Phá vỡ silo thông tin, nắm bắt nhu cầu các bên và sử dụng các nguồn tài nguyên cộng đồng hiệu quả: vai trò của các phần mềm ghi chú động lưu dữ liệu tại máy người dùng và ở định dạng đơn giản](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/9%20Blog/Vai%20tr%C3%B2%20c%E1%BB%A7a%20c%C3%A1c%20ph%E1%BA%A7n%20m%E1%BB%81m%20ghi%20ch%C3%BA%20%C4%91%E1%BB%99ng%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20m%C3%A1y%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20v%C3%A0%20%E1%BB%9F%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20%C4%91%C6%A1n%20gi%E1%BA%A3n.md)
+Xem thêm:: [Phá vỡ silo thông tin, nắm bắt nhu cầu các bên và sử dụng các nguồn tài nguyên cộng đồng hiệu quả: vai trò của các phần mềm ghi chú động lưu dữ liệu tại máy người dùng và ở định dạng đơn giản](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/M%C3%B4%20t%E1%BA%A3%20d%E1%BB%B1%20%C3%A1n.md)
 
 [Sự khác nhau giữa công nghệ thông tin và chuyển đổi số](../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Kinh%20t%E1%BA%BF/C%C3%A1c%20lo%E1%BA%A1i%20h%C3%ACnh%20kinh%20t%E1%BA%BF%20m%E1%BB%9Bi/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20s%E1%BB%91/S%E1%BB%B1%20kh%C3%A1c%20nhau%20gi%E1%BB%AFa%20c%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin%20v%C3%A0%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i%20s%E1%BB%91.md)

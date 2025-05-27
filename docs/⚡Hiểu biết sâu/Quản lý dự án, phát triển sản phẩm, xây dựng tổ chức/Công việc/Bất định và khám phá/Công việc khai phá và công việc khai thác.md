@@ -2,7 +2,10 @@
 share: true
 created: 2023-05-26T14:51
 cssClass: wide-table
-updated: 2025-04-22T15:06
+updated: 2025-05-23T20:17
+alias:
+  - Công việc khai phá
+  - Công việc khai thác
 ---
 Khái niệm:: [Công việc](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/C%C3%B4ng%20vi%E1%BB%87c.md), [Cấu trúc](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/C%E1%BA%A5u%20tr%C3%BAc.md)
 
@@ -81,3 +84,4 @@ Xem thêm::
 - [Học là quá trình cấu trúc hoá những thứ phi cấu trúc](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/H%E1%BB%8Dc%20l%C3%A0%20qu%C3%A1%20tr%C3%ACnh%20c%E1%BA%A5u%20tr%C3%BAc%20ho%C3%A1%20nh%E1%BB%AFng%20th%E1%BB%A9%20phi%20c%E1%BA%A5u%20tr%C3%BAc.md)
 - [Hệ thống 1 dựa vào trí nhớ dài hạn. Hệ thống 2 dựa vào trí nhớ ngắn hạn](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%201%20d%E1%BB%B1a%20v%C3%A0o%20tr%C3%AD%20nh%E1%BB%9B%20d%C3%A0i%20h%E1%BA%A1n.%20H%E1%BB%87%20th%E1%BB%91ng%202%20d%E1%BB%B1a%20v%C3%A0o%20tr%C3%AD%20nh%E1%BB%9B%20ng%E1%BA%AFn%20h%E1%BA%A1n.md) 
 - [Người người vạch chiến lược hay nhiều khi được giao triển khai luôn, hoặc người làm chuyên môn tốt nhiều khi được đề bạt lên làm quản lý, lãnh đạo](../../X%C3%A2y%20d%E1%BB%B1ng%20nh%C3%B3m,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A2n%20s%E1%BB%B1/Ph%C3%A2n%20c%E1%BA%A5p,%20qu%E1%BA%A3n%20l%C3%BD/Ng%C6%B0%E1%BB%9Di%20ng%C6%B0%E1%BB%9Di%20v%E1%BA%A1ch%20chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20hay%20nhi%E1%BB%81u%20khi%20%C4%91%C6%B0%E1%BB%A3c%20giao%20tri%E1%BB%83n%20khai%20lu%C3%B4n,%20ho%E1%BA%B7c%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20chuy%C3%AAn%20m%C3%B4n%20t%E1%BB%91t%20nhi%E1%BB%81u%20khi%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%81%20b%E1%BA%A1t%20l%C3%AAn%20l%C3%A0m%20qu%E1%BA%A3n%20l%C3%BD,%20l%C3%A3nh%20%C4%91%E1%BA%A1o.md)
+- [Những thứ có thể làm trong khi không có được thời gian để tập trung lâu](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Nh%E1%BB%AFng%20th%E1%BB%A9%20c%C3%B3%20th%E1%BB%83%20l%C3%A0m%20trong%20khi%20kh%C3%B4ng%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%9Di%20gian%20%C4%91%E1%BB%83%20t%E1%BA%ADp%20trung%20l%C3%A2u.md)

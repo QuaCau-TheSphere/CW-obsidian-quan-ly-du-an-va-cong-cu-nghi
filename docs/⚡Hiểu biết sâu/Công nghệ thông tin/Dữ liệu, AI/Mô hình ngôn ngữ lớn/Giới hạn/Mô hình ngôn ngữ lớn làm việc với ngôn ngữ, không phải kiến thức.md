@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-11T17:09
-updated: 2025-03-09T12:20
+updated: 2025-05-26T17:04
 ---
 Khái niệm:: [Kiến thức](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFn%20th%E1%BB%A9c.md)
 
@@ -12,3 +12,4 @@ Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/6L
 Cùng lắm là có nguồn mà mình biết là chắc chắn có kiến thức hữu ích trong đó rồi rồi kêu nó tóm tắt lại
 
 [Sự thông thạo ngôn ngữ làm ta có cảm giác người đó giỏi](S%E1%BB%B1%20th%C3%B4ng%20th%E1%BA%A1o%20ng%C3%B4n%20ng%E1%BB%AF%20l%C3%A0m%20ta%20c%C3%B3%20c%E1%BA%A3m%20gi%C3%A1c%20ng%C6%B0%E1%BB%9Di%20%C4%91%C3%B3%20gi%E1%BB%8Fi.md)
+[LLM không đọc được hàm ý](./LLM%20kh%C3%B4ng%20%C4%91%E1%BB%8Dc%20%C4%91%C6%B0%E1%BB%A3c%20h%C3%A0m%20%C3%BD.md)

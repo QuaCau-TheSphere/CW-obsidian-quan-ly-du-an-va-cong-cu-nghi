@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-27T18:59
-updated: 2025-05-05T22:12
+updated: 2025-05-27T12:49
 cssClass: wide-table
 alias: heading, đặt tên, filename, title
 description: Có nhiều vị trí tiêu đề với những chức năng khác nhau, và có nhiều cách khác nhau để thay đổi chúng. Nên dùng loại nào cho trường hợp nào?
@@ -16,13 +16,12 @@ Lý tưởng nhất thì chỉ cần dùng một thứ để đặt cho tất c�
 Trên Obsidian có plugin [Front Matter Title](https://github.com/snezhig/obsidian-front-matter-title) giúp ta quản lý được những chuyện này.
 
 ## Khi nào dùng `title` trong frontmatter, còn khi nào dùng `<h1>` trong body? 
-Khi bạn mở một ghi chú lên, bạn sẽ thấy ngay lập tức có một tiêu đề đập vào mắt bạn. Ví dụ, với ghi chú này thì nó sẽ trông thế này: 
+Khi bạn mở một ghi chú lên, bạn sẽ thấy ngay lập tức có một tiêu đề đập vào mắt bạn. Ví dụ, với ghi chú bạn đang đọc thì nó sẽ trông thế này: 
 ![](https://i.imgur.com/1HydSvK.png)
 
-Đặc điểm của `title` là sẽ làm thay đổi tiêu đề trên cao này, còn `<h1>` thì không. Như vậy, việc lựa chọn cái nào tuỳ thuộc vào việc tiêu đề mới có đúng ngay câu chữ ta đang đinh ninh khi truy cập từ cây thư mục hay không.
+Khi sử dụng plugin Front Matter Title, ta có thể thiết lập sao cho `title` sẽ làm thay đổi tiêu đề trên cao này, còn `<h1>` thì không. Tuỳ thuộc vào câu chữ ta đang đinh ninh khi truy cập từ cây thư mục mà ta có những cách để thay đổi tiêu đề cho hiệu quả.
 
 ### Dùng `<h1>` khi tiêu đề đọc từ cây thư mục khác với tiêu đề nội dung về mặt ngữ nghĩa
-
 Ví dụ, trong thư mục `📜Tài nguyên/Giải pháp kỹ thuật/Web` có [ghi chú này](../Web/WordPress%20gi%C3%BAp%20vi%E1%BB%87c%20t%E1%BA%A1o%20web%20d%E1%BB%85%20d%C3%A0ng%20nh%E1%BA%A5t,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20th%E1%BB%A9%20t%E1%BA%A1o%20web%20hi%E1%BB%87u%20qu%E1%BA%A3%20nh%E1%BA%A5t.md). Tên của nó trong cây thư mục là:
 ```
 WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ tạo web hiệu quả nhất
@@ -32,7 +31,6 @@ Nhưng nếu bạn mở ra, thì bạn sẽ thấy nó là một bài viết dà
 Người dùng cá nhân hoặc dự án nhỏ có nên dùng WordPress hay không?
 ```
 ![](https://i.imgur.com/koC5yyi.png)
-
 
 Giờ, nếu bạn không có tiêu đề thì đang đinh ninh tiêu đề phải giống, nếu khác thì sẽ bị khựng. Nhưng nếu để nguyên tiêu đề của cây thư mục thì sẽ bị lệch so với nội dung, nên cần phải có thể một tiêu đề khác để chuẩn bị cho mình rằng nội dung mới có tiêu đề khác với tiêu đề từ cây thư mục.
 
@@ -67,11 +65,11 @@ Nên trong trường hợp này là dùng `title` để thay đổi tiêu đề 
 Xem thêm:: [Các loại alias](./C%C3%A1c%20lo%E1%BA%A1i%20alias.md)
 
 ## \*Cách xử lý khi gặp tên dài và có ký tự đặc biệt
-| Lựa chọn                                      | Ưu điểm                                                                                                | Nhược điểm                                                          |
-| --------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| Không thay đổi tên, nhưng thay đổi `filename` | Khi liên kết thì không phải alias                                                                      | URL trên web và trên máy khác nhau. Không xử lý được ký tự đặc biệt |
-| Thay đổi tên, và thay đổi `title`             | URL trên web và trên máy không khác nhau. Xử lý được ký tự đặc biệt                                    | Khi liên kết thì phải có alias                                      |
-| Không thay đổi tên và dùng `h1`               | URL trên web và trên máy không khác nhau. Xử lý được ký tự đặc biệt. Khi liên kết thì không phải alias | Có 2 tiêu đề. Không tự động tạo alias cho tiêu đề thực sự           |
+| Lựa chọn                                      | Ưu điểm                                                             | Nhược điểm                                                          |
+| --------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Không thay đổi tên, nhưng thay đổi `filename` |                                                                     | URL trên web và trên máy khác nhau. Không xử lý được ký tự đặc biệt |
+| Thay đổi tên, và thay đổi `title`             | URL trên web và trên máy không khác nhau. Xử lý được ký tự đặc biệt |                                                                     |
+| Không thay đổi tên và dùng `h1`               | URL trên web và trên máy không khác nhau. Xử lý được ký tự đặc biệt | Có 2 tiêu đề. Không tự động tạo alias cho tiêu đề thực sự           |
 
 Điều đó khiến cho việc luôn dùng `title` luôn đảm bảo được các vấn đề kỹ thuật, và đỡ phải suy nghĩ phải lựa chọn cái nào.
 

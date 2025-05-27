@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-11-02T12:38
+updated: 2025-05-23T19:46
 ---
 Bài này chưa viết xong. Nhưng bạn có thể đọc một bài có nhiều liên quan tới nó tại
 
@@ -9,7 +9,7 @@ Bài này chưa viết xong. Nhưng bạn có thể đọc một bài có nhiề
 
 
 Bằng quan sát cá nhân, chúng tôi thấy dù có rất nhiều tổ chức mong muốn đem lại nhiều đối thoại cho cộng đồng, và ý thức được tầm quan trọng của các bên liên quan và người thụ hưởng, nhưng kết quả thì các cuộc đối thoại vẫn bị tản mát và không có được sự chú ý 
-[Phá vỡ silo thông tin và nắm bắt nhu cầu các bên một cách hiệu quả: tầm quan trọng của các phần mềm ghi chú động và lưu dữ liệu tại máy người dùng](../../C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/9%20Blog/Vai%20tr%C3%B2%20c%E1%BB%A7a%20c%C3%A1c%20ph%E1%BA%A7n%20m%E1%BB%81m%20ghi%20ch%C3%BA%20%C4%91%E1%BB%99ng%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20m%C3%A1y%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20v%C3%A0%20%E1%BB%9F%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20%C4%91%C6%A1n%20gi%E1%BA%A3n.md)
+[Phá vỡ silo thông tin và nắm bắt nhu cầu các bên một cách hiệu quả: tầm quan trọng của các phần mềm ghi chú động và lưu dữ liệu tại máy người dùng](../../M%C3%B4%20t%E1%BA%A3%20d%E1%BB%B1%20%C3%A1n.md)
 
 [Chưa thấy có dự án nào nói về việc làm giảm tải gánh nặng công việc cho người bên cạnh mình](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20sinh%20th%C3%A1i/T%E1%BB%95%20ch%E1%BB%A9c%20x%C3%A3%20h%E1%BB%99i/Ch%C6%B0a%20th%E1%BA%A5y%20c%C3%B3%20d%E1%BB%B1%20%C3%A1n%20n%C3%A0o%20n%C3%B3i%20v%E1%BB%81%20vi%E1%BB%87c%20l%C3%A0m%20gi%E1%BA%A3m%20t%E1%BA%A3i%20g%C3%A1nh%20n%E1%BA%B7ng%20c%C3%B4ng%20vi%E1%BB%87c%20cho%20ng%C6%B0%E1%BB%9Di%20b%C3%AAn%20c%E1%BA%A1nh%20m%C3%ACnh.md) 
 

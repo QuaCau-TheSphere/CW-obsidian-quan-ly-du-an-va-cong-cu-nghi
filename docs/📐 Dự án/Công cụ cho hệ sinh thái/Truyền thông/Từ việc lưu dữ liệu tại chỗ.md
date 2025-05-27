@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-11-02T12:38
+updated: 2025-05-23T19:46
 tags:
   - ⬛
 ---
@@ -101,4 +101,4 @@ So what will we do is essentially categorized as technology education: helping n
 
 
 
-[Phá vỡ silo thông tin và nắm bắt nhu cầu các bên một cách hiệu quả: tầm quan trọng của các phần mềm ghi chú động và lưu dữ liệu tại máy người dùng](../9%20Blog/Vai%20tr%C3%B2%20c%E1%BB%A7a%20c%C3%A1c%20ph%E1%BA%A7n%20m%E1%BB%81m%20ghi%20ch%C3%BA%20%C4%91%E1%BB%99ng%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20m%C3%A1y%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20v%C3%A0%20%E1%BB%9F%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20%C4%91%C6%A1n%20gi%E1%BA%A3n.md)
+[Phá vỡ silo thông tin và nắm bắt nhu cầu các bên một cách hiệu quả: tầm quan trọng của các phần mềm ghi chú động và lưu dữ liệu tại máy người dùng](../../M%C3%B4%20t%E1%BA%A3%20d%E1%BB%B1%20%C3%A1n.md)

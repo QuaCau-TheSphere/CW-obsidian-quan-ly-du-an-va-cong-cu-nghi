@@ -1,13 +1,11 @@
 ---
 share: true
 created: 2024-04-24T09:02
-updated: 2025-05-12T17:31
+updated: 2025-05-26T14:15
 title: Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó?
 alias: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
 description: Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
 ---
-Khái niệm:: [Mental modal](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Mental%20modal.md)
-
 > The difference between the almost right word and the right word is really a large matter - 'tis the difference between the lightning-bug and the lightning.
 > — Mark Twain
 
@@ -16,7 +14,7 @@ Thực ra trong rất nhiều trường hợp, thứ cản trở ta có được
 ## Nếu tôi phải tự tìm hiểu một mình, thì đâu là nơi dễ gặp được từ khoá cần tìm nhất?
 Các gợi ý được sắp xếp theo mức độ tiêu tốn năng lượng.
 ### Máy tìm kiếm
-Nhược điểm của việc này là không ít chủ đề bị tấn công bởi SEO rác. Có thể giảm thiểu điều này bằng việc [Ẩn kết quả tìm kiếm rác trên Google](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Lo%E1%BA%A1i%20b%E1%BB%8F%20phi%E1%BB%81n%20nhi%E1%BB%85u,%20v%C6%B0%E1%BB%A3t%20r%C3%A0o%20c%E1%BA%A3n/Web/%E1%BA%A8n%20k%E1%BA%BFt%20qu%E1%BA%A3%20t%C3%ACm%20ki%E1%BA%BFm%20r%C3%A1c%20tr%C3%AAn%20Google.md), tuy nhiên cũng chỉ hạn chế được phần nào. Hơn nữa, kể cả khi không bị SEO rác, thì cũng có khả năng [❓Tác giả của một bài viết không bao giờ vét cạn được mọi từ khoá mà người đọc có thể sẽ nhập vào máy tìm kiếm để được gợi ý tới bài viết đó](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/%E2%9D%93T%C3%A1c%20gi%E1%BA%A3%20c%E1%BB%A7a%20m%E1%BB%99t%20b%C3%A0i%20vi%E1%BA%BFt%20kh%C3%B4ng%20bao%20gi%E1%BB%9D%20v%C3%A9t%20c%E1%BA%A1n%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%8Di%20t%E1%BB%AB%20kho%C3%A1%20m%C3%A0%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%8Dc%20c%C3%B3%20th%E1%BB%83%20s%E1%BA%BD%20nh%E1%BA%ADp%20v%C3%A0o%20m%C3%A1y%20t%C3%ACm%20ki%E1%BA%BFm%20%C4%91%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20g%E1%BB%A3i%20%C3%BD%20t%E1%BB%9Bi%20b%C3%A0i%20vi%E1%BA%BFt%20%C4%91%C3%B3.md).
+Nhược điểm của việc này là không ít chủ đề bị tấn công bởi SEO rác. Có thể giảm thiểu điều này bằng việc [Ẩn kết quả tìm kiếm rác trên Google](%E1%BA%A8n%20k%E1%BA%BFt%20qu%E1%BA%A3%20t%C3%ACm%20ki%E1%BA%BFm%20r%C3%A1c%20tr%C3%AAn%20Google.md), tuy nhiên cũng chỉ hạn chế được phần nào. Hơn nữa, kể cả khi không bị SEO rác, thì cũng có khả năng [❓Tác giả của một bài viết không bao giờ vét cạn được mọi từ khoá mà người đọc có thể sẽ nhập vào máy tìm kiếm để được gợi ý tới bài viết đó](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/%E2%9D%93T%C3%A1c%20gi%E1%BA%A3%20c%E1%BB%A7a%20m%E1%BB%99t%20b%C3%A0i%20vi%E1%BA%BFt%20kh%C3%B4ng%20bao%20gi%E1%BB%9D%20v%C3%A9t%20c%E1%BA%A1n%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%8Di%20t%E1%BB%AB%20kho%C3%A1%20m%C3%A0%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%8Dc%20c%C3%B3%20th%E1%BB%83%20s%E1%BA%BD%20nh%E1%BA%ADp%20v%C3%A0o%20m%C3%A1y%20t%C3%ACm%20ki%E1%BA%BFm%20%C4%91%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20g%E1%BB%A3i%20%C3%BD%20t%E1%BB%9Bi%20b%C3%A0i%20vi%E1%BA%BFt%20%C4%91%C3%B3.md).
 
 Có thể giảm bớt vấn đề này bằng việc thêm vào các từ khoá sau:
 - `filetype:pdf`
@@ -94,6 +92,7 @@ Hoặc cũng có thể có câu trả lời rồi mà mình chưa biết. Nếu 
 - [Xây dựng hệ thống tri thức cộng đồng: Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md) 
 - [Làm sao để giỏi hơn: Sự chuyên gia (expertise) đến từ việc nhìn ra mẫu hình](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BA%ABu%20h%C3%ACnh,%20tr%E1%BB%B1c%20gi%C3%A1c/S%E1%BB%B1%20chuy%C3%AAn%20gia%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20vi%E1%BB%87c%20nh%C3%ACn%20ra%20m%E1%BA%ABu%20h%C3%ACnh.md)
 
+Khái niệm:: [Mental modal](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Mental%20modal.md), [Điều không biết](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/%C4%90i%E1%BB%81u%20kh%C3%B4ng%20bi%E1%BA%BFt.md)
 
 %%
 Đầu tiên, hãy hiểu rằng một từ được định nghĩa bởi một tổ hợp các từ khoá khác. Ví dụ, một người nước ngoài đang học tiếng Việt khi muốn nói về con mèo nhưng không biết tiếng Việt gọi con mèo như thế nào, thì có thể họ sẽ hỏi một câu như này:

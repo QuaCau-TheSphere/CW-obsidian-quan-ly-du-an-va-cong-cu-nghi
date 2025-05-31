@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-21T18:23
+updated: 2025-05-27T20:33
 ---
 Khái niệm:: 
 [Định luật Hofstadter: Mọi thứ sẽ luôn tốn thời gian hơn bạn nghĩ, kể cả khi bạn đã tính đến định luật Hofstadter](./M%E1%BB%8Di%20th%E1%BB%A9%20s%E1%BA%BD%20lu%C3%B4n%20t%E1%BB%91n%20th%E1%BB%9Di%20gian%20h%C6%A1n%20b%E1%BA%A1n%20ngh%C4%A9.md)
@@ -10,3 +10,4 @@ Khái niệm::
 [Nỗi ám ảnh với sự hiệu quả có thể đến từ nỗi sợ chết](../../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%E1%BB%91i%20%C6%B0u%20ho%C3%A1/N%E1%BB%97i%20%C3%A1m%20%E1%BA%A3nh%20v%E1%BB%9Bi%20s%E1%BB%B1%20hi%E1%BB%87u%20qu%E1%BA%A3%20c%C3%B3%20th%E1%BB%83%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20n%E1%BB%97i%20s%E1%BB%A3%20ch%E1%BA%BFt.md)
 
 Hệ quả của việc này là [Người không làm lĩnh vực lập trình không được tạo điều kiện để trưởng thành về mặt quản trị dữ liệu](../../../C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/Ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20l%C3%A0m%20l%C4%A9nh%20v%E1%BB%B1c%20l%E1%BA%ADp%20tr%C3%ACnh%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20%C4%91i%E1%BB%81u%20ki%E1%BB%87n%20%C4%91%E1%BB%83%20tr%C6%B0%E1%BB%9Fng%20th%C3%A0nh%20v%E1%BB%81%20m%E1%BA%B7t%20qu%E1%BA%A3n%20tr%E1%BB%8B%20d%E1%BB%AF%20li%E1%BB%87u.md)
+[Có cần phải ra hạn chót cho công việc ko](C%C3%B3%20c%E1%BA%A7n%20ph%E1%BA%A3i%20ra%20h%E1%BA%A1n%20ch%C3%B3t%20cho%20c%C3%B4ng%20vi%E1%BB%87c%20ko.md)

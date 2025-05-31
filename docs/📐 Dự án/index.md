@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-28T22:40
-updated: 2025-05-27T15:44
+updated: 2025-05-28T17:56
 title: 📐 Dự án
 ---
 
@@ -37,6 +37,7 @@ Các nhu cầu liên quan đến nghiên cứu, vận hành được nói cụ t
 Dự đoán đa phần họ sẽ ở các đô thị lớn và không quá 35 tuổi. Với các tổ chức nhỏ thì họ thường là những bạn trẻ mới tốt nghiệp đại học, chưa có nhiều mối quan hệ. Trong tổ chức họ thường tất cả các thành viên đều là người phải làm công việc xử lý, quản lý, hệ thống hóa dữ liệu trong các tổ chức. Nếu giả định rằng tỉ lệ giới tính của nhóm này không có gì khác biệt thì tỉ lệ giới tính của đối tượng mục tiêu trong nhóm này cũng không có khác biệt gì. Với các tổ chức lớn thì thường sẽ có một người được giao làm nhiệm vụ này. Vì tỉ lệ nam giới làm trong lĩnh vực công nghệ cao hơn, nên có khả năng ở nhóm này đối tượng mục tiêu là nam giới cũng cao hơn. 
 Nhà nghiên cứu 
 
+## Giả định
 ## Các hoạt động chính
 ### Xây dựng các kho tài nguyên chung
 - Làm khảo sát về kho địa điểm gặp mặt cho người làm phi lợi nhuận, các ý tưởng kiếm tiền
@@ -79,5 +80,7 @@ Nhà nghiên cứu
 ## Kế hoạch hoạt động 
 [Cần nghĩ về công việc như là một cách để kiểm định giả thiết, chứ không phải chỉ để hoàn thành](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/C%E1%BA%A7n%20ngh%C4%A9%20v%E1%BB%81%20c%C3%B4ng%20vi%E1%BB%87c%20nh%C6%B0%20l%C3%A0%20m%E1%BB%99t%20c%C3%A1ch%20%C4%91%E1%BB%83%20ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thi%E1%BA%BFt,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20ch%E1%BB%89%20%C4%91%E1%BB%83%20ho%C3%A0n%20th%C3%A0nh.md)
 [Nghiên cứu những điều đã biết mà không biết, lập kế hoạch A cho điều đã biết là đã biết, và lập kế hoạch B cho điều không biết mà đã biết](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u%20nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20%C4%91%C3%A3%20bi%E1%BA%BFt%20m%C3%A0%20kh%C3%B4ng%20bi%E1%BA%BFt,%20l%E1%BA%ADp%20k%E1%BA%BF%20ho%E1%BA%A1ch%20A%20cho%20%C4%91i%E1%BB%81u%20%C4%91%C3%A3%20bi%E1%BA%BFt%20l%C3%A0%20%C4%91%C3%A3%20bi%E1%BA%BFt,%20v%C3%A0%20l%E1%BA%ADp%20k%E1%BA%BF%20ho%E1%BA%A1ch%20B%20cho%20%C4%91i%E1%BB%81u%20kh%C3%B4ng%20bi%E1%BA%BFt%20m%C3%A0%20%C4%91%C3%A3%20bi%E1%BA%BFt.md)
-
+[Chỉ số ta theo đuổi phải là chỉ số về giá trị của sản phẩm đối với người dùng](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/Ch%E1%BB%89%20s%E1%BB%91%20ta%20theo%20%C4%91u%E1%BB%95i%20ph%E1%BA%A3i%20l%C3%A0%20ch%E1%BB%89%20s%E1%BB%91%20v%E1%BB%81%20gi%C3%A1%20tr%E1%BB%8B%20c%E1%BB%A7a%20s%E1%BA%A3n%20ph%E1%BA%A9m%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
+[Thay vì lập ra danh sách công việc, hãy thử lập ra danh sách không phải công việc xem](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/Thay%20v%C3%AC%20l%E1%BA%ADp%20ra%20danh%20s%C3%A1ch%20c%C3%B4ng%20vi%E1%BB%87c,%20h%C3%A3y%20th%E1%BB%AD%20l%E1%BA%ADp%20ra%20danh%20s%C3%A1ch%20kh%C3%B4ng%20ph%E1%BA%A3i%20c%C3%B4ng%20vi%E1%BB%87c%20xem.md)
 [Đo lường](./%C4%90o%20l%C6%B0%E1%BB%9Dng.md)
+Khác với wiki 

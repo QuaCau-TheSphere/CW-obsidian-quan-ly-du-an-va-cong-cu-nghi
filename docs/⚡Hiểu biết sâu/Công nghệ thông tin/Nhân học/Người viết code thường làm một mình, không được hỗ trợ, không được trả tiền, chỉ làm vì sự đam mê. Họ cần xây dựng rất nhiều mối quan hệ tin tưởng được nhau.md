@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-27T15:43
+updated: 2025-05-28T16:06
 ---
 Khái niệm:: 
 Coders often work alone, unsupported, unpaid, at labours of love. They must build tenuous trust relations, be clever diplomats and team leaders, and be articulate in stating their needs and aims.
@@ -27,3 +27,4 @@ Lý do:: [Phản hồi và sự giúp đỡ trả lại là những thứ xa x�
 [![A modified version of the xkcd-2347 comic about dependencies that says "every conversation about dependencies since 2020", in which the lynchpin block is now labelled "this fucking comic".](https://cdn.masto.host/swisssocial/media_attachments/files/112/766/542/522/872/369/original/8c4683d5cc402035.png)](https://cdn.masto.host/swisssocial/media_attachments/files/112/766/542/522/872/369/original/8c4683d5cc402035.png)
 
 [](https://swiss.social/@mhoye@mastodon.social "@mhoye@mastodon.social")
+[Hiện tượng khuếch tán trách nhiệm, người ngoài đứng nhìn khiến cho ngay cả khi ta thấy người khác chịu khổ sở và rất cần được giúp thì mong muốn giúp đỡ cũng bị tê liệt](../../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20sinh%20th%C3%A1i/Hi%E1%BB%87n%20t%C6%B0%E1%BB%A3ng%20khu%E1%BA%BFch%20t%C3%A1n%20tr%C3%A1ch%20nhi%E1%BB%87m,%20ng%C6%B0%E1%BB%9Di%20ngo%C3%A0i%20%C4%91%E1%BB%A9ng%20nh%C3%ACn%20khi%E1%BA%BFn%20cho%20ngay%20c%E1%BA%A3%20khi%20ta%20th%E1%BA%A5y%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20ch%E1%BB%8Bu%20kh%E1%BB%95%20s%E1%BB%9F%20v%C3%A0%20r%E1%BA%A5t%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20gi%C3%BAp%20th%C3%AC%20mong%20mu%E1%BB%91n%20gi%C3%BAp%20%C4%91%E1%BB%A1%20c%C5%A9ng%20b%E1%BB%8B%20t%C3%AA%20li%E1%BB%87t.md)

@@ -1,11 +1,18 @@
 ---
 share: true
 created: 2025-05-26T19:49
-updated: 2025-05-26T19:49
+updated: 2025-05-28T13:44
 ---
 Khái niệm:: [Phức tạp, phức hợp](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%E1%BB%A9c%20t%E1%BA%A1p,%20ph%E1%BB%A9c%20h%E1%BB%A3p.md), [Đơn giản](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/%C4%90%C6%A1n%20gi%E1%BA%A3n.md)
 ![The Law of Unintended Consequences example explained - when a simple system regulates a complex system](https://sketchplanations.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fsketchplanations%2FZ3wOn5bqstJ99Fti_SP663-Unintendedconsequences-revised.png%3Fauto%3Dformat%2Ccompress&w=3840&q=75)
 
 Nguồn:: [The law of unintended consequences - Sketchplanations](https://sketchplanations.com/the-law-of-unintended-consequences)
+Hệ thống chính trị thì đơn giản, hoạt động với thông tin hạn chế (thiếu hiểu biết hợp lý), trong thời gian ngắn, với sự phản hồi thấp, với ít động lực hoặc không trùng nhau. Ngược lại, xã hội là một hệ thống phức tạp, phát triển, phản hồi cao, dựa trên động lực. Khi một hệ thống đơn giản cố gắng điều chỉnh một hệ thống phức tạp, bạn thường nhận được những hậu quả không mong muốn.
+
+The political system is simple, it operates with limited information (rational ignorance), short time horizons, low feedback, and poor and misaligned incentives. Society in contrast is a complex, evolving, high-feedback, incentive-driven system. When a simple system tries to regulate a complex system you often get unintended consequences.
+Nguồn:: [The Law of Unintended Consequences - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2008/01/the-law-of-unin.html)
 
 [Nghiên cứu những điều đã biết mà không biết, lập kế hoạch A cho điều đã biết là đã biết, và lập kế hoạch B cho điều không biết mà đã biết](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u%20nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20%C4%91%C3%A3%20bi%E1%BA%BFt%20m%C3%A0%20kh%C3%B4ng%20bi%E1%BA%BFt,%20l%E1%BA%ADp%20k%E1%BA%BF%20ho%E1%BA%A1ch%20A%20cho%20%C4%91i%E1%BB%81u%20%C4%91%C3%A3%20bi%E1%BA%BFt%20l%C3%A0%20%C4%91%C3%A3%20bi%E1%BA%BFt,%20v%C3%A0%20l%E1%BA%ADp%20k%E1%BA%BF%20ho%E1%BA%A1ch%20B%20cho%20%C4%91i%E1%BB%81u%20kh%C3%B4ng%20bi%E1%BA%BFt%20m%C3%A0%20%C4%91%C3%A3%20bi%E1%BA%BFt.md)
+[Có nhiều cách mà con người dùng để thoát ra khỏi sự phức tạp](./C%C3%B3%20nhi%E1%BB%81u%20c%C3%A1ch%20m%C3%A0%20con%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20%C4%91%E1%BB%83%20tho%C3%A1t%20ra%20kh%E1%BB%8Fi%20s%E1%BB%B1%20ph%E1%BB%A9c%20t%E1%BA%A1p.md)
+[Định luật Goodhart: "Khi một phép đo trở thành mục tiêu, nó thường mất đi sự hiệu quả của nó"](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/Khi%20m%E1%BB%99t%20ph%C3%A9p%20%C4%91o%20tr%E1%BB%9F%20th%C3%A0nh%20m%E1%BB%A5c%20ti%C3%AAu,%20n%C3%B3%20th%C6%B0%E1%BB%9Dng%20m%E1%BA%A5t%20%C4%91i%20s%E1%BB%B1%20hi%E1%BB%87u%20qu%E1%BA%A3%20c%E1%BB%A7a%20n%C3%B3.md)
+[❓Việc theo đuổi các chỉ số ESG, phát triển bền vững có giúp làm điều tương tự không](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/%E2%9D%93Vi%E1%BB%87c%20theo%20%C4%91u%E1%BB%95i%20c%C3%A1c%20ch%E1%BB%89%20s%E1%BB%91%20ESG,%20ph%C3%A1t%20tri%E1%BB%83n%20b%E1%BB%81n%20v%E1%BB%AFng%20c%C3%B3%20gi%C3%BAp%20l%C3%A0m%20%C4%91i%E1%BB%81u%20t%C6%B0%C6%A1ng%20t%E1%BB%B1%20kh%C3%B4ng.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-10-18T15:44
+updated: 2025-05-27T23:53
 alias: Việc đáp ứng nhu cầu công việc tạo ra thành phẩm
 description: một bản nghiên cứu, một tính năng mới, một sản phẩm mới, một trang web quảng cáo, một bài viết, một sự kiện, v.v
 ---
@@ -13,4 +13,4 @@ Nguồn:: [Hoàng Đức Minh](../../../%CE%9E%20Ngu%E1%BB%93n/Qu%E1%BA%A3n%20l%
 
 [Một sản phẩm được tạo nên bởi nhiều thành phẩm. Thứ ta gọi là sản phẩm thành phần, hoặc sản phẩm nhỏ hơn, chính là thành phẩm](./M%E1%BB%99t%20s%E1%BA%A3n%20ph%E1%BA%A9m%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20n%C3%AAn%20b%E1%BB%9Fi%20nhi%E1%BB%81u%20th%C3%A0nh%20ph%E1%BA%A9m.%20Th%E1%BB%A9%20ta%20g%E1%BB%8Di%20l%C3%A0%20s%E1%BA%A3n%20ph%E1%BA%A9m%20th%C3%A0nh%20ph%E1%BA%A7n,%20ho%E1%BA%B7c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20nh%E1%BB%8F%20h%C6%A1n,%20ch%C3%ADnh%20l%C3%A0%20th%C3%A0nh%20ph%E1%BA%A9m.md)
 [Sản phẩm là sự bồi tụ của các dòng hải lưu nhu cầu và kết tinh của kiến thức](./S%E1%BA%A3n%20ph%E1%BA%A9m%20l%C3%A0%20s%E1%BB%B1%20b%E1%BB%93i%20t%E1%BB%A5%20c%E1%BB%A7a%20c%C3%A1c%20d%C3%B2ng%20h%E1%BA%A3i%20l%C6%B0u%20nhu%20c%E1%BA%A7u%20v%C3%A0%20k%E1%BA%BFt%20tinh%20c%E1%BB%A7a%20ki%E1%BA%BFn%20th%E1%BB%A9c.md), trong khi sản phẩm nhỏ hơn/sản phẩm thành phần là thành phẩm.
-[Việc nghĩ về sản phẩm lôi cuốn hơn việc nghĩ về thành quả rất nhiều](../S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/Vi%E1%BB%87c%20ngh%C4%A9%20v%E1%BB%81%20s%E1%BA%A3n%20ph%E1%BA%A9m%20l%C3%B4i%20cu%E1%BB%91n%20h%C6%A1n%20vi%E1%BB%87c%20ngh%C4%A9%20v%E1%BB%81%20th%C3%A0nh%20qu%E1%BA%A3%20r%E1%BA%A5t%20nhi%E1%BB%81u.md)
+[Việc nghĩ về sản phẩm lôi cuốn hơn việc nghĩ về thành quả cần có hơn nhiều](../S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/Vi%E1%BB%87c%20ngh%C4%A9%20v%E1%BB%81%20s%E1%BA%A3n%20ph%E1%BA%A9m%20l%C3%B4i%20cu%E1%BB%91n%20h%C6%A1n%20vi%E1%BB%87c%20ngh%C4%A9%20v%E1%BB%81%20th%C3%A0nh%20qu%E1%BA%A3%20c%E1%BA%A7n%20c%C3%B3%20h%C6%A1n%20nhi%E1%BB%81u.md)

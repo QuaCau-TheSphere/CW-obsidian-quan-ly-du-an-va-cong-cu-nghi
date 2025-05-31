@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-26T19:36
+updated: 2025-05-29T13:05
 ---
 
 | Discord                    | Messenger      | Telegram |
@@ -21,3 +21,5 @@ vào bằng chrome windows, mở regedit:
 HKEY_LOCAL_MACHINE\SOFTWARE\Policies  ->  xóa file Chrome   ->  vào dns  -> cloudflare là xong
 
 em đoán họ dùng dns poisoning, vì đã dùng google dns nhưng vẫn ko vào được. nếu bật DoH hay DoT có thể vẫn được.
+
+[Tình hình Telegram bị Chính Phủ chặn... - Hong Phuc Nguyen](https://www.facebook.com/xnohat/posts/pfbid03us2L5JfTMHPpZC38UtjHe2C9YXvg9t6MpZt6SB92j25UvijVz63kFJ9dS2c3qovl)

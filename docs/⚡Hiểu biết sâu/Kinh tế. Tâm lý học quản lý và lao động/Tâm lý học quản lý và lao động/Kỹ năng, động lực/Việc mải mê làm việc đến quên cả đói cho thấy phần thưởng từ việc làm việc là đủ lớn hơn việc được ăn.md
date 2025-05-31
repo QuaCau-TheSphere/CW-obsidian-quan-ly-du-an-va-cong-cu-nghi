@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-27T20:20
-updated: 2024-08-21T18:23
+updated: 2025-05-28T16:31
 ---
 Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../%CE%9E%20Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
 [Những lý do để khó duy trì việc ngủ sớm](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/L%C4%A9nh%20v%E1%BB%B1c/S%E1%BB%A9c%20kho%E1%BA%BB/Nh%E1%BB%AFng%20l%C3%BD%20do%20%C4%91%E1%BB%83%20kh%C3%B3%20duy%20tr%C3%AC%20vi%E1%BB%87c%20ng%E1%BB%A7%20s%E1%BB%9Bm.md) 
@@ -9,3 +9,4 @@ Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../%CE%9E%20Ngu%E1%BB%93n/T
 [Không có giải pháp nào cho người sáng lập để giải quyết sự quá tải ngoài những lời khuyên chung chung](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Th%C3%A0nh%20l%E1%BA%ADp%20d%E1%BB%B1%20%C3%A1n/Startup/Kh%C3%B4ng%20c%C3%B3%20gi%E1%BA%A3i%20ph%C3%A1p%20n%C3%A0o%20cho%20ng%C6%B0%E1%BB%9Di%20s%C3%A1ng%20l%E1%BA%ADp%20%C4%91%E1%BB%83%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20s%E1%BB%B1%20qu%C3%A1%20t%E1%BA%A3i%20ngo%C3%A0i%20nh%E1%BB%AFng%20l%E1%BB%9Di%20khuy%C3%AAn%20chung%20chung.md)
 [Vấn đề ngắn hạn hay dài hạn không quan trọng, quan trọng là làm cái này mà phải nghĩ về cái khác thì sẽ nhức đầu](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/V%E1%BA%A5n%20%C4%91%E1%BB%81%20ng%E1%BA%AFn%20h%E1%BA%A1n%20hay%20d%C3%A0i%20h%E1%BA%A1n%20kh%C3%B4ng%20quan%20tr%E1%BB%8Dng,%20quan%20tr%E1%BB%8Dng%20l%C3%A0%20l%C3%A0m%20c%C3%A1i%20n%C3%A0y%20m%C3%A0%20ph%E1%BA%A3i%20ngh%C4%A9%20v%E1%BB%81%20c%C3%A1i%20kh%C3%A1c%20th%C3%AC%20s%E1%BA%BD%20nh%E1%BB%A9c%20%C4%91%E1%BA%A7u.md) 
 [Chưa thấy có dự án nào nói về việc làm giảm tải gánh nặng công việc cho người bên cạnh mình](../../../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20sinh%20th%C3%A1i/T%E1%BB%95%20ch%E1%BB%A9c%20x%C3%A3%20h%E1%BB%99i/Ch%C6%B0a%20th%E1%BA%A5y%20c%C3%B3%20d%E1%BB%B1%20%C3%A1n%20n%C3%A0o%20n%C3%B3i%20v%E1%BB%81%20vi%E1%BB%87c%20l%C3%A0m%20gi%E1%BA%A3m%20t%E1%BA%A3i%20g%C3%A1nh%20n%E1%BA%B7ng%20c%C3%B4ng%20vi%E1%BB%87c%20cho%20ng%C6%B0%E1%BB%9Di%20b%C3%AAn%20c%E1%BA%A1nh%20m%C3%ACnh.md) 
+![What is Flow: the psychology of optimal experience illustrated with climbing, clear goals, feedback and matched challenge](https://sketchplanations.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fsketchplanations%2FZ-auVHdAxsiBwDXh_Flow-square.png%3Fauto%3Dformat%2Ccompress&w=3840&q=75)

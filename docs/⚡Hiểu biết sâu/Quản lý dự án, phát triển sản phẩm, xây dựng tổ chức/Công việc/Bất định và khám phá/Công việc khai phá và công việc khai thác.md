@@ -2,7 +2,7 @@
 share: true
 created: 2023-05-26T14:51
 cssClass: wide-table
-updated: 2025-05-23T20:17
+updated: 2025-05-28T15:03
 alias:
   - Công việc khai phá
   - Công việc khai thác
@@ -21,6 +21,8 @@ Khái niệm:: [Công việc](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A
 | Sử dụng loại tư duy                                                 | Rhizome/phi tuyến tính                                                                                                                                                    | Rễ cọc/tuyến tính                                                                                                                                                                                                                      |
 | Kiểu dữ liệu                                                        | Phi cấu trúc                                                                                                                                                              | Cấu trúc                                                                                                                                                                                                                               |
 | Ví dụ                                                               | Xây dựng nhóm                                                                                                                                                             | Thêm chức năng của vault, thiết kế, dịch                                                                                                                                                                                               |
+
+![The knowledge funnel - Sketchplanations](https://sketchplanations.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fsketchplanations%2F32457931-56d8-4349-9049-1730a9ef5324_60308893361.jpg%3Fauto%3Dcompress%2Cformat&w=3840&q=75)
 
 Trước đây có chia ra công việc cấp ban, công việc cấp tiểu ban, công việc cấp cá nhân, và  công việc thành phần, nhưng giờ bỏ.
 

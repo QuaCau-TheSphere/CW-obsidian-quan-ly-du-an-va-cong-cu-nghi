@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-23T15:06
-updated: 2025-05-27T12:50
+updated: 2025-05-30T12:34
 alias:
   - Kho địa điểm để chọn nơi gặp mặt
   - Hướng dẫn sử dụng kho địa điểm để chọn nơi gặp mặt
@@ -41,8 +41,9 @@ Bạn có thể fork repo này để làm bộ tài nguyên cho riêng bạn.
 - [x] Không cần đặt chỗ trước
 - [x] Không có đèn nhấp nháy hoặc quảng cáo động
 - [x] Giá đã bao gồm thuế
-- [x] Dùng ly giấy để phục vụ khách ngồi tại chỗ
-- [x] Không được bày đồ ăn
+- [x] Dùng đồ sứ để phục vụ khách ngồi tại chỗ
+- [x] Được đem đồ ăn từ ngoài vào
+- [x] Ghế tựa tốt cho lưng 
 
 #### Những thuộc tính là điểm cộng cho mọi loại địa điểm
 Đây là những thuộc tính mặc định là luôn không có cho mọi loại địa điểm:
@@ -57,6 +58,7 @@ Bạn có thể fork repo này để làm bộ tài nguyên cho riêng bạn.
 - [x] Phong cách thiết kế thú vị
 - [x] Không dùng đường
 - [x] Dùng nguyên liệu tại địa phương
+- [x] Có khu vực yên tĩnh
 
 #### Những thuộc tính mà việc là điểm cộng hoặc điểm trừ tuỳ vào loại địa điểm
 Với **không gian ngoài trời** thì những thuộc tính này mặc định là không có, nếu có thì là điểm cộng. Với các loại hình khác thì mặc định là luôn có, nếu không có thì là điểm trừ:
@@ -64,6 +66,9 @@ Với **không gian ngoài trời** thì những thuộc tính này mặc địn
 - [x] Ổ điện
 - [x] Bàn đúng kích thước làm việc
 - [x] Không có khói thuốc lá
+- [x] Dùng đồ sứ để phục vụ khách ngồi tại chỗ
+- [x] Được đem đồ ăn từ ngoài vào
+- [x] Ghế tựa tốt cho lưng 
 
 Với **phòng họp riêng** hoặc **quán có phòng riêng** thì những thuộc tính này mặc định là luôn có, nếu không có thì là điểm trừ. Với những loại hình khác thì mặc định là không có, nếu có thì là điểm cộng:
 - [x] Nói to được

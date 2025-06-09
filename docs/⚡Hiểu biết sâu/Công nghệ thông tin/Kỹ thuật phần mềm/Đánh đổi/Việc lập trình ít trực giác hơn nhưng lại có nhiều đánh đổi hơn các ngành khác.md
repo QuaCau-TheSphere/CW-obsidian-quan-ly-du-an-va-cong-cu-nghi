@@ -1,10 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-01T22:36
+updated: 2025-06-07T10:27
 alias:
   - Những đánh đổi phổ biến trong việc phát triển phần mềm
   - Ngành lập trình có rất nhiều đánh đổi
+  - Các đánh đổi trong ngành lập trình
 description: Đâu là những đánh đổi phổ biến trong việc phát triển phần mềm?
 ---
 

@@ -1,6 +1,6 @@
 ---
 created: 2023-09-05T16:17
-updated: 2024-09-22T14:33
+updated: 2025-06-09T14:21
 share: true
 alias:
   - Sự hiệu quả của loại cạnh tranh tạo động lực cải tiến sản phẩm hoàn toàn phụ thuộc vào sự truyền miệng
@@ -15,7 +15,7 @@ Tức là, để có sản phẩm tốt hơn, sự cạnh tranh trên thị trư
 
 Có phải sự hiệu quả của loại cạnh tranh tạo động lực cải tiến sản phẩm hoàn toàn phụ thuộc vào sự truyền miệng?
 
-Phản ví dụ: [WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ tạo web hiệu quả nhất](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Web/WordPress%20gi%C3%BAp%20vi%E1%BB%87c%20t%E1%BA%A1o%20web%20d%E1%BB%85%20d%C3%A0ng%20nh%E1%BA%A5t,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20th%E1%BB%A9%20t%E1%BA%A1o%20web%20hi%E1%BB%87u%20qu%E1%BA%A3%20nh%E1%BA%A5t.md). Nó là sản phẩm được truyền miệng.
+Phản ví dụ: [WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ quản lý web hiệu quả nhất](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Web/WordPress%20gi%C3%BAp%20vi%E1%BB%87c%20t%E1%BA%A1o%20web%20d%E1%BB%85%20d%C3%A0ng%20nh%E1%BA%A5t,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20th%E1%BB%A9%20qu%E1%BA%A3n%20l%C3%BD%20web%20hi%E1%BB%87u%20qu%E1%BA%A3%20nh%E1%BA%A5t.md). Nó là sản phẩm được truyền miệng.
 
 [Có người giới thiệu về vấn đề có lẽ là cách duy nhất để làm được những thứ mình muốn làm nhưng không khẩn cấp](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/C%C3%B3%20ng%C6%B0%E1%BB%9Di%20gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20c%C3%B3%20l%E1%BA%BD%20l%C3%A0%20c%C3%A1ch%20duy%20nh%E1%BA%A5t%20%C4%91%E1%BB%83%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20th%E1%BB%A9%20m%C3%ACnh%20mu%E1%BB%91n%20l%C3%A0m%20nh%C6%B0ng%20kh%C3%B4ng%20kh%E1%BA%A9n%20c%E1%BA%A5p.md)
 [Các cách xác định sản phẩm đã phù hợp thị trường hay chưa](../../../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/Truy%E1%BB%81n%20th%C3%B4ng,%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/C%C3%A1c%20c%C3%A1ch%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20s%E1%BA%A3n%20ph%E1%BA%A9m%20%C4%91%C3%A3%20ph%C3%B9%20h%E1%BB%A3p%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20hay%20ch%C6%B0a.md) 

@@ -1,8 +1,18 @@
 ---
 share: true
 created: 2023-09-08T21:32
-updated: 2024-09-02T13:21
+updated: 2025-06-07T10:39
 ---
+Fibery cũng là một sản phẩm low code. Nó *hứa hẹn* giải quyết được 2 vấn đề sau:
+- Một nơi vừa để quản lý công việc vừa quản lý kiến thức
+- Có thể xây dựng hệ thống quản lý cho mình ngay mà không cần dùng tới code trong thời gian đầu
+
+Đây là lý do Kendy đã chọn Fibery, vì những cái rất cần trước mắt thì nó có thể đáp ứng. 
+
+Phải nói là điểm bán hàng độc nhất (unique selling point) của Fibery là sự đặt trọng tâm vào ý tưởng [Quản lý công việc và quản lý kiến thức không thể tách rời nhau](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20kh%C3%B4ng%20th%E1%BB%83%20t%C3%A1ch%20r%E1%BB%9Di%20nhau.md) mà những ERP khác không làm được. Ngay tại trang chủ, Fibery đã tự giới thiệu bản thân là:
+> If you've outgrown Jira, Notion, Airtable, and ClickUp — and are ready to replace them
+
+Tức là nó hiểu rất rõ nhược điểm của đối thủ. Nhưng rốt cuộc thì **nó vẫn là một sản phẩm dựng sẵn** không khác gì các đối thủ của nó. Việc Kendy sử dụng nó là vì từ đầu Kendy đã ở trong tình trạng phải xây dựng hệ thống quản lý càng sớm càng tốt, và không có ai có thể hỗ trợ giải đáp các vấn đề về lập trình. Không thể nói nó là giải pháp tạm đủ, mà nó là sự thoả hiệp đỡ tệ hại nhất trong hoàn cảnh hiện tại. Con đường này là con đường bất đắc dĩ lắm mới phải đi. 
 1. raw data từ user research vs highlight from literature note là như nhau
 
 

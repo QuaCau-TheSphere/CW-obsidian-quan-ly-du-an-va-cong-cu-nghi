@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-03-17T21:05
-updated: 2025-06-05T13:20
+updated: 2025-06-09T14:21
 alias:
   - Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?
   - Xây dựng hệ thống tri thức cộng đồng: Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?
@@ -47,7 +47,7 @@ Câu hỏi:
 - Vấn đề nào thì nên dành thời gian để làm? Vấn đề nào có thể bỏ qua?
 - Có dễ dàng làm với số lượng lớn không?
 - Tốt nhất ở đây là tốt nhất về mặt lý thuyết hay là về sự khả thi?
-- Không phải lúc nào con người cũng dùng thứ tốt nhất. Nếu có cái không tốt bằng nhưng dễ hiểu hơn thì họ sẽ dùng (VD: [Excel](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/No%20code,%20low%20code/Excel/Excel%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20b%E1%BA%A1n%20tu%E1%BB%95i%20th%C6%A1%20tuy%E1%BB%87t%20v%E1%BB%9Di,%20nh%C6%B0ng%20l%C3%A0%20k%E1%BA%BB%20th%C3%B9%20c%E1%BB%A7a%20tu%E1%BB%95i%20d%E1%BA%ADy%20th%C3%AC.md), [WordPress](../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Web/WordPress%20gi%C3%BAp%20vi%E1%BB%87c%20t%E1%BA%A1o%20web%20d%E1%BB%85%20d%C3%A0ng%20nh%E1%BA%A5t,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20th%E1%BB%A9%20t%E1%BA%A1o%20web%20hi%E1%BB%87u%20qu%E1%BA%A3%20nh%E1%BA%A5t.md) đều là những thứ tuyệt vời ban đầu, tệ về sau) 
+- Không phải lúc nào con người cũng dùng thứ tốt nhất. Nếu có cái không tốt bằng nhưng dễ hiểu hơn thì họ sẽ dùng (VD: [Excel](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/No%20code,%20low%20code/Excel/Excel%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20b%E1%BA%A1n%20tu%E1%BB%95i%20th%C6%A1%20tuy%E1%BB%87t%20v%E1%BB%9Di,%20nh%C6%B0ng%20l%C3%A0%20k%E1%BA%BB%20th%C3%B9%20c%E1%BB%A7a%20tu%E1%BB%95i%20d%E1%BA%ADy%20th%C3%AC.md), [WordPress](../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Web/WordPress%20gi%C3%BAp%20vi%E1%BB%87c%20t%E1%BA%A1o%20web%20d%E1%BB%85%20d%C3%A0ng%20nh%E1%BA%A5t,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20th%E1%BB%A9%20qu%E1%BA%A3n%20l%C3%BD%20web%20hi%E1%BB%87u%20qu%E1%BA%A3%20nh%E1%BA%A5t.md) đều là những thứ tuyệt vời ban đầu, tệ về sau) 
 
 ## Điều gì khiến cho sản phẩm của mình không bị lạc hậu?
 Vấn đề lạc hậu khó tránh, nhưng em không nghĩ làm việc với lịch sử là một việc sẽ có ngày lạc hậu, nếu có thì cùng lắm là cách mình làm chứ không hẳn là thứ mình tạo ra, tất nhiên trong quá trình đó em cũng cố nghĩ giải pháp tốt hơn. Em nghĩ vậy là bởi dù ở tương lai mọi thứ càng tân tiến hiện đại nhưng chừng nào họ còn chưa thể quay ngược về quá khứ, thì quan điểm trong quá khứ vẫn là thứ có giá trị hơn bởi nó có thể lưu giữ những context mà theo thời gian đã có thể mất đi và không có cách nào truy lại được chính xác

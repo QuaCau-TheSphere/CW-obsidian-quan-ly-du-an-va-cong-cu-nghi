@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-27T18:59
-updated: 2025-05-27T12:49
+updated: 2025-06-09T14:21
 cssClass: wide-table
 alias: heading, đặt tên, filename, title
 description: Có nhiều vị trí tiêu đề với những chức năng khác nhau, và có nhiều cách khác nhau để thay đổi chúng. Nên dùng loại nào cho trường hợp nào?
@@ -22,7 +22,7 @@ Khi bạn mở một ghi chú lên, bạn sẽ thấy ngay lập tức có một
 Khi sử dụng plugin Front Matter Title, ta có thể thiết lập sao cho `title` sẽ làm thay đổi tiêu đề trên cao này, còn `<h1>` thì không. Tuỳ thuộc vào câu chữ ta đang đinh ninh khi truy cập từ cây thư mục mà ta có những cách để thay đổi tiêu đề cho hiệu quả.
 
 ### Dùng `<h1>` khi tiêu đề đọc từ cây thư mục khác với tiêu đề nội dung về mặt ngữ nghĩa
-Ví dụ, trong thư mục `📜Tài nguyên/Giải pháp kỹ thuật/Web` có [ghi chú này](../Web/WordPress%20gi%C3%BAp%20vi%E1%BB%87c%20t%E1%BA%A1o%20web%20d%E1%BB%85%20d%C3%A0ng%20nh%E1%BA%A5t,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20th%E1%BB%A9%20t%E1%BA%A1o%20web%20hi%E1%BB%87u%20qu%E1%BA%A3%20nh%E1%BA%A5t.md). Tên của nó trong cây thư mục là:
+Ví dụ, trong thư mục `📜Tài nguyên/Giải pháp kỹ thuật/Web` có [ghi chú này](../Web/WordPress%20gi%C3%BAp%20vi%E1%BB%87c%20t%E1%BA%A1o%20web%20d%E1%BB%85%20d%C3%A0ng%20nh%E1%BA%A5t,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20th%E1%BB%A9%20qu%E1%BA%A3n%20l%C3%BD%20web%20hi%E1%BB%87u%20qu%E1%BA%A3%20nh%E1%BA%A5t.md). Tên của nó trong cây thư mục là:
 ```
 WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ tạo web hiệu quả nhất
 ```

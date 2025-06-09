@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-12-20T21:58
+updated: 2025-06-09T14:21
 ---
 ## Các ERP được dựng sẵn không đủ khả năng đáp ứng những luồng làm việc và suy nghĩ đặc thù
 ![Dùng ERP dựng sẵn.png](../../../../attachments/D%C3%B9ng%20ERP%20d%E1%BB%B1ng%20s%E1%BA%B5n.png)
@@ -19,5 +19,5 @@ Chưa kể, cái gọi là chi phí thấp ở đây chỉ là miễn phí trong
 ![](https://www.commitstrip.com/wp-content/uploads/2020/10/Strip-PM-et-le-Nocode650-finalenglish.jpg) 
 [Các ERP được dựng sẵn không đủ khả năng đáp ứng những luồng làm việc và suy nghĩ đặc thù](./C%C3%A1c%20ERP%20%C4%91%C6%B0%E1%BB%A3c%20d%E1%BB%B1ng%20s%E1%BA%B5n%20kh%C3%B4ng%20%C4%91%E1%BB%A7%20kh%E1%BA%A3%20n%C4%83ng%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nh%E1%BB%AFng%20lu%E1%BB%93ng%20l%C3%A0m%20vi%E1%BB%87c%20v%C3%A0%20suy%20ngh%C4%A9%20%C4%91%E1%BA%B7c%20th%C3%B9.md)
 - [Excel là người bạn tuổi thơ tuyệt vời, nhưng là kẻ thù của tuổi dậy thì](./Excel/Excel%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20b%E1%BA%A1n%20tu%E1%BB%95i%20th%C6%A1%20tuy%E1%BB%87t%20v%E1%BB%9Di,%20nh%C6%B0ng%20l%C3%A0%20k%E1%BA%BB%20th%C3%B9%20c%E1%BB%A7a%20tu%E1%BB%95i%20d%E1%BA%ADy%20th%C3%AC.md), 
-- [WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ tạo web hiệu quả nhất](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Web/WordPress%20gi%C3%BAp%20vi%E1%BB%87c%20t%E1%BA%A1o%20web%20d%E1%BB%85%20d%C3%A0ng%20nh%E1%BA%A5t,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20th%E1%BB%A9%20t%E1%BA%A1o%20web%20hi%E1%BB%87u%20qu%E1%BA%A3%20nh%E1%BA%A5t.md)
+- [WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ quản lý web hiệu quả nhất](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Web/WordPress%20gi%C3%BAp%20vi%E1%BB%87c%20t%E1%BA%A1o%20web%20d%E1%BB%85%20d%C3%A0ng%20nh%E1%BA%A5t,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20th%E1%BB%A9%20qu%E1%BA%A3n%20l%C3%BD%20web%20hi%E1%BB%87u%20qu%E1%BA%A3%20nh%E1%BA%A5t.md)
 [Lập trình là việc hướng dẫn máy làm theo đúng ý mình, chứ không phải chỉ mỗi viết code](../../../C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/L%E1%BA%ADp%20tr%C3%ACnh%20l%C3%A0%20vi%E1%BB%87c%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20m%C3%A1y%20l%C3%A0m%20theo%20%C4%91%C3%BAng%20%C3%BD%20m%C3%ACnh,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20ch%E1%BB%89%20m%E1%BB%97i%20vi%E1%BA%BFt%20code.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-22T14:33
+updated: 2025-06-09T14:21
 ---
 Khái niệm:: [Marketing](Marketing.md), [Động lực](%C4%90%E1%BB%99ng%20l%E1%BB%B1c.md), [Cạnh tranh](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF/C%E1%BA%A1nh%20tranh.md), [Sản phẩm](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/S%E1%BA%A3n%20ph%E1%BA%A9m.md)
 Lý do:: [❓Truyền miệng là cách duy nhất để sản phẩm thực sự tốt hơn chiến thắng trên thị trường](./%E2%9D%93Truy%E1%BB%81n%20mi%E1%BB%87ng%20l%C3%A0%20c%C3%A1ch%20duy%20nh%E1%BA%A5t%20%C4%91%E1%BB%83%20s%E1%BA%A3n%20ph%E1%BA%A9m%20th%E1%BB%B1c%20s%E1%BB%B1%20t%E1%BB%91t%20h%C6%A1n%20chi%E1%BA%BFn%20th%E1%BA%AFng%20tr%C3%AAn%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng.md)
@@ -9,6 +9,6 @@ Lý do:: [Có người giới thiệu về vấn đề có lẽ là cách duy nh
 
 [Lập trình viên khó chịu với hệ thống low code không phải vì nó ưu tiên sự tiện lợi và chi phí thấp cho người dùng, mà vì nó được tiếp thị như là một giải pháp hoàn hảo có thể giải quyết được mọi nhu cầu thực tế](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/No%20code,%20low%20code/L%E1%BA%ADp%20tr%C3%ACnh%20vi%C3%AAn%20kh%C3%B3%20ch%E1%BB%8Bu%20v%E1%BB%9Bi%20h%E1%BB%87%20th%E1%BB%91ng%20low%20code%20v%C3%AC%20n%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20ti%E1%BA%BFp%20th%E1%BB%8B%20nh%C6%B0%20l%C3%A0%20m%E1%BB%99t%20gi%E1%BA%A3i%20ph%C3%A1p%20ho%C3%A0n%20h%E1%BA%A3o%20c%C3%B3%20th%E1%BB%83%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%8Di%20nhu%20c%E1%BA%A7u%20th%E1%BB%B1c%20t%E1%BA%BF.md)
 
-Phản ví dụ: [WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ tạo web hiệu quả nhất](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Web/WordPress%20gi%C3%BAp%20vi%E1%BB%87c%20t%E1%BA%A1o%20web%20d%E1%BB%85%20d%C3%A0ng%20nh%E1%BA%A5t,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20th%E1%BB%A9%20t%E1%BA%A1o%20web%20hi%E1%BB%87u%20qu%E1%BA%A3%20nh%E1%BA%A5t.md). Nó là sản phẩm được truyền miệng.
+Phản ví dụ: [WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ quản lý web hiệu quả nhất](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Web/WordPress%20gi%C3%BAp%20vi%E1%BB%87c%20t%E1%BA%A1o%20web%20d%E1%BB%85%20d%C3%A0ng%20nh%E1%BA%A5t,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20th%E1%BB%A9%20qu%E1%BA%A3n%20l%C3%BD%20web%20hi%E1%BB%87u%20qu%E1%BA%A3%20nh%E1%BA%A5t.md). Nó là sản phẩm được truyền miệng.
 
 Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../%CE%9E%20Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)

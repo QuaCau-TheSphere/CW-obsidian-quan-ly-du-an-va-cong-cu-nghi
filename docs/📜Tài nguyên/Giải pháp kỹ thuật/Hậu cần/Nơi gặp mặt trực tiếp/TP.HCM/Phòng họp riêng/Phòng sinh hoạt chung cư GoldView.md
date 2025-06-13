@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-05-22T15:40
+updated: 2025-06-12T11:21
 description: Tầng 5, chung cư The GoldView, 346 Bến Vân Đồn, Q4
 ---
 ![IMG_20250505_104328.jpg](../../../../../../attachments/IMG_20250505_104328.jpg)
@@ -25,6 +25,7 @@ Wifi:
 
 Lưu ý:
 - Không được bày đồ ăn
+- Không có sẵn bình nước
 
 ## Hướng dẫn di chuyển
 Khi đến TNL Plaza, bạn xuống hầm gửi xe rồi đi lên lại. Hỏi người dân 

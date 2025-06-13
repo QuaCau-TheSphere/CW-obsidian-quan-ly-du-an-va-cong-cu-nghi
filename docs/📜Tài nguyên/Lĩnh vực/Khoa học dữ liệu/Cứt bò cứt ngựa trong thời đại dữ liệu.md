@@ -1,13 +1,15 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-06-07T08:52
+updated: 2025-06-13T15:06
 ---
 Bạn tuy có thể không biết horseshit thì cũng là bullshit, nhưng bạn chắc đã biết bullshit là những thứ vớ vẩn, nhảm cứt. Trong lúc mình đang lướt Sketchplanations thì bắt gặp tranh vẽ mình hoạ [nguyên lý bất đối xứng cứt bò](https://sketchplanations.com/the-bs-asymmetry-principle) này:
 
 ![The BS Asymmetry principle, also known as Brandolini's law explained with one person struggling to persuade their friend that the moon isn't made of cheese](https://sketchplanations.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fsketchplanations%2F71d30e66-9038-498d-8d8c-6bf45cd53760_SP%2B677%2B-%2BThe%2BBS%2Basymmetry%2Bprinciple%2B-%2Blarge.png%3Fauto%3Dcompress%2Cformat&w=3840&q=75)
 
 Nếu chỉ là cái tranh nhảm cứt đó thôi thì mình cũng chỉ phì cười nhẹ nhàng rồi bỏ qua. Nhưng cái phần mô tả của nó lại dẫn liên kết tới một khoá học về [Calling Bullshit](https://www.callingbullshit.org/) của hai giảng viên đại học Washington. Tò mò mình đã bấm thử và xem hết chuỗi bài giảng của họ.
+
+Để cho linh hoạt và hài hước, khi bullshit được dùng như một tính từ thì sẽ dùng "nhảm cứt", còn khi dùng như một danh từ (some bullshit) thì sẽ dùng "cứt bò".
 
 ## Nội dung
 1. [Cứt bò nhập môn](https://www.callingbullshit.org/syllabus.html#Introduction): thế nào là cứt? Triết học về cứt
@@ -49,13 +51,17 @@ Những thứ cứt bò trong khoa học. Áp dụng tiêu chuẩn khắt khe nh
 - 
 
 ### Thế nào là cứt bò? 
-Triết gia Harry Frankfurt phân biệt người nói
-- Người nói dối là người biết sự thật là gì, và muốn thuyết phục ta một thứ khác
-- Người nói thứ cứt bò là người không biết sự thật là gì, hoặc không quan tâm sự thật là gì
+- Cố gắng thuyết phục nhưng không biết hoặc không quan tâm đến sự thật
 
-Cohen phản bác quan điểm này, cho rằng định nghĩa về cứt bò đó là cứt bò.
+Triết gia Harry Frankfurt đưa ra sự phân biệt giữa người nói dối (liar) và người nói điều nhảm cứt (bullshitter):
+- Người nói dối là người biết sự thật là gì, và muốn thuyết phục ta tin vào một thứ khác
+- Người nói điều nhảm cứt là người không biết sự thật là gì, hoặc không quan tâm sự thật là gì, nhưng vẫn muốn thuyết phục ta tin vào quan điểm của họ
+
+Cohen phản bác quan điểm này, cho rằng định nghĩa về cứt bò đó là cứt bò. Với Cohen, ta không cần biết ý định của họ là gì
 
 Mình xem quan điểm của Cohen, và ngẫm nghĩ rằng nếu vì bất đồng với nhau như vậy mà đã gọi nhau là cứt bò thì đúng là... cứt bò. Nhưng mình hiểu sự ức chế. Nhưng chúng ta phải cố gắng vượt qua sự ức chế đó. 
+
+Vẫn là biết được mình đúng 
 
 Không cảm nhận được ác ý gì. Giống như cách người miền Bắc dùng từ dốt.  Nhưng mình luôn cảm thấy nó có sự xúc phạm
 Những thứ khiến cho việc tiếp cận. Có 2 phiên bản cứt bò:
@@ -98,3 +104,6 @@ Cũng đã tự biết
 Cái too good to be true chẳng qua cũng chỉ là đánh giá dựa trên trực giác. [Trực giác là cách nhận thức không qua khái niệm](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BA%ABu%20h%C3%ACnh,%20tr%E1%BB%B1c%20gi%C3%A1c/Tr%E1%BB%B1c%20gi%C3%A1c%20l%C3%A0%20c%C3%A1ch%20nh%E1%BA%ADn%20th%E1%BB%A9c%20kh%C3%B4ng%20qua%20kh%C3%A1i%20ni%E1%BB%87m.md)
 Cũng vậy, cũng tin cho tới khi có người chỉ ra giùm. Còn mình không có trực giác trong ngành thì cũng không bỏ nhiều công tìm hiểu
 [Việc nghĩ về sản phẩm lôi cuốn hơn việc nghĩ về thành quả cần có hơn nhiều](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/Vi%E1%BB%87c%20ngh%C4%A9%20v%E1%BB%81%20s%E1%BA%A3n%20ph%E1%BA%A9m%20l%C3%B4i%20cu%E1%BB%91n%20h%C6%A1n%20vi%E1%BB%87c%20ngh%C4%A9%20v%E1%BB%81%20th%C3%A0nh%20qu%E1%BA%A3%20c%E1%BA%A7n%20c%C3%B3%20h%C6%A1n%20nhi%E1%BB%81u.md)
+
+
+công việc vô nghĩa, tổ chức vô lý

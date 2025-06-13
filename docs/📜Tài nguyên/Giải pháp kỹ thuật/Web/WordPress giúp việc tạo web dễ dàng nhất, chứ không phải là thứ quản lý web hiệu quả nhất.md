@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-02-27T15:45
-updated: 2025-06-09T14:15
+updated: 2025-06-10T15:54
 description: WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ tạo web hiệu quả nhất
 blog: true
 alias:
@@ -35,6 +35,8 @@ Chưa kể, việc cài đặt chỉ là bước đầu tiên của việc làm 
 
 Vấn đề là, dù các dịch vụ đó chỉ làm giúp bạn bước đầu tiên đó, nhưng **đó lại là bước quan trọng nhất**. Nếu nói như kiểu Lão Tử là "con đường vạn dặm bắt đầu từ một bước chân". Bước đầu tiên sẽ quyết định con đường bạn đi. Nó nhiều khi còn quyết định việc bạn có đi nữa hay không. Và bước đầu tiên của người mua host để dùng WordPress thì dễ hơn bước đầu tiên của người tự làm web tĩnh.
 
+(Trước đây mình có giả định rằng các dịch vụ web có lợi hơn nếu khách hàng dùng web động, nhưng có vẻ như lập luận đó là chưa hoàn toàn chính xác? Xem [What made WordPress become dominance for small websites, comparing to static CMSes? - Webmasters Stack Exchange](https://webmasters.stackexchange.com/q/145281/52079)) 
+
 Nếu bạn để ý, ở trên mình có nói là nếu bạn muốn tạo một góc thầm lặng hoặc một không gian ấn tượng thì WordPress.com sẽ giúp bạn đạt được điều đó. Nhưng ngay sau đó mình lại bảo là nếu bạn có nhu cầu tạo web thì mọi người thường giới thiệu WordPress cho bạn. Hàm ý là WordPress.com không phải là WordPress, và nó không phải là web riêng của bạn. Điều này có nghĩa là sao? Và nó liên quan gì tới những gì nãy giờ mình nói?
 
 **WordPress là một phần mềm để bạn tạo trang web.** Để người khác truy cập được web của bạn thì bạn cần có host. **WordPress.com là một công ty cung cấp dịch vụ host** như bao công ty hosting tương tự. Trên host của một công ty tên là WordPress.com có cài đặt một phần mềm tạo web tên là WordPress. Nếu bạn thuê dịch vụ của công ty này, thì bạn sẽ được cài sẵn WordPress mà không cần phải làm gì cả. Giống như là bạn mở một quán bánh canh và đặt tên cho nó là BánhCanh.com vậy. Khách chỉ cần ngồi vào bàn là có ngay một tô bánh canh miễn phí. Đó là điểm khác biệt.
@@ -58,18 +60,19 @@ Còn không thì với nhu cầu nhỏ thì dùng web tĩnh có lợi về lâu 
 
 WordPress ra đời năm 2003. 21 năm đã trôi qua, và công nghệ web cũng đã có nhiều thứ mới. Thời điểm đó không có Git, Node, Stack Overflow, VS Code, Astro, Obsidian, LLM. Những cái tên mình liệt kê ra ở đây có thể bạn không hiểu nó là gì, nhưng chúng đã làm cho việc sử dụng web tĩnh trở nên nhẹ nhàng hơn, hoặc có nhiều lợi ích hơn. Nhưng kể cả là ngay bây giờ, khi đã có những công cụ đó, thì mình vẫn phải thừa nhận là với người không biết gì thì đi bước đầu tiên bằng WordPress vẫn dễ hơn đi bước đầu tiên bằng web tĩnh. 
 
-Điều mình muốn nhấn mạnh, với tư cách là một người đã có một lượng trải nghiệm không tí trong lĩnh vực lập trình web, là WordPress sẽ làm những bước đi tiếp theo của bạn kém thoải mái hơn nhiều. Tương tự việc [các ERP được dựng sẵn không đủ khả năng đáp ứng những luồng làm việc và suy nghĩ đặc thù](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/No%20code,%20low%20code/C%C3%A1c%20ERP%20%C4%91%C6%B0%E1%BB%A3c%20d%E1%BB%B1ng%20s%E1%BA%B5n%20kh%C3%B4ng%20%C4%91%E1%BB%A7%20kh%E1%BA%A3%20n%C4%83ng%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nh%E1%BB%AFng%20lu%E1%BB%93ng%20l%C3%A0m%20vi%E1%BB%87c%20v%C3%A0%20suy%20ngh%C4%A9%20%C4%91%E1%BA%B7c%20th%C3%B9.md), [có rất nhiều đánh đổi trong cái ngành công nghệ thông tin này](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/%C4%90%C3%A1nh%20%C4%91%E1%BB%95i/Vi%E1%BB%87c%20l%E1%BA%ADp%20tr%C3%ACnh%20%C3%ADt%20tr%E1%BB%B1c%20gi%C3%A1c%20h%C6%A1n%20nh%C6%B0ng%20l%E1%BA%A1i%20c%C3%B3%20nhi%E1%BB%81u%20%C4%91%C3%A1nh%20%C4%91%E1%BB%95i%20h%C6%A1n%20c%C3%A1c%20ng%C3%A0nh%20kh%C3%A1c.md). Hãy chọn loại đánh đổi nào đem lại hiệu quả nhất cho bạn.
+Điều mình muốn nhấn mạnh, với tư cách là một người đã có một lượng trải nghiệm không tí trong lĩnh vực lập trình web, là WordPress sẽ làm những bước đi tiếp theo của bạn kém thoải mái hơn nhiều Tương tự việc [các ERP được dựng sẵn không đủ khả năng đáp ứng những luồng làm việc và suy nghĩ đặc thù](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/No%20code,%20low%20code/C%C3%A1c%20ERP%20%C4%91%C6%B0%E1%BB%A3c%20d%E1%BB%B1ng%20s%E1%BA%B5n%20kh%C3%B4ng%20%C4%91%E1%BB%A7%20kh%E1%BA%A3%20n%C4%83ng%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nh%E1%BB%AFng%20lu%E1%BB%93ng%20l%C3%A0m%20vi%E1%BB%87c%20v%C3%A0%20suy%20ngh%C4%A9%20%C4%91%E1%BA%B7c%20th%C3%B9.md), [có rất nhiều đánh đổi trong cái ngành công nghệ thông tin này](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/%C4%90%C3%A1nh%20%C4%91%E1%BB%95i/Vi%E1%BB%87c%20l%E1%BA%ADp%20tr%C3%ACnh%20%C3%ADt%20tr%E1%BB%B1c%20gi%C3%A1c%20h%C6%A1n%20nh%C6%B0ng%20l%E1%BA%A1i%20c%C3%B3%20nhi%E1%BB%81u%20%C4%91%C3%A1nh%20%C4%91%E1%BB%95i%20h%C6%A1n%20c%C3%A1c%20ng%C3%A0nh%20kh%C3%A1c.md). Hãy chọn loại đánh đổi nào đem lại hiệu quả nhất cho bạn.
 
 Xem thêm: 
 - [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
 - [Phá vỡ silo thông tin, nắm bắt nhu cầu các bên và sử dụng các nguồn tài nguyên cộng đồng hiệu quả](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/M%C3%B4%20t%E1%BA%A3%20d%E1%BB%B1%20%C3%A1n.md)
+
+## Lưu ý cho người cần tìm người phụ đăng bài
+Nếu bạn đã có một trang web có theme đẹp rồi, và 
+Nếu bạn ưu tiên cắt giảm công đoạn đăng bài, chấp nhận ko có theme đẹp một thời gian thì mình đề xuất dùng web tĩnh. Một thời gian sau thì sẽ có, nhưng nếu bạn muốn nhờ mình làm theme thì sẽ tuỳ vào công việc của mình. Bạn có thể thuê người ngoài để làm nhanh. Còn nếu bạn không thể bỏ theme hiện tại được thì phải đợi có theme rồi mới chuyển web đc
 
 ## Nơi thảo luận
 ![](https://i.imgur.com/4fq665i.png)
 
 
 %% 
-Web động cũng như web tĩnh đều đòi hỏi bạn phải cài đặt, cấu hình phần mềm. Nhưng vì người dùng web động phải trả thêm cả tiền host khiến cho các công ty hosting có thêm nhiều tiền từ các phần mềm tạo web động hơn các phần mềm tạo web tĩnh. WordPress vào thời điểm ra mắt là phần mềm tạo web động duy nhất có giao diện thân thiện với người dùng. Những điều này đã thúc đẩy các công ty này tập trung vào WordPress, quảng cáo cho nó nhiều hơn. Các công ty này có lợi hơn nếu như người dùng nghĩ đến WordPress đầu tiên khi họ muốn tạo website. 
-
-Có vẻ như lập luận dùng web động có lợi hơn cho dịch vụ web là chưa hoàn toàn chính xác: [blog - What made WordPress become dominance for small websites, comparing to static CMSes? - Webmasters Stack Exchange](https://webmasters.stackexchange.com/q/145281/52079)
-%%
+web động cũng như web tĩnh đều đòi hỏi bạn phải cài đặt, cấu hình phần mềm. Nhưng vì người dùng web động phải trả thêm cả tiền host khiến cho các công ty hosting có thêm nhiều tiền từ các phần mềm tạo web động hơn các phần mềm tạo web tĩnh. WordPress vào thời điểm ra mắt là phần mềm tạo web động duy nhất có giao diện thân thiện với người dùng. Những điều này đã thúc đẩy các công ty này tập trung vào WordPress, quảng cáo cho nó nhiều hơn. Các công ty này có lợi hơn nếu như người dùng nghĩ đến WordPress đầu tiên khi họ muốn tạo website. %%

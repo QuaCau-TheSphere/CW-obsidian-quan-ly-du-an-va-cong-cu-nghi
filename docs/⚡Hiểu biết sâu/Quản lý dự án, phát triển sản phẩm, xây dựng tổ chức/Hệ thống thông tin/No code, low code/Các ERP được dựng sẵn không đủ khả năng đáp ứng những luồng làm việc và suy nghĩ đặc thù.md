@@ -20,6 +20,8 @@ Bởi vì [Công việc khai phá chính là việc nghiên cứu và quản lý
 Hơn nữa, ngay cả khi chỉ xét đến mô đun về quản lý giao dịch của các ERP dựng sẵn, thì cũng giống như các phần mềm quản lý tài chính cá nhân được nói ở trên, dữ liệu được lưu trong đây vẫn bị cô lập trong ERP đó. 
 
 Chưa kể, cái gọi là chi phí thấp ở đây chỉ là miễn phí trong một số ngày, một số tính năng hoặc đầu người. Nhưng thường thì có trả tiền để dùng thì những tính năng đó cũng không hướng đến việc trở thành một nơi để quản lý tất cả mọi thứ.
+Google grave yard
+Tăng giá
 
 ### Tự xây dựng ERP tốn rất nhiều thời gian
 ![Tự xây dựng ERP.png](../../../../attachments/T%E1%BB%B1%20x%C3%A2y%20d%E1%BB%B1ng%20ERP.png)

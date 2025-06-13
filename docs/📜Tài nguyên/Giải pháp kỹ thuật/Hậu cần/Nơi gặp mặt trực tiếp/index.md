@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-23T15:06
-updated: 2025-05-30T12:34
+updated: 2025-06-13T19:47
 alias:
   - Kho địa điểm để chọn nơi gặp mặt
   - Hướng dẫn sử dụng kho địa điểm để chọn nơi gặp mặt
@@ -22,7 +22,7 @@ title: Kho địa điểm để chọn nơi gặp mặt
 Chọn [TP.HCM](./TP.HCM/index.md) hoặc [Hà Nội](./H%C3%A0%20N%E1%BB%99i/index.md) để bắt đầu. 
 
 ## Tiêu chí thêm địa điểm
-- Có chính sách hỗ trợ các dự án phi lợi nhuận, hoặc có lợi ích cho người làm phi lợi nhuận hoặc đối tượng hưởng lợi của họ (VD: gần nhà nhau, có người quen, tiếp cận được cho người khuyết tật, v.v.)
+- Có chính sách hỗ trợ các dự án cộng đồng hoặc phát triển bền vững, hoặc có lợi ích gián tiếp cho các bên liên quan của các dự án đó (VD: gần nhà nhau, có người quen, v.v.)
 - Được đề xuất trong nơi thảo luận, hoặc được yêu cầu kéo dữ liệu mới (pull request) trên GitHub
 - Có điểm cộng khác lạ
 
@@ -44,6 +44,7 @@ Bạn có thể fork repo này để làm bộ tài nguyên cho riêng bạn.
 - [x] Dùng đồ sứ để phục vụ khách ngồi tại chỗ
 - [x] Được đem đồ ăn từ ngoài vào
 - [x] Ghế tựa tốt cho lưng 
+- [ ] Có sẵn nước uống
 
 #### Những thuộc tính là điểm cộng cho mọi loại địa điểm
 Đây là những thuộc tính mặc định là luôn không có cho mọi loại địa điểm:

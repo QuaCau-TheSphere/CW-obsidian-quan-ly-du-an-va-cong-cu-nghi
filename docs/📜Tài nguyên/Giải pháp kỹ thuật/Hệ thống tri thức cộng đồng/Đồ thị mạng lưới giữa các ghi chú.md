@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2024-09-24T15:20
-updated: 2024-10-28T22:38
+updated: 2025-06-09T18:08
+alias: Liên kết các mảnh hiểu biết
 ---
 Ví dụ:: Nhu cầu công việc và nhu cầu công nghệ, OVA, Kialo
 
@@ -27,4 +28,21 @@ Cố gắng ngồi xuống, bật máy và vẽ chúng ra, tìm các biểu tư�
 
 nhưng anh thấy vẽ đồ thị chỉ có tác dụng kích thích sự chú ý ban đầu, với nếu nó tạo ra được các cụm rõ ràng (community) thì hữu ích. Ví dụ như mấy cái hình ở đây. Còn ở những trường hợp khác thì tạo database rồi kiếm sẽ tốt hơn 
 
-Xem thêm:: [Tôi học được gì sau khi viết Graphvidian?](../T%C3%B4i%20h%E1%BB%8Dc%20%C4%91%C6%B0%E1%BB%A3c%20g%C3%AC%20sau%20khi%20vi%E1%BA%BFt%20Graphvidian.md)
+Xem thêm:: [Tôi học được gì sau khi viết Graphvidian?](../T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/T%C3%B4i%20h%E1%BB%8Dc%20%C4%91%C6%B0%E1%BB%A3c%20g%C3%AC%20sau%20khi%20vi%E1%BA%BFt%20Graphvidian.md)
+
+
+## Tự động hoá việc tạo một canvas từ ghi chú của mình
+Nếu bạn muốn tự động hoá việc tạo một canvas từ ghi chú của mình, thì về mặt công nghệ bạn đang [đào lập luận](https://en.wikipedia.org/wiki/Argument_mining), và về mặt kỹ thuật bạn đang xuất [JSON Canvas](https://jsoncanvas.org/). Thử kiếm xem có ai đã kết hợp hai khái niệm đó vào một thư viện chưa? Nếu không phải là canvas mà là concept diagram hoặc knowledge graph chắc cũng đã có người làm. 
+
+Nó giống như một bàn làm việc được trải ra hơn là
+[Zsolt's Visual Personal Knowledge Management - YouTube](https://www.youtube.com/@VisualPKM)
+[Kinopio – Thinking Canvas](https://kinopio.club/hello-kinopio-0sorcue6MMLibrO24qy-C)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MifNyU49_JA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> OVA,
+
+Không gọi là đồ thị mạng lưới, vì dù nó có liên k
+
+## Có tương tác? 
+Chỉ trừ khi nào mình xác định là phải đọc trên giấy, chứ nếu người đọc chỉ đọc trên màn hình thì tại sao
+
+Điều này sẽ dẫn đến việc tạo văn bản động 

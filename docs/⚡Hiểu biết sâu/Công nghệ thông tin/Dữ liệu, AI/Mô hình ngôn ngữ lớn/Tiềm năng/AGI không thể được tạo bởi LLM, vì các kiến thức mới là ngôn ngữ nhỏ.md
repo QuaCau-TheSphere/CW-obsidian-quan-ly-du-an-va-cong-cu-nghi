@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2024-12-11T17:09
-updated: 2024-12-11T23:20
+updated: 2025-06-15T12:09
 ---
 Khái niệm:: 
-[Việc tích hợp LLM vào là để bán lời hứa cho nhà đầu tư, không phải để bán sản phẩm cho người dùng](./Vi%E1%BB%87c%20t%C3%ADch%20h%E1%BB%A3p%20LLM%20v%C3%A0o%20l%C3%A0%20%C4%91%E1%BB%83%20b%C3%A1n%20l%E1%BB%9Di%20h%E1%BB%A9a%20cho%20nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0,%20kh%C3%B4ng%20ph%E1%BA%A3i%20%C4%91%E1%BB%83%20b%C3%A1n%20s%E1%BA%A3n%20ph%E1%BA%A9m%20cho%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
+[Việc tích hợp LLM vào sản phẩm là để bán lời hứa cho nhà đầu tư, không phải để bán sản phẩm cho người dùng](../%C4%90%E1%BB%99ng%20c%C6%A1%20c%E1%BB%A7a%20c%C3%B4ng%20ty/Vi%E1%BB%87c%20t%C3%ADch%20h%E1%BB%A3p%20LLM%20v%C3%A0o%20s%E1%BA%A3n%20ph%E1%BA%A9m%20l%C3%A0%20%C4%91%E1%BB%83%20b%C3%A1n%20l%E1%BB%9Di%20h%E1%BB%A9a%20cho%20nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0,%20kh%C3%B4ng%20ph%E1%BA%A3i%20%C4%91%E1%BB%83%20b%C3%A1n%20s%E1%BA%A3n%20ph%E1%BA%A9m%20cho%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/6Lxk9NMeWHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Hãy tưởng tượng rằng hình tròn dưới đây chứa toàn bộ tri thức của nhân loại.

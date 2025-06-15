@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-06-13T15:06
+updated: 2025-06-15T13:29
 ---
 Bạn tuy có thể không biết horseshit thì cũng là bullshit, nhưng bạn chắc đã biết bullshit là những thứ vớ vẩn, nhảm cứt. Trong lúc mình đang lướt Sketchplanations thì bắt gặp tranh vẽ mình hoạ [nguyên lý bất đối xứng cứt bò](https://sketchplanations.com/the-bs-asymmetry-principle) này:
 
@@ -63,6 +63,7 @@ Mình xem quan điểm của Cohen, và ngẫm nghĩ rằng nếu vì bất đ�
 
 Vẫn là biết được mình đúng 
 
+Không nói gì về việc làm sao để biết được sự thật. Đó có lẽ là một chiến lược tốt. 
 Không cảm nhận được ác ý gì. Giống như cách người miền Bắc dùng từ dốt.  Nhưng mình luôn cảm thấy nó có sự xúc phạm
 Những thứ khiến cho việc tiếp cận. Có 2 phiên bản cứt bò:
 - Nhảm cứt mạnh: từ mong muốn thuyết phục người khác theo ý mình
@@ -107,3 +108,8 @@ Cũng vậy, cũng tin cho tới khi có người chỉ ra giùm. Còn mình kh�
 
 
 công việc vô nghĩa, tổ chức vô lý
+
+AI
+a student, a thinker, and a scholar
+Không có người làm doanh nghiệp, lập trình viên, translation
+bullshit in specific domains

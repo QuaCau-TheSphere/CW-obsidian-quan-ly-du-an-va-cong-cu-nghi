@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-04-24T12:59
+updated: 2025-06-19T22:08
 ---
 Tuy [Hình ảnh một phần mềm được xây dựng thuần tuý từ lý thuyết là một ảo tưởng](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/Ki%E1%BA%BFn%20tr%C3%BAc/H%C3%ACnh%20%E1%BA%A3nh%20m%E1%BB%99t%20ph%E1%BA%A7n%20m%E1%BB%81m%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A2y%20d%E1%BB%B1ng%20thu%E1%BA%A7n%20tu%C3%BD%20t%E1%BB%AB%20l%C3%BD%20thuy%E1%BA%BFt%20l%C3%A0%20m%E1%BB%99t%20%E1%BA%A3o%20t%C6%B0%E1%BB%9Fng.md), nhưng [Việc giả bộ là phần mềm được xây dựng bằng lý tính là có ích](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/Ki%E1%BA%BFn%20tr%C3%BAc/Vi%E1%BB%87c%20gi%E1%BA%A3%20b%E1%BB%99%20l%C3%A0%20ph%E1%BA%A7n%20m%E1%BB%81m%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A2y%20d%E1%BB%B1ng%20b%E1%BA%B1ng%20l%C3%BD%20t%C3%ADnh%20l%C3%A0%20c%C3%B3%20%C3%ADch.md)
 

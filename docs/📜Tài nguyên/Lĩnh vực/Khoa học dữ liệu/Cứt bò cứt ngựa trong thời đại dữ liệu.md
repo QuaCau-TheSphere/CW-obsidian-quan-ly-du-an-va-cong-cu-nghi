@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-06-15T13:29
+updated: 2025-06-17T13:33
 ---
 Bạn tuy có thể không biết horseshit thì cũng là bullshit, nhưng bạn chắc đã biết bullshit là những thứ vớ vẩn, nhảm cứt. Trong lúc mình đang lướt Sketchplanations thì bắt gặp tranh vẽ mình hoạ [nguyên lý bất đối xứng cứt bò](https://sketchplanations.com/the-bs-asymmetry-principle) này:
 
@@ -16,7 +16,7 @@ Nếu chỉ là cái tranh nhảm cứt đó thôi thì mình cũng chỉ phì c
 2. [Nhận diện cứt bò](https://www.callingbullshit.org/syllabus.html#Spotting): một số kỹ thuật đánh giá nhanh xem một thứ có phải là cứt bò hay không
 3. [Hệ sinh thái cứt bò](https://www.callingbullshit.org/syllabus.html#Ecology): tại sao chất dinh dưỡng lại trở thành cứt? Cứt nhỏ đã lớn thành cứt bự thế nào?
 4. [Mối quan hệ nhân quả cứt bò](https://www.callingbullshit.org/syllabus.html#Causality)
-5. [Thống kê cứt bò](https://www.callingbullshit.org/syllabus.html#Statistical)
+5. [Thống kê cứt bò](https://www.g/syllabus.html#Statistical)
 6. [Minh hoạ dữ liệu cứt bò](https://www.callingbullshit.org/syllabus.html#Visual)
 7. [Dữ liệu lớn cứt bò](https://www.callingbullshit.org/syllabus.html#Big)
 8. [Thiên kiến trong xuất bản](https://www.callingbullshit.org/syllabus.html#Publication): việc cả tác giả và tạp chí chỉ quan tâm đến những kết quả có p < 0.05 đã tạo 
@@ -111,5 +111,7 @@ công việc vô nghĩa, tổ chức vô lý
 
 AI
 a student, a thinker, and a scholar
-Không có người làm doanh nghiệp, lập trình viên, translation
+Không có người làm doanh nghiệp, lập trình viên, dịch thuật, học ngoại ngữ, nghiên cứu định tính, kế toán, bán hàng
 bullshit in specific domains
+steelman argument 
+Những cái nào ko có evidence thì thêm citation needed 

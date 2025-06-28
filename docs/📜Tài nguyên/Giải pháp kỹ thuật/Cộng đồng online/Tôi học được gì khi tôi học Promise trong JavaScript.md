@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-24T21:23
-updated: 2024-11-30T01:18
+updated: 2025-06-25T12:19
 ---
 Tôi đang trong cơn muốn tìm hiểu về đường cú pháp, và tôi google [`syntactic sugar`](https://www.google.com/search?client=firefox-b-d&q=syntactic+sugar). Tôi bấm các liên kết tôi thấy hấp dẫn, và trong đó có bài [On syntactic sugar](https://evertpot.com/syntactic-sugar/). Dường như trong những kết quả được lên trang nhất Google, thì tôi thấy muốn đọc các blog cá nhân hơn, vì cảm giác mình sẽ dễ thu lượm được những thứ mà những nền tảng blog khác như dev.to, freeCodeCamp, Quora, v.v. ít khi cung cấp. Tôi nghĩ nhiều bài trên đó cũng đáng xem, nhưng để biết được những thứ thực sự rất rốt ráo thì . Bài viết dẫn tới hai bài này:
 - [Why Async/Await Is More Than Just Syntactic Sugar](https://www.zhenghao.io/posts/await-vs-promise)
@@ -54,6 +54,8 @@ Viết được xong cho bài "Đối số của Promise là một hàm. Nó đ�
 [JavaScript — Dynamic client-side scripting - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript "JavaScript — Dynamic client-side scripting - Learn web development | MDN")
 Tập trung vào việc làm web, nên những bài đầu tiên là html, css. JS được dùng cũng chỉ tập trung vào xử lý. Những nguồn khác tập trung vào việc xem JS là một ngôn ngữ hơn
 Yêu cầu phải có khái niệm về HTML và CSS rồi
+### [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+có interactive editor như kiểu của Bret Victor
 
 [Foundations of asynchronous programming in JavaScript](https://exploringjs.com/js/book/ch_async-js.html#ch_async-js)
 [CodeAnalogies Blog – Visual explanations of HTML, CSS and JavaScript concepts](https://blog.codeanalogies.com/)

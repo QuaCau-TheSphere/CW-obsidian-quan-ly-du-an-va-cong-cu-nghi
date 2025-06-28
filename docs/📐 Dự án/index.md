@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-28T22:40
-updated: 2025-05-28T17:56
+updated: 2025-06-23T21:17
 title: 📐 Dự án
 ---
 
@@ -63,6 +63,7 @@ Nhà nghiên cứu
 - Chia sẻ, thảo luận, tập huấn về lợi ích của các phần mềm ghi chú động lưu dữ liệu trên máy người dùng trước (local-first) 
 - Chia sẻ, thảo luận, tập huấn về lập trình hoặc các giải pháp đáp ứng nhu cầu công việc
 - Xây dựng một hệ thống dữ liệu chuyên dụng cho người làm phi lợi nhuận và lưu dữ liệu trên máy người dùng trước chứ không lệ thuộc vào các SaaS
+- Khuyến khích các cổng thông tin hỗ trợ lập trình viên 
 
 ## Cộng đồng sẽ tham gia vào những hoạt động nào?
 - Đóng góp thông tin về các địa điểm gặp mặt cho người làm phi lợi nhuận, các ý tưởng kiếm tiền

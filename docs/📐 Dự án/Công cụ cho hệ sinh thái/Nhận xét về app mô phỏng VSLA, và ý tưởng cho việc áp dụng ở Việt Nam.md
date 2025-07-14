@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-06-28T15:35
+updated: 2025-07-08T21:34
+alias: Kula
 ---
 ## Nhận xét về app mô phỏng VSLA
 (Nhận xét có được sau khi chơi được một nửa [app mô phỏng VSLA](https://fabo.org/dca/VSLA_training), đọc hết [tài liệu cho người điều phối](https://fabo.org/pluginfile.php/180950/mod_resource/content/2/VSLA_SimulationGameApp_guideline.pdf) và xem hết [webminar](https://careorg.zoom.us/rec/play/HKnQzNXB9gbPYCjljaGvVTB-RtIpYbMGVAco53mwInmEvCaKhyoIo4GxsRdEXxs3h4-p3bPTbQHkeTZj.YxB6EWTGgLRqcS8M?continueMode=true&_x_zm_rtaid=z95Dco_2QRa5GnzWSjahbA.1642670731961.030913f153adafd79a992fa11e7eda2e&_x_zm_rhtaid=917). Webminar phát âm khó nghe nên cũng lõm bõm)
@@ -57,18 +58,3 @@ Mấy cái đồng coin hay có mấy cái game dùng để làm quen với nó,
 Đọc thêm: 
 - [Môi trường nghĩ là nơi ta có thể có những loại suy nghĩ mới, những suy nghĩ mà trước đây ta không thể hình thành](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9%20l%C3%A0%20n%C6%A1i%20ta%20c%C3%B3%20th%E1%BB%83%20c%C3%B3%20nh%E1%BB%AFng%20lo%E1%BA%A1i%20suy%20ngh%C4%A9%20m%E1%BB%9Bi,%20nh%E1%BB%AFng%20suy%20ngh%C4%A9%20m%C3%A0%20tr%C6%B0%E1%BB%9Bc%20%C4%91%C3%A2y%20ta%20kh%C3%B4ng%20th%E1%BB%83%20h%C3%ACnh%20th%C3%A0nh.md)
 - [Cần nghĩ về công việc như là một cách để kiểm định giả thiết, chứ không phải chỉ để hoàn thành](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/C%E1%BA%A7n%20ngh%C4%A9%20v%E1%BB%81%20c%C3%B4ng%20vi%E1%BB%87c%20nh%C6%B0%20l%C3%A0%20m%E1%BB%99t%20c%C3%A1ch%20%C4%91%E1%BB%83%20ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thi%E1%BA%BFt,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20ch%E1%BB%89%20%C4%91%E1%BB%83%20ho%C3%A0n%20th%C3%A0nh.md)
-
-
-## Về Quỹ Đồng Hành của Kulavietnam
-Theo [Hướng dẫn về Quỹ Đồng Hành](https://docs.google.com/document/u/0/d/1A5eW3CkKm55YSxaODh50mr_DDLG0ssM9DTOt3emef5I/mobilebasic "https://docs.google.com/document/u/0/d/1A5eW3CkKm55YSxaODh50mr_DDLG0ssM9DTOt3emef5I/mobilebasic"), các thông tin sẽ được công khai trong hệ thống online, ví dụ như mỗi lần mua cổ phần.
-
-Liên kết:
-- https://studio--quy-cong-dong.us-central1.hosted.app/
-- https://studio.firebase.google.com/studio-5700039935
-- https://www.perplexity.ai/search/toi-co-the-tao-trang-web-voi-1-2IwHvf2TTf.npkyrgZTCzg#5
-
-Câu hỏi:
-- Tại sao chỉ cho nhu cầu học tập hoặc kinh doanh? Tại sao không cho vay tiêu dùng, sinh hoạt? Hình như trong mô hình VSLA thì việc vay cho tiêu dùng vẫn cho phép? Nếu mua xe tải để chở hàng thì đó là vật dụng sinh hoạt hay là để kinh doanh?
-- Tại sao kinh doanh lại được mà đầu tư thì không? Mua hàng áp mã giảm giá trên Shopee xong bán lại cho shop ngoài là kinh doanh hay đầu tư?
-- Có phải mô hình này chỉ là tài chính vi mô, không phải là VSLA vì nó không phải họp mặt mỗi tuần và không cần tới 3 người giữ khoá?
-- Có lẽ câu trả lời cho những câu hỏi trên nên được ghi vào trong bài hướng dẫn?

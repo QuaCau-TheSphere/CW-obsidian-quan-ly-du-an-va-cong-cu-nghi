@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-27T15:43
+updated: 2025-07-13T11:27
 alias:
   - Đọc hướng dẫn sử dụng cũng nhức đầu
 ---
@@ -18,3 +18,5 @@ Lý do:: [Ta thường không sẵn sàng để đọc một tài liệu khi ta 
 
 [Lập trình viên biết lập trình chủ yếu là nhờ biết google](../../Nh%C3%A2n%20h%E1%BB%8Dc/L%E1%BA%ADp%20tr%C3%ACnh%20vi%C3%AAn%20bi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%ACnh%20ch%E1%BB%A7%20y%E1%BA%BFu%20l%C3%A0%20nh%E1%BB%9D%20bi%E1%BA%BFt%20google.md), [Người không học về lập trình thấy việc lập trình như làm phép thuật](../../Nh%C3%A2n%20h%E1%BB%8Dc/Ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20h%E1%BB%8Dc%20v%E1%BB%81%20l%E1%BA%ADp%20tr%C3%ACnh%20th%E1%BA%A5y%20vi%E1%BB%87c%20l%E1%BA%ADp%20tr%C3%ACnh%20nh%C6%B0%20l%C3%A0m%20ph%C3%A9p%20thu%E1%BA%ADt.md)
 Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../%CE%9E%20Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
+
+[Khi được trò chuyện với người cùng quan tâm thì việc nghĩ không nhức đầu. Khi không có thì việc nghĩ nhức đầu](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20thi%E1%BA%BFt%20k%E1%BA%BF/Khi%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%B2%20chuy%E1%BB%87n%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20c%C3%B9ng%20quan%20t%C3%A2m%20th%C3%AC%20vi%E1%BB%87c%20ngh%C4%A9%20kh%C3%B4ng%20nh%E1%BB%A9c%20%C4%91%E1%BA%A7u.%20Khi%20kh%C3%B4ng%20c%C3%B3%20th%C3%AC%20vi%E1%BB%87c%20ngh%C4%A9%20nh%E1%BB%A9c%20%C4%91%E1%BA%A7u.md)

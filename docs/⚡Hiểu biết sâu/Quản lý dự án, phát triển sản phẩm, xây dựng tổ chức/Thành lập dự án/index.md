@@ -1,9 +1,30 @@
 ---
 share: true
 created: 2023-11-05T19:53
-updated: 2023-11-13T13:28
+updated: 2025-07-14T19:00
 title: Thành lập dự án
 ---
+
+- \-: 
+    - [Làm thứ một số người rất cần quan trọng hơn là làm thứ nhiều người thấy hay](./L%C3%A0m%20th%E1%BB%A9%20m%E1%BB%99t%20s%E1%BB%91%20ng%C6%B0%E1%BB%9Di%20r%E1%BA%A5t%20c%E1%BA%A7n%20quan%20tr%E1%BB%8Dng%20h%C6%A1n%20l%C3%A0%20l%C3%A0m%20th%E1%BB%A9%20nhi%E1%BB%81u%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20hay.md)
+    - [Trực giác về con người thường đúng. Trực giác về cách startup hoạt động thường sai](./Tr%E1%BB%B1c%20gi%C3%A1c%20v%E1%BB%81%20con%20ng%C6%B0%E1%BB%9Di%20th%C6%B0%E1%BB%9Dng%20%C4%91%C3%BAng.%20Tr%E1%BB%B1c%20gi%C3%A1c%20v%E1%BB%81%20c%C3%A1ch%20startup%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20th%C6%B0%E1%BB%9Dng%20sai.md)
+
+- Startup: 
+    - [Chiếm lĩnh thị trường nhỏ trước](./Startup/Chi%E1%BA%BFm%20l%C4%A9nh%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20nh%E1%BB%8F%20tr%C6%B0%E1%BB%9Bc.md)
+    - [Làm người sáng lập có hại cho việc cân bằng cuộc sống](./Startup/L%C3%A0m%20ng%C6%B0%E1%BB%9Di%20s%C3%A1ng%20l%E1%BA%ADp%20c%C3%B3%20h%E1%BA%A1i%20cho%20vi%E1%BB%87c%20c%C3%A2n%20b%E1%BA%B1ng%20cu%E1%BB%99c%20s%E1%BB%91ng.md)
+    - [Hiểu về quản trị chỉ cần thiết khi đã có thành công bước đầu. Trước đó thì hãy chỉ tập trung vào sản phẩm](./Startup/Hi%E1%BB%83u%20v%E1%BB%81%20qu%E1%BA%A3n%20tr%E1%BB%8B%20ch%E1%BB%89%20c%E1%BA%A7n%20thi%E1%BA%BFt%20khi%20%C4%91%C3%A3%20c%C3%B3%20th%C3%A0nh%20c%C3%B4ng%20b%C6%B0%E1%BB%9Bc%20%C4%91%E1%BA%A7u.%20Tr%C6%B0%E1%BB%9Bc%20%C4%91%C3%B3%20th%C3%AC%20h%C3%A3y%20ch%E1%BB%89%20t%E1%BA%ADp%20trung%20v%C3%A0o%20s%E1%BA%A3n%20ph%E1%BA%A9m.md)
+    - [Không có giải pháp nào cho người sáng lập để giải quyết sự quá tải ngoài những lời khuyên chung chung](./Startup/Kh%C3%B4ng%20c%C3%B3%20gi%E1%BA%A3i%20ph%C3%A1p%20n%C3%A0o%20cho%20ng%C6%B0%E1%BB%9Di%20s%C3%A1ng%20l%E1%BA%ADp%20%C4%91%E1%BB%83%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20s%E1%BB%B1%20qu%C3%A1%20t%E1%BA%A3i%20ngo%C3%A0i%20nh%E1%BB%AFng%20l%E1%BB%9Di%20khuy%C3%AAn%20chung%20chung.md)
+    - [Nhà đầu tư không ăn cắp ý tưởng vì phải cạnh tranh với các nhà đầu tư khác](./Startup/Nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20kh%C3%B4ng%20%C4%83n%20c%E1%BA%AFp%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20v%C3%AC%20ph%E1%BA%A3i%20c%E1%BA%A1nh%20tranh%20v%E1%BB%9Bi%20c%C3%A1c%20nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20kh%C3%A1c.md)
+    - [Những dự án ngoài lề thường là ý tưởng tốt cho startup. Những ý tưởng chỉ để có một startup lại thường không tốt](./Startup/Nh%E1%BB%AFng%20d%E1%BB%B1%20%C3%A1n%20ngo%C3%A0i%20l%E1%BB%81%20th%C6%B0%E1%BB%9Dng%20l%C3%A0%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20t%E1%BB%91t%20cho%20startup.%20Nh%E1%BB%AFng%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20ch%E1%BB%89%20%C4%91%E1%BB%83%20c%C3%B3%20m%E1%BB%99t%20startup%20l%E1%BA%A1i%20th%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20t%E1%BB%91t.md)
+    - [Nhà đầu tư là người ra quyết định cuối cùng về sản phẩm, không phải người dùng](./Startup/Nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20cu%E1%BB%91i%20c%C3%B9ng%20v%E1%BB%81%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20kh%C3%B4ng%20ph%E1%BA%A3i%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
+    - [Startup = tăng trưởng](./Startup/Startup%20=%20t%C4%83ng%20tr%C6%B0%E1%BB%9Fng.md)
+    - [Startup giải quyết những vấn đề nghe thì tồi](./Startup/Startup%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20nh%E1%BB%AFng%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20nghe%20th%C3%AC%20t%E1%BB%93i.md)
+    - [Quá trình chú ý và ghi nhớ ép ta phải đơn giản](./Startup/Qu%C3%A1%20tr%C3%ACnh%20ch%C3%BA%20%C3%BD%20v%C3%A0%20ghi%20nh%E1%BB%9B%20%C3%A9p%20ta%20ph%E1%BA%A3i%20%C4%91%C6%A1n%20gi%E1%BA%A3n.md)
+    - [Việc kể ý tưởng startup ra thường không phải là nguy hiểm, vì không ai cạnh tranh với ý tưởng tồi](./Startup/Vi%E1%BB%87c%20k%E1%BB%83%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20startup%20ra%20th%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20nguy%20hi%E1%BB%83m,%20v%C3%AC%20kh%C3%B4ng%20ai%20c%E1%BA%A1nh%20tranh%20v%E1%BB%9Bi%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20t%E1%BB%93i.md)
+    - [Ý tưởng startup lớn thách thức căn tính của bạn](./Startup/%C3%9D%20t%C6%B0%E1%BB%9Fng%20startup%20l%E1%BB%9Bn%20th%C3%A1ch%20th%E1%BB%A9c%20c%C4%83n%20t%C3%ADnh%20c%E1%BB%A7a%20b%E1%BA%A1n.md)
+    - [Đa số startup không chết vì cạnh tranh với đối thủ, mà vì không có người dùng sản phẩm của mình](./Startup/%C4%90a%20s%E1%BB%91%20startup%20kh%C3%B4ng%20ch%E1%BA%BFt%20v%C3%AC%20c%E1%BA%A1nh%20tranh%20v%E1%BB%9Bi%20%C4%91%E1%BB%91i%20th%E1%BB%A7,%20m%C3%A0%20v%C3%AC%20kh%C3%B4ng%20c%C3%B3%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20s%E1%BA%A3n%20ph%E1%BA%A9m%20c%E1%BB%A7a%20m%C3%ACnh.md)
+    - [Sự đơn giản ép ta phải làm nó cực kỳ tốt](./Startup/S%E1%BB%B1%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20%C3%A9p%20ta%20ph%E1%BA%A3i%20l%C3%A0m%20n%C3%B3%20c%E1%BB%B1c%20k%E1%BB%B3%20t%E1%BB%91t.md)
+    - [Đừng nhìn vào đối thủ cạnh tranh, mà hãy nhìn vào người dùng](./Startup/%C4%90%E1%BB%ABng%20nh%C3%ACn%20v%C3%A0o%20%C4%91%E1%BB%91i%20th%E1%BB%A7%20c%E1%BA%A1nh%20tranh,%20m%C3%A0%20h%C3%A3y%20nh%C3%ACn%20v%C3%A0o%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
 
 
 

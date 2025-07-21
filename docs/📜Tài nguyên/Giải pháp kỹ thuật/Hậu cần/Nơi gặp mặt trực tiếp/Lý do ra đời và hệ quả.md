@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-06T12:52
-updated: 2025-07-17T12:17
+updated: 2025-07-17T14:18
 description: Nó khác gì với những dự án tương tự khác? Nó chấp nhận những đánh đổi nào?
 alias: Động lực
 ---
@@ -50,12 +50,14 @@ Xem thêm::
 ## Phân tích ca
 Kho địa điểm này khác gì với những dự án tương tự khác?
 
-### [Bản đồ tiếp cận D.Map](https://www.drdvietnam.org/vi/du-an/ban-do-tiep-can-dmap/gioi-thieu/)
+### Bản đồ tiếp cận D.Map
 [D.Map](https://dmap.drdvietnam.org/#/mapx) là một bản đồ hướng đến việc giúp người khuyết tật tìm kiếm các công trình công cộng tiếp cận. Dự án được USAID và UNDP Việt Nam tài trợ, và có sự tham gia của báo chí, tổ chức sự kiện ở nhiều tỉnh thành. Vào thời điểm ra mắt, nó có cả app cho Android và iOS, nhưng bây giờ đã bị gỡ xuống.
 
-dường như cũng đã chết sau 5 năm.
+Kiến thức để tự vận hành một cơ sở dữ liệu thế này phức tạp hơn cho người không biết gì
+
 ![Pasted image 20250717114312.png](../../../../attachments/Pasted%20image%2020250717114312.png)
 ![Pasted image 20250717114251.png](../../../../attachments/Pasted%20image%2020250717114251.png)
+Dường như dự án đã ngừng hoạt động. Trong [trang giới thiệu dự án](https://www.drdvietnam.org/vi/du-an/ban-do-tiep-can-dmap/gioi-thieu/), lần cuối cùng cập nhật là 2021. Các app Andoird và iOS cũng đã bị gỡ xuống. Chức năng đăng ký không hoạt động được.
 
 ## Hệ quả của các lý do trên
 Giải pháp đáp ứng được tất cả các nhu cầu này là một [hệ thống tri thức cộng đồng](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md) dưới hình thức là một [tài liệu động](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md) được lưu ở định dạng đơn giản nhất là văn bản thuần. 

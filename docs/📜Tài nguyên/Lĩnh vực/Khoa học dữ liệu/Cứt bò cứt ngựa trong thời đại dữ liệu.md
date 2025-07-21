@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-06-17T13:33
+updated: 2025-07-20T22:33
 ---
 Bạn tuy có thể không biết horseshit thì cũng là bullshit, nhưng bạn chắc đã biết bullshit là những thứ vớ vẩn, nhảm cứt. Trong lúc mình đang lướt Sketchplanations thì bắt gặp tranh vẽ mình hoạ [nguyên lý bất đối xứng cứt bò](https://sketchplanations.com/the-bs-asymmetry-principle) này:
 
@@ -111,7 +111,8 @@ công việc vô nghĩa, tổ chức vô lý
 
 AI
 a student, a thinker, and a scholar
-Không có người làm doanh nghiệp, lập trình viên, dịch thuật, học ngoại ngữ, nghiên cứu định tính, kế toán, bán hàng
-bullshit in specific domains
+- Không có người làm doanh nghiệp, lập trình viên, dịch thuật, học ngoại ngữ, nghiên cứu định tính, kế toán, bán hàng
+- bullshit in specific domains
+- Perplexity có citation
 steelman argument 
 Những cái nào ko có evidence thì thêm citation needed 

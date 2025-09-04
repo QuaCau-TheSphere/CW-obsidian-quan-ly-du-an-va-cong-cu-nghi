@@ -2,7 +2,7 @@
 share: true
 description: Hỏi một người liệu sau này họ có làm điều này điều kia không là không chắc đúng
 created: 2023-05-26T14:51
-updated: 2024-09-07T21:45
+updated: 2025-08-13T09:48
 ---
 Lý do:: [Con người nhiều khi không nói dối mà chỉ đang lý tưởng hoá bản thân](./H%C3%A0nh%20vi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Con%20ng%C6%B0%E1%BB%9Di%20nhi%E1%BB%81u%20khi%20kh%C3%B4ng%20n%C3%B3i%20d%E1%BB%91i%20m%C3%A0%20ch%E1%BB%89%20%C4%91ang%20l%C3%BD%20t%C6%B0%E1%BB%9Fng%20ho%C3%A1%20b%E1%BA%A3n%20th%C3%A2n.md)
 Ví dụ về một số câu hỏi cho ra kết quả không đáng tin cậy:
@@ -16,7 +16,7 @@ Mặc dù phỏng vấn khó có thể dự đoán hành vi, nhưng [Phỏng v�
 [Kết quả phỏng vấn phải actionable](./K%E1%BA%BFt%20qu%E1%BA%A3%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20ph%E1%BA%A3i%20actionable.md)
 
 Nguồn:: [Hoàng Đức Minh](../../../../../%CE%9E%20Ngu%E1%BB%93n/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ho%C3%A0ng%20%C4%90%E1%BB%A9c%20Minh.md)
-
+[Phỏng vấn là để hiểu vấn đề người dùng gặp phải, không phải để cải thiện giải pháp](./Ph%E1%BB%8Fng%20v%E1%BA%A5n%20l%C3%A0%20%C4%91%E1%BB%83%20hi%E1%BB%83u%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20g%E1%BA%B7p%20ph%E1%BA%A3i,%20kh%C3%B4ng%20ph%E1%BA%A3i%20%C4%91%E1%BB%83%20c%E1%BA%A3i%20thi%E1%BB%87n%20gi%E1%BA%A3i%20ph%C3%A1p.md)
 [Người dùng nói thích một tính năng không có nghĩa là họ sẽ bỏ những sản phẩm khác để đến với tính năng của mình](./H%C3%A0nh%20vi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20n%C3%B3i%20th%C3%ADch%20m%E1%BB%99t%20t%C3%ADnh%20n%C4%83ng%20kh%C3%B4ng%20c%C3%B3%20ngh%C4%A9a%20l%C3%A0%20h%E1%BB%8D%20s%E1%BA%BD%20b%E1%BB%8F%20nh%E1%BB%AFng%20s%E1%BA%A3n%20ph%E1%BA%A9m%20kh%C3%A1c%20%C4%91%E1%BB%83%20%C4%91%E1%BA%BFn%20v%E1%BB%9Bi%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20m%C3%ACnh.md) 
 [Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình](../../../../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/V%E1%BB%81%20m%E1%BA%B7t%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20con%20ng%C6%B0%E1%BB%9Di%20t%C6%B0%C6%A1ng%20lai%20c%E1%BB%A7a%20ch%C3%ADnh%20m%C3%ACnh%20kh%C3%B4ng%20li%C3%AAn%20quan%20g%C3%AC%20%C4%91%E1%BA%BFn%20m%C3%ACnh.md)
 Mâu thuẫn với:: [Dữ liệu nhỏ cũng có tính dự báo xu hướng giống như dữ liệu lớn](../../../../../Nh%C3%A2n%20h%E1%BB%8Dc/D%E1%BB%AF%20li%E1%BB%87u%20nh%E1%BB%8F%20c%C5%A9ng%20c%C3%B3%20t%C3%ADnh%20d%E1%BB%B1%20b%C3%A1o%20xu%20h%C6%B0%E1%BB%9Bng%20gi%E1%BB%91ng%20nh%C6%B0%20d%E1%BB%AF%20li%E1%BB%87u%20l%E1%BB%9Bn.md)

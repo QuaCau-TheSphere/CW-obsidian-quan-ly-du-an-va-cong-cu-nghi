@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2024-08-23T15:06
-updated: 2025-07-14T15:18
-alias:
+updated: 2025-09-18T16:58
+aliases:
   - Kho địa điểm để chọn nơi gặp mặt
   - Hướng dẫn sử dụng kho địa điểm để chọn nơi gặp mặt
   - Tìm nơi gặp mặt trực tiếp
@@ -14,7 +14,7 @@ title: Kho địa điểm để chọn nơi gặp mặt
 - Địa điểm công cộng
 - Không gian làm việc chung
 - Phòng họp riêng
-- Phòng tập
+- Phòng tập nhảy
 - Quán có phòng riêng
 - Quán không có phòng riêng
 - Nhà riêng

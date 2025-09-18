@@ -1,7 +1,7 @@
 ---
 share: true
-created: 2024-06-22T01:33
-updated: 2025-04-22T15:28
+created: 2025-05-26T19:55
+updated: 2025-09-18T16:34
 ---
 
 Việc làm sản phẩm thì muốn làm thật ít chức năng càng tốt. Việc viết phần mềm đòi hỏi nên lên kế hoạch các chức năng kỹ càng, vì nếu không việc đập code rất mệt

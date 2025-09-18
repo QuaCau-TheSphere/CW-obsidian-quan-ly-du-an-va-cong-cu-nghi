@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-22T15:09
-updated: 2025-07-14T17:56
+updated: 2025-09-18T16:31
 ---
 Khái niệm:: 
 
@@ -28,7 +28,7 @@ Khái niệm::
 Nguồn:: [A Rational Design Process: How and Why to Fake It](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6312940)
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=2Ki12Pi3hnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Việc làm sản phẩm thì muốn làm thật ít chức năng càng tốt, nhưng việc viết phần mềm  đòi hỏi nên lên kế hoạch các chức năng kỹ càng](Vi%E1%BB%87c%20l%C3%A0m%20s%E1%BA%A3n%20ph%E1%BA%A9m%20th%C3%AC%20mu%E1%BB%91n%20l%C3%A0m%20th%E1%BA%ADt%20%C3%ADt%20ch%E1%BB%A9c%20n%C4%83ng%20c%C3%A0ng%20t%E1%BB%91t,%20nh%C6%B0ng%20vi%E1%BB%87c%20vi%E1%BA%BFt%20ph%E1%BA%A7n%20m%E1%BB%81m%20%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20n%C3%AAn%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch%20c%C3%A1c%20ch%E1%BB%A9c%20n%C4%83ng%20k%E1%BB%B9%20c%C3%A0ng.md)
+[Việc làm sản phẩm thì muốn làm thật ít chức năng càng tốt, nhưng việc viết phần mềm đòi hỏi nên lên kế hoạch các chức năng kỹ càng](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Vi%E1%BB%87c%20l%C3%A0m%20s%E1%BA%A3n%20ph%E1%BA%A9m%20th%C3%AC%20mu%E1%BB%91n%20l%C3%A0m%20th%E1%BA%ADt%20%C3%ADt%20ch%E1%BB%A9c%20n%C4%83ng%20c%C3%A0ng%20t%E1%BB%91t,%20nh%C6%B0ng%20vi%E1%BB%87c%20vi%E1%BA%BFt%20ph%E1%BA%A7n%20m%E1%BB%81m%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20n%C3%AAn%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch%20c%C3%A1c%20ch%E1%BB%A9c%20n%C4%83ng%20k%E1%BB%B9%20c%C3%A0ng.md)
 [Mỗi một nhiệm vụ đều chứa những cái không biết, vì nếu đã biết rồi thì nó đã trở thành thư viện](../M%E1%BB%97i%20m%E1%BB%99t%20nhi%E1%BB%87m%20v%E1%BB%A5%20%C4%91%E1%BB%81u%20ch%E1%BB%A9a%20nh%E1%BB%AFng%20c%C3%A1i%20kh%C3%B4ng%20bi%E1%BA%BFt,%20v%C3%AC%20n%E1%BA%BFu%20%C4%91%C3%A3%20bi%E1%BA%BFt%20r%E1%BB%93i%20th%C3%AC%20n%C3%B3%20%C4%91%C3%A3%20tr%E1%BB%9F%20th%C3%A0nh%20th%C6%B0%20vi%E1%BB%87n.md)
 [Những vấn đề ở cấp độ byte cũng gây ảnh hưởng tới các quyết định ở cấp độ chiến lược kiến trúc thượng tầng](./Nh%E1%BB%AFng%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20%E1%BB%9F%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20byte%20c%C5%A9ng%20g%C3%A2y%20%E1%BA%A3nh%20h%C6%B0%E1%BB%9Fng%20t%E1%BB%9Bi%20c%C3%A1c%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20%E1%BB%9F%20c%E1%BA%A5p%20%C4%91%E1%BB%99%20chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20ki%E1%BA%BFn%20tr%C3%BAc%20th%C6%B0%E1%BB%A3ng%20t%E1%BA%A7ng.md)
 [Việc phân loại không quan trọng bằng việc chuẩn bị cho sự thay đổi cách phân loại](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/B%E1%BA%A3n%20th%E1%BB%83%20lu%E1%BA%ADn/Ph%C3%A2n%20lo%E1%BA%A1i/Vi%E1%BB%87c%20ph%C3%A2n%20lo%E1%BA%A1i%20kh%C3%B4ng%20quan%20tr%E1%BB%8Dng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20chu%E1%BA%A9n%20b%E1%BB%8B%20cho%20s%E1%BB%B1%20thay%20%C4%91%E1%BB%95i%20c%C3%A1ch%20ph%C3%A2n%20lo%E1%BA%A1i.md)

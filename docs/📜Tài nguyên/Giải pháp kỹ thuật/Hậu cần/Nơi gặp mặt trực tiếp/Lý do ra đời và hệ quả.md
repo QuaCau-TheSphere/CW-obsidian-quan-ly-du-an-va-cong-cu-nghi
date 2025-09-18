@@ -4,7 +4,7 @@ created: 2025-05-06T12:52
 description: Nó khác gì với những dự án tương tự khác? Nó chấp nhận những đánh đổi nào?
 aliases:
   - Động lực
-updated: 2025-09-18T14:52
+updated: 2025-09-18T17:58
 ---
 # Lý do ra đời kho địa điểm để chọn nơi gặp mặt, và hệ quả của những lý do đó
 [Kho địa điểm để chọn nơi gặp mặt](./index.md)
@@ -24,15 +24,20 @@ Các SaaS tổng hợp địa điểm gặp mặt như Foody, do phải tính đ
 Đây không phải là nơi để làm điều đó. Có người sẽ lập luận rằng việc kiếm tiền không xấu để ủng hộ cho hành vi này. Nhưng vẫn có những cách khác để kiếm tiền mà không phải làm những điều đó, như yêu cầu người dùng trả tiền để được sử dụng. (Nói cho chặt chẽ thì việc đó cũng không ngăn cản nhà phát hành cài cắm những kỹ thuật để thao túng, khai thác người dùng. Chỉ có những [phần mềm tự do và mã nguồn mở](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/T%E1%BB%B1%20tr%E1%BB%8B%20d%E1%BB%AF%20li%E1%BB%87u.%20M%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F,%20ph%E1%BA%A7n%20m%E1%BB%81m%20t%E1%BB%B1%20do/Ph%E1%BA%A7n%20m%E1%BB%81m%20t%E1%BB%B1%20do%20v%C3%A0%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F/index.md) mới giải quyết triệt để vấn đề này.)
 
 ### Đáp ứng được các nhu cầu khác nhau một cách dễ dàng
-Một người ở TPHCM sẽ có nhu cầu khác với một người ở Hà Nội. Một người khuyết tật nhìn có nhu cầu khác với một người khuyết tật vận động. Một người đi xe máy có nhu cầu khác với một người đi xe buýt. Người ở TP.HCM sẽ không quan tâm các địa điểm ở Hà Nội. Người khuyết tật nhìn sẽ muốn đến nơi yên tĩnh, còn người khuyết tật vận động sẽ muốn đến nơi xe lăn đi lại dễ dàng được. Người đi xe buýt muốn tìm những quán gần các bến xe.
+Một người ở TPHCM sẽ có nhu cầu khác với một người ở Hà Nội: họ không quan tâm các địa điểm ở Hà Nội. Một người khuyết tật nhìn có nhu cầu khác với một người khuyết tật vận động: một người muốn đến nơi yên tĩnh, còn một người muốn đến nơi xe lăn đi lại dễ dàng được. Một người đi xe đạp có nhu cầu khác với một người đi xe buýt: người đi xe đạp muốn tìm quán gần nhà, còn người đi xe buýt muốn tìm quán gần các trạm xe.
 
-Sẽ luôn luôn có những nhu cầu đặc biệt mà những người xây dựng nên nơi này cũng không đoán ra được. Có người sẽ hỏi rằng tại sao không tập trung vào một nhu cầu và giải quyết nó cho thật tốt? nhìn kỹ thì các nhu cầu này không khác về bản chất, mà chỉ khác ở các *trường thông tin đầu vào*. Chỉ cần 
-Đến từ việc [Phân loại](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Ph%C3%A2n%20lo%E1%BA%A1i.md) thông tin.
+Chưa kể, sự khác biệt đâu chỉ ở phía cầu, mà còn ở phía cung. Quán nước có những đặc điểm mà không gian làm việc chung, phòng họp riêng, địa điểm công cộng hay nhà riêng không có. Ngay cả trong quán nước cũng muôn hình vạn trạng: có quán cho dùng không gian miễn phí không cần gọi đồ uống, có quán thì cần gọi đồ uống. Có quán dùng ghế gây đau lưng, có quán dùng đèn gây đau mắt. Bất kể là tập trung vào đối tượng thụ hưởng nào thì những sự đa dạng này đã phải được tính đến.
+
+Sẽ luôn luôn có những nhu cầu đặc biệt mà những người xây dựng nên nơi này cũng không tài nào đoán ra được. Sẽ có người hỏi rằng: tại sao không tập trung vào một nhu cầu và giải quyết nó cho thật tốt? Nhưng đó là nhu cầu nào? Chẳng lẽ lại là "nam dị tính hợp giới không khuyết tật trung niên trung lưu ở các quận nội thành TP.HCM cần tìm không gian thảo luận có máy chiếu và micro"? Còn nếu chỉ cần kiếm quán nước thôi thì cần gì tạo ra nơi này nữa, lên Google Maps luôn cho rồi. Động lực không phải là liệt kê tất cả các địa điểm đáp ứng một nhu cầu cụ thể, mà là không để việc thiếu thông tin xảy ra . Chứ 
+
+Thực ra, việc đáp ứng thêm một nhu cầu nữa cũng đơn giản: chỉ cần thêm một *trường thông tin đầu vào* nữa thôi. Nên vấn đề không phải là lượng thông tin đầu vào, mà là cách ta phân loại chúng.
+
+Trung tâm hoá dữ liệu. Nếu chỉ cho mình thôi thì đơn giản
 Để giảm khả năng chết yểu
+Tại sao lại cần điều này? Vì có như vậy nó mới tránh sự chết yểu
 
 Google Sheet, Google Maps vì nó không nằm trong các
 
-Hơn nữa, sự khác biệt về nhu cầu đâu chỉ ở phía cầu, mà còn ở phía cung. Địa điểm công cộng đòi hỏi những khác không gian làm việc chung, khác phòng họp riêng, khác phòng tập, khác quán có phòng riêng, khác quán không có phòng riêng, khác nhà riêng.
 
 [Việc phân loại không quan trọng bằng việc chuẩn bị cho sự thay đổi cách phân loại](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/B%E1%BA%A3n%20th%E1%BB%83%20lu%E1%BA%ADn/Ph%C3%A2n%20lo%E1%BA%A1i/Vi%E1%BB%87c%20ph%C3%A2n%20lo%E1%BA%A1i%20kh%C3%B4ng%20quan%20tr%E1%BB%8Dng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20chu%E1%BA%A9n%20b%E1%BB%8B%20cho%20s%E1%BB%B1%20thay%20%C4%91%E1%BB%95i%20c%C3%A1ch%20ph%C3%A2n%20lo%E1%BA%A1i.md)
 
@@ -56,7 +61,6 @@ Không phải là nơi gặp nói chuyện mà thư viện chẳng hạn
 - Có thể truy vấn dữ liệu ở các nền tảng khác (VD: Discord) 
 - Tự động tạo lịch Google Calendar
 
-Tại sao lại cần điều này? Vì có như vậy nó mới tránh sự chết yểu
 - [Tỉ lệ quay lại là thứ quan trọng nhất trong tăng trưởng](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/T%C4%83ng%20tr%C6%B0%E1%BB%9Fng/T%E1%BB%89%20l%E1%BB%87%20quay%20l%E1%BA%A1i%20l%C3%A0%20th%E1%BB%A9%20quan%20tr%E1%BB%8Dng%20nh%E1%BA%A5t%20trong%20t%C4%83ng%20tr%C6%B0%E1%BB%9Fng.md)
 
 ### Người dùng có thể tự triển khai trên máy của họ với ít rào cản về kiến thức nhất

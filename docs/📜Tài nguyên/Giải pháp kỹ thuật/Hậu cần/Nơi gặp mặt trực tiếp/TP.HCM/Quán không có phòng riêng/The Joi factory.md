@@ -2,7 +2,7 @@
 share: true
 description: =địa chỉ
 created: 2025-09-15T18:02
-updated: 2025-09-18T14:12
+updated: 2025-09-18T16:22
 ---
 Địa chỉ:: 212/2B Nguyễn Trãi
 Phường:: Cầu Ông Lãnh
@@ -35,16 +35,12 @@ không được đem đồ ăn, nước uống, bánh ngọt bên ngoài vào
 > Lý do là vì mẫu tạo mới (template) được thiết kế theo kiểu thấy sai thì xoá, chứ không phải kiểu thấy đúng thì ghi.  Đọc bài [Hướng dẫn sử dụng kho địa điểm để chọn nơi gặp mặt](../../index.md) để biết thêm chi tiết.
 
 Lưu ý:
-- Xe lăn không tiếp cận được
 - Cần đặt chỗ trước
 - Không có bảng và bút lông
-- Vẫn nghe được tiếng từ bên ngoài
-- Không nói to được
 - Không vận động cơ thể được
 - Giá chưa bao gồm thuế
 - Dùng ly giấy để phục vụ khách ngồi tại chỗ
 
 Điểm cộng:
 - [x] Nằm la liệt được
-- [x] Có đàn hoặc sân khấu nhỏ
 - [x] Nuôi chó mèo

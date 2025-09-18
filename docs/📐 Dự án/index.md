@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-28T22:40
-updated: 2025-06-23T21:17
+updated: 2025-09-18T19:30
 title: 📐 Dự án
 ---
 
@@ -48,6 +48,7 @@ Nhà nghiên cứu
 - Vẽ biểu đồ Venn các nét nghĩa
 
 ### Xây dựng mạng kết nối nhu cầu
+- Tham gia với nhóm VCIL, Duy Phong
 
 ### Giúp người thụ hưởng truy vấn, liên kết thông tin từ kho khác và tự động hoá việc đóng góp dữ liệu vào chúng 
 - Viết plugin Obsidian giúp đẩy dữ liệu trong kho lên các nền tảng khác nhau

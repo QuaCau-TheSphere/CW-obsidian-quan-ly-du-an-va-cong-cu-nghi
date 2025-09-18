@@ -4,7 +4,7 @@ created: 2025-05-06T12:52
 description: Nó khác gì với những dự án tương tự khác? Nó chấp nhận những đánh đổi nào?
 aliases:
   - Động lực
-updated: 2025-09-18T17:58
+updated: 2025-09-18T19:43
 ---
 # Lý do ra đời kho địa điểm để chọn nơi gặp mặt, và hệ quả của những lý do đó
 [Kho địa điểm để chọn nơi gặp mặt](./index.md)
@@ -38,6 +38,7 @@ Tại sao lại cần điều này? Vì có như vậy nó mới tránh sự ch�
 
 Google Sheet, Google Maps vì nó không nằm trong các
 
+Không bỏ ai lại phía sau cũng có nghĩa là ai cũng biết được tới điều này. 
 
 [Việc phân loại không quan trọng bằng việc chuẩn bị cho sự thay đổi cách phân loại](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/B%E1%BA%A3n%20th%E1%BB%83%20lu%E1%BA%ADn/Ph%C3%A2n%20lo%E1%BA%A1i/Vi%E1%BB%87c%20ph%C3%A2n%20lo%E1%BA%A1i%20kh%C3%B4ng%20quan%20tr%E1%BB%8Dng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20chu%E1%BA%A9n%20b%E1%BB%8B%20cho%20s%E1%BB%B1%20thay%20%C4%91%E1%BB%95i%20c%C3%A1ch%20ph%C3%A2n%20lo%E1%BA%A1i.md)
 

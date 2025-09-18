@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-23T15:06
-updated: 2025-09-18T16:58
+updated: 2025-09-18T20:58
 aliases:
   - Kho địa điểm để chọn nơi gặp mặt
   - Hướng dẫn sử dụng kho địa điểm để chọn nơi gặp mặt
@@ -22,8 +22,8 @@ title: Kho địa điểm để chọn nơi gặp mặt
 Chọn [TP.HCM](./TP.HCM/index.md) hoặc [Hà Nội](./H%C3%A0%20N%E1%BB%99i/index.md) để bắt đầu. 
 
 ## Tiêu chí thêm địa điểm
-- Có chính sách hỗ trợ các dự án cộng đồng hoặc phát triển bền vững, hoặc có lợi ích gián tiếp cho các bên liên quan của các dự án đó (VD: gần nhà nhau, có người quen, v.v.)
-- Được đề xuất trong nơi thảo luận, hoặc được yêu cầu kéo dữ liệu mới (pull request) trên GitHub
+- Có chính sách hỗ trợ các dự án cộng đồng hoặc phát triển bền vững, hoặc có lợi ích gián tiếp cho các bên liên quan của các dự án đó (VD: gần nhà nhau, có người quen, v.v.), hoặc
+- Được đề xuất trong nơi thảo luận, hoặc được yêu cầu kéo dữ liệu mới (pull request) trên GitHub, hoặc
 - Có điểm cộng khác lạ
 
 Bạn có thể fork repo này để làm bộ tài nguyên cho riêng bạn.

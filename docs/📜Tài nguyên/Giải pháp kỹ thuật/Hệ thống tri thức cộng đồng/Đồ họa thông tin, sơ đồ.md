@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-24T15:20
-updated: 2025-09-26T16:16
+updated: 2025-09-26T18:21
 aliases:
   - hoạ
 ---
@@ -12,6 +12,10 @@ Hạn chế::
 [Cool Guides](https://www.reddit.com/r/coolguides/)
 [Information is Beautiful](https://informationisbeautiful.net/)
 [r/ThingsCutInHalfPorn](https://www.reddit.com/r/ThingsCutInHalfPorn/)
+
+[Chartjunk - Wikipedia](https://en.wikipedia.org/wiki/Chartjunk)
+[Useful Junk? The Effects of Visual Embellishment on Comprehension and Memorability of Charts](https://sites.stat.columbia.edu/gelman/communication/Bateman2010.pdf)
+
 Bài chi tiết:
 - [Thiết kế thông tin](../../L%C4%A9nh%20v%E1%BB%B1c/Thi%E1%BA%BFt%20k%E1%BA%BF%20th%C3%B4ng%20tin/index.md)
 - [Sơ đồ hóa kiến thức](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Minh%20h%E1%BB%8Da,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin/S%C6%A1%20%C4%91%E1%BB%93%20h%C3%B3a%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)

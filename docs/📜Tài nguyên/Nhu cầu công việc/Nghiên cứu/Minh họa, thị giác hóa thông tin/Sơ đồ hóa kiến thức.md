@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-17T00:10
-updated: 2025-09-26T15:46
+updated: 2025-09-26T19:04
 aliases:
   - Sơ đồ kiến thức
 ---
@@ -10,6 +10,8 @@ aliases:
 [nihlibrary.nih.gov/sites/default/files/Creating\_Infographics\_with\_Inkscape.pdf](https://www.nihlibrary.nih.gov/sites/default/files/Creating_Infographics_with_Inkscape.pdf)
 
 ![](https://i.imgur.com/5rO0fMW.jpeg)
+- [Diagrammatic reasoning - Wikipedia](https://en.wikipedia.org/wiki/Diagrammatic_reasoning)
+- Concept map, knowledge graph
 
 ## Công cụ
 - UML, mermaid 

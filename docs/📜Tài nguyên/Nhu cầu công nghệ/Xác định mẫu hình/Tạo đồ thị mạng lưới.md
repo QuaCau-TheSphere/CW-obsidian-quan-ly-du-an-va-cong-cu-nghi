@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-09-26T16:15
 aliases:
   - Đồ thị mạng lưới
+updated: 2025-09-26T20:14
 ---
 [Đồ thị mạng lưới giúp ta thấy được mẫu hình](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%93%20th%E1%BB%8B%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20gi%C3%BAp%20ta%20th%E1%BA%A5y%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BA%ABu%20h%C3%ACnh.md). Tùy vào mục tiêu mà có nhiều loại khác nhau:
 
@@ -16,8 +16,8 @@ aliases:
 Nếu mới làm quen thì dùng Graphviz. Nếu muốn nhiều người cùng làm thì có thể thử Kumu. Nhưng khi số lượng ghi chú lớn thì sẽ phải quản lý bằng chữ trơn (plain text). Lúc đó thì quản lý bằng Obsidian, xong export sang phần mềm phù hợp.
 
 Xem thử gallery của [Graphviz](https://graphviz.org/gallery/), [Kumu](https://kumu.io/gallery).
-
-Xem thêm:: [Minh họa, thị giác hóa thông tin](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Minh%20h%E1%BB%8Da,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin/index.md)
+![Mối quan tâm chung.jpeg](../../../attachments/M%E1%BB%91i%20quan%20t%C3%A2m%20chung.jpeg)
+Xem thêm:: [Từ việc phá vỡ silo thông tin và sử dụng hiệu quả các nguồn lực cộng đồng, đến hệ thống quản lý niềm tin và nền kinh tế không dùng tiền: vai trò của các phần mềm ghi chú động lưu dữ liệu tại máy người dùng và ở định dạng đơn giản](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/M%C3%B4%20t%E1%BA%A3%20d%E1%BB%B1%20%C3%A1n.md)
 
 ## Nơi thảo luận
 [![](https://imagizer.imageshack.com/a/img924/9471/eQpmWA.png)](https://discord.com/channels/898550123007709204/1296474612716146719)

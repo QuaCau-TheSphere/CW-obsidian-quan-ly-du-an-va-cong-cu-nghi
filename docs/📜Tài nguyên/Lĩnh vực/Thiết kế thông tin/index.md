@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2024-10-17T00:10
-updated: 2025-09-26T12:44
+updated: 2025-09-26T16:15
 title: Thiết kế thông tin
 ---
 [Information design - Wikipedia](https://en.wikipedia.org/wiki/Information_design)
 [Mọi mô hình đều sai, nhưng một số thì hữu ích](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/B%E1%BA%A3n%20th%E1%BB%83%20lu%E1%BA%ADn/M%E1%BB%8Di%20m%C3%B4%20h%C3%ACnh%20%C4%91%E1%BB%81u%20sai,%20nh%C6%B0ng%20m%E1%BB%99t%20s%E1%BB%91%20th%C3%AC%20h%E1%BB%AFu%20%C3%ADch.md)
-[Sơ đồ hóa kiến thức](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Minh%20h%E1%BB%8Da,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a/S%C6%A1%20%C4%91%E1%BB%93%20h%C3%B3a%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
+[Sơ đồ hóa kiến thức](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Minh%20h%E1%BB%8Da,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin/S%C6%A1%20%C4%91%E1%BB%93%20h%C3%B3a%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
 [Đồ họa thông tin, sơ đồ](../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/%C4%90%E1%BB%93%20h%E1%BB%8Da%20th%C3%B4ng%20tin,%20s%C6%A1%20%C4%91%E1%BB%93.md)
-[Minh họa, thị giác hóa](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Minh%20h%E1%BB%8Da,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a/index.md)
+[Minh họa, thị giác hóa thông tin](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Minh%20h%E1%BB%8Da,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin/index.md)
 
 ## Hướng đến sự chính xác
 [From data to Viz \| Find the graphic you need](https://www.data-to-viz.com/)
@@ -34,3 +34,6 @@ title: Thiết kế thông tin
 [Eyeo Festival](https://vimeo.com/eyeofestival)
 [INST-INT \| welcome to this inst-int](https://inst-int.com/)
 Since 2011, the annual Eyeo Festival brings together creative coders, data designers and creators working at the intersection of data, art & technology for inspiring talks, workshops, labs and events. In 2013, the team behind Eyeo introduced a new event: INSTINT - A gathering focused on sharing insights and experiences from the field of interactive installation. The last edition of this event was in 2017.
+
+## Nơi thảo luận
+[![](https://imagizer.imageshack.com/a/img924/9471/eQpmWA.png)](https://discord.com/channels/898550123007709204/1296474612716146719)

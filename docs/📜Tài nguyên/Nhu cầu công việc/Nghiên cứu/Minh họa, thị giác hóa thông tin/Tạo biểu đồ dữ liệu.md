@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-18T12:02
-updated: 2025-09-26T12:35
+updated: 2025-09-26T16:16
 aliases:
   - Biểu đồ dữ liệu
 ---
@@ -11,3 +11,6 @@ Nhu cầu công nghệ:: [Tài liệu động](../../../Nhu%20c%E1%BA%A7u%20c%C3
 [From data to Viz \| Find the graphic you need](https://www.data-to-viz.com/)
 ![](https://www.data-to-viz.com/img/poster/poster_small.png) 
 [Information is Beautiful](https://informationisbeautiful.net/)
+
+## Nơi thảo luận
+[![](https://imagizer.imageshack.com/a/img924/9471/eQpmWA.png)](https://discord.com/channels/898550123007709204/1296474612716146719)

@@ -3,7 +3,8 @@ share: true
 created: 2023-10-22T21:45
 updated: 2024-09-02T13:22
 description: Cùng là một tập tin hỗ trợ, khi đang làm việc A thì đầu óc ta sẽ nghĩ đến nó với cái tên và ở cấu trúc phân cấp khác với khi đang làm việc B. Ngoài ra khi quản lý các tập tin như vậy thì muốn tách chúng ra ngoài kho và để riêng vào một thư mục, trong khi lúc cần dùng thì lại cần để vào trong kho. Nên xử lý việc này thế nào?
-alias: Dùng một script để lấy các tập tin bổ trợ về thư mục
+aliases:
+  - Dùng một script để lấy các tập tin bổ trợ về thư mục
 ---
 Bài viết [The Knowledge Organization](https://fibery.io/blog/gems/the-knowledge-organization/) của Fibery có nói đến việc [cấu trúc phân cấp của cây thư mục thường cứng nhắc và nhân tạo](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/C%E1%BA%A5u%20tr%C3%BAc/C%E1%BA%A5u%20tr%C3%BAc%20ph%C3%A2n%20c%E1%BA%A5p%20th%C6%B0%E1%BB%9Dng%20c%E1%BB%A9ng%20nh%E1%BA%AFc%20v%C3%A0%20nh%C3%A2n%20t%E1%BA%A1o.md). Cùng là một tập tin, khi đang làm việc A thì đầu óc ta sẽ nghĩ đến nó với cái tên và ở cấu trúc phân cấp khác với khi đang làm việc B:
 ![](https://fibery.io/blog/static/7bae05409fa1f5c4550c798c2725fe3a/573d3/competing-hierarchies.png) 

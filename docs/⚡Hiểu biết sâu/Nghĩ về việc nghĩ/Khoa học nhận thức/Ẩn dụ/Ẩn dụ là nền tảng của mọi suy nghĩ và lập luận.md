@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-08-12T14:22
+updated: 2025-09-27T20:30
 ---
 Khái niệm:: [Ẩn dụ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/%E1%BA%A8n%20d%E1%BB%A5.md)
 Lý do:: [Ẩn dụ được nhúng trong các neuron não. Chúng tồn tại dưới dạng vật lý](./%E1%BA%A8n%20d%E1%BB%A5%20%C4%91%C6%B0%E1%BB%A3c%20nh%C3%BAng%20trong%20c%C3%A1c%20neuron%20n%C3%A3o.%20Ch%C3%BAng%20t%E1%BB%93n%20t%E1%BA%A1i%20d%C6%B0%E1%BB%9Bi%20d%E1%BA%A1ng%20v%E1%BA%ADt%20l%C3%BD.md)

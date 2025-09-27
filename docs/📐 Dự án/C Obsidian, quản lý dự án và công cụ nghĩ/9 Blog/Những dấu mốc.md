@@ -1,5 +1,6 @@
 ---
-alias: lịch sử phát triển vault
+aliases:
+  - lịch sử phát triển vault
 share: true
 created: 2023-05-26T14:51
 updated: 2025-05-17T22:13

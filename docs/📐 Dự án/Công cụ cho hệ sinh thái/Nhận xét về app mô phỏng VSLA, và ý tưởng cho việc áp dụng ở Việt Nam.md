@@ -2,7 +2,8 @@
 share: true
 created: 2025-05-26T19:55
 updated: 2025-07-08T21:34
-alias: Kula
+aliases:
+  - Kula
 ---
 ## Nhận xét về app mô phỏng VSLA
 (Nhận xét có được sau khi chơi được một nửa [app mô phỏng VSLA](https://fabo.org/dca/VSLA_training), đọc hết [tài liệu cho người điều phối](https://fabo.org/pluginfile.php/180950/mod_resource/content/2/VSLA_SimulationGameApp_guideline.pdf) và xem hết [webminar](https://careorg.zoom.us/rec/play/HKnQzNXB9gbPYCjljaGvVTB-RtIpYbMGVAco53mwInmEvCaKhyoIo4GxsRdEXxs3h4-p3bPTbQHkeTZj.YxB6EWTGgLRqcS8M?continueMode=true&_x_zm_rtaid=z95Dco_2QRa5GnzWSjahbA.1642670731961.030913f153adafd79a992fa11e7eda2e&_x_zm_rhtaid=917). Webminar phát âm khó nghe nên cũng lõm bõm)

@@ -2,7 +2,8 @@
 share: true
 created: 2023-06-21T14:21
 updated: 2025-01-11T22:57
-alias: Từ cách một từ được đổ nghĩa đến việc dịch khái niệm philanthropy sang tiếng Việt
+aliases:
+  - Từ cách một từ được đổ nghĩa đến việc dịch khái niệm philanthropy sang tiếng Việt
 ---
 ## Cách một từ được đổ nghĩa
 Tôi chưa tìm hiểu đủ vững về lý luận dịch thuật, nhưng qua những lần tôi tự ngẫm nghĩ về việc dịch thì tôi cảm thấy là mọi người sẽ có xu hướng muốn dịch những khái niệm ngành khoa học xã hội, nhân văn, triết học ra tiếng Việt hơn là mượn luôn từ nước ngoài, còn với những khái niệm ngành khoa học tự nhiên thì việc vay mượn từ nước ngoài không làm mình ngứa ngáy bằng. Tôi không chắc.

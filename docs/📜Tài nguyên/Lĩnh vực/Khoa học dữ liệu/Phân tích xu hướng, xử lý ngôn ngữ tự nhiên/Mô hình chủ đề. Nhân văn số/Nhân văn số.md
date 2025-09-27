@@ -2,7 +2,10 @@
 share: true
 created: 2023-05-26T14:51
 updated: 2024-09-10T15:32
-alias: Các dự án, công cụ, tài nguyên cho nhân văn số
+aliases:
+  - Các dự án
+  - công cụ
+  - tài nguyên cho nhân văn số
 title: Các dự án, công cụ, tài nguyên cho nhân văn số
 description: Nhân văn số là một lĩnh vực giao thoa giữa ngành khoa học máy tính và các ngành khoa học xã hội và nhân văn.
 ---
@@ -83,6 +86,6 @@ HEURIST gets results. You can **perform sophisticated filtering**, then **save, 
 ## Nơi thảo luận
 ![](https://i.imgur.com/NHkJF2N.png)
  
-Nhu cầu công nghệ:: [Hệ thống quản lý kiến thức](../../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
+Nhu cầu công nghệ:: [Hệ thống quản lý kiến thức](../../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/H%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
 Giải pháp kỹ thuật:: 
 

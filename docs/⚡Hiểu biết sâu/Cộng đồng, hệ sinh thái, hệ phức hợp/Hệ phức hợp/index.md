@@ -1,23 +1,22 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-11-21T13:22
+updated: 2025-09-27T11:14
 title: Hệ phức hợp
 ---
-Chủ đề:: [Sự tự tổ chức sự tạo mẫu hình một cách phi tuyến](./S%E1%BB%B1%20t%E1%BB%B1%20t%E1%BB%95%20ch%E1%BB%A9c%20s%E1%BB%B1%20t%E1%BA%A1o%20m%E1%BA%ABu%20h%C3%ACnh%20m%E1%BB%99t%20c%C3%A1ch%20phi%20tuy%E1%BA%BFn.md)
+Chủ đề:: [Sự tự tổ chức sự tạo mẫu hình một cách phi tuyến](./S%E1%BB%B1%20t%E1%BB%B1%20t%E1%BB%95%20ch%E1%BB%A9c/S%E1%BB%B1%20t%E1%BB%B1%20t%E1%BB%95%20ch%E1%BB%A9c%20s%E1%BB%B1%20t%E1%BA%A1o%20m%E1%BA%ABu%20h%C3%ACnh%20m%E1%BB%99t%20c%C3%A1ch%20phi%20tuy%E1%BA%BFn.md)
 - Theo lý thuyết mạng lưới: có độ kết nối cao 
 - theo lý thuyết tiến hóa: hệ bắt đầu từ đơn giản sau đó có sự chuyên môn hóa và kết hợp lẫn nhau
-# Hệ mở
+## Hệ đóng, hệ mở
 | Hệ đóng                                                                                               | Hệ mở                                            |
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| có ranh giới rõ ràng, có thể kiểm soát hoàn toàn trong ranh giới đó. Có trật tự và sự đoán trước được |                                                  |
+| Có ranh giới rõ ràng, có thể kiểm soát hoàn toàn trong ranh giới đó. Có trật tự và sự đoán trước được |                                                  |
 | Nhấn mạnh đến thành phần                                                                              | Nhấn mạnh đến sự liên kết                        |
 | Các thành phần không có sự tự chủ                                                                     | Các thành phần có tính tự chủ                    |
 | Có lợi thế trong môi trường ổn định                                                                   | Có lợi thế trong môi trường không ổn định        |
 | Được định nghĩa bởi các thành phần                                                                    | Được định nghĩa bằng dòng tài nguyên chảy qua nó |
-|                                                                                                       |                                                  |
 
-# Hệ phi tuyến, động 
+## Hệ phi tuyến, động 
 - Tuyến tính: quan hệ nhân quả, thường không để ý tới thời gian diễn ra. Chịu ảnh hưởng của tư duy Newton
 - Phi tuyến: có phản hồi, không dự đoán được mối liên hệ giữa nhân và quả
 
@@ -37,7 +36,7 @@ Chủ đề:: [Sự tự tổ chức sự tạo mẫu hình một cách phi tuy�
 Có thể xảy ra nhiều hiệu ứng bươm bướm và thiên nga đen 
 
 
-# Hệ dịch vụ
+## Hệ dịch vụ
 Thế giới hậu công nghiệp bị bão hoà bởi sản phẩm. Con người không hứng thú đến việc có thêm sản phẩm nữa, mà hứng thú tới việc có thêm tính năng. Chúng ta không cần phải có xe để có thể hưởng được dịch vụ đi xe
 
 | Sản phẩm                                   | Dịch vụ                                                                                                                                             |
@@ -48,7 +47,7 @@ Thế giới hậu công nghiệp bị bão hoà bởi sản phẩm. Con ngườ
 | Once-off                                   | thời gian, mqh. Nike bán dịch vụ huấn luyện sau khi mua giày, khiến người dùng phải mua lại dày của Nike để tiếp tục sử dụng dịch vụ huấn luyện này |
 | Không tự đáp ứng. Giống nhau trong mọi lúc |                                                                                                                                                     |
 
-# Hệ đáp ứng
+## Hệ đáp ứng
 | Hệ kháng | Hệ đáp ứng |
 | -------- | ---------- |
 |          |            |
@@ -59,7 +58,7 @@ Thế giới hậu công nghiệp bị bão hoà bởi sản phẩm. Con ngườ
 
 Google khám phá vì muốn hỏi be where the next great thing is going to happen
 
-[Sự đáp ứng đòi hỏi ta nhận diện được rằng ta không thể hoàn toàn biết được tương lai của mình](./S%E1%BB%B1%20%C4%91%C3%A1p%20%E1%BB%A9ng%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20ta%20nh%E1%BA%ADn%20di%E1%BB%87n%20%C4%91%C6%B0%E1%BB%A3c%20r%E1%BA%B1ng%20ta%20kh%C3%B4ng%20th%E1%BB%83%20ho%C3%A0n%20to%C3%A0n%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20t%C6%B0%C6%A1ng%20lai%20c%E1%BB%A7a%20m%C3%ACnh.md). Chuyển chiến lược từ cố gắng đoán tương lai đến việc thích ứng với nó
+[Sự đáp ứng đòi hỏi ta nhận diện được rằng ta không thể hoàn toàn biết được tương lai của mình](./B%E1%BA%A5t%20%C4%91%E1%BB%8Bnh/S%E1%BB%B1%20%C4%91%C3%A1p%20%E1%BB%A9ng%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20ta%20nh%E1%BA%ADn%20di%E1%BB%87n%20%C4%91%C6%B0%E1%BB%A3c%20r%E1%BA%B1ng%20ta%20kh%C3%B4ng%20th%E1%BB%83%20ho%C3%A0n%20to%C3%A0n%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20t%C6%B0%C6%A1ng%20lai%20c%E1%BB%A7a%20m%C3%ACnh.md). Chuyển chiến lược từ cố gắng đoán tương lai đến việc thích ứng với nó
 
 Có một biên giới để có sự cân bằng nội môi. Biên giới này sẽ có vòng lặp dương và càng ngày càng khóa mình vào đó
 Sự kháng cự lại với môi trường bằng cách điều chỉnh môi trường để giảm số input có thể có 

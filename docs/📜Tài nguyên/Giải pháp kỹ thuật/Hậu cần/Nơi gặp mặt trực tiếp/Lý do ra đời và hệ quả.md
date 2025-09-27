@@ -4,7 +4,7 @@ created: 2025-05-06T12:52
 description: Nó khác gì với những dự án tương tự khác? Nó chấp nhận những đánh đổi nào?
 aliases:
   - Động lực
-updated: 2025-09-21T17:49
+updated: 2025-09-27T11:38
 ---
 # Lý do ra đời kho địa điểm để chọn nơi gặp mặt, và hệ quả của những lý do đó
 ## Lý do ra đời
@@ -119,7 +119,7 @@ Kiến thức để tự vận hành một cơ sở dữ liệu thế này phứ
 Dường như dự án đã ngừng hoạt động. Trong [trang giới thiệu dự án](https://www.drdvietnam.org/vi/du-an/ban-do-tiep-can-dmap/gioi-thieu/), lần cuối cùng cập nhật là 2021. Các app Andoird và iOS cũng đã bị gỡ xuống. Chức năng đăng ký không hoạt động được.
 
 ## Hệ quả của các lý do trên
-Giải pháp đáp ứng được tất cả các nhu cầu này là một [hệ thống tri thức cộng đồng](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md) dưới hình thức là một [tài liệu động](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md) được lưu ở định dạng đơn giản nhất là văn bản thuần. 
+Giải pháp đáp ứng được tất cả các nhu cầu này là một [hệ thống tri thức cộng đồng](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md) dưới hình thức là một [Tài liệu động](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md) được lưu ở định dạng đơn giản nhất là văn bản thuần. 
 [📐 Dự án](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/index.md)
 Local first 
 

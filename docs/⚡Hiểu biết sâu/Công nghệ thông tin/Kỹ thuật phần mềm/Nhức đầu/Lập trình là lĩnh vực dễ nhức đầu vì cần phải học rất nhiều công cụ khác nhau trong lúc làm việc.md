@@ -2,7 +2,7 @@
 share: true
 created: 2023-09-05T16:17
 updated: 2025-07-13T11:27
-alias:
+aliases:
   - Đọc hướng dẫn sử dụng cũng nhức đầu
 ---
 Khái niệm:: [Nhức đầu](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.md)

@@ -2,7 +2,8 @@
 share: true
 created: 2023-09-05T16:17
 updated: 2024-12-11T12:16
-alias: Cào dữ liệu web vào Google Calendar
+aliases:
+  - Cào dữ liệu web vào Google Calendar
 description: Các buổi hướng dẫn cào dữ liệu web vào Google Calendar
 ---
 Lĩnh vực:: [Lập trình hướng vật thể](../../../L%C4%A9nh%20v%E1%BB%B1c/L%E1%BA%ADp%20tr%C3%ACnh%20h%C6%B0%E1%BB%9Bng%20v%E1%BA%ADt%20th%E1%BB%83/index.md)

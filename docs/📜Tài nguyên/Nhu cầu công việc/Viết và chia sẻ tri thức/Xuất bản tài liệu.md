@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-03-11T22:30
-updated: 2025-03-11T23:17
+updated: 2025-09-27T17:26
 ---
 Lĩnh vực:: [Sắp chữ, thiết kế, xuất bản](../../L%C4%A9nh%20v%E1%BB%B1c/S%E1%BA%AFp%20ch%E1%BB%AF,%20thi%E1%BA%BFt%20k%E1%BA%BF,%20xu%E1%BA%A5t%20b%E1%BA%A3n.md)
 Nhu cầu công nghệ::

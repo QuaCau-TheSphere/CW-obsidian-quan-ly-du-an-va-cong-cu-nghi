@@ -2,7 +2,8 @@
 share: true
 created: 2024-09-22T22:30
 updated: 2025-05-23T19:46
-alias: Phần mềm cá nhân
+aliases:
+  - Phần mềm cá nhân
 ---
 Khái niệm:: [Sáng tạo](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%C3%A1ng%20t%E1%BA%A1o.md)
 Điều 3.16 [Luật Khoa học và công nghệ 2013](https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-khoa-hoc-va-cong-nghe-nam-2013-197387.aspx?anchor=dieu_3 "") giải thích rằng *đổi mới sáng tạo (innovation)* là việc tạo ra, ứng dụng thành tựu, giải pháp kỹ thuật, công nghệ, giải pháp quản lý để nâng cao hiệu quả phát triển kinh tế - xã hội, nâng cao năng suất, chất lượng, giá trị gia tăng của sản phẩm, hàng hóa. Về cơ bản là giải quyết được các nhu cầu trong [danh sách các nhu cầu công việc này](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/index.md) một cách hiệu quả, đặc biệt là ở mảng vận hành. Điểm chung của các nhu cầu này là cần xử lý dữ liệu.

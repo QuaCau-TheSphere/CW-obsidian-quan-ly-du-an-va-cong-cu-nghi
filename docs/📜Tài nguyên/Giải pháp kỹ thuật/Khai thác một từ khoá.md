@@ -2,7 +2,8 @@
 share: true
 created: 2024-08-02T17:03
 updated: 2025-03-10T22:16
-alias: Làm gì với một khái niệm?
+aliases:
+  - Làm gì với một khái niệm?
 ---
 ## Phân Tích Ngôn Ngữ (Linguistic Analysis)
 - Từ điển định nghĩa (dictionary definition) từ này như thế nào?

@@ -11,4 +11,4 @@ Ví dụ:: Nhu cầu công việc và nhu cầu công nghệ, OVA, Kialo
 
 Bài chi tiết:
 - [Thiết kế thông tin](../../L%C4%A9nh%20v%E1%BB%B1c/Thi%E1%BA%BFt%20k%E1%BA%BF%20th%C3%B4ng%20tin/index.md)
-- [Sơ đồ hóa kiến thức, tạo canvas](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Minh%20h%E1%BB%8Da,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin/S%C6%A1%20%C4%91%E1%BB%93%20h%C3%B3a%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20t%E1%BA%A1o%20canvas.md)
+- [Sơ đồ hóa kiến thức, tạo canvas](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Minh%20h%E1%BB%8Da,%20s%C6%A1%20%C4%91%E1%BB%93%20h%C3%B3a,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a,%20t%C6%B0%C6%A1ng%20t%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin/S%C6%A1%20%C4%91%E1%BB%93%20h%C3%B3a%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20t%E1%BA%A1o%20canvas.md)

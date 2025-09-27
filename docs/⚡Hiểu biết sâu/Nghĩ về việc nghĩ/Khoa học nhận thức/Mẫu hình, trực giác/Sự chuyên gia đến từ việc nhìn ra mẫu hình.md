@@ -3,7 +3,7 @@ share: true
 created: 2023-07-26T10:33
 updated: 2025-05-13T11:20
 description: 4 yếu tố để một người trở thành chuyên gia":" (1) Dành nhiều thời gian tập luyện, (2) Quy luật trong lĩnh vực đó không thay đổi theo thời gian, (3) Nhận được sự phản hồi nhanh chóng cho những gì mình làm, (4) Luôn tìm cách bước ra ngoài vùng thoải mái
-alias:
+aliases:
   - Làm sao để giỏi hơn?
   - Làm sao để giỏi hơn: Sự chuyên gia đến từ việc nhìn ra mẫu hình
 ---

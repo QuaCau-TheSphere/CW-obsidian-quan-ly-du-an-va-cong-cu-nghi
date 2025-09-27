@@ -1,45 +1,17 @@
 ---
 share: true
 created: 2024-10-17T00:10
-updated: 2025-09-27T11:40
+updated: 2025-09-27T17:35
 title: Thiết kế thông tin
 ---
-Có lẽ thiết kế thông tin là ngành bao trùm nhất cho nhu cầu đọc hiểu thông tin. Đọc bài tổng quan trên Wikipedia: [Information design](https://en.wikipedia.org/wiki/Information_design). 
+Lĩnh vực quan tâm đến việc trình bày thông tin sao cho người dùng hiểu thông tin một cách hiệu quả được gọi là **thiết kế thông tin**. Để hiểu về nó một cách tổng quan có thể đọc về nó trên Wikipedia: [Information design](https://en.wikipedia.org/wiki/Information_design). 
 
-Nếu nhu cầu cho việc [Minh họa, thị giác hóa thông tin](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Minh%20h%E1%BB%8Da,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin/index.md) là sự chặt chẽ thì xem ghi chú riêng về [Tạo biểu đồ dữ liệu](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Minh%20h%E1%BB%8Da,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin/T%E1%BA%A1o%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20d%E1%BB%AF%20li%E1%BB%87u.md). Nếu là để thể hiện bức tranh toàn cảnh giữa các lập luận, ý tưởng thì xem [Sơ đồ hóa kiến thức, tạo canvas](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Minh%20h%E1%BB%8Da,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin/S%C6%A1%20%C4%91%E1%BB%93%20h%C3%B3a%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20t%E1%BA%A1o%20canvas.md). Ở đây tập trung vào nhu cầu giúp người mới khám phá ý tưởng.
-
-[Minh hoạ dữ liệu không nhất thiết phải chính xác, mà chỉ cần đủ để đặt câu hỏi](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/C%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/Minh%20ho%E1%BA%A1%20d%E1%BB%AF%20li%E1%BB%87u%20kh%C3%B4ng%20nh%E1%BA%A5t%20thi%E1%BA%BFt%20ph%E1%BA%A3i%20ch%C3%ADnh%20x%C3%A1c,%20m%C3%A0%20ch%E1%BB%89%20c%E1%BA%A7n%20%C4%91%E1%BB%A7%20%C4%91%E1%BB%83%20%C4%91%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi.md). 
-[Trực giác là cách nhận thức không qua khái niệm](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BA%ABu%20h%C3%ACnh,%20tr%E1%BB%B1c%20gi%C3%A1c/Tr%E1%BB%B1c%20gi%C3%A1c%20l%C3%A0%20c%C3%A1ch%20nh%E1%BA%ADn%20th%E1%BB%A9c%20kh%C3%B4ng%20qua%20kh%C3%A1i%20ni%E1%BB%87m.md). [Trực giác là việc đi tới kết luận mà không thông qua suy luận](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BA%ABu%20h%C3%ACnh,%20tr%E1%BB%B1c%20gi%C3%A1c/Tr%E1%BB%B1c%20gi%C3%A1c%20l%C3%A0%20vi%E1%BB%87c%20%C4%91i%20t%E1%BB%9Bi%20k%E1%BA%BFt%20lu%E1%BA%ADn%20m%C3%A0%20kh%C3%B4ng%20th%C3%B4ng%20qua%20suy%20lu%E1%BA%ADn.md). [Trực giác là việc nhìn ra mẫu hình không hơn không kém](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BA%ABu%20h%C3%ACnh,%20tr%E1%BB%B1c%20gi%C3%A1c/Tr%E1%BB%B1c%20gi%C3%A1c%20l%C3%A0%20vi%E1%BB%87c%20nh%C3%ACn%20ra%20m%E1%BA%ABu%20h%C3%ACnh%20kh%C3%B4ng%20h%C6%A1n%20kh%C3%B4ng%20k%C3%A9m.md)
-
-## Thông tin tĩnh, nhưng bắt mắt
-- Đồ họa thông tin (infographic)
-- Tranh minh họa (illustration)
-- Truyện tranh kiến thức
-
-[Cool Guides](https://www.reddit.com/r/coolguides/)
-[Information is Beautiful](https://informationisbeautiful.net/)
-[r/ThingsCutInHalfPorn](https://www.reddit.com/r/ThingsCutInHalfPorn/)
-
-[Chartjunk - Wikipedia](https://en.wikipedia.org/wiki/Chartjunk)
-[Useful Junk? The Effects of Visual Embellishment on Comprehension and Memorability of Charts](https://sites.stat.columbia.edu/gelman/communication/Bateman2010.pdf)
-
-## Thông tin động, trở thành sân chơi để khám phá, tương tác được bằng nhiều giác quan
-[Một văn bản không nên chỉ là thứ để truyền đạt thông tin hay hiểu biết một chiều và thụ động, mà còn nên trở thành một sân chơi cho người đọc khám phá](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/M%E1%BB%99t%20v%C4%83n%20b%E1%BA%A3n%20kh%C3%B4ng%20n%C3%AAn%20ch%E1%BB%89%20l%C3%A0%20th%E1%BB%A9%20%C4%91%E1%BB%83%20truy%E1%BB%81n%20%C4%91%E1%BA%A1t%20th%C3%B4ng%20tin%20hay%20hi%E1%BB%83u%20bi%E1%BA%BFt%20m%E1%BB%99t%20chi%E1%BB%81u%20v%C3%A0%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20m%C3%A0%20c%C3%B2n%20n%C3%AAn%20tr%E1%BB%9F%20th%C3%A0nh%20m%E1%BB%99t%20s%C3%A2n%20ch%C6%A1i%20cho%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%8Dc%20kh%C3%A1m%20ph%C3%A1.md)
-[Môi trường nghĩ là nơi ta có thể có những loại suy nghĩ mới, những suy nghĩ mà trước đây ta không thể hình thành](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9%20l%C3%A0%20n%C6%A1i%20ta%20c%C3%B3%20th%E1%BB%83%20c%C3%B3%20nh%E1%BB%AFng%20lo%E1%BA%A1i%20suy%20ngh%C4%A9%20m%E1%BB%9Bi,%20nh%E1%BB%AFng%20suy%20ngh%C4%A9%20m%C3%A0%20tr%C6%B0%E1%BB%9Bc%20%C4%91%C3%A2y%20ta%20kh%C3%B4ng%20th%E1%BB%83%20h%C3%ACnh%20th%C3%A0nh.md)
-
-- [Đồ thị mạng lưới](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20m%E1%BA%ABu%20h%C3%ACnh/T%E1%BA%A1o%20%C4%91%E1%BB%93%20th%E1%BB%8B%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi,%20h%E1%BB%87%20th%E1%BB%91ng%20phi%20tuy%E1%BA%BFn.md)
-- [Tài liệu động](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md)
-- [Game, truyện tương tác](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/Game,%20truy%E1%BB%87n%20t%C6%B0%C6%A1ng%20t%C3%A1c.md)
-- [Explorable explanation, data journalism](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/Explorable%20explanation%20thi%C3%AAn%20v%E1%BB%81%20to%C3%A1n,%20c%C3%B2n%20data%20journalism%20thi%C3%AAn%20v%E1%BB%81%20th%E1%BB%91ng%20k%C3%AA%20d%E1%BB%AF%20li%E1%BB%87u.md)
-- [Data physicalization](https://en.wikipedia.org/wiki/Data_physicalization)
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/133608605?h=43b6015742" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
-
-[THE PROJECT — Dear Data](https://www.dear-data.com/theproject)
-
-[Eyeo Festival](https://vimeo.com/eyeofestival)
-[INST-INT \| welcome to this inst-int](https://inst-int.com/)
-Since 2011, the annual Eyeo Festival brings together creative coders, data designers and creators working at the intersection of data, art & technology for inspiring talks, workshops, labs and events. In 2013, the team behind Eyeo introduced a new event: INSTINT - A gathering focused on sharing insights and experiences from the field of interactive installation. The last edition of this event was in 2017.
+| Thứ cần được thị giác hoá | Yêu cầu                                                                                        | Loại hình minh họa đáp ứng yêu cầu                                     |
+| ------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Bộ dữ liệu                | Giữ được sự chính xác của số liệu                                                              | [Biểu đồ dữ liệu](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Minh%20h%E1%BB%8Da,%20s%C6%A1%20%C4%91%E1%BB%93%20h%C3%B3a,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a,%20t%C6%B0%C6%A1ng%20t%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin/T%E1%BA%A1o%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20d%E1%BB%AF%20li%E1%BB%87u.md) (chart, plot)                 |
+| Ý tưởng, cấu trúc         | Thể hiện được sự vận động của các khái niệm                                                    | [Sơ đồ kiến thức](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Minh%20h%E1%BB%8Da,%20s%C6%A1%20%C4%91%E1%BB%93%20h%C3%B3a,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a,%20t%C6%B0%C6%A1ng%20t%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin/S%C6%A1%20%C4%91%E1%BB%93%20h%C3%B3a%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20t%E1%BA%A1o%20canvas.md) (diagram)         |
+| Mạng lưới các mối quan hệ | Thể hiện được sự liên kết hoặc rời rạc của các nút, sự biến thiên phi tuyến giữa các đại lượng | [Đồ thị mạng lưới](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20m%E1%BA%ABu%20h%C3%ACnh/T%E1%BA%A1o%20%C4%91%E1%BB%93%20th%E1%BB%8B%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi,%20h%E1%BB%87%20th%E1%BB%91ng%20phi%20tuy%E1%BA%BFn.md) (graph) |
+| Một câu chuyện            | Tạo sự bắt mắt, cuốn hút, tương tác                                                            | Nhiều loại. Đọc ghi chú [Làm thông điệp trở nên hấp dẫn](./L%C3%A0m%20th%C3%B4ng%20%C4%91i%E1%BB%87p%20tr%E1%BB%9F%20n%C3%AAn%20h%E1%BA%A5p%20d%E1%BA%ABn.md) để biết thêm chi tiết   |
 
 ## Nơi thảo luận
 [![](https://imagizer.imageshack.com/a/img924/9471/eQpmWA.png)](https://discord.com/channels/898550123007709204/1296474612716146719)

@@ -1,5 +1,6 @@
 ---
-alias: Khi nào thì có thể nói là thành công
+aliases:
+  - Khi nào thì có thể nói là thành công
 share: true
 created: 2023-05-26T14:51
 updated: 2025-05-17T16:07
@@ -70,7 +71,6 @@ Thành quả hỗ trợ:: [50% người đóng góp đáp ứng được các nh
     - [ ] [Bản khảo sát nhu cầu học lập trình](B%E1%BA%A3n%20kh%E1%BA%A3o%20s%C3%A1t%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md)
 - [ ] Tổ chức các buổi hướng dẫn
     - [ ] Tìm người có cùng nhu cầu để học cùng
-- [ ] Thấy nó giúp tiết kiệm thời gian của mình?
 - [ ] Thấy việc được chủ động định giá làm họ thấy công sức lao động của mình được tôn trọng, thấy được trao quyền
     - [ ] Thấy ở đây người tổ chức thực sự quan tâm đến nhu cầu của mình
 - [ ] Thấy nó giúp tiết kiệm thời gian của mình?
@@ -89,6 +89,7 @@ Thành quả hỗ trợ:: [50% người đóng góp đáp ứng được các nh
 - [ ] Thấy rằng AI hoặc nocode là không đủ và vẫn cần phải học lập trình
 - [ ] Hiểu được các buổi học được triển khai thế nào
 - [ ] Hiểu mình cần lên lộ trình học và kết quả đầu ra mong muốn
+- [ ] Thấy nó giúp tiết kiệm thời gian của mình?
 - [ ] Làm sớm
 - [ ] Gặp mặt
 - [ ] Cá nhân hoá
@@ -109,6 +110,16 @@ Thành quả hỗ trợ:: [50% người đóng góp đáp ứng được các nh
 - [ ] Camera quan sát được cả nhóm
 - [ ] Mic và loa rõ
 - [ ] Màn hình để mọi người thấy được sự hiện diện của họ
+- [ ] Có sẵn nước uống
+- [ ] Viết email
+- [ ] Dọn dẹp, khâu đồ
+- [ ] Seeding 
+- [ ] Flashcard
+- [ ] Khám phá: [https://www.reddit.com/r/findareddit/wiki/directory](https://www.reddit.com/r/findareddit/wiki/directory)
+- [ ] Số hóa từ điển
+- [ ] Những thứ cần google nhưng không cần đọc kỹ: từ điển, mua/sửa đồ
+- [ ] Automation: tips, shortcuts
+- [ ] Xem analytics
 - [ ] Có khả năng tuỳ chỉnh theo đúng luồng làm việc, suy nghĩ của mình
 - [ ] Không phải dành quá nhiều thời gian để xây dựng hệ thống đó
 - [ ] Chi phí thấp

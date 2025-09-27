@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2023-05-26T14:51
-cssClass: wide-table
+cssclasses:
+  - wide-table
 updated: 2025-05-28T15:03
-alias:
+aliases:
   - Công việc khai phá
   - Công việc khai thác
 ---

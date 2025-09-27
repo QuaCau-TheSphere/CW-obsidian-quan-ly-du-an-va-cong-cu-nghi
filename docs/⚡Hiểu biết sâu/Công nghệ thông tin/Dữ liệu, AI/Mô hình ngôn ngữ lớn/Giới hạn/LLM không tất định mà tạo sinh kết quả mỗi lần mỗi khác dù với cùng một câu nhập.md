@@ -2,7 +2,8 @@
 share: true
 created: 2023-09-05T16:17
 updated: 2025-05-10T18:15
-alias: Kết quả từ AI không phải từ sự lựa chọn mà chỉ là từ việc lắc một cái xí ngầu không đồng đều
+aliases:
+  - Kết quả từ AI không phải từ sự lựa chọn mà chỉ là từ việc lắc một cái xí ngầu không đồng đều
 ---
 Khái niệm:: 
 

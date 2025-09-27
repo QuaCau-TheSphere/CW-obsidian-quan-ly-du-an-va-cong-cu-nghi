@@ -2,7 +2,7 @@
 share: true
 created: 2024-09-25T12:39
 description: Những nơi gặp được nhiều tương tác thực sự từ con người là những nơi được sàng lọc kỹ
-alias:
+aliases:
   - Những nơi gặp được nhiều tương tác thực sự từ con người là những nơi được sàng lọc kỹ
   - Thuyết rừng âm u của web
   - Để giữ được sự bình an cho bản thân, nhiều người tránh xa những nơi quá công khai, rút vào những địa bàn có sự sàng lọc kỹ hơn
@@ -25,7 +25,7 @@ Nguồn:: [The dark forest theory of the internet](https://www.ystrickler.com/th
 Nguồn:: [The Wisdom Gap](https://www.humanetech.com/insights/the-wisdom-gap "The Wisdom Gap - Center for Humane Technology")
 
 Mâu thuẫn với:: [Silo thông tin khiến cho những thao tác tự động hoá đơn giản không thể làm được](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/H%C3%ACnh%20th%E1%BB%A9c%20l%C6%B0u%20tr%E1%BB%AF/Silo%20th%C3%B4ng%20tin%20khi%E1%BA%BFn%20cho%20nh%E1%BB%AFng%20thao%20t%C3%A1c%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20kh%C3%B4ng%20th%E1%BB%83%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c.md), [Quyền được đọc là quyền được cào](../T%E1%BB%B1%20tr%E1%BB%8B%20d%E1%BB%AF%20li%E1%BB%87u.%20M%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F,%20ph%E1%BA%A7n%20m%E1%BB%81m%20t%E1%BB%B1%20do/Quy%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%8Dc%20l%C3%A0%20quy%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20c%C3%A0o.md)
-Xem thêm:: [Delightful humane design](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Lo%E1%BA%A1i%20b%E1%BB%8F%20phi%E1%BB%81n%20nhi%E1%BB%85u,%20v%C6%B0%E1%BB%A3t%20r%C3%A0o%20c%E1%BA%A3n/Delightful%20humane%20design.md)
+Xem thêm:: [Delightful humane design](Delightful%20humane%20design.md)
 
 Content farm, humane tech
 [Việc khai thác điểm yếu của con người đem lại lợi nhuận](../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Vi%E1%BB%87c%20khai%20th%C3%A1c%20%C4%91i%E1%BB%83m%20y%E1%BA%BFu%20c%E1%BB%A7a%20con%20ng%C6%B0%E1%BB%9Di%20%C4%91em%20l%E1%BA%A1i%20l%E1%BB%A3i%20nhu%E1%BA%ADn.md). Các công ty đang bóp API để không cho AI cào web, khiến cho các bot lành tính, hữu ích càng khó sống ở tầng công khai hơn.

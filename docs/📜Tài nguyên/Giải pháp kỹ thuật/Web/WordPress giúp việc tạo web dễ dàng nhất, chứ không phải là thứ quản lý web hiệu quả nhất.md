@@ -4,7 +4,7 @@ created: 2024-02-27T15:45
 updated: 2025-06-10T15:54
 description: WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ tạo web hiệu quả nhất
 blog: true
-alias:
+aliases:
   - Người dùng cá nhân hoặc dự án nhỏ có nên dùng WordPress hay không?
 ---
 # Người dùng cá nhân hoặc dự án nhỏ có nên dùng WordPress hay không?

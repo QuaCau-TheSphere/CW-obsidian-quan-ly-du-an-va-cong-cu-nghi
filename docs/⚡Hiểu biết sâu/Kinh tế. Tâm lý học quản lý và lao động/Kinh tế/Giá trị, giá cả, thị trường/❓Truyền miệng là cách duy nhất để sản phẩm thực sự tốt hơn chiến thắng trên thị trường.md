@@ -2,7 +2,7 @@
 created: 2023-09-05T16:17
 updated: 2025-06-09T14:21
 share: true
-alias:
+aliases:
   - Sự hiệu quả của loại cạnh tranh tạo động lực cải tiến sản phẩm hoàn toàn phụ thuộc vào sự truyền miệng
   - Hữu xạ tự nhiên hương
 description: Liệu sự hiệu quả của loại cạnh tranh tạo động lực cải tiến sản phẩm hoàn toàn phụ thuộc vào sự truyền miệng?

@@ -2,8 +2,13 @@
 share: true
 created: 2023-10-27T18:59
 updated: 2025-06-09T14:21
-cssClass: wide-table
-alias: heading, đặt tên, filename, title
+cssclasses:
+  - wide-table
+aliases:
+  - heading
+  - đặt tên
+  - filename
+  - title
 description: Có nhiều vị trí tiêu đề với những chức năng khác nhau, và có nhiều cách khác nhau để thay đổi chúng. Nên dùng loại nào cho trường hợp nào?
 ---
 Một tiêu đề có rất nhiều chức năng:

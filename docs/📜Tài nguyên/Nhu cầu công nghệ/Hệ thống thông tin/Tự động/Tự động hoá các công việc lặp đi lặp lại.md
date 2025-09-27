@@ -7,9 +7,9 @@ updated: 2025-05-06T02:34
 
 [Cộng đồng n8n AI Automation Việt Nam \| Facebook](https://facebook.com/groups/n8n.automation/)
 Giải pháp kỹ thuật:: [Tạo phím tắt bằng AutoHotKey](../../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/T%E1%BA%A1o%20ph%C3%ADm%20t%E1%BA%AFt%20b%E1%BA%B1ng%20AutoHotKey.md), [Quản lý clipboard bằng CopyQ](../../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/CopyQ.md),  [App script](../../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/App%20script.md)
-- [Chỉnh sửa file hàng loạt bằng PowerShell](../../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/Ch%E1%BB%89nh%20s%E1%BB%ADa%20file%20h%C3%A0ng%20lo%E1%BA%A1t%20b%E1%BA%B1ng%20PowerShell.md)
-- [Chỉnh sửa ảnh hàng loạt bằng ImageMagick](../../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/Ch%E1%BB%89nh%20s%E1%BB%ADa%20%E1%BA%A3nh%20h%C3%A0ng%20lo%E1%BA%A1t%20b%E1%BA%B1ng%20ImageMagick.md)
 - [App script](../../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/App%20script.md)
-- [CopyQ](../../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/CopyQ.md)
+- [Chỉnh sửa file hàng loạt bằng PowerShell](../../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/Ch%E1%BB%89nh%20s%E1%BB%ADa%20file%20h%C3%A0ng%20lo%E1%BA%A1t%20b%E1%BA%B1ng%20PowerShell.md)
 - [Chụp màn hình bằng ShareX](../../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/Ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%20b%E1%BA%B1ng%20ShareX.md)
+- [Chỉnh sửa ảnh hàng loạt bằng ImageMagick](../../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/Ch%E1%BB%89nh%20s%E1%BB%ADa%20%E1%BA%A3nh%20h%C3%A0ng%20lo%E1%BA%A1t%20b%E1%BA%B1ng%20ImageMagick.md)
+- [CopyQ](../../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/CopyQ.md)
 - [Tạo phím tắt bằng AutoHotKey](../../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/T%E1%BA%A1o%20ph%C3%ADm%20t%E1%BA%AFt%20b%E1%BA%B1ng%20AutoHotKey.md)

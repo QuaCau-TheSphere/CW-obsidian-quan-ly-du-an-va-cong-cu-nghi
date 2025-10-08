@@ -41,7 +41,7 @@ Ví dụ:
 ## Vậy bản web được sinh ra để làm gì?
 - Dễ giới thiệu cho người mới, 
 - Dễ quảng bá dự án,
-- ~~Tăng SEO~~  Thêm nguồn tài nguyên chất lượng cho các máy tìm kiếm như Google, Bing. Xem thêm:: [Xây dựng hệ thống tri thức cộng đồng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
+- ~~Tăng SEO~~  Thêm nguồn tài nguyên chất lượng cho các máy tìm kiếm như Google, Bing. Xem thêm:: [Chia sẻ kho tri thức của mình cho mọi người](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
 - Thêm nguồn ngữ liệu chất lượng để huấn luyện cho máy
 
 ### Những lỗi trên bản web 

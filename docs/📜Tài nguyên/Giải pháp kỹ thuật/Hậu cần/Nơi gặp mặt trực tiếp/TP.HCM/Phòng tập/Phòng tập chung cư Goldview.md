@@ -1,8 +1,8 @@
 ---
 share: true
-created: 2023-05-26T14:51
+created: 2025-05-26T19:55
+updated: 2025-10-08T15:45
 description: Tầng 5, chung cư The GoldView, 346 Bến Vân Đồn, Q4
-updated: 2025-10-08T15:43
 ---
 Địa chỉ:: Tầng 5, chung cư The GoldView, 346 Bến Vân Đồn, Q4
 Số lượng:: 15 người
@@ -33,12 +33,13 @@ Từ thang máy tầng 5 khu A1, bạn sẽ thấy có một cái hành lang. Đ
 ![Hướng di chuyển tầng 5.png](../../../../../../attachments/H%C6%B0%E1%BB%9Bng%20di%20chuy%E1%BB%83n%20t%E1%BA%A7ng%205.png)
 [excalidraw](../../../../../../attachments/H%C6%B0%E1%BB%9Bng%20di%20chuy%E1%BB%83n%20t%E1%BA%A7ng%205.excalidraw)
 
-Hình ảnh phòng họp:
-![Ảnh phòng họp từ cửa nhìn vào.jpg](../../../../../../attachments/%E1%BA%A2nh%20ph%C3%B2ng%20h%E1%BB%8Dp%20t%E1%BB%AB%20c%E1%BB%ADa%20nh%C3%ACn%20v%C3%A0o.jpg)
-![Ảnh phòng họp từ trong nhìn ra.jpg](../../../../../../attachments/%E1%BA%A2nh%20ph%C3%B2ng%20h%E1%BB%8Dp%20t%E1%BB%AB%20trong%20nh%C3%ACn%20ra.jpg)
+Hình ảnh phòng tập:
+![IMG_20251004_182229.jpg](../../../../../../attachments/IMG_20251004_182229.jpg)
+![IMG_20251004_182241.jpg](../../../../../../attachments/IMG_20251004_182241.jpg)
 
 Mọi người đến sớm 10 phút, tập trung ở Chuk để Nhật dắt lên cho tiện. Nếu Nhật dắt lên thì khỏi làm vân tay. 
 
 ## Địa điểm gần đó
 - [Sân vườn chung cư GoldView](../C%C3%B4ng%20vi%C3%AAn/S%C3%A2n%20v%C6%B0%E1%BB%9Dn%20chung%20c%C6%B0%20GoldView.md)
 - [Bàn ghế siêu thị chung cư GoldView](../C%C3%B4ng%20vi%C3%AAn/B%C3%A0n%20gh%E1%BA%BF%20si%C3%AAu%20th%E1%BB%8B%20chung%20c%C6%B0%20GoldView.md)
+- [Phòng sinh hoạt chung cư GoldView](../Ph%C3%B2ng%20h%E1%BB%8Dp%20ri%C3%AAng/Ph%C3%B2ng%20sinh%20ho%E1%BA%A1t%20chung%20c%C6%B0%20GoldView.md)

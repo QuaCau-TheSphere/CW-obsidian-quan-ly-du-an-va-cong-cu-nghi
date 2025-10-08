@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-24T15:20
-updated: 2025-09-27T10:59
+updated: 2025-10-08T14:24
 aliases:
   - hoạ
 ---
@@ -12,6 +12,7 @@ Hạn chế::
 Bài chi tiết:
 - [Thiết kế thông tin](../../L%C4%A9nh%20v%E1%BB%B1c/Thi%E1%BA%BFt%20k%E1%BA%BF%20th%C3%B4ng%20tin/index.md)
 - [Sơ đồ hóa kiến thức, tạo canvas](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Minh%20h%E1%BB%8Da,%20s%C6%A1%20%C4%91%E1%BB%93%20h%C3%B3a,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a,%20t%C6%B0%C6%A1ng%20t%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin/S%C6%A1%20%C4%91%E1%BB%93%20h%C3%B3a%20ki%E1%BA%BFn%20th%E1%BB%A9c,%20t%E1%BA%A1o%20canvas.md)
+- [Đồ họa thông tin](../../L%C4%A9nh%20v%E1%BB%B1c/Thi%E1%BA%BFt%20k%E1%BA%BF%20th%C3%B4ng%20tin/%C4%90%E1%BB%93%20h%E1%BB%8Da%20th%C3%B4ng%20tin.md)
 
 ## Nơi thảo luận
 [![](https://imagizer.imageshack.com/a/img924/9471/eQpmWA.png)](https://discord.com/channels/898550123007709204/1296474612716146719)

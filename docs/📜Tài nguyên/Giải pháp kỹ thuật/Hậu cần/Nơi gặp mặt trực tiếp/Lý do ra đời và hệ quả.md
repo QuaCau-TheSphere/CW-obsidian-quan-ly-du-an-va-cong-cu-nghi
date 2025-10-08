@@ -4,11 +4,23 @@ created: 2025-05-06T12:52
 description: Nó khác gì với những dự án tương tự khác? Nó chấp nhận những đánh đổi nào?
 aliases:
   - Động lực
-updated: 2025-09-27T11:38
+updated: 2025-10-08T15:42
 ---
 # Lý do ra đời kho địa điểm để chọn nơi gặp mặt, và hệ quả của những lý do đó
 ## Lý do ra đời
 [Kho địa điểm để chọn nơi gặp mặt](./index.md) đến từ mong muốn kết nối người cần tìm địa điểm .
+
+Người có địa điểm:
+- Nếu là kinh doanh hoặc muốn hỗ trợ cộng đồng thì có động lực đóng góp
+- Nếu là nhà riêng thì chỉ muốn cho người quen xài
+
+Người làm dự án
+[Để một hệ sinh thái hoạt động thực sự hiệu quả thì lượng năng lượng dành ra để nắm bắt tín hiệu của môi trường phải giảm tới mức gần như bằng 0](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20sinh%20th%C3%A1i/%C4%90%E1%BB%83%20m%E1%BB%99t%20h%E1%BB%87%20sinh%20th%C3%A1i%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20th%E1%BB%B1c%20s%E1%BB%B1%20hi%E1%BB%87u%20qu%E1%BA%A3%20th%C3%AC%20l%C6%B0%E1%BB%A3ng%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20d%C3%A0nh%20ra%20%C4%91%E1%BB%83%20n%E1%BA%AFm%20b%E1%BA%AFt%20t%C3%ADn%20hi%E1%BB%87u%20c%E1%BB%A7a%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ph%E1%BA%A3i%20gi%E1%BA%A3m%20t%E1%BB%9Bi%20m%E1%BB%A9c%20g%E1%BA%A7n%20nh%C6%B0%20b%E1%BA%B1ng%200.md)
+
+Người cần tìm địa điểm
+[❓Liệu quy luật 90-9-1 vẫn còn đúng cho nhóm nòng cốt](%E2%9D%93Li%E1%BB%87u%20quy%20lu%E1%BA%ADt%2090-9-1%20v%E1%BA%ABn%20c%C3%B2n%20%C4%91%C3%BAng%20cho%20nh%C3%B3m%20n%C3%B2ng%20c%E1%BB%91t.md)
+
+
  Khó khăn của người cho là
 - Sự khó khăn trong việc hợp tác và chia sẻ tài nguyên, nguồn lực giữa các dự án nhỏ do quá tải công việc
 - Các giới hạn của các hệ thống quản lý thông tin, lưu trữ và truy xuất kiến thức mà các dự án thường sử dụng
@@ -18,7 +30,7 @@ Dự án mong muốn:
 - Giảm gánh nặng nhận thức trong việc quản lý và chia sẻ dữ liệu dự án, 
 - Xây dựng hệ sinh thái nơi các thành viên có thể đóng góp dữ liệu một cách thụ động và tự động vào các cơ sở dữ liệu chung
 - Tăng khả năng hợp tác và phát triển ý tưởng mới của đối tượng thụ hưởng với ít nỗ lực hơn
-- [Xây dựng hệ thống tri thức cộng đồng](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md), giúp mọi người [[Làm sao để tìm được thứ cần tìm khi không biết từ khoá 
+- [Chia sẻ kho tri thức của mình cho mọi người](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md), giúp mọi người [[Làm sao để tìm được thứ cần tìm khi không biết từ khoá 
 
 Bài chi tiết: [Phá vỡ silo thông tin, nắm bắt nhu cầu các bên và sử dụng các nguồn tài nguyên cộng đồng hiệu quả](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/M%C3%B4%20t%E1%BA%A3%20d%E1%BB%B1%20%C3%A1n.md)
 
@@ -106,6 +118,9 @@ Khi cần trung tâm hóa thì mới
 
 Trung tâm hoá. Giảm gánh nặng cho người kế thừa
 
+[Đừng chạy theo tính năng, mà hãy xác định vấn đề cần ưu tiên giải quyết và nhanh chóng kiểm tra các giả thuyết](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thuy%E1%BA%BFt/%C4%90%E1%BB%ABng%20ch%E1%BA%A1y%20theo%20t%C3%ADnh%20n%C4%83ng,%20m%C3%A0%20h%C3%A3y%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20c%E1%BA%A7n%20%C6%B0u%20ti%C3%AAn%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20v%C3%A0%20nhanh%20ch%C3%B3ng%20ki%E1%BB%83m%20tra%20c%C3%A1c%20gi%E1%BA%A3%20thuy%E1%BA%BFt.md)
+Phải đợi đến khi nhiều người chia sẻ thì mới bắt tay vào làm
+
 ## Phân tích ca
 Kho địa điểm này khác gì với những dự án tương tự khác?
 
@@ -119,11 +134,15 @@ Kiến thức để tự vận hành một cơ sở dữ liệu thế này phứ
 Dường như dự án đã ngừng hoạt động. Trong [trang giới thiệu dự án](https://www.drdvietnam.org/vi/du-an/ban-do-tiep-can-dmap/gioi-thieu/), lần cuối cùng cập nhật là 2021. Các app Andoird và iOS cũng đã bị gỡ xuống. Chức năng đăng ký không hoạt động được.
 
 ## Hệ quả của các lý do trên
-Giải pháp đáp ứng được tất cả các nhu cầu này là một [hệ thống tri thức cộng đồng](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md) dưới hình thức là một [Tài liệu động](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md) được lưu ở định dạng đơn giản nhất là văn bản thuần. 
+Giải pháp đáp ứng được tất cả các nhu cầu này là một [hệ thống tri thức cộng đồng](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md) dưới hình thức là một [Tài liệu động](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md) được lưu ở định dạng đơn giản nhất là văn bản thuần. 
 [📐 Dự án](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/index.md)
 Local first 
 
 Về mặt kỹ thuật, nó được viết bằng TypeScript với môi trường thực thi là Deno.
 
 Nhược điểm 
-Chuyển đổi sang Base có vẻ như là một xu hướng chung. 
+- Đa số mọi người sẽ dùng Base? 
+
+Gold view nâng cao là cần thiết không? Và nếu để vô thì ntn? 
+Không chỉ là biết những đồ vậtowr trong đó, mà còn là môi trường và các thiết chế xung quanh
+

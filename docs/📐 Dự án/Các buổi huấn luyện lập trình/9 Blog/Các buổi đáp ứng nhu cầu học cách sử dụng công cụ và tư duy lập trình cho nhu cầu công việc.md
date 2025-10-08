@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-26T15:55
-updated: 2025-09-17T09:40
+updated: 2025-10-02T15:40
 cssClasses:
   - wide-table
 ---
@@ -46,10 +46,10 @@ Thì các buổi đáp ứng nhu cầu học cách sử dụng công cụ và t�
 - Nghiên cứu: 
     - [Nghiên cứu cộng đồng mạng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Nghi%C3%AAn%20c%E1%BB%A9u%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20m%E1%BA%A1ng.md)
     - [Nghiên cứu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/index.md)
+    - [Phân tích dữ liệu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u.md)
     - [Nghiên cứu người dùng, phát triển sản phẩm](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Thu%20th%E1%BA%ADp%20d%E1%BB%AF%20li%E1%BB%87u/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m.md)
     - [Nắm bắt xu hướng mạng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Thu%20th%E1%BA%ADp%20d%E1%BB%AF%20li%E1%BB%87u/N%E1%BA%AFm%20b%E1%BA%AFt%20xu%20h%C6%B0%E1%BB%9Bng%20m%E1%BA%A1ng.md)
     - [Tổng quan nghiên cứu. Tải bài](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/T%E1%BB%95ng%20quan%20nghi%C3%AAn%20c%E1%BB%A9u.%20T%E1%BA%A3i%20b%C3%A0i.md)
-    - [Phân tích dữ liệu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u.md)
 
 - Vận hành: 
     - [Cập nhật thông tin bên ngoài, tổng hợp sự kiện sẽ diễn ra](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/C%E1%BA%ADp%20nh%E1%BA%ADt%20th%C3%B4ng%20tin%20b%C3%AAn%20ngo%C3%A0i,%20t%E1%BB%95ng%20h%E1%BB%A3p%20s%E1%BB%B1%20ki%E1%BB%87n%20s%E1%BA%BD%20di%E1%BB%85n%20ra.md)
@@ -58,8 +58,8 @@ Thì các buổi đáp ứng nhu cầu học cách sử dụng công cụ và t�
     - [Nhìn tổng thể, toàn cảnh kế hoạch](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/Nh%C3%ACn%20t%E1%BB%95ng%20th%E1%BB%83,%20to%C3%A0n%20c%E1%BA%A3nh%20k%E1%BA%BF%20ho%E1%BA%A1ch.md)
     - [Nắm bắt hoạt động của nhau](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/N%E1%BA%AFm%20b%E1%BA%AFt%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20nhau.md)
     - [Quản lý tiền, kế toán](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/Qu%E1%BA%A3n%20l%C3%BD%20ti%E1%BB%81n,%20k%E1%BA%BF%20to%C3%A1n.md)
-    - [Vận hành](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/index.md)
     - [Thông tin, truyền thông ra bên ngoài](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/Th%C3%B4ng%20tin,%20truy%E1%BB%81n%20th%C3%B4ng%20ra%20b%C3%AAn%20ngo%C3%A0i.md)
+    - [Vận hành](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/index.md)
     - [Xây dựng thương hiệu, mối quan hệ](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/X%C3%A2y%20d%E1%BB%B1ng%20th%C6%B0%C6%A1ng%20hi%E1%BB%87u,%20m%E1%BB%91i%20quan%20h%E1%BB%87.md)
 
 - Viết và chia sẻ tri thức: 
@@ -86,12 +86,11 @@ Thì các buổi đáp ứng nhu cầu học cách sử dụng công cụ và t�
     - [Tự động hoá các công việc lặp đi lặp lại](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1%20c%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20l%E1%BA%B7p%20%C4%91i%20l%E1%BA%B7p%20l%E1%BA%A1i.md)
     - [Tự động nhập sự kiện vào lịch](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20nh%E1%BA%ADp%20s%E1%BB%B1%20ki%E1%BB%87n%20v%C3%A0o%20l%E1%BB%8Bch.md)
     - [Tự động đăng bài](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20%C4%91%C4%83ng%20b%C3%A0i.md)
-    - [Lấy liên kết và tạo liên kết UTM rút gọn](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/L%E1%BA%A5y%20li%C3%AAn%20k%E1%BA%BFt%20v%C3%A0%20t%E1%BA%A1o%20li%C3%AAn%20k%E1%BA%BFt%20UTM%20r%C3%BAt%20g%E1%BB%8Dn.md)
     - [Cào web](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/C%C3%A0o%20web.md)
+    - [Lấy liên kết và tạo liên kết UTM rút gọn](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/L%E1%BA%A5y%20li%C3%AAn%20k%E1%BA%BFt%20v%C3%A0%20t%E1%BA%A1o%20li%C3%AAn%20k%E1%BA%BFt%20UTM%20r%C3%BAt%20g%E1%BB%8Dn.md)
     - [Tạo web](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/T%E1%BA%A1o%20web.md)
     - [Tổng hợp nội dung, tin tức, sự kiện từ các website](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/T%E1%BB%95ng%20h%E1%BB%A3p%20n%E1%BB%99i%20dung,%20tin%20t%E1%BB%A9c,%20s%E1%BB%B1%20ki%E1%BB%87n%20t%E1%BB%AB%20c%C3%A1c%20website.md)
     - [Xây dựng hệ thống quản lý, báo cáo nhu cầu các bên](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD,%20b%C3%A1o%20c%C3%A1o%20nhu%20c%E1%BA%A7u%20c%C3%A1c%20b%C3%AAn.md)
-    - [Xây dựng hệ thống tri thức cộng đồng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
     - [Đọc sách, dịch thuật](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/%C4%90%E1%BB%8Dc%20s%C3%A1ch,%20d%E1%BB%8Bch%20thu%E1%BA%ADt.md)
 
 - Minh họa, sơ đồ hóa, thị giác hóa, tương tác hóa thông tin: 
@@ -109,8 +108,8 @@ Thì các buổi đáp ứng nhu cầu học cách sử dụng công cụ và t�
 
 - Xác định mẫu hình: 
     - [Chạy thống kê](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20m%E1%BA%ABu%20h%C3%ACnh/Ch%E1%BA%A1y%20th%E1%BB%91ng%20k%C3%AA.md)
-    - [Xác định các chủ đề có trong ngữ liệu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20m%E1%BA%ABu%20h%C3%ACnh/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20c%C3%A1c%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20c%C3%B3%20trong%20ng%E1%BB%AF%20li%E1%BB%87u.md)
     - [Tạo đồ thị mạng lưới, hệ thống phi tuyến](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20m%E1%BA%ABu%20h%C3%ACnh/T%E1%BA%A1o%20%C4%91%E1%BB%93%20th%E1%BB%8B%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi,%20h%E1%BB%87%20th%E1%BB%91ng%20phi%20tuy%E1%BA%BFn.md)
+    - [Xác định các chủ đề có trong ngữ liệu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20m%E1%BA%ABu%20h%C3%ACnh/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20c%C3%A1c%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20c%C3%B3%20trong%20ng%E1%BB%AF%20li%E1%BB%87u.md)
 
 
 

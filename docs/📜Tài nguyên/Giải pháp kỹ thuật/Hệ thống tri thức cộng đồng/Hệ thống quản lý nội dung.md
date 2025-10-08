@@ -4,7 +4,7 @@ created: 2024-09-24T17:19
 updated: 2025-09-19T11:21
 ---
 Alias: làm sao để mọi người muốn học git
-Ví dụ:: MediaWiki
+Ví dụ:: MediaWiki, Wikiversity
 Ưu điểm::
 Hạn chế::
 

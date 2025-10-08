@@ -17,12 +17,11 @@ title: Nhu cầu công nghệ
     - [Tự động hoá các công việc lặp đi lặp lại](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1%20c%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20l%E1%BA%B7p%20%C4%91i%20l%E1%BA%B7p%20l%E1%BA%A1i.md)
     - [Tự động nhập sự kiện vào lịch](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20nh%E1%BA%ADp%20s%E1%BB%B1%20ki%E1%BB%87n%20v%C3%A0o%20l%E1%BB%8Bch.md)
     - [Tự động đăng bài](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20%C4%91%C4%83ng%20b%C3%A0i.md)
-    - [Lấy liên kết và tạo liên kết UTM rút gọn](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/L%E1%BA%A5y%20li%C3%AAn%20k%E1%BA%BFt%20v%C3%A0%20t%E1%BA%A1o%20li%C3%AAn%20k%E1%BA%BFt%20UTM%20r%C3%BAt%20g%E1%BB%8Dn.md)
     - [Cào web](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/C%C3%A0o%20web.md)
+    - [Lấy liên kết và tạo liên kết UTM rút gọn](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/L%E1%BA%A5y%20li%C3%AAn%20k%E1%BA%BFt%20v%C3%A0%20t%E1%BA%A1o%20li%C3%AAn%20k%E1%BA%BFt%20UTM%20r%C3%BAt%20g%E1%BB%8Dn.md)
     - [Tạo web](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/T%E1%BA%A1o%20web.md)
     - [Tổng hợp nội dung, tin tức, sự kiện từ các website](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/T%E1%BB%95ng%20h%E1%BB%A3p%20n%E1%BB%99i%20dung,%20tin%20t%E1%BB%A9c,%20s%E1%BB%B1%20ki%E1%BB%87n%20t%E1%BB%AB%20c%C3%A1c%20website.md)
     - [Xây dựng hệ thống quản lý, báo cáo nhu cầu các bên](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD,%20b%C3%A1o%20c%C3%A1o%20nhu%20c%E1%BA%A7u%20c%C3%A1c%20b%C3%AAn.md)
-    - [Xây dựng hệ thống tri thức cộng đồng](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
     - [Đọc sách, dịch thuật](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/%C4%90%E1%BB%8Dc%20s%C3%A1ch,%20d%E1%BB%8Bch%20thu%E1%BA%ADt.md)
 
 - Minh họa, sơ đồ hóa, thị giác hóa, tương tác hóa thông tin: 
@@ -40,8 +39,8 @@ title: Nhu cầu công nghệ
 
 - Xác định mẫu hình: 
     - [Chạy thống kê](./X%C3%A1c%20%C4%91%E1%BB%8Bnh%20m%E1%BA%ABu%20h%C3%ACnh/Ch%E1%BA%A1y%20th%E1%BB%91ng%20k%C3%AA.md)
-    - [Xác định các chủ đề có trong ngữ liệu](./X%C3%A1c%20%C4%91%E1%BB%8Bnh%20m%E1%BA%ABu%20h%C3%ACnh/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20c%C3%A1c%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20c%C3%B3%20trong%20ng%E1%BB%AF%20li%E1%BB%87u.md)
     - [Tạo đồ thị mạng lưới, hệ thống phi tuyến](./X%C3%A1c%20%C4%91%E1%BB%8Bnh%20m%E1%BA%ABu%20h%C3%ACnh/T%E1%BA%A1o%20%C4%91%E1%BB%93%20th%E1%BB%8B%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi,%20h%E1%BB%87%20th%E1%BB%91ng%20phi%20tuy%E1%BA%BFn.md)
+    - [Xác định các chủ đề có trong ngữ liệu](./X%C3%A1c%20%C4%91%E1%BB%8Bnh%20m%E1%BA%ABu%20h%C3%ACnh/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20c%C3%A1c%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20c%C3%B3%20trong%20ng%E1%BB%AF%20li%E1%BB%87u.md)
 
 
 

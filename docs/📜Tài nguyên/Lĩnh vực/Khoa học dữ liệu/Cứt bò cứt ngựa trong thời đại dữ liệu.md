@@ -80,7 +80,7 @@ But let's be honest: we _like_ the fact that the term is profane. After all, pro
 In this course, we focus on bullshit as it often appears in the natural and social sciences: in the form of misleading models and data that drive erroneous conclusions.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rmii1hfP6d4?si=s5VGdr2Oolz8yS5X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ![Calling Bullshit 10.3: Debunking Myths - YouTube](https://youtu.be/W3APikrtqqU?si=e-jy3fXrblKSTNAY)
-[Hệ thống tri thức cộng đồng](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
+[Hệ thống tri thức cộng đồng](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
 Crackpot
 Không có Khoa học xã hội
 [The Bullshit Machines](https://thebullshitmachines.com/)

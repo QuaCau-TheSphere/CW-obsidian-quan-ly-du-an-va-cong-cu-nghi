@@ -2,7 +2,7 @@
 share: true
 created: 2023-05-26T14:51
 description: Tầng 5, chung cư The GoldView, 346 Bến Vân Đồn, Q4
-updated: 2025-06-22T20:31
+updated: 2025-10-08T15:43
 ---
 Địa chỉ:: Tầng 5, chung cư The GoldView, 346 Bến Vân Đồn, Q4
 Số lượng:: 15 người

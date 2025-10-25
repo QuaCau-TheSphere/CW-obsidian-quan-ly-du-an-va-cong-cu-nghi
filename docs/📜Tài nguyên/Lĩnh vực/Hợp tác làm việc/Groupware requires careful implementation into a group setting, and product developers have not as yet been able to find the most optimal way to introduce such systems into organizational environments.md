@@ -1,6 +1,6 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-09-01T21:08
+updated: 2025-10-20T14:23
 ---
-Nguồn:: [Wikipedia](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/Wikipedia.md), [Computer-supported cooperative work](https://en.wikipedia.org/wiki/Computer-supported_cooperative_work#Standardization_in_information_infrastructure)
+Nguồn:: [Wikipedia](../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Wikipedia/index.md), [Computer-supported cooperative work](https://en.wikipedia.org/wiki/Computer-supported_cooperative_work#Standardization_in_information_infrastructure)

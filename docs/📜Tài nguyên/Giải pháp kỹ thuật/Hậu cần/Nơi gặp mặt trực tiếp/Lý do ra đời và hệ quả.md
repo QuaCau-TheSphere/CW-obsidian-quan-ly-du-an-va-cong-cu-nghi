@@ -83,6 +83,8 @@ Tự động hoá việc đẩy dữ liệu. Phải tính đến việc họ kh�
 
 
 Thường gặp nhất là nhu cầu tùy biến cách phân loại, cấu trúc dữ liệu người dùng, và nhu cầu mở rộng chức năng.
+
+Các bộ chỉ số như esg, sử dụng mã nguồn mở 
 ### Tùy biến cách phân loại, cấu trúc dữ liệu người dùng
 
 [Nhiệm vụ của kiến trúc sư không phải là liệt kê hết các tình huống sẽ xảy ra, mà là thiết kế để dù các tình huống không ngờ tới xảy ra thì vẫn hoạt động ổn định](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/Ki%E1%BA%BFn%20tr%C3%BAc/Nhi%E1%BB%87m%20v%E1%BB%A5%20c%E1%BB%A7a%20ki%E1%BA%BFn%20tr%C3%BAc%20s%C6%B0%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20li%E1%BB%87t%20k%C3%AA%20h%E1%BA%BFt%20c%C3%A1c%20t%C3%ACnh%20hu%E1%BB%91ng%20s%E1%BA%BD%20x%E1%BA%A3y%20ra,%20m%C3%A0%20l%C3%A0%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%83%20d%C3%B9%20c%C3%A1c%20t%C3%ACnh%20hu%E1%BB%91ng%20kh%C3%B4ng%20ng%E1%BB%9D%20t%E1%BB%9Bi%20x%E1%BA%A3y%20ra%20th%C3%AC%20v%E1%BA%ABn%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20%E1%BB%95n%20%C4%91%E1%BB%8Bnh.md). Một ngày nào đó các tỉnh thành được sắp xếp lại

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-05-27T21:42
+updated: 2025-10-15T20:25
 ---
 Khái niệm:: [Thước đo, đo lường, chỉ số, KPI](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/Th%C6%B0%E1%BB%9Bc%20%C4%91o,%20%C4%91o%20l%C6%B0%E1%BB%9Dng,%20ch%E1%BB%89%20s%E1%BB%91,%20KPI.md)
 ![A fisherman illustrates the parable of the fishing net by concluding a minimum size of fish because they never see any smaller in their nets — you get what you measure](https://sketchplanations.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fsketchplanations%2F391d6aec-df76-4ee9-8243-fa6bf9bab40a_SP%2B692%2B-%2BYou%2Bget%2Bwhat%2Byou%2Bmeasure.png%3Fauto%3Dcompress%2Cformat&w=3840&q=75)

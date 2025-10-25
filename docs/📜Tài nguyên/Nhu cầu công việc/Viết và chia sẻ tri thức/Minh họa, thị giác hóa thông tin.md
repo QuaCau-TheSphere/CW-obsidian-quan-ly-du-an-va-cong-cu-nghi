@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-09-26T10:25
-updated: 2025-10-03T15:27
+updated: 2025-10-25T08:39
 ---
 Đọc tổng quan trên Wikipedia: [Visualization (graphics)](https://en.wikipedia.org/wiki/Visualization_(graphics))
 
@@ -20,6 +20,9 @@ updated: 2025-10-03T15:27
 ![Mối liên hệ giữa sơ đồ, biểu đồ, bản đồ, đồ thị mạng lưới.excalidraw](../../../attachments/M%E1%BB%91i%20li%C3%AAn%20h%E1%BB%87%20gi%E1%BB%AFa%20s%C6%A1%20%C4%91%E1%BB%93,%20bi%E1%BB%83u%20%C4%91%E1%BB%93,%20b%E1%BA%A3n%20%C4%91%E1%BB%93,%20%C4%91%E1%BB%93%20th%E1%BB%8B%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi.svg)
 
 Xem thêm:: [Chia sẻ kho tri thức của mình cho mọi người](./Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
+
+[Tổng hợp tất cả các app có đồ thị](https://www.notion.so/My-2d-Brain-Networked-Notebook-App-a131b468fc6f43218fb8105430304709)
+![](https://i.imgur.com/WC5RElN.png)
 
 ## Nơi thảo luận
 [![](https://imagizer.imageshack.com/a/img924/9471/eQpmWA.png)](https://discord.com/channels/898550123007709204/1296474612716146719)

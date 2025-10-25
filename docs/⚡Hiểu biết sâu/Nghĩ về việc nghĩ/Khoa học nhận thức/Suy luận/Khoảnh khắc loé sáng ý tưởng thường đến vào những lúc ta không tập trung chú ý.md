@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-26T19:55
+updated: 2025-10-20T14:23
 ---
 Khái niệm:: [Ý tưởng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/%C3%9D%20t%C6%B0%E1%BB%9Fng.md)
 
 Nguồn:: [To Solve Your Hardest Problems Don’t Think About Them — For a While](https://www.thomasessl.com/blog/2017/11/15/how-to-solve-your-hardest-problems-dont-think-about-themfor-awhile)
-Nguồn:: [Wikipedia](../../../%CE%9E%20Ngu%E1%BB%93n/Wikipedia.md), [Incubation (psychology) - Wikipedia](https://en.wikipedia.org/wiki/Incubation_(psychology))
+Nguồn:: [Wikipedia](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Wikipedia/index.md), [Incubation (psychology) - Wikipedia](https://en.wikipedia.org/wiki/Incubation_(psychology))
 
 [Khi khoảnh khắc loé sáng ý tưởng đến vào lúc ta đang tập trung làm việc khác, nó làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm](../../G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20thi%E1%BA%BFt%20k%E1%BA%BF/Khi%20kho%E1%BA%A3nh%20kh%E1%BA%AFc%20lo%C3%A9%20s%C3%A1ng%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20%C4%91%E1%BA%BFn%20v%C3%A0o%20l%C3%BAc%20ta%20%C4%91ang%20t%E1%BA%ADp%20trung%20l%C3%A0m%20vi%E1%BB%87c%20kh%C3%A1c,%20n%C3%B3%20l%C3%A0m%20ph%C3%A2n%20t%C3%A1n%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20c%E1%BB%A7a%20ta%20kh%E1%BB%8Fi%20th%E1%BB%A9%20m%C3%A0%20ta%20%C4%91%E1%BB%8Bnh%20l%C3%A0m.md)
 [Ý tưởng sinh ra không theo độ khẩn cấp](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20sinh%20ra%20kh%C3%B4ng%20theo%20%C4%91%E1%BB%99%20kh%E1%BA%A9n%20c%E1%BA%A5p.md)

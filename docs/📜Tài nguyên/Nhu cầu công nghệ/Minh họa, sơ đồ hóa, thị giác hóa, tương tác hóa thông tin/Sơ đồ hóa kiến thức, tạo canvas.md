@@ -1,14 +1,17 @@
 ---
 share: true
 created: 2024-10-18T12:41
-updated: 2025-10-25T19:21
+updated: 2025-10-27T12:07
 aliases:
   - Sơ đồ kiến thức, canvas
 description: Thể hiện bức tranh toàn cảnh giữa các lập luận, ý tưởng
 ---
 Cơ bản là để nghĩ tốt hơn
 Canvas giống như một bàn làm việc được trải ra hơn là đơn thuần là nơi vẽ. Xem [Zsolt's Visual Personal Knowledge Management - YouTube](https://www.youtube.com/@VisualPKM)
-
+[Graphic facilitation - Wikipedia](https://en.wikipedia.org/wiki/Graphic_facilitation)
+[Rich picture - Wikipedia](https://en.wikipedia.org/wiki/Rich_picture)
+[Rich pictures \| OpenLearn - Open University](https://www.open.edu/openlearn/science-maths-technology/engineering-technology/rich-pictures)
+[Rich Pictures: Making sense of Complex situations](https://sketchplanations.substack.com/p/rich-pictures?utm_source=share&utm_medium=android&r=o1jso&triedRedirect=true)
 [Sơ đồ không phụ thuộc vào hướng. Bản đồ phụ thuộc vào hướng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/C%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/S%C6%A1%20%C4%91%E1%BB%93%20kh%C3%B4ng%20ph%E1%BB%A5%20thu%E1%BB%99c%20v%C3%A0o%20h%C6%B0%E1%BB%9Bng.%20B%E1%BA%A3n%20%C4%91%E1%BB%93%20ph%E1%BB%A5%20thu%E1%BB%99c%20v%C3%A0o%20h%C6%B0%E1%BB%9Bng.md)
 
 ## Các loại sơ đồ

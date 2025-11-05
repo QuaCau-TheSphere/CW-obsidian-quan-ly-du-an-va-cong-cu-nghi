@@ -23,7 +23,7 @@ Sự chặt chẽ,. Cứ mỗi lần. Đó mới chính là cách một người
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/du9jHVhjo1Q?si=zeFQrcHTzXMKRp2l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![HÀNH TRÌNH GIẢI MÃ NHỮNG CON SỐ QUA TRUYỆN TRANH VỀ NGHỀ KẾ TOÁN - YouTube](https://youtu.be/LyTbneQ54K0?si=iAvlZoiF_vZQh10X)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LyTbneQ54K0?si=iAvlZoiF_vZQh10X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Một triết lý tương tự được áp dụng cho phong cách viết của khóa luận. Mình thiết kế khóa luận của mình (ít nhất là phần giới thiệu) với cấu trúc hỏi hỏi đáp đáp. Cấu trúc này khiến cho văn bản trở nên biến hóa trong mắt bạn. Nếu như câu hỏi thể hiện sự lo âu (một gút thắt), thì câu trả lời sẽ đem lại sự yên tâm (một gút mở). Nhưng nếu bạn xem câu trả lời như một sự trì trệ của khoa học (một gút thắt), thì câu hỏi sẽ là một bước phát triển mới (một gút mở). Và như vậy, một câu trong văn bản sẽ là gút thắt hay gút mở tùy thuộc vào tâm trạng của bạn lúc đó. Mỗi lần bạn mở ra đọc sẽ đem cho bạn một cảm xúc khác.
 
 Với cấu trúc như vậy, ranh giới giữa các nội dung bị xóa nhòa. Người đọc sẽ cảm thấy đây là một câu chuyện, còn với người có chuyên môn thì vẫn cảm thấy các yêu cầu được đảm bảo. Cả người đọc và người viết sẽ lần giở lại một phần lịch sử của vấn đề, và bỗng nhiên họ cảm thấy kết nối được với nhau. 

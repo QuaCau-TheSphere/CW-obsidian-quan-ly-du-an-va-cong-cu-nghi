@@ -4,7 +4,7 @@ created: 2025-05-06T12:52
 description: Nó khác gì với những dự án tương tự khác? Nó chấp nhận những đánh đổi nào?
 aliases:
   - Động lực
-updated: 2025-10-08T15:42
+updated: 2025-11-02T10:31
 ---
 # Lý do ra đời kho địa điểm để chọn nơi gặp mặt, và hệ quả của những lý do đó
 ## Lý do ra đời
@@ -30,7 +30,7 @@ Dự án mong muốn:
 - Giảm gánh nặng nhận thức trong việc quản lý và chia sẻ dữ liệu dự án, 
 - Xây dựng hệ sinh thái nơi các thành viên có thể đóng góp dữ liệu một cách thụ động và tự động vào các cơ sở dữ liệu chung
 - Tăng khả năng hợp tác và phát triển ý tưởng mới của đối tượng thụ hưởng với ít nỗ lực hơn
-- [Chia sẻ kho tri thức của mình cho mọi người](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md), giúp mọi người [[Làm sao để tìm được thứ cần tìm khi không biết từ khoá 
+- [Chia sẻ kho tri thức của mình cho mọi người](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md), giúp mọi người [tìm được thứ cần tìm khi không biết từ khoá chính xác của nó](../../../L%C3%A0m%20sao%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%A9%20c%E1%BA%A7n%20t%C3%ACm%20khi%20kh%C3%B4ng%20bi%E1%BA%BFt%20t%E1%BB%AB%20kho%C3%A1%20ch%C3%ADnh%20x%C3%A1c%20c%E1%BB%A7a%20n%C3%B3.md)
 
 Bài chi tiết: [Phá vỡ silo thông tin, nắm bắt nhu cầu các bên và sử dụng các nguồn tài nguyên cộng đồng hiệu quả](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/M%C3%B4%20t%E1%BA%A3%20d%E1%BB%B1%20%C3%A1n.md)
 

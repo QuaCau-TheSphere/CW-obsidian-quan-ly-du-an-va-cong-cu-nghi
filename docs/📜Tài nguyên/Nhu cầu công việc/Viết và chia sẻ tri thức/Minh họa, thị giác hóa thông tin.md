@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-09-26T10:25
-updated: 2025-10-25T08:39
+updated: 2025-11-05T12:09
 ---
 Đọc tổng quan trên Wikipedia: [Visualization (graphics)](https://en.wikipedia.org/wiki/Visualization_(graphics))
 
@@ -21,7 +21,7 @@ updated: 2025-10-25T08:39
 
 Xem thêm:: [Chia sẻ kho tri thức của mình cho mọi người](./Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
 
-[Tổng hợp tất cả các app có đồ thị](https://www.notion.so/My-2d-Brain-Networked-Notebook-App-a131b468fc6f43218fb8105430304709)
+[Tổng hợp tất cả các app có wikilink, backlink hoặc đồ thị](https://www.notion.so/My-2d-Brain-Networked-Notebook-App-a131b468fc6f43218fb8105430304709)
 ![](https://i.imgur.com/WC5RElN.png)
 
 ## Nơi thảo luận

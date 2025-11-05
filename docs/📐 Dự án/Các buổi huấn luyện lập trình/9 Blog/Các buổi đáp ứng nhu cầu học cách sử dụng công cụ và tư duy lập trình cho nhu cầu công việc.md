@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-26T15:55
-updated: 2025-10-02T15:40
+updated: 2025-11-05T20:00
 cssClasses:
   - wide-table
 ---
@@ -42,11 +42,12 @@ Thì các buổi đáp ứng nhu cầu học cách sử dụng công cụ và t�
     - [Thiết kế tiếp cận được cho người khuyết tật](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Thi%E1%BA%BFt%20k%E1%BA%BF%20ti%E1%BA%BFp%20c%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20cho%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
     - [Thúc đẩy đối thoại](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Th%C3%BAc%20%C4%91%E1%BA%A9y%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i.md)
     - [Xây dựng mạng lưới đối tác, các bên liên quan. Kết nối nguồn lực nhàn rỗi](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.%20K%E1%BA%BFt%20n%E1%BB%91i%20ngu%E1%BB%93n%20l%E1%BB%B1c%20nh%C3%A0n%20r%E1%BB%97i.md)
+    - [Ra quyết định tập thể](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20t%E1%BA%ADp%20th%E1%BB%83.md)
 
 - Nghiên cứu: 
     - [Nghiên cứu cộng đồng mạng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Nghi%C3%AAn%20c%E1%BB%A9u%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20m%E1%BA%A1ng.md)
-    - [Nghiên cứu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/index.md)
     - [Phân tích dữ liệu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u.md)
+    - [Nghiên cứu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/index.md)
     - [Nghiên cứu người dùng, phát triển sản phẩm](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Thu%20th%E1%BA%ADp%20d%E1%BB%AF%20li%E1%BB%87u/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m.md)
     - [Nắm bắt xu hướng mạng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/Thu%20th%E1%BA%ADp%20d%E1%BB%AF%20li%E1%BB%87u/N%E1%BA%AFm%20b%E1%BA%AFt%20xu%20h%C6%B0%E1%BB%9Bng%20m%E1%BA%A1ng.md)
     - [Tổng quan nghiên cứu. Tải bài](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u/T%E1%BB%95ng%20quan%20nghi%C3%AAn%20c%E1%BB%A9u.%20T%E1%BA%A3i%20b%C3%A0i.md)
@@ -59,8 +60,8 @@ Thì các buổi đáp ứng nhu cầu học cách sử dụng công cụ và t�
     - [Nắm bắt hoạt động của nhau](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/N%E1%BA%AFm%20b%E1%BA%AFt%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20nhau.md)
     - [Quản lý tiền, kế toán](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/Qu%E1%BA%A3n%20l%C3%BD%20ti%E1%BB%81n,%20k%E1%BA%BF%20to%C3%A1n.md)
     - [Thông tin, truyền thông ra bên ngoài](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/Th%C3%B4ng%20tin,%20truy%E1%BB%81n%20th%C3%B4ng%20ra%20b%C3%AAn%20ngo%C3%A0i.md)
-    - [Vận hành](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/index.md)
     - [Xây dựng thương hiệu, mối quan hệ](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/X%C3%A2y%20d%E1%BB%B1ng%20th%C6%B0%C6%A1ng%20hi%E1%BB%87u,%20m%E1%BB%91i%20quan%20h%E1%BB%87.md)
+    - [Vận hành](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/index.md)
 
 - Viết và chia sẻ tri thức: 
     - [Chia sẻ kho tri thức của mình cho mọi người](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
@@ -77,8 +78,8 @@ Thì các buổi đáp ứng nhu cầu học cách sử dụng công cụ và t�
     - [Nhu cầu công nghệ](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/index.md)
 
 - Hệ thống thông tin: 
-    - [Cơ sở dữ liệu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/C%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u.md)
     - [Quản lý thời gian cho cả nhóm](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Qu%E1%BA%A3n%20l%C3%BD%20th%E1%BB%9Di%20gian%20cho%20c%E1%BA%A3%20nh%C3%B3m.md)
+    - [Cơ sở dữ liệu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/C%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u.md)
     - [Truy vấn dữ liệu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Truy%20v%E1%BA%A5n%20d%E1%BB%AF%20li%E1%BB%87u.md)
     - [Tạo dashboard](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BA%A1o%20dashboard.md)
     - [Phân loại dữ liệu tự động](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng/Ph%C3%A2n%20lo%E1%BA%A1i%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md)
@@ -103,12 +104,12 @@ Thì các buổi đáp ứng nhu cầu học cách sử dụng công cụ và t�
     - [Hệ thống quản lý kiến thức](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/H%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
     - [Khu vườn số](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/Khu%20v%C6%B0%E1%BB%9Dn%20s%E1%BB%91.md)
     - [Kiểm soát phiên bản (version control)](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/Ki%E1%BB%83m%20so%C3%A1t%20phi%C3%AAn%20b%E1%BA%A3n%20(version%20control).md)
-    - [Tài liệu động](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md)
     - [WYSIWYM](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/WYSIWYM.md)
+    - [Tài liệu động](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md)
 
 - Xác định mẫu hình: 
-    - [Chạy thống kê](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20m%E1%BA%ABu%20h%C3%ACnh/Ch%E1%BA%A1y%20th%E1%BB%91ng%20k%C3%AA.md)
     - [Tạo đồ thị mạng lưới, hệ thống phi tuyến](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20m%E1%BA%ABu%20h%C3%ACnh/T%E1%BA%A1o%20%C4%91%E1%BB%93%20th%E1%BB%8B%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi,%20h%E1%BB%87%20th%E1%BB%91ng%20phi%20tuy%E1%BA%BFn.md)
+    - [Chạy thống kê](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20m%E1%BA%ABu%20h%C3%ACnh/Ch%E1%BA%A1y%20th%E1%BB%91ng%20k%C3%AA.md)
     - [Xác định các chủ đề có trong ngữ liệu](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20m%E1%BA%ABu%20h%C3%ACnh/X%C3%A1c%20%C4%91%E1%BB%8Bnh%20c%C3%A1c%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20c%C3%B3%20trong%20ng%E1%BB%AF%20li%E1%BB%87u.md)
 
 
@@ -138,10 +139,10 @@ Writing Logseq Collins Dictionary Plugin
 <iframe width="560" height="315" src="https://www.youtube.com/embed/obcpkYjSGQw?si=N7WF0UvNPOrb0izs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Giới hạn của PKM nằm ở đâu: máy móc mình sử dụng hay chính người sử dụng nó? 
-![Giới hạn của PKM nằm ở đâu: máy móc mình sử dụng hay chính người sử dụng nó? - YouTube](https://www.youtube.com/watch?v=DIKNl3nVSxw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=DIKNl3nVSxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
  Công nghệ và ký ức: trí nhớ của ta có còn nằm trong não của ta nữa không?
-![Công nghệ và ký ức: trí nhớ của ta có còn nằm trong não của ta nữa không? - YouTube](https://www.youtube.com/watch?v=anEPsQCBPKI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=anEPsQCBPKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Lộ trình
 Vì đây là dự án phục vụ nhu cầu của bạn, nên số lượng buổi học, thời gian học, và hình thức học (trực tuyến hay trực tiếp) đều do bạn quyết định. 
@@ -171,7 +172,7 @@ Bởi vì những buổi này để đáp ứng nhu cầu của người tham gi
 Những tài nguyên bạn biết được bạn sẽ có không gian để chia sẻ và mọi người sẽ cùng bàn luận. Sẽ càng tốt nếu bạn đang có sẵn một dự án và cần biết cách áp dụng kiến thức đó vào dự án của mình thế nào. Chính vì như vậy, nên cho dù ban đầu nó có một mục tiêu được định trước, nhưng việc thảo luận sẽ luôn làm nảy nở những mục tiêu mới. Nếu bạn cảm thấy mục tiêu ban đầu của mình không còn là mục tiêu của những người khác thì sẽ tách ra.
 
 ### Giải quyết nhu cầu công việc không đồng nhất với kiếm tiền bằng lập trình
-Các buổi này được tạo ra để giúp bạn tự chủ về công nghệ, để bạn có thể giải quyết bài toán của mình. Bạn còn rất nhiều công việc, và lập trình là một công cụ quan trọng để làm được việc, nhưng lại không phải là bài toán quan trọng nhất. Bạn đến với lập trình không phải vì bạn muốn lập trình, mà là vì bạn cần giải quyết những vấn đề khác, mà những vấn đề đó cần lập trình. [Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20thi%E1%BA%BFt%20k%E1%BA%BF/M%E1%BB%97i%20m%E1%BB%99t%20th%E1%BA%AFc%20m%E1%BA%AFc%20%C4%91%E1%BB%81u%20l%C3%A0m%20t%C4%83ng%20th%C3%AAm%20kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20nh%E1%BA%ADn%20th%E1%BB%A9c%20m%C3%A0%20ch%C3%BAng%20ta%20c%C3%B3%20trong%20t%C3%A2m%20tr%C3%AD,%20qua%20%C4%91%C3%B3%20l%C3%A0m%20ph%C3%A2n%20t%C3%A1n%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20c%E1%BB%A7a%20ta%20kh%E1%BB%8Fi%20th%E1%BB%A9%20m%C3%A0%20ta%20%C4%91%E1%BB%8Bnh%20l%C3%A0m.md). Thế nên, dù bạn không muốn nước đến chân mới nhảy, nhưng bạn cũng biết rằng nước mà không đến chân thì bạn sẽ không thể nhảy. Nơi đây chỉ là nơi để mọi người cùng nhảy với nhau khi nước chưa đến chân mà thôi (hoặc có thể là có những người nước đến chân luôn rồi).
+Các buổi này được tạo ra để giúp bạn tự chủ về công nghệ, để bạn có thể giải quyết bài toán của mình. Bạn còn rất nhiều công việc, và lập trình là một công cụ quan trọng để làm được việc, nhưng lại không phải là bài toán quan trọng nhất. Bạn đến với lập trình không phải vì bạn muốn lập trình, mà là vì bạn cần giải quyết những vấn đề khác, mà những vấn đề đó cần lập trình. [Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/M%E1%BB%97i%20m%E1%BB%99t%20th%E1%BA%AFc%20m%E1%BA%AFc%20%C4%91%E1%BB%81u%20l%C3%A0m%20t%C4%83ng%20th%C3%AAm%20kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20nh%E1%BA%ADn%20th%E1%BB%A9c%20m%C3%A0%20ch%C3%BAng%20ta%20c%C3%B3%20trong%20t%C3%A2m%20tr%C3%AD,%20qua%20%C4%91%C3%B3%20l%C3%A0m%20ph%C3%A2n%20t%C3%A1n%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20c%E1%BB%A7a%20ta%20kh%E1%BB%8Fi%20th%E1%BB%A9%20m%C3%A0%20ta%20%C4%91%E1%BB%8Bnh%20l%C3%A0m.md). Thế nên, dù bạn không muốn nước đến chân mới nhảy, nhưng bạn cũng biết rằng nước mà không đến chân thì bạn sẽ không thể nhảy. Nơi đây chỉ là nơi để mọi người cùng nhảy với nhau khi nước chưa đến chân mà thôi (hoặc có thể là có những người nước đến chân luôn rồi).
 
 Vì thế, ở đây, các bài học phải giải đáp được nhu cầu có thực của riêng bạn, chứ không phải chỉ là một ví dụ cho dễ hiểu xong rồi xóa đi. "Bài tập" giao cho bạn phải là thứ bạn đã muốn làm từ lâu rồi.
 
@@ -183,8 +184,6 @@ Nếu từ các buổi này bạn có thể kiếm thêm được tiền thì b�
 Nếu bạn muốn bắt đầu từ nền tảng trước thì có lẽ nên đi học các lớp học lập trình. Những lớp như vậy có rất nhiều, và cũng rất nhiều giảng viên tâm huyết và trình độ hơn bọn mình. Bọn mình còn phải đi học họ thì bọn mình không nghĩ bạn cần phải tìm đến bọn mình. 
 
 Xem thêm:: [Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất](./Theo%20k%E1%BB%B9%20thu%E1%BA%ADt/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20%C4%91%E1%BB%8Dc%20code%20cho%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20vi%E1%BB%87c%20bi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%ACnh%20l%C3%A0%20quan%20tr%E1%BB%8Dng%20nh%C6%B0ng%20kh%C3%B4ng%20th%E1%BB%83%20bi%E1%BA%BFn%20n%C3%B3%20tr%E1%BB%9F%20th%C3%A0nh%20%C6%B0u%20ti%C3%AAn%20cao%20nh%E1%BA%A5t.md)
-
-[Các buổi đáp ứng nhu cầu học lập trình](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/Truy%E1%BB%81n%20th%C3%B4ng/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md)
 
 Bạn ưu tiên các tiêu chí nào sau đây:
 - [ ] Làm sớm

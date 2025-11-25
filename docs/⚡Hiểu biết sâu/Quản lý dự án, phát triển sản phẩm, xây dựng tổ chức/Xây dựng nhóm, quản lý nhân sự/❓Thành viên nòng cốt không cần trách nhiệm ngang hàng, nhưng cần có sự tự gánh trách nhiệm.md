@@ -1,0 +1,8 @@
+---
+share: true
+created: 2025-09-27T16:20
+updated: 2025-11-23T16:05
+---
+Khái niệm:: [thành viên nòng cốt](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%E1%BA%A3n%20l%C3%BD%20t%E1%BB%95%20ch%E1%BB%A9c/Nh%C3%B3m%20n%C3%B2ng%20c%E1%BB%91t.md)
+[Hiện tượng khuếch tán trách nhiệm, người ngoài đứng nhìn khiến cho ngay cả khi ta thấy người khác chịu khổ sở và rất cần được giúp thì mong muốn giúp đỡ cũng bị tê liệt](../../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20sinh%20th%C3%A1i/Hi%E1%BB%87n%20t%C6%B0%E1%BB%A3ng%20khu%E1%BA%BFch%20t%C3%A1n%20tr%C3%A1ch%20nhi%E1%BB%87m,%20ng%C6%B0%E1%BB%9Di%20ngo%C3%A0i%20%C4%91%E1%BB%A9ng%20nh%C3%ACn%20khi%E1%BA%BFn%20cho%20ngay%20c%E1%BA%A3%20khi%20ta%20th%E1%BA%A5y%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20ch%E1%BB%8Bu%20kh%E1%BB%95%20s%E1%BB%9F%20v%C3%A0%20r%E1%BA%A5t%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20gi%C3%BAp%20th%C3%AC%20mong%20mu%E1%BB%91n%20gi%C3%BAp%20%C4%91%E1%BB%A1%20c%C5%A9ng%20b%E1%BB%8B%20t%C3%AA%20li%E1%BB%87t.md)
+[Người khác sẽ tham gia giúp đỡ khi họ thấy việc mình làm gần thoả mãn nhu cầu của họ](../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Gi%C3%BAp%20%C4%91%E1%BB%A1%20nhau/Ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20s%E1%BA%BD%20tham%20gia%20gi%C3%BAp%20%C4%91%E1%BB%A1%20khi%20h%E1%BB%8D%20th%E1%BA%A5y%20vi%E1%BB%87c%20m%C3%ACnh%20l%C3%A0m%20g%E1%BA%A7n%20tho%E1%BA%A3%20m%C3%A3n%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20h%E1%BB%8D.md)

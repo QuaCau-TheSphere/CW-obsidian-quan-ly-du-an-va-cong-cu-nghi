@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-03-17T21:05
-updated: 2025-11-23T15:49
+updated: 2025-11-25T16:17
 aliases:
   - Chia sẻ kho tri thức của mình cho mọi người
   - Xây dựng hệ thống tri thức cộng đồng: Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?
@@ -24,7 +24,7 @@ Cơ bản là cải thiện [Wikiversity](https://en.wikipedia.org/wiki/Wikivers
 
 Thứ được tạo ra gọi là kho, hệ thống hay bản đồ tri thức cộng đồng 
 
-Cơ bản là giúp mọi người [nắm được những điều họ không biết là đã biết một cách nhanh nhất](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/Nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20%C4%91%C3%A3%20bi%E1%BA%BFt%20l%C3%A0%20%C4%91%C3%A3%20bi%E1%BA%BFt%20s%E1%BA%BD%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20%C4%91%E1%BB%83%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch%20ch%C3%ADnh.%20Nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20kh%C3%B4ng%20bi%E1%BA%BFt%20l%C3%A0%20%C4%91%C3%A3%20bi%E1%BA%BFt%20s%E1%BA%BD%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20%C4%91%E1%BB%83%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch%20d%E1%BB%B1%20ph%C3%B2ng.%20Nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20%C4%91%C3%A3%20bi%E1%BA%BFt%20l%C3%A0%20kh%C3%B4ng%20bi%E1%BA%BFt%20th%C3%AC%20c%E1%BA%A7n%20nghi%C3%AAn%20c%E1%BB%A9u%20th%C3%AAm.md)?
+Cơ bản là giúp mọi người [nắm được những điều họ không biết là đã biết một cách nhanh nhất](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/%C4%90i%E1%BB%81u%20%C4%91%C3%A3%20bi%E1%BA%BFt%20l%C3%A0%20%C4%91%C3%A3%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20%C4%91%E1%BB%83%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch%20ch%C3%ADnh.%20%C4%90i%E1%BB%81u%20kh%C3%B4ng%20bi%E1%BA%BFt%20l%C3%A0%20%C4%91%C3%A3%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20%C4%91%E1%BB%83%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch%20d%E1%BB%B1%20ph%C3%B2ng.%20%C4%90i%E1%BB%81u%20%C4%91%C3%A3%20bi%E1%BA%BFt%20l%C3%A0%20kh%C3%B4ng%20bi%E1%BA%BFt%20th%C3%AC%20c%E1%BA%A7n%20nghi%C3%AAn%20c%E1%BB%A9u%20th%C3%AAm.md)?
 
 Xem thêm:: [Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó?](../../L%C3%A0m%20sao%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%A9%20c%E1%BA%A7n%20t%C3%ACm%20khi%20kh%C3%B4ng%20bi%E1%BA%BFt%20t%E1%BB%AB%20kho%C3%A1%20ch%C3%ADnh%20x%C3%A1c%20c%E1%BB%A7a%20n%C3%B3.md)
 Xem thêm:: [Nền kinh tế tri thức](../../../attachments/N%E1%BB%81n%20kinh%20t%E1%BA%BF%20tri%20th%E1%BB%A9c.canvas.md)

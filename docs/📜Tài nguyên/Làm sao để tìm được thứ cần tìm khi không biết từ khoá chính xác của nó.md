@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-04-24T09:02
-updated: 2025-11-03T18:50
+updated: 2025-11-13T11:34
 title: Làm sao để tìm được thứ cần tìm khi không biết từ khoá chính xác của nó?
 aliases:
   - Đâu là nơi dễ gặp được từ khoá cần tìm nhất?
@@ -98,7 +98,7 @@ Hoặc cũng có thể có câu trả lời rồi mà mình chưa biết. Nếu 
 - [Xây dựng hệ thống tri thức cộng đồng: Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md) 
 - [Làm sao để giỏi hơn: Sự chuyên gia (expertise) đến từ việc nhìn ra mẫu hình](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BA%ABu%20h%C3%ACnh,%20tr%E1%BB%B1c%20gi%C3%A1c/S%E1%BB%B1%20chuy%C3%AAn%20gia%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20vi%E1%BB%87c%20nh%C3%ACn%20ra%20m%E1%BA%ABu%20h%C3%ACnh.md)
 
-Khái niệm:: [Mental modal](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Mental%20modal.md), [Điều không biết](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/%C4%90i%E1%BB%81u%20kh%C3%B4ng%20bi%E1%BA%BFt.md)
+Khái niệm:: [Mental modal](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Mental%20modal.md), [Sự không biết](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%B1%20kh%C3%B4ng%20bi%E1%BA%BFt.md)
 
 %%
 Đầu tiên, hãy hiểu rằng một từ được định nghĩa bởi một tổ hợp các từ khoá khác. Ví dụ, một người nước ngoài đang học tiếng Việt khi muốn nói về con mèo nhưng không biết tiếng Việt gọi con mèo như thế nào, thì có thể họ sẽ hỏi một câu như này:

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-23T19:46
-updated: 2025-09-27T11:38
+updated: 2025-11-19T13:50
 title: "Từ việc phá vỡ silo thông tin và sử dụng hiệu quả các nguồn lực cộng đồng, đến hệ thống quản lý niềm tin và nền kinh tế không dùng tiền: vai trò của các phần mềm ghi chú động lưu dữ liệu tại máy người dùng và ở định dạng đơn giản"
 description: Chỉ khi nào nhu cầu của các bên liên quan hiện ra ngay trong kho dữ liệu của nhóm mà không cần phải hỏi họ hay thậm chí là nhập liệu, thì lúc đó chúng ta mới có thể bắt đầu nói về một hệ sinh thái mà những thành viên mới – vốn rất thiếu nhân lực – vẫn có thể hưởng lợi.
 aliases:
@@ -40,6 +40,7 @@ nói chung cũng thấy dự án này hấp dẫn. Nhưng nhìn lại thì anh t
 chắc anh bắt đầu cảm thấy hoài nghi về những tham vọng như vậy. Anh nghĩ mấu chốt vẫn là phải cho người dùng khả năng tự thao tác dữ liệu theo ý họ muốn. Anh nhìn vào cái sứ mệnh thì ko thấy đề cập như vậy, còn nhìn vào lộ trình thì thấy coơ bản vẫn là đi code outsource
 Nhưng anh biết cái này chỉ có gặp nhau thì mới có đầu óc để xử lý. Chứ tự làm thì ai cũng đều có công việc riêng nên ko có đầu óc để làm cái này
 
+Building, curating and keeping a network map up to date takes time and asking people to submit their data to centralised data silos isn’t great because once the data is collected (which takes ages) it’s hard to share elsewhere, goes out of date quickly, needs constantly updating, and people struggle to find the time to update multiple profiles on multiple platforms and sites… Plus, if you add data on behalf of your members it can be hard for them to edit when their data changes.[@murmuration]
 
 Being a founder is notoriously challenging for maintaining work-life balance [@altmanHowSucceedStartup2018]. Founders face a barrage of tasks: research, strategy planning, recruiting, marketing, fundraising, community development, event organization, and networking, among others [@TableContentsCommunity]. While this essay broadly addresses the overwhelming workload, it slightly focuses on networking and collaboration.
 

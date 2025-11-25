@@ -15,7 +15,7 @@ Sự tập trung của chúng ta chỉ có một khoảng nhất định, và ta
 
 Thông thường, những thứ ở trên sẽ bị coi là sao nhãng, và được khuyến khích loại bỏ để đảm bảo sự tập trung. Tuy nhiên, có những loại công việc tuy không liên quan đến công việc bạn đang cần tập trung, nhưng lại quan trọng để hoàn thành nó. Một ví dụ điển hình nhất là ta cần phải dừng công việc lại để hỏi ý kiến ai đó, hoặc vì gặp phải một kiến thức hoặc cần phải học một kỹ năng mới. Có những lúc nếu không hoàn thành những thứ đó, ta sẽ không thể hoàn thành được công việc hoặc làm nó kém hiệu quả. Nhưng nếu hoàn thành nó, thì nó lại là một sự sao lãng.
 
-![TEDxSanJoseCA - Adam Gazzaley, MD, PhD - Brain: Memory and Multitasking](https://www.youtube.com/watch?v=tiANn5PZ4BI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=tiANn5PZ4BI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Quay trở lại vấn đề, những câu hỏi được đánh giá là chỉ cần google phát là ra thường có đặc điểm là những câu hỏi mang tính định nghĩa, nhưng nếu không có đáp án thì thứ ta đang tiếp thu dang dở sẽ trở nên khó hiểu. Nó không khác gì việc đọc một bài tiếng Anh mà gặp một từ khó hiểu vậy.
 
 Hãy thử đọc một đoạn văn chứa một từ bạn chưa biết rồi thử xem chuyện gì sẽ xảy ra?

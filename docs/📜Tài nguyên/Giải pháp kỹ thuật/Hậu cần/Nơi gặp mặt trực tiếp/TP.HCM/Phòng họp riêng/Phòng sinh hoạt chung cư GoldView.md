@@ -1,15 +1,15 @@
 ---
 share: true
 created: 2023-05-26T14:51
-description: Tầng 5, chung cư The GoldView, 346 Bến Vân Đồn, Q4
-updated: 2025-10-31T20:20
+description: Tầng 5, chung cư The GoldView, 346 Bến Vân Đồn, Vĩnh Hội
+updated: 2025-12-10T21:08
 ---
-Địa chỉ:: Tầng 5, chung cư The GoldView, 346 Bến Vân Đồn, Q4
+Địa chỉ:: Tầng 5, chung cư The GoldView, 346 Bến Vân Đồn, Vĩnh Hội
 Số lượng:: 15 người
 Giá:: 0
  
 Giá giữ xe:: 5k/4 tiếng
-Liên hệ:: https://www.facebook.com/quacau.sphere/
+Liên hệ:: [Quả Cầu \| Facebook](https://www.facebook.com/quacau.sphere/)
 Website:: [CHUNG CƯ THE GOLDVIEW](https://thegoldview-thapa.com)
 
 Giờ mở cửa:: 6h
@@ -19,9 +19,9 @@ Ghi chú:
 - Cọc trước 1tr. Trả cọc sau 2 tuần
 - Cần có người dắt lên
 - Wifi: `Apple 15`, Pass: `Bqlthapa@123`
-Lưu ý:
 - Không được bày đồ ăn
 - Không có sẵn bình nước
+- Cần cư dân đặt lịch (Giấy Xác Nhận Sử Dụng Tiện Ích (Amenities Usage Confirmation) PMD-BF-111-ASC )
 
 ## Hướng dẫn di chuyển
 Khi đến TNL Plaza, bạn xuống hầm gửi xe rồi đi lên mặt đất lại. Đi men theo bờ tường bên phải, tới ngã ba thì quẹo trái, vào cửa an ninh gần nhất. Sau khi đi qua cửa thì lên thang máy lên tầng 5:
@@ -42,4 +42,4 @@ Mọi người đến sớm 10 phút, tập trung ở Chuk để Nhật dắt l�
 - [Sân vườn chung cư GoldView](../C%C3%B4ng%20vi%C3%AAn/S%C3%A2n%20v%C6%B0%E1%BB%9Dn%20chung%20c%C6%B0%20GoldView.md)
 - [Bàn ghế siêu thị chung cư GoldView](../C%C3%B4ng%20vi%C3%AAn/B%C3%A0n%20gh%E1%BA%BF%20si%C3%AAu%20th%E1%BB%8B%20chung%20c%C6%B0%20GoldView.md)
 
-Giấy Xác Nhận Sử Dụng Tiện Ích (amenities Usage Confirmation) PMD-BF-111-ASC 
+Đây là một phần của [Kho địa điểm để chọn nơi gặp mặt](../../index.md).

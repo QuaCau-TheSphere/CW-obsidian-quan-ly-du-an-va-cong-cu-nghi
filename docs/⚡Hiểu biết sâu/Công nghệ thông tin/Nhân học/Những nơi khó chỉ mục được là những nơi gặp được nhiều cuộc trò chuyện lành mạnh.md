@@ -6,7 +6,7 @@ aliases:
   - Những nơi gặp được nhiều tương tác thực sự từ con người là những nơi được sàng lọc kỹ
   - Thuyết rừng âm u của web
   - Để giữ được sự bình an cho bản thân, nhiều người tránh xa những nơi quá công khai, rút vào những địa bàn có sự sàng lọc kỹ hơn
-updated: 2025-04-28T14:24
+updated: 2025-11-29T11:19
 ---
 Hãy tưởng tượng một khu rừng về đêm. Nó thinh lặng chết người. Nó làm người ta tưởng rằng khu rừng không có sự sống. Nhưng thực ra không phải; khu rừng tràn ngập sự sống. Nó thinh lặng vì ban đêm là lúc hoạt động của rất nhiều loài săn mồi. Để sinh tồn, muôn thú giữ im lặng. 
 
@@ -30,3 +30,4 @@ Xem thêm:: [Delightful humane design](Delightful%20humane%20design.md)
 Content farm, humane tech
 [Việc khai thác điểm yếu của con người đem lại lợi nhuận](../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Vi%E1%BB%87c%20khai%20th%C3%A1c%20%C4%91i%E1%BB%83m%20y%E1%BA%BFu%20c%E1%BB%A7a%20con%20ng%C6%B0%E1%BB%9Di%20%C4%91em%20l%E1%BA%A1i%20l%E1%BB%A3i%20nhu%E1%BA%ADn.md). Các công ty đang bóp API để không cho AI cào web, khiến cho các bot lành tính, hữu ích càng khó sống ở tầng công khai hơn.
 ![](https://assets-global.website-files.com/5f0e1294f002b1bb26e1f304/6273d54e9f5270706efdddef_Wisdom-Gap-Email_Human-Vulnerabilities-Technology.png) 
+[alive internet theory - by Spencer Chang](https://news.spencer.place/p/alive-internet-theory)

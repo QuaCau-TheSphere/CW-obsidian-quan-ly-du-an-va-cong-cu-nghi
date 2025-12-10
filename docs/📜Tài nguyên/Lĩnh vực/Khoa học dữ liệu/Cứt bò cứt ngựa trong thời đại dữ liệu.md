@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-07-20T22:33
+updated: 2025-12-07T18:10
 ---
 Bạn tuy có thể không biết horseshit thì cũng là bullshit, nhưng bạn chắc đã biết bullshit là những thứ vớ vẩn, nhảm cứt. Trong lúc mình đang lướt Sketchplanations thì bắt gặp tranh vẽ mình hoạ [nguyên lý bất đối xứng cứt bò](https://sketchplanations.com/the-bs-asymmetry-principle) này:
 
@@ -79,12 +79,12 @@ biết chửi thề trước khi biết nói
 But let's be honest: we _like_ the fact that the term is profane. After all, profane language can have a certain rhetorical force. "I wish to express my reservations about your claim" doesn't have the same impact as "I call bullshit!"
 In this course, we focus on bullshit as it often appears in the natural and social sciences: in the form of misleading models and data that drive erroneous conclusions.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rmii1hfP6d4?si=s5VGdr2Oolz8yS5X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-![Calling Bullshit 10.3: Debunking Myths - YouTube](https://youtu.be/W3APikrtqqU?si=e-jy3fXrblKSTNAY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W3APikrtqqU?si=e-jy3fXrblKSTNAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Hệ thống tri thức cộng đồng](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
 Crackpot
 Không có Khoa học xã hội
 [The Bullshit Machines](https://thebullshitmachines.com/)
-[Mô hình ngôn ngữ lớn](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/M%C3%B4%20h%C3%ACnh%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BB%9Bn/index.md)
+[AI tạo sinh](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/AI%20t%E1%BA%A1o%20sinh/index.md)
 Hệ thống niềm tin
 Debunk không nổi
 

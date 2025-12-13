@@ -27,7 +27,7 @@ Lưu ý:
 ## Hướng dẫn di chuyển
 Khi đến TNL Plaza, bạn xuống hầm gửi xe rồi đi lên mặt đất lại. Đi men theo bờ tường bên phải, tới ngã ba thì quẹo trái, vào cửa an ninh gần nhất. Sau khi đi qua cửa thì lên thang máy lên tầng 5:
 ![Hướng di chuyển dưới đất.png](../../../../../../attachments/H%C6%B0%E1%BB%9Bng%20di%20chuy%E1%BB%83n%20d%C6%B0%E1%BB%9Bi%20%C4%91%E1%BA%A5t.png)
-[excalidraw](../../../../../../attachments/H%C6%B0%E1%BB%9Bng%20di%20chuy%E1%BB%83n%20d%C6%B0%E1%BB%9Bi%20%C4%91%E1%BA%A5t.excalidraw)
+[excalidraw](../../../../../../attachments/H%C6%B0%E1%BB%9Bng%20di%20chuy%E1%BB%83n%20d%C6%B0%E1%BB%9Bi%20%C4%91%E1%BA%A5t.svg)
 
 Từ thang máy tầng 5 khu A1, bạn sẽ thấy có một cái hành lang. Đi hết một nửa hành lang đó bạn sẽ tới thang máy của khu A2. Đối diện phòng gym bạn sẽ thấy có một cái hành lang nữa. Phòng họp ở cuối hành lang này:
 ![Hướng di chuyển tầng 5.png](../../../../../../attachments/H%C6%B0%E1%BB%9Bng%20di%20chuy%E1%BB%83n%20t%E1%BA%A7ng%205.png)

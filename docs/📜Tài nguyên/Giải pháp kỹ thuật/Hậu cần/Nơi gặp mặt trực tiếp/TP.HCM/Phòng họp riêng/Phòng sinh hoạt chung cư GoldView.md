@@ -1,15 +1,15 @@
 ---
 share: true
 created: 2023-05-26T14:51
+updated: 2025-12-14T19:04
 description: Tầng 5, chung cư The GoldView, 346 Bến Vân Đồn, Vĩnh Hội
-updated: 2025-12-13T18:43
 ---
 Địa chỉ:: Tầng 5, chung cư The GoldView, 346 Bến Vân Đồn, Vĩnh Hội
 Số lượng:: 15 người
 Giá:: 0
  
 Giá giữ xe:: 5k/4 tiếng
-Liên hệ:: [Quả Cầu \| Facebook](https://www.facebook.com/quacau.sphere/)
+Liên hệ:: [Quả Cầu \| Facebook](https://www.facebook.com/quacau.sphere/), 091 221 4006
 Website:: [CHUNG CƯ THE GOLDVIEW](https://thegoldview-thapa.com)
 
 Giờ mở cửa:: 6h
@@ -18,9 +18,9 @@ Giờ đóng cửa:: 21:30
 Ghi chú:
 - Cọc trước 1tr. Trả cọc sau 2 tuần
 - Wifi: `Apple 15`, Pass: `Bqlthapa@123`
+- Đi vào, đi vệ sinh, đi ra ở tầng G cần có Nhật đi theo để mở cửa (nếu không nhờ được bảo vệ, hoặc chen vào cùng người mở cửa)
 - Nhà vệ sinh hơi xa, nhất là nhà vệ sinh nữ
 - Không có sẵn nước, cần tự đem theo
-- Cần có người dắt lên
 - Cần cư dân đặt lịch (Giấy Xác Nhận Sử Dụng Tiện Ích (Amenities Usage Confirmation) PMD-BF-111-ASC )
 
 ## Hướng dẫn di chuyển

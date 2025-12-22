@@ -2,7 +2,7 @@
 share: true
 description: =địa chỉ
 created: 2025-09-15T18:02
-updated: 2025-09-18T16:22
+updated: 2025-12-22T17:32
 ---
 Địa chỉ:: 212/2B Nguyễn Trãi
 Phường:: Cầu Ông Lãnh
@@ -29,7 +29,7 @@ không được đem đồ ăn, nước uống, bánh ngọt bên ngoài vào
 
 
 ![Pasted image 20250918123513.png](../../../../../../attachments/Pasted%20image%2020250918123513.png)
-![Pasted image 20250918123738.png](../../../../../../attachments/Pasted%20image%2020250918123738.png)
+![Pasted image 20250918123738.png](Pasted%20image%2020250918123738.png)
 
 > [!Attention] Phần lưu ý và điểm cộng chưa đánh giá chính xác
 > Lý do là vì mẫu tạo mới (template) được thiết kế theo kiểu thấy sai thì xoá, chứ không phải kiểu thấy đúng thì ghi.  Đọc bài [Hướng dẫn sử dụng kho địa điểm để chọn nơi gặp mặt](../../index.md) để biết thêm chi tiết.

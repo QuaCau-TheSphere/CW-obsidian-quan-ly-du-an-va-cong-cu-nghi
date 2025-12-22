@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-10-28T20:41
+updated: 2025-12-22T17:31
 ---
 Lý do:: [Obsidian lưu dữ liệu trên máy của người dùng](../Obsidian%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20tr%C3%AAn%20m%C3%A1y%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
 

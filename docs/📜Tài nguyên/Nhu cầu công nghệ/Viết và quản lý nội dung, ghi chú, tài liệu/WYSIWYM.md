@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-09-27T15:15
+updated: 2025-12-22T17:32
 ---
 Lĩnh vực:: [Hệ thống thông tin](../../L%C4%A9nh%20v%E1%BB%B1c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/index.md), [Sắp chữ, thiết kế, xuất bản](../../L%C4%A9nh%20v%E1%BB%B1c/S%E1%BA%AFp%20ch%E1%BB%AF,%20thi%E1%BA%BFt%20k%E1%BA%BF,%20xu%E1%BA%A5t%20b%E1%BA%A3n.md)
 Đáp ứng cho nhu cầu công việc: [Chèn ảnh, bảng, sơ đồ, mục lục, ghi chú, song ngữ, trích dẫn theo đúng ý](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Ch%C3%A8n%20%E1%BA%A3nh,%20b%E1%BA%A3ng,%20s%C6%A1%20%C4%91%E1%BB%93,%20m%E1%BB%A5c%20l%E1%BB%A5c,%20ghi%20ch%C3%BA,%20song%20ng%E1%BB%AF,%20tr%C3%ADch%20d%E1%BA%ABn%20theo%20%C4%91%C3%BAng%20%C3%BD.md)

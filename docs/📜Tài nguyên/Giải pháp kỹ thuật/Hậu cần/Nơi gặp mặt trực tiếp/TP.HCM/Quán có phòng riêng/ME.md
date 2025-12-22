@@ -2,7 +2,7 @@
 share: true
 description: 5 Cao Thắng, Q3
 created: 2023-05-26T14:51
-updated: 2024-09-03T01:21
+updated: 2025-12-22T17:32
 ---
 Địa chỉ:: 5 Cao Thắng, Q3
 Giá nước:: 45k

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-02T15:18
+updated: 2025-12-22T17:32
 ---
 Lý do:: [Excel không cản ta làm điều mà ta sẽ hối tiếc](./Excel%20kh%C3%B4ng%20c%E1%BA%A3n%20ta%20l%C3%A0m%20%C4%91i%E1%BB%81u%20m%C3%A0%20ta%20s%E1%BA%BD%20h%E1%BB%91i%20ti%E1%BA%BFc.md)
 Hệ quả của việc này là [Người không làm lĩnh vực lập trình không được tạo điều kiện để trưởng thành về mặt quản trị dữ liệu](../../../../C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/Ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20l%C3%A0m%20l%C4%A9nh%20v%E1%BB%B1c%20l%E1%BA%ADp%20tr%C3%ACnh%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20%C4%91i%E1%BB%81u%20ki%E1%BB%87n%20%C4%91%E1%BB%83%20tr%C6%B0%E1%BB%9Fng%20th%C3%A0nh%20v%E1%BB%81%20m%E1%BA%B7t%20qu%E1%BA%A3n%20tr%E1%BB%8B%20d%E1%BB%AF%20li%E1%BB%87u.md)

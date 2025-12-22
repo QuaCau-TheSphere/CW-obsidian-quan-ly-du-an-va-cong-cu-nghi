@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-01T22:36
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Không gian](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Kh%C3%B4ng%20gian.md), [Vật thể](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/V%E1%BA%ADt%20th%E1%BB%83.md)
 Đó chính là lý do [Lập trình thực ra là dùng ẩn dụ](./L%E1%BA%ADp%20tr%C3%ACnh%20th%E1%BB%B1c%20ra%20l%C3%A0%20d%C3%B9ng%20%E1%BA%A9n%20d%E1%BB%A5.md), vì [Ẩn dụ là cách ta hiểu code bằng cơ thể](./%E1%BA%A8n%20d%E1%BB%A5%20l%C3%A0%20c%C3%A1ch%20ta%20hi%E1%BB%83u%20code%20b%E1%BA%B1ng%20c%C6%A1%20th%E1%BB%83.md)

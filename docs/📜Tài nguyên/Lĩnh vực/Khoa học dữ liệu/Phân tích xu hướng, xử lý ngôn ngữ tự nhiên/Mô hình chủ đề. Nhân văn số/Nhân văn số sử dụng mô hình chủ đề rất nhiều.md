@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-31T13:36
-updated: 2024-09-02T14:52
+updated: 2025-12-22T17:32
 ---
 Lý do:: [❓Nhân văn chỉ quan tâm đến việc lưu trữ, hiểu dữ liệu và tạo ra câu chuyện hay](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Nh%C3%A2n%20h%E1%BB%8Dc/%E2%9D%93Nh%C3%A2n%20v%C4%83n%20ch%E1%BB%89%20quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20vi%E1%BB%87c%20l%C6%B0u%20tr%E1%BB%AF,%20hi%E1%BB%83u%20d%E1%BB%AF%20li%E1%BB%87u%20v%C3%A0%20t%E1%BA%A1o%20ra%20c%C3%A2u%20chuy%E1%BB%87n%20hay.md), [Mô hình chủ đề rất hữu dụng cho việc diễn giải](./M%C3%B4%20h%C3%ACnh%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20r%E1%BA%A5t%20h%E1%BB%AFu%20d%E1%BB%A5ng%20cho%20vi%E1%BB%87c%20di%E1%BB%85n%20gi%E1%BA%A3i.md)
 

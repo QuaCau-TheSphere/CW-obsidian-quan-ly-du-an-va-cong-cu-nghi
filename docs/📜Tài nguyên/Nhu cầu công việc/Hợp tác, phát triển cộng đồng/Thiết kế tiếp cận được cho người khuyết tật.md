@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-07-14T15:00
-updated: 2025-10-12T07:00
+updated: 2025-12-22T17:32
 ---
 Lĩnh vực:: [Thiết kế bao trùm](../../L%C4%A9nh%20v%E1%BB%B1c/Thi%E1%BA%BFt%20k%E1%BA%BF%20bao%20tr%C3%B9m.md)
 Nhu cầu công nghệ:: 

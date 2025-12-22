@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-10-17T16:30
+updated: 2025-12-22T18:55
 title: 'Định luật Conway: "Cấu trúc kỹ thuật của sản phẩm phản ánh giới hạn xã hội của tổ chức tạo ra nó"'
 ---
 Khái niệm:: 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-04-22T20:47
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Bản đồ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/C%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/B%E1%BA%A3n%20%C4%91%E1%BB%93.md)
 Lý do:: [Ngành kỹ thuật phần mềm không có một ngôn ngữ thị giác chung](./Ng%C3%A0nh%20k%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m%20kh%C3%B4ng%20c%C3%B3%20m%E1%BB%99t%20ng%C3%B4n%20ng%E1%BB%AF%20th%E1%BB%8B%20gi%C3%A1c%20chung.md). [Các biểu diễn kiến trúc không nói gì về thời gian, sự thay đổi theo thời gian, và sự bất định về sự thay đổi](./C%C3%A1c%20bi%E1%BB%83u%20di%E1%BB%85n%20ki%E1%BA%BFn%20tr%C3%BAc%20kh%C3%B4ng%20n%C3%B3i%20g%C3%AC%20v%E1%BB%81%20th%E1%BB%9Di%20gian,%20s%E1%BB%B1%20thay%20%C4%91%E1%BB%95i%20theo%20th%E1%BB%9Di%20gian,%20v%C3%A0%20s%E1%BB%B1%20b%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20v%E1%BB%81%20s%E1%BB%B1%20thay%20%C4%91%E1%BB%95i.md)

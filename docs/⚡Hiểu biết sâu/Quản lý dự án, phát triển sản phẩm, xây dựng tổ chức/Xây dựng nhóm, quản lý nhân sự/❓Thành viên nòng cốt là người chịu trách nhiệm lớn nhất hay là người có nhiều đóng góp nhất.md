@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-12-06T17:22
+updated: 2025-12-22T17:32
 ---
 Khái niệm:: [Vai trò (role)](Vai%20tr%C3%B2%20(role).md)
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-10-27T21:28
+updated: 2025-12-22T17:32
 tags:
   - file_thành-phẩm
 title: Các buổi giới thiệu vault
@@ -23,6 +23,6 @@ Thành quả cần có::
 Thành quả hỗ trợ::
 
 Thành phẩm nhỏ hơn:
-- [Demo tại nhóm phát triển sản phẩm](./Demo%20t%E1%BA%A1i%20nh%C3%B3m%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m.md)
 - [Các buổi chia sẻ vault cá nhân](./C%C3%A1c%20bu%E1%BB%95i%20chia%20s%E1%BA%BB%20vault%20c%C3%A1%20nh%C3%A2n.md)
+- [Demo tại nhóm phát triển sản phẩm](./Demo%20t%E1%BA%A1i%20nh%C3%B3m%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m.md)
 

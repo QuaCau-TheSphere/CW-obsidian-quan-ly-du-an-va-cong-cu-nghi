@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-06-11T16:23
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: 
 These machines differ from Commander Data in almost every conceivable way. They don't have the capacity to think through problems logically. They make up things that aren't true. They answer confidently even when they are wrong. They don't have Commander Data's capacity for ethical judgement.

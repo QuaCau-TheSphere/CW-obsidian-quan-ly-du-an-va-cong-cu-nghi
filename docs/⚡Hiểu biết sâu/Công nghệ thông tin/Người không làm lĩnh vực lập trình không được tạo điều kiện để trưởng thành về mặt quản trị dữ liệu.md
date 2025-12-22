@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-02T15:51
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: 
 Lý do:: [Xong hạn chót này thì sẽ tới hạn chót khác](../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20gian%20l%C3%A0m%20vi%E1%BB%87c/Xong%20h%E1%BA%A1n%20ch%C3%B3t%20n%C3%A0y%20th%C3%AC%20s%E1%BA%BD%20t%E1%BB%9Bi%20h%E1%BA%A1n%20ch%C3%B3t%20kh%C3%A1c.md), mà [Excel là người bạn tuổi thơ tuyệt vời, nhưng là kẻ thù của tuổi dậy thì](../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/No%20code,%20low%20code/Excel/Excel%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20b%E1%BA%A1n%20tu%E1%BB%95i%20th%C6%A1%20tuy%E1%BB%87t%20v%E1%BB%9Di,%20nh%C6%B0ng%20l%C3%A0%20k%E1%BA%BB%20th%C3%B9%20c%E1%BB%A7a%20tu%E1%BB%95i%20d%E1%BA%ADy%20th%C3%AC.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-07T18:30
-updated: 2025-05-28T16:06
+updated: 2025-12-22T17:31
 ---
 Nguồn:: [Are donations effective for open source projects? | Opensource.com](https://opensource.com/business/13/7/donations-open-source-projects)
 [Crowdfunding depends on highly visible public work](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BB%B9,%20g%E1%BB%8Di%20v%E1%BB%91n/G%E1%BB%8Di%20v%E1%BB%91n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Crowdfunding%20depends%20on%20highly%20visible%20public%20work.md)

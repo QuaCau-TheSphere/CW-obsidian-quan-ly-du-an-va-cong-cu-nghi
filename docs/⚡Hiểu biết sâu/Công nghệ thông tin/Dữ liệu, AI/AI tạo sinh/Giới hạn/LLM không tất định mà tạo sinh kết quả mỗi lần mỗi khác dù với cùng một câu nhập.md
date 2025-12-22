@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-10T18:15
+updated: 2025-12-22T17:31
 aliases:
   - Kết quả từ AI không phải từ sự lựa chọn mà chỉ là từ việc lắc một cái xí ngầu không đồng đều
 ---

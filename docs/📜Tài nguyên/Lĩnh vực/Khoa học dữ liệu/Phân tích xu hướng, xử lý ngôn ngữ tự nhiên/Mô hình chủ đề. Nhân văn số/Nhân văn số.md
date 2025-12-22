@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-10-08T14:27
+updated: 2025-12-22T17:32
 title: Các dự án, công cụ, tài nguyên cho nhân văn số
 description: Nhân văn số là một lĩnh vực giao thoa giữa ngành khoa học máy tính và các ngành khoa học xã hội và nhân văn.
 ---
@@ -57,7 +57,7 @@ Một vault Obsidian mẫu cho phân tích định tính. MaxQDA, NVivo, Atlas.t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=i4MneyaJPG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### [Heurist Network](https://heuristnetwork.org/): quản lý cơ sở dữ liệu mã nguồn mở 
-![Video](https://www.youtube.com/watch?v=wuh9SRtE8eE&width=640&height=480)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=wuh9SRtE8eE&width=640&height=480" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Hình 1: các tính năng. Hình 2: giao diện sử dụng. 
 ![](https://raw.githubusercontent.com/HeuristNetwork/heurist/h6dev/documentation_and_templates/assets/model%20and%20build.jpg) 
 ![](https://raw.githubusercontent.com/HeuristNetwork/heurist/h6dev/documentation_and_templates/assets/main%20interface%20v6.jpg) 

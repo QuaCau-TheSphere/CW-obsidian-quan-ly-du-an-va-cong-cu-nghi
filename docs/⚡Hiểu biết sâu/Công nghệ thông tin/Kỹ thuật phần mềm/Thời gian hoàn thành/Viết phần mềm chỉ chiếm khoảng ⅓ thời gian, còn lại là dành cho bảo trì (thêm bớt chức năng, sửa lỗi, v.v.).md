@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-31T17:05
-updated: 2024-12-28T15:51
+updated: 2025-12-22T17:31
 title: Viết phần mềm chỉ chiếm khoảng 1/3 thời gian, còn lại là dành cho bảo trì (thêm bớt chức năng, sửa lỗi, v.v.)
 ---
 Nguồn:: [tuhocict](../../../%CE%9E%20Ngu%E1%BB%93n/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u.%20Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/tuhocict.md), [Bộ nguyên lý SOLID - lập trình viên tương lai cần biết | Tự học ICT](https://tuhocict.com/bo-nguyen-ly-solid-lap-trinh-vien-tuong-lai-can-biet/)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-27T20:33
+updated: 2025-12-22T17:32
 ---
 Khái niệm:: 
 [Định luật Hofstadter: Mọi thứ sẽ luôn tốn thời gian hơn bạn nghĩ, kể cả khi bạn đã tính đến định luật Hofstadter](./M%E1%BB%8Di%20th%E1%BB%A9%20s%E1%BA%BD%20lu%C3%B4n%20t%E1%BB%91n%20th%E1%BB%9Di%20gian%20h%C6%A1n%20b%E1%BA%A1n%20ngh%C4%A9.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-04-22T15:11
+updated: 2025-12-22T17:32
 ---
 [Giả định có mặt ở khắp nơi](./Gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh%20c%C3%B3%20m%E1%BA%B7t%20%E1%BB%9F%20kh%E1%BA%AFp%20n%C6%A1i.md)
 [Người dùng yêu cầu tính năng không có nghĩa là họ sẽ dùng](../Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20y%C3%AAu%20c%E1%BA%A7u%20t%C3%ADnh%20n%C4%83ng%20kh%C3%B4ng%20c%C3%B3%20ngh%C4%A9a%20l%C3%A0%20h%E1%BB%8D%20s%E1%BA%BD%20d%C3%B9ng.md)

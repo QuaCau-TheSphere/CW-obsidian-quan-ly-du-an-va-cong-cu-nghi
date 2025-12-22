@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-06-13T00:44
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: 
 **Fragility.** LLMs can be extraordinarily fragile with respect to the precise inputs they are given. Here I ask Google for help fact-checking a claim.

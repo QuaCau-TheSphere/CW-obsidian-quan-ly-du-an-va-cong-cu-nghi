@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-08T16:15
-updated: 2025-09-06T16:54
+updated: 2025-12-22T17:32
 title: Giả thiết
 ---
 

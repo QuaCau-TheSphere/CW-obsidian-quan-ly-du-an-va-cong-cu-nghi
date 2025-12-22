@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-30T15:13
-updated: 2024-09-30T15:14
+updated: 2025-12-22T17:32
 title: Hệ hình nghiên cứu
 ---
 Khái niệm:: 

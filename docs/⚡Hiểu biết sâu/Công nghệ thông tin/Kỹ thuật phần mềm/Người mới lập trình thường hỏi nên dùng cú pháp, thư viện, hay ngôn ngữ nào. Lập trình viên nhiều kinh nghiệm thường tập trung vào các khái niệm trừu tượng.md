@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-07-27T12:58
+updated: 2025-12-22T17:31
 ---
 [Lập trình thực ra là dùng ẩn dụ](../%E1%BA%A8n%20d%E1%BB%A5%20v%C3%A0%20mental%20model/L%E1%BA%ADp%20tr%C3%ACnh%20th%E1%BB%B1c%20ra%20l%C3%A0%20d%C3%B9ng%20%E1%BA%A9n%20d%E1%BB%A5.md)
 

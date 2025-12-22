@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-02-21T22:06
-updated: 2024-08-02T12:56
+updated: 2025-12-22T17:32
 ---
 # [Tự động tạo liên kết UTM hoàn chỉnh chỉ bằng những thông tin tối thiểu (tên bài, nơi đăng)](../../../../C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Truy%E1%BB%81n%20th%C3%B4ng/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20t%E1%BA%A1o%20li%C3%AAn%20k%E1%BA%BFt%20UTM%20ho%C3%A0n%20ch%E1%BB%89nh%20ch%E1%BB%89%20b%E1%BA%B1ng%20nh%E1%BB%AFng%20th%C3%B4ng%20tin%20t%E1%BB%91i%20thi%E1%BB%83u%20(t%C3%AAn%20b%C3%A0i,%20n%C6%A1i%20%C4%91%C4%83ng).md)
 ## Pending

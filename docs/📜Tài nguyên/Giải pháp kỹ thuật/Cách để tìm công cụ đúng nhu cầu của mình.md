@@ -3,7 +3,7 @@ share: true
 created: 2023-07-01T14:03
 aliases:
   - làm sao
-updated: 2024-12-20T23:00
+updated: 2025-12-22T17:32
 ---
 Khái niệm:: [Công cụ](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/C%C3%B4ng%20c%E1%BB%A5.md)
 
@@ -43,4 +43,5 @@ Các vấn đề của một công cụ:
 
 - Phân tích xu hướng, xử lý ngôn ngữ tự nhiên: 
     - [Xử lý ngôn ngữ tự nhiên chính là một công cụ nghĩ](../L%C4%A9nh%20v%E1%BB%B1c/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u/Ph%C3%A2n%20t%C3%ADch%20xu%20h%C6%B0%E1%BB%9Bng,%20x%E1%BB%AD%20l%C3%BD%20ng%C3%B4n%20ng%E1%BB%AF%20t%E1%BB%B1%20nhi%C3%AAn/X%E1%BB%AD%20l%C3%BD%20ng%C3%B4n%20ng%E1%BB%AF%20t%E1%BB%B1%20nhi%C3%AAn%20ch%C3%ADnh%20l%C3%A0%20m%E1%BB%99t%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9.md)
+
 

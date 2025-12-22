@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-11-14T16:20
+updated: 2025-12-22T17:32
 ---
 Khái niệm:: 
 [Wikipedia community - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia_community)

@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-09-27T11:14
+updated: 2025-12-22T17:31
 title: Hệ phức hợp
 ---
-Chủ đề:: [Sự tự tổ chức sự tạo mẫu hình một cách phi tuyến](./S%E1%BB%B1%20t%E1%BB%B1%20t%E1%BB%95%20ch%E1%BB%A9c/S%E1%BB%B1%20t%E1%BB%B1%20t%E1%BB%95%20ch%E1%BB%A9c%20s%E1%BB%B1%20t%E1%BA%A1o%20m%E1%BA%ABu%20h%C3%ACnh%20m%E1%BB%99t%20c%C3%A1ch%20phi%20tuy%E1%BA%BFn.md)
+Khái niệm:: [Sự tự tổ chức sự tạo mẫu hình một cách phi tuyến](./S%E1%BB%B1%20t%E1%BB%B1%20t%E1%BB%95%20ch%E1%BB%A9c/S%E1%BB%B1%20t%E1%BB%B1%20t%E1%BB%95%20ch%E1%BB%A9c%20s%E1%BB%B1%20t%E1%BA%A1o%20m%E1%BA%ABu%20h%C3%ACnh%20m%E1%BB%99t%20c%C3%A1ch%20phi%20tuy%E1%BA%BFn.md)
 - Theo lý thuyết mạng lưới: có độ kết nối cao 
 - theo lý thuyết tiến hóa: hệ bắt đầu từ đơn giản sau đó có sự chuyên môn hóa và kết hợp lẫn nhau
 ## Hệ đóng, hệ mở

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-27T23:53
+updated: 2025-12-22T17:32
 ---
 Khái niệm:: 
 Lý do:: [Công việc chính là giải pháp](./C%C3%B4ng%20vi%E1%BB%87c%20ch%C3%ADnh%20l%C3%A0%20gi%E1%BA%A3i%20ph%C3%A1p.md)

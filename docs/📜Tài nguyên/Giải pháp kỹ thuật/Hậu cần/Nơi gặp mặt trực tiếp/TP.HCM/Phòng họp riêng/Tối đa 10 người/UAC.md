@@ -2,7 +2,7 @@
 share: true
 description: 56 Nguyễn Đình Chiểu, Q1
 created: 2023-07-18T11:21
-updated: 2025-05-20T22:35
+updated: 2025-12-22T17:32
 ---
 Địa chỉ:: 56 Nguyễn Đình Chiểu, Q1
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-08T23:49
-updated: 2024-10-09T14:33
+updated: 2025-12-22T17:32
 title: Trong các nhu cầu, kỹ năng sau đây, nhu cầu nào bạn đang gặp khó khăn trong việc giải quyết và muốn được hướng dẫn, thảo luận thêm?
 ---
 # Trong các nhu cầu, kỹ năng sau đây, nhu cầu nào bạn đang gặp khó khăn trong việc giải quyết và muốn được hướng dẫn, thảo luận thêm?

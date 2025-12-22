@@ -2,7 +2,7 @@
 share: true
 description: Hỏi một người liệu sau này họ có làm điều này điều kia không là không chắc đúng
 created: 2023-05-26T14:51
-updated: 2025-08-13T09:48
+updated: 2025-12-22T17:32
 ---
 Lý do:: [Con người nhiều khi không nói dối mà chỉ đang lý tưởng hoá bản thân](./H%C3%A0nh%20vi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Con%20ng%C6%B0%E1%BB%9Di%20nhi%E1%BB%81u%20khi%20kh%C3%B4ng%20n%C3%B3i%20d%E1%BB%91i%20m%C3%A0%20ch%E1%BB%89%20%C4%91ang%20l%C3%BD%20t%C6%B0%E1%BB%9Fng%20ho%C3%A1%20b%E1%BA%A3n%20th%C3%A2n.md)
 Ví dụ về một số câu hỏi cho ra kết quả không đáng tin cậy:

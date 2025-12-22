@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-09-18T20:59
+updated: 2025-12-22T17:32
 title: Địa điểm công cộng ở TPHCM
 ---
 Giá rẻ:: ✔

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-11T23:19
-updated: 2024-08-11T23:21
+updated: 2025-12-22T17:32
 ---
 Khái niệm:: 
 {Một không gian học tập của tương lai}
@@ -38,5 +38,5 @@ Ngày 11/8/2024
 Nguyễn Cảnh Bình
 Nguồn:: 
 
-[AI giống như công nghệ tua bin. Gắn nó với xe hơi thì không sử dụng được. Nhưng nếu có thể có thêm những công nghệ mới thì có thể thành máy bay](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/M%C3%B4%20h%C3%ACnh%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BB%9Bn/Ti%E1%BB%81m%20n%C4%83ng/AI%20gi%E1%BB%91ng%20nh%C6%B0%20c%C3%B4ng%20ngh%E1%BB%87%20tua%20bin.%20G%E1%BA%AFn%20n%C3%B3%20v%E1%BB%9Bi%20xe%20h%C6%A1i%20th%C3%AC%20kh%C3%B4ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20%C4%91%C6%B0%E1%BB%A3c.%20Nh%C6%B0ng%20n%E1%BA%BFu%20c%C3%B3%20th%E1%BB%83%20c%C3%B3%20th%C3%AAm%20nh%E1%BB%AFng%20c%C3%B4ng%20ngh%E1%BB%87%20m%E1%BB%9Bi%20th%C3%AC%20c%C3%B3%20th%E1%BB%83%20th%C3%A0nh%20m%C3%A1y%20bay.md)
+[AI giống như công nghệ tua bin. Gắn nó với xe hơi thì không sử dụng được. Nhưng nếu có thể có thêm những công nghệ mới thì có thể thành máy bay](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/AI%20t%E1%BA%A1o%20sinh/Ti%E1%BB%81m%20n%C4%83ng/AI%20gi%E1%BB%91ng%20nh%C6%B0%20c%C3%B4ng%20ngh%E1%BB%87%20tua%20bin.%20G%E1%BA%AFn%20n%C3%B3%20v%E1%BB%9Bi%20xe%20h%C6%A1i%20th%C3%AC%20kh%C3%B4ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20%C4%91%C6%B0%E1%BB%A3c.%20Nh%C6%B0ng%20n%E1%BA%BFu%20c%C3%B3%20th%E1%BB%83%20c%C3%B3%20th%C3%AAm%20nh%E1%BB%AFng%20c%C3%B4ng%20ngh%E1%BB%87%20m%E1%BB%9Bi%20th%C3%AC%20c%C3%B3%20th%E1%BB%83%20th%C3%A0nh%20m%C3%A1y%20bay.md)
 Think tank

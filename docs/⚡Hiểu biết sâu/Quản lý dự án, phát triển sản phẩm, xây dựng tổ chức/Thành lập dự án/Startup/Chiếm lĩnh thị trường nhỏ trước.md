@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-11-23T15:57
+updated: 2025-12-22T17:32
 ---
 [Làm thứ một số người rất cần quan trọng hơn là làm thứ nhiều người thấy hay](../L%C3%A0m%20th%E1%BB%A9%20m%E1%BB%99t%20s%E1%BB%91%20ng%C6%B0%E1%BB%9Di%20r%E1%BA%A5t%20c%E1%BA%A7n%20quan%20tr%E1%BB%8Dng%20h%C6%A1n%20l%C3%A0%20l%C3%A0m%20th%E1%BB%A9%20nhi%E1%BB%81u%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20hay.md). Biến một thứ một số người cần thành một thứ nhiều người cần dễ hơn là biến một thứ nhiều người thích thành một thứ nhiều người cần
 

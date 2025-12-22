@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-19T14:44
-updated: 2024-10-07T16:03
+updated: 2025-12-22T17:32
 ---
 Khái niệm:: 
 Thay thế `github.com` bằng `githistory.xyz`

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-19T12:17
-updated: 2025-05-10T18:15
+updated: 2025-12-22T17:31
 description: AI không có lao động trừu tượng và vì vậy không có chủ thể tính của một lao động. Nó không đòi hỏi nhuận bút hay cải tạo thế giới, nó cũng không cải tạo, phân công và khai thác lao động như một nhà quản lý
 ---
 # Chủ thể tính của lao động

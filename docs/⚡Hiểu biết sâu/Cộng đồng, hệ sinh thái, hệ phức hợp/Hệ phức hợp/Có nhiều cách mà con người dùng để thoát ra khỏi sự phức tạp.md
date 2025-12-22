@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-23T15:18
-updated: 2025-11-23T16:04
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: 
 - Đè nén: cho rằng nó sẽ không xảy ra, đóng gói nó

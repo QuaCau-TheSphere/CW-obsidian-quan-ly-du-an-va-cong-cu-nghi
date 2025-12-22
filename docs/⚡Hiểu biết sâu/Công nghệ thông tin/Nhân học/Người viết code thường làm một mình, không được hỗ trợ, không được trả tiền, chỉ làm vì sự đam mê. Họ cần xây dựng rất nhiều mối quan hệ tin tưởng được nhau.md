@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-28T16:06
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: 
 Coders often work alone, unsupported, unpaid, at labours of love. They must build tenuous trust relations, be clever diplomats and team leaders, and be articulate in stating their needs and aims.

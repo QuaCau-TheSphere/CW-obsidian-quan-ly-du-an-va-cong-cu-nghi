@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-01-15T23:22
+updated: 2025-12-22T17:32
 aliases:
   - Khi nào thì chiến lược định giá "trả tuỳ tâm" đạt được sự bền vững?
   - Mô hình kinh doanh của các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình
@@ -77,7 +77,7 @@ Nên thành ra, việc tự chấm điểm để bạn thấy mô hình này th�
 Không thể kết luận được gì, nhưng có thể dùng cho việc làm các mô hình dự đoán, ứng dụng được cho máy học, hồi quy logistic 
 [Máy học dự đoán xem mẫu hình có bao nhiêu khả năng lặp lại trong tương lai](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/M%C3%A1y%20h%E1%BB%8Dc,%20d%E1%BB%AF%20li%E1%BB%87u%20l%E1%BB%9Bn/M%C3%A1y%20h%E1%BB%8Dc%20d%E1%BB%B1%20%C4%91o%C3%A1n%20xem%20m%E1%BA%ABu%20h%C3%ACnh%20c%C3%B3%20bao%20nhi%C3%AAu%20kh%E1%BA%A3%20n%C4%83ng%20l%E1%BA%B7p%20l%E1%BA%A1i%20trong%20t%C6%B0%C6%A1ng%20lai.md). Nó giúp ngành y cứu người, nhưng lại làm cho ngành tư pháp thêm thách thức vì [Việc dùng máy học có thể làm ta nghĩ mô hình rất phức tạp mặc dù thực chất nó rất đơn giản](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/M%C3%A1y%20h%E1%BB%8Dc,%20d%E1%BB%AF%20li%E1%BB%87u%20l%E1%BB%9Bn/Vi%E1%BB%87c%20d%C3%B9ng%20m%C3%A1y%20h%E1%BB%8Dc%20c%C3%B3%20th%E1%BB%83%20l%C3%A0m%20ta%20ngh%C4%A9%20m%C3%B4%20h%C3%ACnh%20r%E1%BA%A5t%20ph%E1%BB%A9c%20t%E1%BA%A1p%20m%E1%BA%B7c%20d%C3%B9%20th%E1%BB%B1c%20ch%E1%BA%A5t%20n%C3%B3%20r%E1%BA%A5t%20%C4%91%C6%A1n%20gi%E1%BA%A3n.md)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p-82YeUPQh0?si=oVmv52ZlZoym0Rum" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-![Imagine Predictive Analytics Putting a Crystal Ball in Your Hand | Dr. Phil Wells | TEDxKanata - YouTube](https://youtu.be/QWps8A-hljw?si=-1uQbDlJ7Ww8sE_S)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QWps8A-hljw?si=-1uQbDlJ7Ww8sE_S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Trực giác là việc nhìn ra mẫu hình không hơn không kém](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BA%ABu%20h%C3%ACnh,%20tr%E1%BB%B1c%20gi%C3%A1c/Tr%E1%BB%B1c%20gi%C3%A1c%20l%C3%A0%20vi%E1%BB%87c%20nh%C3%ACn%20ra%20m%E1%BA%ABu%20h%C3%ACnh%20kh%C3%B4ng%20h%C6%A1n%20kh%C3%B4ng%20k%C3%A9m.md)
 [Sự chuyên gia đến từ việc nhìn ra mẫu hình](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BA%ABu%20h%C3%ACnh,%20tr%E1%BB%B1c%20gi%C3%A1c/S%E1%BB%B1%20chuy%C3%AAn%20gia%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20vi%E1%BB%87c%20nh%C3%ACn%20ra%20m%E1%BA%ABu%20h%C3%ACnh.md)

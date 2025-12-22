@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-24T22:17
+updated: 2025-12-22T17:32
 ---
 # [Câu hỏi khảo sát > Làm sao để tự động phân loại dữ liệu trên Excel, AppScript?](C%C3%A2u%20h%E1%BB%8Fi%20kh%E1%BA%A3o%20s%C3%A1t.md#Làm%20sao%20để%20tự%20động%20phân%20loại%20dữ%20liệu%20trên%20Excel,%20AppScript?)
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-02T13:04
+updated: 2025-12-22T17:32
 ---
 ## *đối ⊷ thoại* dành cho ai?
 - [Người muốn mở các cuộc đối thoại với cộng đồng](./M%E1%BB%9F%20c%C3%A1c%20cu%E1%BB%99c%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i%20v%E1%BB%9Bi%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)

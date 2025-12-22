@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-10-08T15:28
+updated: 2025-12-22T17:32
 aliases:
   - Nghiên cứu khoa học phong cách truyện tranh
 ---

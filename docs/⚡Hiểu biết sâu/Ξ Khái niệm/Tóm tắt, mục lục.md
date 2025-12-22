@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-26T21:59
-updated: 2024-11-26T22:01
+updated: 2025-12-22T17:32
 ---
 - \-: 
     - [Tinh túy của một cuốn sách chính là mục lục của nó](../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Tinh%20t%C3%BAy%20c%E1%BB%A7a%20m%E1%BB%99t%20cu%E1%BB%91n%20s%C3%A1ch%20ch%C3%ADnh%20l%C3%A0%20m%E1%BB%A5c%20l%E1%BB%A5c%20c%E1%BB%A7a%20n%C3%B3.md)
@@ -9,5 +9,6 @@ updated: 2024-11-26T22:01
     - [Đọc mục lục một cuốn sách thì đơn giản, nhưng có thể truy xuất được điều mình cần và vận dụng nó một cách hiệu quả thì phải đọc cả cuốn sách](../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/%C4%90%E1%BB%8Dc%20m%E1%BB%A5c%20l%E1%BB%A5c%20m%E1%BB%99t%20cu%E1%BB%91n%20s%C3%A1ch%20th%C3%AC%20%C4%91%C6%A1n%20gi%E1%BA%A3n,%20nh%C6%B0ng%20c%C3%B3%20th%E1%BB%83%20truy%20xu%E1%BA%A5t%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20c%E1%BA%A7n%20v%C3%A0%20v%E1%BA%ADn%20d%E1%BB%A5ng%20n%C3%B3%20m%E1%BB%99t%20c%C3%A1ch%20hi%E1%BB%87u%20qu%E1%BA%A3%20th%C3%AC%20ph%E1%BA%A3i%20%C4%91%E1%BB%8Dc%20c%E1%BA%A3%20cu%E1%BB%91n%20s%C3%A1ch.md)
 
 - Ghi chú thông tin: 
-    - [Tóm tắt nội dung bài giảng, dùng bút đánh dấu đoạn văn bản quan trọng khi đọc sách, đọc đi đọc lại một chương sách hoá ra lại là những cách không mang lại mấy hiệu quả về ghi nhớ](../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Ghi%20ch%C3%BA%20th%C3%B4ng%20tin/T%C3%B3m%20t%E1%BA%AFt%20n%E1%BB%99i%20dung%20b%C3%A0i%20gi%E1%BA%A3ng,%20d%C3%B9ng%20b%C3%BAt%20%C4%91%C3%A1nh%20d%E1%BA%A5u%20%C4%91o%E1%BA%A1n%20v%C4%83n%20b%E1%BA%A3n%20quan%20tr%E1%BB%8Dng%20khi%20%C4%91%E1%BB%8Dc%20s%C3%A1ch,%20%C4%91%E1%BB%8Dc%20%C4%91i%20%C4%91%E1%BB%8Dc%20l%E1%BA%A1i%20m%E1%BB%99t%20ch%C6%B0%C6%A1ng%20s%C3%A1ch%20ho%C3%A1%20ra%20l%E1%BA%A1i%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A1ch%20kh%C3%B4ng%20mang%20l%E1%BA%A1i%20m%E1%BA%A5y%20hi%E1%BB%87u%20qu%E1%BA%A3%20v%E1%BB%81%20ghi%20nh%E1%BB%9B.md)
+    - [Tóm tắt nội dung bài giảng, dùng bút đánh dấu đoạn văn bản quan trọng khi đọc sách, đọc đi đọc lại một chương sách hoá ra lại là những cách không mấy hiệu quả về ghi nhớ](../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Ghi%20ch%C3%BA%20th%C3%B4ng%20tin/T%C3%B3m%20t%E1%BA%AFt%20n%E1%BB%99i%20dung%20b%C3%A0i%20gi%E1%BA%A3ng,%20d%C3%B9ng%20b%C3%BAt%20%C4%91%C3%A1nh%20d%E1%BA%A5u%20%C4%91o%E1%BA%A1n%20v%C4%83n%20b%E1%BA%A3n%20quan%20tr%E1%BB%8Dng%20khi%20%C4%91%E1%BB%8Dc%20s%C3%A1ch,%20%C4%91%E1%BB%8Dc%20%C4%91i%20%C4%91%E1%BB%8Dc%20l%E1%BA%A1i%20m%E1%BB%99t%20ch%C6%B0%C6%A1ng%20s%C3%A1ch%20ho%C3%A1%20ra%20l%E1%BA%A1i%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A1ch%20kh%C3%B4ng%20m%E1%BA%A5y%20hi%E1%BB%87u%20qu%E1%BA%A3%20v%E1%BB%81%20ghi%20nh%E1%BB%9B.md)
+
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-02-29T23:53
-updated: 2025-05-23T20:14
+updated: 2025-12-22T17:32
 description: Mỗi ghi chú cụ thể về nhu cầu công việc trong đây sẽ giúp bạn tìm được thứ cần tìm khi không biết từ khoá chính xác của nó
 aliases:
   - Đâu là từ khoá cần phải tìm hiểu để giải quyết nhu cầu công việc của mình?
@@ -20,16 +20,18 @@ Bài chi tiết:: [Ý đồ thiết kế thư mục](../index.md)
 
 - Hợp tác, phát triển cộng đồng: 
     - [Phát triển cộng đồng](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
+    - [Ra quyết định tập thể](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20t%E1%BA%ADp%20th%E1%BB%83.md)
     - [Thiết kế tiếp cận được cho người khuyết tật](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Thi%E1%BA%BFt%20k%E1%BA%BF%20ti%E1%BA%BFp%20c%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20cho%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
     - [Thúc đẩy đối thoại](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Th%C3%BAc%20%C4%91%E1%BA%A9y%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i.md)
+    - [Tổ chức gặp mặt nhau](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/T%E1%BB%95%20ch%E1%BB%A9c%20g%E1%BA%B7p%20m%E1%BA%B7t%20nhau.md)
     - [Xây dựng mạng lưới đối tác, các bên liên quan. Kết nối nguồn lực nhàn rỗi](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.%20K%E1%BA%BFt%20n%E1%BB%91i%20ngu%E1%BB%93n%20l%E1%BB%B1c%20nh%C3%A0n%20r%E1%BB%97i.md)
 
 - Nghiên cứu: 
     - [Nghiên cứu cộng đồng mạng](./Nghi%C3%AAn%20c%E1%BB%A9u/Nghi%C3%AAn%20c%E1%BB%A9u%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20m%E1%BA%A1ng.md)
+    - [Phân tích dữ liệu](./Nghi%C3%AAn%20c%E1%BB%A9u/Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u.md)
     - [Nghiên cứu người dùng, phát triển sản phẩm](./Nghi%C3%AAn%20c%E1%BB%A9u/Thu%20th%E1%BA%ADp%20d%E1%BB%AF%20li%E1%BB%87u/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m.md)
     - [Nắm bắt xu hướng mạng](./Nghi%C3%AAn%20c%E1%BB%A9u/Thu%20th%E1%BA%ADp%20d%E1%BB%AF%20li%E1%BB%87u/N%E1%BA%AFm%20b%E1%BA%AFt%20xu%20h%C6%B0%E1%BB%9Bng%20m%E1%BA%A1ng.md)
     - [Tổng quan nghiên cứu. Tải bài](./Nghi%C3%AAn%20c%E1%BB%A9u/T%E1%BB%95ng%20quan%20nghi%C3%AAn%20c%E1%BB%A9u.%20T%E1%BA%A3i%20b%C3%A0i.md)
-    - [Phân tích dữ liệu](./Nghi%C3%AAn%20c%E1%BB%A9u/Ph%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u.md)
 
 - Vận hành: 
     - [Cập nhật thông tin bên ngoài, tổng hợp sự kiện sẽ diễn ra](./V%E1%BA%ADn%20h%C3%A0nh/C%E1%BA%ADp%20nh%E1%BA%ADt%20th%C3%B4ng%20tin%20b%C3%AAn%20ngo%C3%A0i,%20t%E1%BB%95ng%20h%E1%BB%A3p%20s%E1%BB%B1%20ki%E1%BB%87n%20s%E1%BA%BD%20di%E1%BB%85n%20ra.md)
@@ -47,6 +49,9 @@ Bài chi tiết:: [Ý đồ thiết kế thư mục](../index.md)
     - [Minh họa, thị giác hóa thông tin](./Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Minh%20h%E1%BB%8Da,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin.md)
     - [Quản lý trích dẫn](./Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Qu%E1%BA%A3n%20l%C3%BD%20tr%C3%ADch%20d%E1%BA%ABn.md)
     - [Tra lại lịch sử ghi chép](./Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Tra%20l%E1%BA%A1i%20l%E1%BB%8Bch%20s%E1%BB%AD%20ghi%20ch%C3%A9p.md)
+    - [Trình bày, thuyết trình](./Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Tr%C3%ACnh%20b%C3%A0y,%20thuy%E1%BA%BFt%20tr%C3%ACnh.md)
     - [Viết bài](./Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Vi%E1%BA%BFt%20b%C3%A0i.md)
     - [Xuất bản tài liệu](./Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Xu%E1%BA%A5t%20b%E1%BA%A3n%20t%C3%A0i%20li%E1%BB%87u.md)
+    - [Xây dựng kho tài nguyên cộng đồng](./Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/X%C3%A2y%20d%E1%BB%B1ng%20kho%20t%C3%A0i%20nguy%C3%AAn%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
+
 

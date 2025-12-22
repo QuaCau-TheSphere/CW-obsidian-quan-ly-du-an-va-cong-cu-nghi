@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-27T13:45
+updated: 2025-12-22T17:32
 ---
 Khái niệm:: 
 [Hãy nhắm còn đủ tiền cho khoảng 20 đến 30 lần thất bại](./H%C3%A3y%20nh%E1%BA%AFm%20c%C3%B2n%20%C4%91%E1%BB%A7%20ti%E1%BB%81n%20cho%20kho%E1%BA%A3ng%2020%20%C4%91%E1%BA%BFn%2030%20l%E1%BA%A7n%20th%E1%BA%A5t%20b%E1%BA%A1i.md)

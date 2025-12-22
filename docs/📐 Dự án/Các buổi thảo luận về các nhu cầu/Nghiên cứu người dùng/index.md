@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-23T20:01
-updated: 2024-10-08T23:50
+updated: 2025-12-22T17:32
 aliases:
   - Mục tiêu và câu hỏi nghiên cứu về nhu cầu công việc
 title: Nghiên cứu người dùng

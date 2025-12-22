@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-10-06T16:09
+updated: 2025-12-22T17:31
 ---
 [Về mặt nhận thức, con người tương lai của chính mình không liên quan gì đến mình](../../../T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/V%E1%BB%81%20m%E1%BA%B7t%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20con%20ng%C6%B0%E1%BB%9Di%20t%C6%B0%C6%A1ng%20lai%20c%E1%BB%A7a%20ch%C3%ADnh%20m%C3%ACnh%20kh%C3%B4ng%20li%C3%AAn%20quan%20g%C3%AC%20%C4%91%E1%BA%BFn%20m%C3%ACnh.md), nên nếu không cấm hoặc có cách quản lý được thì kế cả người có ý thức đến môi trường cũng sẽ bỏ qua khi họ có nhu cầu dùng. Liệu việc nói về những cái này chỉ có tác dụng truyền thông hay ko? Hoặc nếu có ai thực hành triệt để thì cũng là lẻ tẻ, ko tạo thành được phong trào lớn đủ để gây sức ép để thay đổi?
 

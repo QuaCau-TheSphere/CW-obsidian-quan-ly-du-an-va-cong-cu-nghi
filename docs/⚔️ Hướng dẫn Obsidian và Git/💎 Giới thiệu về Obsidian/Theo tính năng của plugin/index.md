@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-10-06T16:09
+updated: 2025-12-22T17:31
 title: Theo tính năng của plugin
 ---
 # Theo tính năng của plugin Overview

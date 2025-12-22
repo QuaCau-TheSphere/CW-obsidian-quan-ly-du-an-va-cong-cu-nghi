@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-09T12:01
-updated: 2023-11-27T22:26
+updated: 2025-12-22T17:32
 ---
 Với người dùng thì đó là sự tiêu cực, còn với người làm sản phẩm thì đó là cơ hội. Nếu người dùng đã thoả mãn rồi thì cũng không còn gì để cải thiện
 [Con người nhiều khi không nói dối mà chỉ đang lý tưởng hoá bản thân](../Ph%E1%BB%8Fng%20v%E1%BA%A5n/H%C3%A0nh%20vi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Con%20ng%C6%B0%E1%BB%9Di%20nhi%E1%BB%81u%20khi%20kh%C3%B4ng%20n%C3%B3i%20d%E1%BB%91i%20m%C3%A0%20ch%E1%BB%89%20%C4%91ang%20l%C3%BD%20t%C6%B0%E1%BB%9Fng%20ho%C3%A1%20b%E1%BA%A3n%20th%C3%A2n.md) 

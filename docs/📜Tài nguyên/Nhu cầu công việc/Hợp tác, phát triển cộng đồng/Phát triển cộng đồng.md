@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-06-17T22:49
-updated: 2025-12-05T15:07
+updated: 2025-12-22T17:32
 ---
 Lĩnh vực:: 
 Nhu cầu công nghệ::
@@ -34,3 +34,5 @@ Here are a number of areas that we have decided are critical to this collaborati
 - **Personal data management and export tools:** allow users to manage access to and export their private data
 - 
 [Doing more together, together: seeding a Collaborative Technology Alliance \| by Edward West \| Enspiral Tales \| Medium](https://medium.com/enspiral-tales/doing-more-together-together-seeding-a-collaborative-technology-alliance-82243ea30d41#.6t5n8aan0)
+
+k

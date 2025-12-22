@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-11T13:35
-updated: 2025-07-14T17:55
+updated: 2025-12-22T17:32
 ---
 Khái niệm:: [Phân loại](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Ph%C3%A2n%20lo%E1%BA%A1i.md)
 Classifying is a central activity in object-oriented programming and distinguishes it from procedural programming. Traditional logic, initiated by Aristotle, assigns classification to our first activity in reasoning, whereby we come to know what a thing is. Such a grasp of the thing's whatness is the foundation for all further reasoning about it.

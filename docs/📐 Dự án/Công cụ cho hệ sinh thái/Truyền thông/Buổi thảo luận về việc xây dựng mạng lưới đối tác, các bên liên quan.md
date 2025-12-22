@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-23T15:29
-updated: 2025-09-06T16:54
+updated: 2025-12-22T17:32
 ---
 Theo khảo sát hôm qua về các nhu cầu mà các bạn trong nhóm cần được thảo luận, hướng dẫn thì **Xây dựng mạng lưới đối tác, các bên liên quan** là nhu cầu được mọi người quan tâm nhất. Mọi người nghĩ sao nếu chúng ta có một buổi thảo luận để bàn về:
 # Buổi thảo luận về việc xây dựng mạng lưới đối tác, các bên liên quan

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-03T17:52
-updated: 2024-10-06T14:56
+updated: 2025-12-22T17:32
 ---
 ## Giới thiệu
 Hế lô Phương Anh. Chắc em cũng đã biết anh nhiều rồi. Hiện nay bọn anh đang muốn hỗ trợ mọi người đáp ứng các nhu cầu khác nhau trong công việc. Và để làm được điều đó hiệu quả hơn thì anh cần có phỏng vấn một số người. 

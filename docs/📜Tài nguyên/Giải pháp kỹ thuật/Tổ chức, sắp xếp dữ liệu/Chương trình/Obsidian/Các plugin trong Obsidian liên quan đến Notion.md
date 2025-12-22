@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-20T16:23
-updated: 2024-09-02T13:21
+updated: 2025-12-22T17:32
 ---
 - [Obsidian to Notion](https://github.com/EasyChris/obsidian-to-notion "EasyChris/obsidian-to-notion: Share obsidian markdown file to notion and generate notion share link"): chuyển dữ liệu từ Obsidian sang Notion qua API
 - [Database folder plugin](https://github.com/RafaelGB/obsidian-db-folder "RafaelGB/obsidian-db-folder: Obsidian Plugin to Allow Notion like database based on folders") hoặc [Obsidian Database Plugin](https://github.com/tomaszkiewicz/obsidian-database-plugin "tomaszkiewicz/obsidian-database-plugin: Enables creating databases based on files in Obsidian - like Dataview, but with editing!"): tạo bảng giống Notion (Notion-like) từ các file trong một folder

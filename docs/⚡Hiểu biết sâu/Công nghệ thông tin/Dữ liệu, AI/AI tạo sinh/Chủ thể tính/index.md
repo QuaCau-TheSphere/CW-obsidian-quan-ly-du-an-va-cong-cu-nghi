@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-14T09:53
-updated: 2025-05-10T18:14
+updated: 2025-12-22T17:31
 title: Chủ thể tính của AI
 aliases:
   - Tính tác giả của AI
@@ -19,4 +19,5 @@ Cái gì hôm nay ko làm đc thì ngày mai chưa chắc ko làm đc.
 Tranh luận ko đi tới đâu
 
 về tính tác giả của AI em thấy bên lĩnh vực nghệ thuật cũng bảo là ko xem nó là tác giả được. Bài [A.I sáng tác văn chương](https://ducanhwriter.substack.com/p/ai-sang-tac-van-chuong) phân tích vấn đề dưới quan điểm của Marx và Heidegger, nói rằng nó không có lao động trừu tượng và vì vậy không có chủ thể tính của một lao động. Nó không đòi hỏi nhuận bút hay cải tạo thế giới, nó cũng không cải tạo, phân công và khai thác lao động như một nhà quản lý. Còn bài [Why A.I. Isn’t Going to Make Art](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art) còn nói rằng chẳng những AI không thể được xem là tác giả, mà cả người sử dụng nó cũng không thể tự nhận mình là tác giả luôn. Bởi vì nghệ thuật là việc lựa chọn. Dù trong lúc lao động mình không để ý vào việc mình lựa chọn thì mình vẫn phải lựa chọn vô vàn thứ. Trong khi đó, kết quả từ AI không phải từ sự lựa chọn. Em nghĩ những ý này cũng có ích khi bàn về tính tác giả của tri thức.
+
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-09-14T10:22
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: 
 Data is currently dislocated – our narratives and metaphors around it try to convince us it is immaterial"

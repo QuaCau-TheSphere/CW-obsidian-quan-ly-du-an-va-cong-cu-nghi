@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-02T13:14
-updated: 2025-10-12T16:23
+updated: 2025-12-22T17:32
 ---
 Mục đích của alias là để nối tiếp dòng suy nghĩ.
 
@@ -30,7 +30,7 @@ Biến câu khẳng định thành câu hỏi hoặc ngược lại:
 - Người dùng cá nhân hoặc dự án nhỏ có nên dùng WordPress hay không?
 
 Các cách diễn đạt ý khác nhau:
-- [LLM không tất định mà tạo sinh kết quả mỗi lần mỗi khác dù với cùng một câu nhập](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/M%C3%B4%20h%C3%ACnh%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BB%9Bn/Gi%E1%BB%9Bi%20h%E1%BA%A1n/LLM%20kh%C3%B4ng%20t%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20m%C3%A0%20t%E1%BA%A1o%20sinh%20k%E1%BA%BFt%20qu%E1%BA%A3%20m%E1%BB%97i%20l%E1%BA%A7n%20m%E1%BB%97i%20kh%C3%A1c%20d%C3%B9%20v%E1%BB%9Bi%20c%C3%B9ng%20m%E1%BB%99t%20c%C3%A2u%20nh%E1%BA%ADp.md)
+- [LLM không tất định mà tạo sinh kết quả mỗi lần mỗi khác dù với cùng một câu nhập](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/AI%20t%E1%BA%A1o%20sinh/Gi%E1%BB%9Bi%20h%E1%BA%A1n/LLM%20kh%C3%B4ng%20t%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20m%C3%A0%20t%E1%BA%A1o%20sinh%20k%E1%BA%BFt%20qu%E1%BA%A3%20m%E1%BB%97i%20l%E1%BA%A7n%20m%E1%BB%97i%20kh%C3%A1c%20d%C3%B9%20v%E1%BB%9Bi%20c%C3%B9ng%20m%E1%BB%99t%20c%C3%A2u%20nh%E1%BA%ADp.md)
 - Kết quả từ AI không phải từ sự lựa chọn mà chỉ là từ việc lắc một cái xí ngầu không đồng đều
 - Một nửa dân số Mỹ đã có bảo hiểm nhân thọ
 - Chỉ một nửa dân số Mỹ là có bảo hiểm nhân thọ

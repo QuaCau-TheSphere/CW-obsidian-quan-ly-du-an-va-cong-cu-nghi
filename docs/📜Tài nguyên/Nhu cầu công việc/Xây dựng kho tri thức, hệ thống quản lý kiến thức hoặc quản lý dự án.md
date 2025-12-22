@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-21T21:29
-updated: 2025-04-22T19:45
+updated: 2025-12-22T17:32
 ---
 Lĩnh vực:: [Hệ thống thông tin](../L%C4%A9nh%20v%E1%BB%B1c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/index.md)
 Nhu cầu công nghệ:: [Hệ thống quản lý kiến thức](../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/H%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-02T17:03
-updated: 2025-03-10T22:16
+updated: 2025-12-22T17:32
 aliases:
   - Làm gì với một khái niệm?
 ---

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-11-27T22:26
+updated: 2025-12-22T17:32
 ---
 [Trong nhiều trường hợp, kết quả phỏng vấn bị rơi vào quên lãng](./Trong%20nhi%E1%BB%81u%20tr%C6%B0%E1%BB%9Dng%20h%E1%BB%A3p,%20k%E1%BA%BFt%20qu%E1%BA%A3%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20b%E1%BB%8B%20r%C6%A1i%20v%C3%A0o%20qu%C3%AAn%20l%C3%A3ng.md). Nhóm có thể đã thực hiện nhiều cuộc phỏng vấn, nhưng các kết quả phỏng vấn này không đem lại giá trị đáng kể cho hoạt động của nhóm phát triển sản phẩm.
 

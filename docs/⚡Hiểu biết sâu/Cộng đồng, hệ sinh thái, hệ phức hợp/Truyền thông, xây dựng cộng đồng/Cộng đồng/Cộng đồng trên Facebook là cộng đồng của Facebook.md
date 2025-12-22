@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-09T09:41
-updated: 2024-12-18T09:59
+updated: 2025-12-22T17:31
 ---
 # Nhược điểm của nhóm Facebook
 - Nếu bị report thì bị bay không biết bao giờ lấy lại được (Facebook không có người chuyên xử lý kiện cáo về group. Page thì còn có vì nó có chạy quảng cáo) 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-09-02T15:18
+updated: 2025-12-22T17:32
 ---
 Khái niệm:: 
 Lý do:: [Sản phẩm no code đem đến sự phản hồi tức thời](../S%E1%BA%A3n%20ph%E1%BA%A9m%20no%20code%20%C4%91em%20%C4%91%E1%BA%BFn%20s%E1%BB%B1%20ph%E1%BA%A3n%20h%E1%BB%93i%20t%E1%BB%A9c%20th%E1%BB%9Di.md)

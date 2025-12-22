@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-10-03T20:24
+updated: 2025-12-22T17:32
 ---
 [Khảo sát người muốn tham gia nhóm học lập trình](../4%20Th%C3%A0nh%20ph%E1%BA%A9m/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Kh%E1%BA%A3o%20s%C3%A1t%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20tham%20gia%20nh%C3%B3m%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md)
 ## Lý do muốn học

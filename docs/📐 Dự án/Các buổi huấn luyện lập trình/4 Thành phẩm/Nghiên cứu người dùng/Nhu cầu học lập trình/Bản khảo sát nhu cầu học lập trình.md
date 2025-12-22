@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-02-25T01:44
-updated: 2024-02-25T23:30
+updated: 2025-12-22T17:32
 ---
 [Giả thiết về đối tượng cần học cách lập trình](../../../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20c%E1%BA%A7n%20h%E1%BB%8Dc%20c%C3%A1ch%20l%E1%BA%ADp%20tr%C3%ACnh.md)
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-10-14T09:47
+updated: 2025-12-22T17:31
 ---
 We are embodied humans in a shared reality filled with rich embodied sensory information.
 

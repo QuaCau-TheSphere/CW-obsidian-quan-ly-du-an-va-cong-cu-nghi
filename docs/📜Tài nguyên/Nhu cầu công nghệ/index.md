@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-02-29T23:53
-updated: 2025-07-11T18:29
+updated: 2025-12-22T17:32
 title: Nhu cầu công nghệ
 ---
 - \-: 
@@ -10,19 +10,18 @@ title: Nhu cầu công nghệ
 - Hệ thống thông tin: 
     - [Cơ sở dữ liệu](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/C%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u.md)
     - [Quản lý thời gian cho cả nhóm](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Qu%E1%BA%A3n%20l%C3%BD%20th%E1%BB%9Di%20gian%20cho%20c%E1%BA%A3%20nh%C3%B3m.md)
-    - [Truy vấn dữ liệu](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Truy%20v%E1%BA%A5n%20d%E1%BB%AF%20li%E1%BB%87u.md)
     - [Tạo dashboard](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BA%A1o%20dashboard.md)
-    - [Phân loại dữ liệu tự động](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng/Ph%C3%A2n%20lo%E1%BA%A1i%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md)
-    - [Tạo danh sách hạch toán hàng loạt vào các phần mềm kế toán](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng/T%E1%BA%A1o%20danh%20s%C3%A1ch%20h%E1%BA%A1ch%20to%C3%A1n%20h%C3%A0ng%20lo%E1%BA%A1t%20v%C3%A0o%20c%C3%A1c%20ph%E1%BA%A7n%20m%E1%BB%81m%20k%E1%BA%BF%20to%C3%A1n.md)
-    - [Tự động hoá các công việc lặp đi lặp lại](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1%20c%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20l%E1%BA%B7p%20%C4%91i%20l%E1%BA%B7p%20l%E1%BA%A1i.md)
-    - [Tự động nhập sự kiện vào lịch](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20nh%E1%BA%ADp%20s%E1%BB%B1%20ki%E1%BB%87n%20v%C3%A0o%20l%E1%BB%8Bch.md)
-    - [Tự động đăng bài](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20%C4%91%C4%83ng%20b%C3%A0i.md)
+    - [Phân loại dữ liệu tự động](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20h%C3%B3a/Ph%C3%A2n%20lo%E1%BA%A1i%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%B1%20%C4%91%E1%BB%99ng.md)
+    - [Tạo danh sách hạch toán hàng loạt vào các phần mềm kế toán](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20h%C3%B3a/T%E1%BA%A1o%20danh%20s%C3%A1ch%20h%E1%BA%A1ch%20to%C3%A1n%20h%C3%A0ng%20lo%E1%BA%A1t%20v%C3%A0o%20c%C3%A1c%20ph%E1%BA%A7n%20m%E1%BB%81m%20k%E1%BA%BF%20to%C3%A1n.md)
+    - [Tự động hoá các công việc lặp đi lặp lại](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20h%C3%B3a/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1%20c%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20l%E1%BA%B7p%20%C4%91i%20l%E1%BA%B7p%20l%E1%BA%A1i.md)
+    - [Tự động nhập sự kiện vào lịch](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20h%C3%B3a/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20nh%E1%BA%ADp%20s%E1%BB%B1%20ki%E1%BB%87n%20v%C3%A0o%20l%E1%BB%8Bch.md)
+    - [Tự động đăng bài](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20h%C3%B3a/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20%C4%91%C4%83ng%20b%C3%A0i.md)
     - [Cào web](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/C%C3%A0o%20web.md)
     - [Lấy liên kết và tạo liên kết UTM rút gọn](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/L%E1%BA%A5y%20li%C3%AAn%20k%E1%BA%BFt%20v%C3%A0%20t%E1%BA%A1o%20li%C3%AAn%20k%E1%BA%BFt%20UTM%20r%C3%BAt%20g%E1%BB%8Dn.md)
     - [Tạo web](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/T%E1%BA%A1o%20web.md)
     - [Tổng hợp nội dung, tin tức, sự kiện từ các website](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/T%E1%BB%95ng%20h%E1%BB%A3p%20n%E1%BB%99i%20dung,%20tin%20t%E1%BB%A9c,%20s%E1%BB%B1%20ki%E1%BB%87n%20t%E1%BB%AB%20c%C3%A1c%20website.md)
-    - [Xây dựng hệ thống quản lý, báo cáo nhu cầu các bên](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD,%20b%C3%A1o%20c%C3%A1o%20nhu%20c%E1%BA%A7u%20c%C3%A1c%20b%C3%AAn.md)
     - [Đọc sách, dịch thuật](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/%C4%90%E1%BB%8Dc%20s%C3%A1ch,%20d%E1%BB%8Bch%20thu%E1%BA%ADt.md)
+    - [Xây dựng hệ thống quản lý tài nguyên](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20t%C3%A0i%20nguy%C3%AAn.md)
 
 - Minh họa, sơ đồ hóa, thị giác hóa, tương tác hóa thông tin: 
     - [Element tương tác](./Minh%20h%E1%BB%8Da,%20s%C6%A1%20%C4%91%E1%BB%93%20h%C3%B3a,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a,%20t%C6%B0%C6%A1ng%20t%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin/Element%20t%C6%B0%C6%A1ng%20t%C3%A1c.md)

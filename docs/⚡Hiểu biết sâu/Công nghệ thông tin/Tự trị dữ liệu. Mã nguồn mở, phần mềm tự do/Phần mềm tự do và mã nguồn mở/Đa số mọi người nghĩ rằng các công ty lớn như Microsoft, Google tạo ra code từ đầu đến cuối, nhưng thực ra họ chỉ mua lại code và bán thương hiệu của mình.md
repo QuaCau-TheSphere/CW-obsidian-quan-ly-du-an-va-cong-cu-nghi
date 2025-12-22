@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-11-27T13:33
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: 
 Few people know the giant lie that sits at the heart of our digital society, one so big and bold as to feel shocking once you hear the truth said plainly out loud.

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-02T00:20
-updated: 2024-11-02T00:22
+updated: 2025-12-22T17:32
 aliases:
   - Nguyên lý Peter
 ---

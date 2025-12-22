@@ -1,14 +1,16 @@
 ---
 share: true
 created: 2024-10-07T22:19
-updated: 2025-06-07T10:42
+updated: 2025-12-22T17:32
 ---
+> [!NOTE] Bài viết đang hoàn thiện
+
 Bài viết này dành cho những ai đang tìm kiếm một hệ thống quản lý hoặc hoạch định tài nguyên doanh nghiệp (ERP — [enterprise resource planning](https://en.wikipedia.org/wiki/Enterprise_resource_planning "Enterprise resource planning - Wikipedia")) đáp ứng được những nhu cầu này:
 - [ ] Có khả năng tuỳ chỉnh theo đúng luồng làm việc, suy nghĩ của mình
 - [ ] Không phải dành quá nhiều thời gian để xây dựng hệ thống đó
 - [ ] Chi phí thấp
 
-*Ngon, bổ, rẻ, chọn hai thôi.* Bài viết sẽ lập luận rằng một hệ thống đáp ứng được tất cả những điều kiện như vậy là không tồn tại. 
+*Ngon, bổ, rẻ – chọn hai thôi.* Bài viết sẽ lập luận rằng một hệ thống đáp ứng được tất cả những điều kiện như vậy là không tồn tại. 
 
 ### Các ERP được dựng sẵn không đủ khả năng đáp ứng những luồng làm việc và suy nghĩ đặc thù
 ![Dùng ERP dựng sẵn.png](../../../../attachments/D%C3%B9ng%20ERP%20d%E1%BB%B1ng%20s%E1%BA%B5n.png)
@@ -25,7 +27,7 @@ Tăng giá
 
 ### Tự xây dựng ERP tốn rất nhiều thời gian
 ![Tự xây dựng ERP.png](../../../../attachments/T%E1%BB%B1%20x%C3%A2y%20d%E1%BB%B1ng%20ERP.png)
-Có các phần mềm ERP mã nguồn mở như Odoo, và bạn có thể tự mình bổ sung thêm các tính năng để đảm bảo là nó sẽ theo đúng luồng làm việc, suy nghĩ của bạn, nhưng điều đó đòi hỏi bạn phải có kiến thức cũng như thời gian để lập trình. Điều này sẽ rất khó với người chưa từng lập trình bao giờ mà còn rất nhiều thứ khác phải làm. Nếu không ai code giùm cho thì Kendy thà chịu đau khổ chứ không thể nào tự học được, bởi vì [Chi phí chuyển đổi giữa lập trình và nghiên cứu là lớn](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20thi%E1%BA%BFt%20k%E1%BA%BF/Chi%20ph%C3%AD%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i%20gi%E1%BB%AFa%20l%E1%BA%ADp%20tr%C3%ACnh%20v%C3%A0%20nghi%C3%AAn%20c%E1%BB%A9u%20l%C3%A0%20l%E1%BB%9Bn.md). Chưa kể, theo định luật Hofstadter: [Mọi thứ sẽ luôn tốn thời gian hơn bạn nghĩ, kể cả khi bạn đã tính đến định luật Hofstadter](../../C%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20gian%20l%C3%A0m%20vi%E1%BB%87c/M%E1%BB%8Di%20th%E1%BB%A9%20s%E1%BA%BD%20lu%C3%B4n%20t%E1%BB%91n%20th%E1%BB%9Di%20gian%20h%C6%A1n%20b%E1%BA%A1n%20ngh%C4%A9.md).
+Có các phần mềm ERP mã nguồn mở như Odoo, và bạn có thể tự mình bổ sung thêm các tính năng để đảm bảo là nó sẽ theo đúng luồng làm việc, suy nghĩ của bạn, nhưng điều đó đòi hỏi bạn phải có kiến thức cũng như thời gian để lập trình. Điều này sẽ rất khó với người chưa từng lập trình bao giờ mà còn rất nhiều thứ khác phải làm. Nếu không ai code giùm cho thì Kendy thà chịu đau khổ chứ không thể nào tự học được, bởi vì [Chi phí chuyển đổi giữa lập trình và nghiên cứu là lớn](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/Chi%20ph%C3%AD%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i%20gi%E1%BB%AFa%20l%E1%BA%ADp%20tr%C3%ACnh%20v%C3%A0%20nghi%C3%AAn%20c%E1%BB%A9u%20l%C3%A0%20l%E1%BB%9Bn.md). Chưa kể, theo định luật Hofstadter: [Mọi thứ sẽ luôn tốn thời gian hơn bạn nghĩ, kể cả khi bạn đã tính đến định luật Hofstadter](../../C%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20gian%20l%C3%A0m%20vi%E1%BB%87c/M%E1%BB%8Di%20th%E1%BB%A9%20s%E1%BA%BD%20lu%C3%B4n%20t%E1%BB%91n%20th%E1%BB%9Di%20gian%20h%C6%A1n%20b%E1%BA%A1n%20ngh%C4%A9.md).
 
 Cũng không phải là Kendy không muốn học để tự xây dựng hệ thống cho mình, mà là kiếm lòi mắt cũng không thấy được người thực sự muốn chia sẻ. Theo trải nghiệm của Kendy khi hỏi trên các diễn đàn của Odoo, thì người trả lời thực ra chỉ muốn báo giá chứ không thực sự muốn chỉ. Vì dù là mã nguồn mở thì họ cũng xác định tập khách hàng của mình là doanh nghiệp.
 

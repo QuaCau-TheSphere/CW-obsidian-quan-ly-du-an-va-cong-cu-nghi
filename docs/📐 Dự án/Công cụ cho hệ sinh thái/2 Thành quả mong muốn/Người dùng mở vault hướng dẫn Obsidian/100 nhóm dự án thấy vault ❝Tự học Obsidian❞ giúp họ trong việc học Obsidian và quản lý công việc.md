@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-11-08T01:18
+updated: 2025-12-22T17:32
 tags:
   - file_thành-quả
   - tt_đang-làm
@@ -14,7 +14,7 @@ Trạng thái:: #tt/đang-làm, [Nhật](Nh%E1%BA%ADt.md)
 Độ cấp thiết:: #đct/cao
 
 Phục vụ cho thành quả:
-- [50 nhóm dự án sử dụng Obsidian để quản lý công việc](../Nh%C3%B3m%20d%E1%BB%B1%20%C3%A1n%20d%C3%B9ng%20vault%20%C4%91%E1%BB%83%20qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c/50%20nh%C3%B3m%20d%E1%BB%B1%20%C3%A1n%20s%E1%BB%AD%20d%E1%BB%A5ng%20Obsidian%20%C4%91%E1%BB%83%20qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c.md)
+- [50 nhóm dự án sử dụng Obsidian để quản lý kiến thức và công việc](../Nh%C3%B3m%20d%E1%BB%B1%20%C3%A1n%20d%C3%B9ng%20vault%20%C4%91%E1%BB%83%20qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c/50%20nh%C3%B3m%20d%E1%BB%B1%20%C3%A1n%20s%E1%BB%AD%20d%E1%BB%A5ng%20Obsidian%20%C4%91%E1%BB%83%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20c%C3%B4ng%20vi%E1%BB%87c.md)
 
 Thành quả cần có:: [500 người mở vault ít nhất 10 lần](./500%20ng%C6%B0%E1%BB%9Di%20m%E1%BB%9F%20vault%20%C3%ADt%20nh%E1%BA%A5t%2010%20l%E1%BA%A7n.md)
 

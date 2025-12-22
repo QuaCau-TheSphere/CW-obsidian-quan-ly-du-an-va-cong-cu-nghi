@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-06-13T00:55
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: 
 Nó ko biết đúng sai. Nếu muốn biết nó đúng hay sai thì mình phải có kiến thức hơn nó. Còn ko biết mà lên hỏi thì ko khác gì người mù dắt người mù

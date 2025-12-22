@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-25T14:42
+updated: 2025-12-22T17:32
 title: "Có 4 loại câu hỏi: đặc điểm, thái độ, lòng tin, hành vi"
 ---
 Khái niệm:: 

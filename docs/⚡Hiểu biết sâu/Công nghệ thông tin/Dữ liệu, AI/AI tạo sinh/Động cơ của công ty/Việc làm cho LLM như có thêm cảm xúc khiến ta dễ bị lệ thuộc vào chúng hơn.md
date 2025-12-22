@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-06-15T12:08
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Cảm xúc](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/C%E1%BA%A3m%20x%C3%BAc.md)
 

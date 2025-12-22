@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-02T15:52
-updated: 2024-03-03T16:35
+updated: 2025-12-22T17:32
 ---
 Lý do:: [Dữ liệu chính là lập trình](../H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u%20ch%C3%ADnh%20l%C3%A0%20l%E1%BA%ADp%20tr%C3%ACnh.md) 
 [Lập trình là việc hướng dẫn máy làm theo đúng ý mình, chứ không phải chỉ mỗi viết code](../../C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/L%E1%BA%ADp%20tr%C3%ACnh%20l%C3%A0%20vi%E1%BB%87c%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20m%C3%A1y%20l%C3%A0m%20theo%20%C4%91%C3%BAng%20%C3%BD%20m%C3%ACnh,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20ch%E1%BB%89%20m%E1%BB%97i%20vi%E1%BA%BFt%20code.md)

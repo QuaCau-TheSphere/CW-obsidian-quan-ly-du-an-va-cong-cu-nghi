@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-24T17:11
-updated: 2025-11-20T15:28
+updated: 2025-12-22T17:32
 ---
 Ví dụ:: Bình chọn trên reddit, truyền miệng, trang tin tức, thuật toán PageRank
 Ưu điểm::

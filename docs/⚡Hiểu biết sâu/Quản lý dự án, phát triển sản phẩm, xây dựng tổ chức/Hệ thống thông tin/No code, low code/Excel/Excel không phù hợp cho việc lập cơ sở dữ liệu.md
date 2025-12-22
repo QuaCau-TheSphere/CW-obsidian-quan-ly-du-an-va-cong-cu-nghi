@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-09-02T15:18
+updated: 2025-12-22T17:32
 ---
 Lý do:: [Excel không cản ta làm điều mà ta sẽ hối tiếc](./Excel%20kh%C3%B4ng%20c%E1%BA%A3n%20ta%20l%C3%A0m%20%C4%91i%E1%BB%81u%20m%C3%A0%20ta%20s%E1%BA%BD%20h%E1%BB%91i%20ti%E1%BA%BFc.md)
 

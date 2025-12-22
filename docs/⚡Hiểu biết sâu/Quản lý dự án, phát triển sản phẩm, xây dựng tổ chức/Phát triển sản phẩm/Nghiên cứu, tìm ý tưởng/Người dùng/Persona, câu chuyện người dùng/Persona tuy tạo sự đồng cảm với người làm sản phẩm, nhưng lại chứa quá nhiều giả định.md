@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-10T13:39
-updated: 2023-11-27T22:26
+updated: 2025-12-22T17:32
 aliases:
   - chân dung khách hàng
 ---

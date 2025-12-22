@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-12-18T09:56
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Rủi ro](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/R%E1%BB%A7i%20ro.md)
 

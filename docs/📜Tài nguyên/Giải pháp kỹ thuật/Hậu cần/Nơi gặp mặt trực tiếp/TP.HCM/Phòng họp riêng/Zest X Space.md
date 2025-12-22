@@ -2,7 +2,7 @@
 share: true
 description: 11 Trần Quý Khoách, P. Tân Định, Q1
 created: 2024-08-22T15:13
-updated: 2025-05-20T22:14
+updated: 2025-12-22T17:32
 ---
 Địa chỉ:: 11 Trần Quý Khoách, P. Tân Định, Q1
 

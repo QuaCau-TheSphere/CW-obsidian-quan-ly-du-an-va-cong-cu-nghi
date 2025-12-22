@@ -1,12 +1,9 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-11-18T14:07
+updated: 2025-12-22T17:32
 title: Hệ thống thông tin
 ---
-Nhu cầu công nghệ:: 
-Giải pháp kỹ thuật:: [Obsidian](../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Obsidian/index.md)
-
 ## Liệu các phần mềm hoạch định tài nguyên doanh nghiệp (ERP) có giải quyết được vấn đề đảo thông tin này không?
 Các phần mềm hoạch định tài nguyên doanh nghiệp ([enterprise resource planning](https://en.wikipedia.org/wiki/Enterprise_resource_planning "Enterprise resource planning - Wikipedia"), ERP) sẽ có những mô đun chuyên về quản lý tài chính. Tuy nhiên, với Kendy điều đó là không đủ. Đây là những yêu cầu cho một phần mềm quản trị mà Kendy cần. Thiếu một trong 3 đều không được:
 - [ ] Có khả năng tuỳ chỉnh theo đúng luồng làm việc, suy nghĩ của mình
@@ -26,7 +23,7 @@ Chưa kể, cái gọi là chi phí thấp ở đây chỉ là miễn phí trong
 
 ### Tự xây dựng ERP tốn rất nhiều thời gian
 ![Tự xây dựng ERP.png](../../../attachments/T%E1%BB%B1%20x%C3%A2y%20d%E1%BB%B1ng%20ERP.png)
-Có các phần mềm ERP mã nguồn mở như Odoo, và bạn có thể tự mình bổ sung thêm các tính năng để đảm bảo là nó sẽ theo đúng luồng làm việc, suy nghĩ của bạn, nhưng điều đó đòi hỏi bạn phải có kiến thức cũng như thời gian để lập trình. Điều này sẽ rất khó với người chưa từng lập trình bao giờ mà còn rất nhiều thứ khác phải làm. Nếu không ai code giùm cho thì Kendy thà chịu đau khổ chứ không thể nào tự học được, bởi vì [Chi phí chuyển đổi giữa lập trình và nghiên cứu là lớn](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c,%20thi%E1%BA%BFt%20k%E1%BA%BF/Chi%20ph%C3%AD%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i%20gi%E1%BB%AFa%20l%E1%BA%ADp%20tr%C3%ACnh%20v%C3%A0%20nghi%C3%AAn%20c%E1%BB%A9u%20l%C3%A0%20l%E1%BB%9Bn.md). Chưa kể, theo định luật Hofstadter: [Mọi thứ sẽ luôn tốn thời gian hơn bạn nghĩ, kể cả khi bạn đã tính đến định luật Hofstadter](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20gian%20l%C3%A0m%20vi%E1%BB%87c/M%E1%BB%8Di%20th%E1%BB%A9%20s%E1%BA%BD%20lu%C3%B4n%20t%E1%BB%91n%20th%E1%BB%9Di%20gian%20h%C6%A1n%20b%E1%BA%A1n%20ngh%C4%A9.md).
+Có các phần mềm ERP mã nguồn mở như Odoo, và bạn có thể tự mình bổ sung thêm các tính năng để đảm bảo là nó sẽ theo đúng luồng làm việc, suy nghĩ của bạn, nhưng điều đó đòi hỏi bạn phải có kiến thức cũng như thời gian để lập trình. Điều này sẽ rất khó với người chưa từng lập trình bao giờ mà còn rất nhiều thứ khác phải làm. Nếu không ai code giùm cho thì Kendy thà chịu đau khổ chứ không thể nào tự học được, bởi vì [Chi phí chuyển đổi giữa lập trình và nghiên cứu là lớn](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/Chi%20ph%C3%AD%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i%20gi%E1%BB%AFa%20l%E1%BA%ADp%20tr%C3%ACnh%20v%C3%A0%20nghi%C3%AAn%20c%E1%BB%A9u%20l%C3%A0%20l%E1%BB%9Bn.md). Chưa kể, theo định luật Hofstadter: [Mọi thứ sẽ luôn tốn thời gian hơn bạn nghĩ, kể cả khi bạn đã tính đến định luật Hofstadter](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20gian%20l%C3%A0m%20vi%E1%BB%87c/M%E1%BB%8Di%20th%E1%BB%A9%20s%E1%BA%BD%20lu%C3%B4n%20t%E1%BB%91n%20th%E1%BB%9Di%20gian%20h%C6%A1n%20b%E1%BA%A1n%20ngh%C4%A9.md).
 
 Cũng không phải là Kendy không muốn học để tự xây dựng hệ thống cho mình, mà là kiếm lòi mắt cũng không thấy được người thực sự muốn chia sẻ. Theo trải nghiệm của Kendy khi hỏi trên các diễn đàn của Odoo, thì người trả lời thực ra chỉ muốn báo giá chứ không thực sự muốn chỉ. Vì dù là mã nguồn mở thì họ cũng xác định tập khách hàng của mình là doanh nghiệp.
 

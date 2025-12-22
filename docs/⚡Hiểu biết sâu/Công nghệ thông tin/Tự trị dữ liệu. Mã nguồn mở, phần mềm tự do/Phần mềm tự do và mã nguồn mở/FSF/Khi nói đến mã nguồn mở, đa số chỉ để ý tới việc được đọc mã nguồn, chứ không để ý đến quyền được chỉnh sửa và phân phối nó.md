@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-11-27T13:37
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: 
 Nếu chỉ nói về việc được đọc mã nguồn thì nên gọi là "source available" thì hơn. 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-16T18:06
+updated: 2025-12-22T17:32
 ---
 # [Phân loại chi tiêu](Ph%C3%A2n%20lo%E1%BA%A1i%20chi%20ti%C3%AAu.md)
 ## Pending

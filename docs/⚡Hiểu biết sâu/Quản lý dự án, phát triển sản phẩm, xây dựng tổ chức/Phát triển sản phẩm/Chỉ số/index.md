@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-05-27T14:34
+updated: 2025-12-22T17:32
 title: Chỉ số
 ---
 Khái niệm:: [Thước đo, đo lường, chỉ số, KPI](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/Th%C6%B0%E1%BB%9Bc%20%C4%91o,%20%C4%91o%20l%C6%B0%E1%BB%9Dng,%20ch%E1%BB%89%20s%E1%BB%91,%20KPI.md)
 - \-: 
     - [Chỉ số ta theo đuổi phải là chỉ số về giá trị của sản phẩm đối với người dùng](./Ch%E1%BB%89%20s%E1%BB%91%20ta%20theo%20%C4%91u%E1%BB%95i%20ph%E1%BA%A3i%20l%C3%A0%20ch%E1%BB%89%20s%E1%BB%91%20v%E1%BB%81%20gi%C3%A1%20tr%E1%BB%8B%20c%E1%BB%A7a%20s%E1%BA%A3n%20ph%E1%BA%A9m%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
-    - [Chỉ theo đuổi một chỉ số là quá đơn giản](./Ch%E1%BB%89%20theo%20%C4%91u%E1%BB%95i%20m%E1%BB%99t%20ch%E1%BB%89%20s%E1%BB%91%20l%C3%A0%20qu%C3%A1%20%C4%91%C6%A1n%20gi%E1%BA%A3n.md)
     - [Chỉ số](index.md)
+    - [Chỉ theo đuổi một chỉ số là quá đơn giản](./Ch%E1%BB%89%20theo%20%C4%91u%E1%BB%95i%20m%E1%BB%99t%20ch%E1%BB%89%20s%E1%BB%91%20l%C3%A0%20qu%C3%A1%20%C4%91%C6%A1n%20gi%E1%BA%A3n.md)
     - [Con số không nói dối, nhưng nó nói nửa sự thật, và người nói dối dùng con số](./Con%20s%E1%BB%91%20kh%C3%B4ng%20n%C3%B3i%20d%E1%BB%91i,%20nh%C6%B0ng%20n%C3%B3%20n%C3%B3i%20n%E1%BB%ADa%20s%E1%BB%B1%20th%E1%BA%ADt,%20v%C3%A0%20ng%C6%B0%E1%BB%9Di%20n%C3%B3i%20d%E1%BB%91i%20d%C3%B9ng%20con%20s%E1%BB%91.md)
     - [Các chỉ số đo lường thu nhập](./C%C3%A1c%20ch%E1%BB%89%20s%E1%BB%91%20%C4%91o%20l%C6%B0%E1%BB%9Dng%20thu%20nh%E1%BA%ADp.md)
     - [Dựa vào KPI thì bộ phận kinh doanh sẽ có tiếng nói lớn nhất, còn đội phát triển sản phẩm rất ít có tiếng nói](./D%E1%BB%B1a%20v%C3%A0o%20KPI%20th%C3%AC%20b%E1%BB%99%20ph%E1%BA%ADn%20kinh%20doanh%20s%E1%BA%BD%20c%C3%B3%20ti%E1%BA%BFng%20n%C3%B3i%20l%E1%BB%9Bn%20nh%E1%BA%A5t,%20c%C3%B2n%20%C4%91%E1%BB%99i%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m%20r%E1%BA%A5t%20%C3%ADt%20c%C3%B3%20ti%E1%BA%BFng%20n%C3%B3i.md)
@@ -23,8 +23,8 @@ Khái niệm:: [Thước đo, đo lường, chỉ số, KPI](../../../%CE%9E%20K
 
 - Tăng trưởng: 
     - [Chỉ nên nghĩ về viral khi đã có một lượng người thực sự sử dụng sản phẩm của mình](./T%C4%83ng%20tr%C6%B0%E1%BB%9Fng/Ch%E1%BB%89%20n%C3%AAn%20ngh%C4%A9%20v%E1%BB%81%20viral%20khi%20%C4%91%C3%A3%20c%C3%B3%20m%E1%BB%99t%20l%C6%B0%E1%BB%A3ng%20ng%C6%B0%E1%BB%9Di%20th%E1%BB%B1c%20s%E1%BB%B1%20s%E1%BB%AD%20d%E1%BB%A5ng%20s%E1%BA%A3n%20ph%E1%BA%A9m%20c%E1%BB%A7a%20m%C3%ACnh.md)
-    - [Tăng trưởng của thị trường quan trọng hơn tăng trưởng doanh số](./T%C4%83ng%20tr%C6%B0%E1%BB%9Fng/T%C4%83ng%20tr%C6%B0%E1%BB%9Fng%20c%E1%BB%A7a%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20quan%20tr%E1%BB%8Dng%20h%C6%A1n%20t%C4%83ng%20tr%C6%B0%E1%BB%9Fng%20doanh%20s%E1%BB%91.md)
-    - [Tăng trưởng là khoảng cách giữa chuyển đổi và rời bỏ](./T%C4%83ng%20tr%C6%B0%E1%BB%9Fng/T%C4%83ng%20tr%C6%B0%E1%BB%9Fng%20l%C3%A0%20kho%E1%BA%A3ng%20c%C3%A1ch%20gi%E1%BB%AFa%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i%20v%C3%A0%20r%E1%BB%9Di%20b%E1%BB%8F.md)
+    - [Tăng trưởng thị trường là khoảng cách giữa chuyển đổi và rời bỏ](./T%C4%83ng%20tr%C6%B0%E1%BB%9Fng/T%C4%83ng%20tr%C6%B0%E1%BB%9Fng%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20l%C3%A0%20kho%E1%BA%A3ng%20c%C3%A1ch%20gi%E1%BB%AFa%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i%20v%C3%A0%20r%E1%BB%9Di%20b%E1%BB%8F.md)
+    - [Tăng trưởng thị trường quan trọng hơn tăng trưởng doanh số](./T%C4%83ng%20tr%C6%B0%E1%BB%9Fng/T%C4%83ng%20tr%C6%B0%E1%BB%9Fng%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20quan%20tr%E1%BB%8Dng%20h%C6%A1n%20t%C4%83ng%20tr%C6%B0%E1%BB%9Fng%20doanh%20s%E1%BB%91.md)
     - [Tỉ lệ quay lại là thứ quan trọng nhất trong tăng trưởng](./T%C4%83ng%20tr%C6%B0%E1%BB%9Fng/T%E1%BB%89%20l%E1%BB%87%20quay%20l%E1%BA%A1i%20l%C3%A0%20th%E1%BB%A9%20quan%20tr%E1%BB%8Dng%20nh%E1%BA%A5t%20trong%20t%C4%83ng%20tr%C6%B0%E1%BB%9Fng.md)
 
 

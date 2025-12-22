@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-24T17:19
-updated: 2025-10-17T15:13
+updated: 2025-12-22T17:32
 ---
 Alias: làm sao để mọi người muốn học git
 Ví dụ:: MediaWiki, Wikiversity

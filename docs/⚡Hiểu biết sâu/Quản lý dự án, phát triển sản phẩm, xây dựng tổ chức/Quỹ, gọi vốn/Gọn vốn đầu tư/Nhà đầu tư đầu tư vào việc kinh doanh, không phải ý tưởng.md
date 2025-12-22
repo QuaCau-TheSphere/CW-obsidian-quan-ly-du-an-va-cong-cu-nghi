@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-05-26T19:55
+updated: 2025-12-22T17:32
 ---
 Khái niệm:: [Ý tưởng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/%C3%9D%20t%C6%B0%E1%BB%9Fng.md), [Đầu tư](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF/%C4%90%E1%BA%A7u%20t%C6%B0.md)
 - You must show them scalable and sustainable opportunities

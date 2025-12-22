@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-18T12:41
-updated: 2025-10-27T12:07
+updated: 2025-12-22T17:32
 aliases:
   - Sơ đồ kiến thức, canvas
 description: Thể hiện bức tranh toàn cảnh giữa các lập luận, ý tưởng
@@ -37,8 +37,8 @@ https://untools.co/
 Cái này không gọi là đồ thị mạng lưới, vì dù nó có liên kết với nhau thì việc ứng dụng lý thuyết đồ thị vào nó cũng thấp. Cần có một định nghĩa rõ ràng hơn cho việc liên kết.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MifNyU49_JA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
-![An introduction to analysing dialogical argumentation in OVA3 - YouTube](https://youtu.be/P4PEMkFJOi0?si=5EXUkO8BSYmmKGyx)
-![Introducing Nomic Atlas: Operationalize Massive Datasets of Text, PDFs, and Embeddings - YouTube](https://youtu.be/t0c0D9w1B68?si=bdZOWTFmsiEx5Cf_)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P4PEMkFJOi0?si=5EXUkO8BSYmmKGyx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t0c0D9w1B68?si=bdZOWTFmsiEx5Cf_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [bramadams.dev \| Atlas Map](https://atlas.nomic.ai/data/bram1/bramadamsdev/map?xs=-18.94004&xf=20.55096&ys=-16.37676&yf=18.69068)
 [GitHub - bramses/ghost-to-nomic: Upload your Ghost blog posts as a Nomic Map](https://github.com/bramses/ghost-to-nomic)
 

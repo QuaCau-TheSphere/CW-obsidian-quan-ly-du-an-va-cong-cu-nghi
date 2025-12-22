@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-08T16:23
-updated: 2025-04-22T14:09
+updated: 2025-12-22T17:31
 ---
 [Code được dùng nhiều hơn được đọc, được đọc nhiều hơn được viết](./K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/Code%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20nhi%E1%BB%81u%20h%C6%A1n%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%8Dc,%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%8Dc%20nhi%E1%BB%81u%20h%C6%A1n%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BA%BFt.md)
 [Các tiếp thị về no code hàm ý rằng việc code là việc khó nhất trong việc tạo sản phẩm, nhưng thực ra việc thảo luận và lên kế hoạch mới là thứ quan trọng nhất](../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/No%20code,%20low%20code/C%C3%A1c%20ti%E1%BA%BFp%20th%E1%BB%8B%20v%E1%BB%81%20no%20code%20h%C3%A0m%20%C3%BD%20r%E1%BA%B1ng%20vi%E1%BB%87c%20code%20l%C3%A0%20vi%E1%BB%87c%20kh%C3%B3%20nh%E1%BA%A5t%20trong%20vi%E1%BB%87c%20t%E1%BA%A1o%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20nh%C6%B0ng%20th%E1%BB%B1c%20ra%20vi%E1%BB%87c%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%C3%A0%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch%20m%E1%BB%9Bi%20l%C3%A0%20th%E1%BB%A9%20quan%20tr%E1%BB%8Dng%20nh%E1%BA%A5t.md)

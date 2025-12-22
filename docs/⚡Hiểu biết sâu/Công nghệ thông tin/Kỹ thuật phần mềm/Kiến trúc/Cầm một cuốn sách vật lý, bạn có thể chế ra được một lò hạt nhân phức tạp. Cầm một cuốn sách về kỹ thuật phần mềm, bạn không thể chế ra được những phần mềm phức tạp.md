@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-22T20:37
-updated: 2025-05-01T22:36
+updated: 2025-12-22T17:31
 ---
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=2Ki12Pi3hnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Lý do:: [Cấu trúc kỹ thuật của sản phẩm phản ánh giới hạn xã hội của tổ chức tạo ra nó](./C%E1%BA%A5u%20tr%C3%BAc%20k%E1%BB%B9%20thu%E1%BA%ADt%20c%E1%BB%A7a%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%E1%BA%A3n%20%C3%A1nh%20gi%E1%BB%9Bi%20h%E1%BA%A1n%20x%C3%A3%20h%E1%BB%99i%20c%E1%BB%A7a%20t%E1%BB%95%20ch%E1%BB%A9c%20t%E1%BA%A1o%20ra%20n%C3%B3.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-07T18:30
-updated: 2023-11-09T16:13
+updated: 2025-12-22T17:32
 ---
 - Large upside opportunity through an exit, usually M&A
 - Good problem-solution set (product-market fit)

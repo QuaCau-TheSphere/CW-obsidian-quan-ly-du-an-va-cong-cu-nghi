@@ -4,7 +4,7 @@ created: 2024-11-26T17:35
 title: Các câu hỏi và đối thoại về AI tạo sinh
 aliases:
   - LLM
-updated: 2025-12-12T11:22
+updated: 2025-12-22T17:31
 ---
 ## LLM có năng lực cao?
 
@@ -78,7 +78,7 @@ https://www.createdontscrape.com
 | Chuẩn hoá    | Dữ liệu không được phân loại                                                        | Dán nhãn thủ công                            |
 | Hệ thống hoá | [Silo thông tin khiến cho những thao tác tự động hoá đơn giản không thể làm được](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/H%C3%ACnh%20th%E1%BB%A9c%20l%C6%B0u%20tr%E1%BB%AF/Silo%20th%C3%B4ng%20tin%20khi%E1%BA%BFn%20cho%20nh%E1%BB%AFng%20thao%20t%C3%A1c%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20kh%C3%B4ng%20th%E1%BB%83%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c.md) |                                              |
 | Số hoá       | Phần mềm                                                                            |                                              |
-| Tự động hoá  |                                                                                     | [Tự động hoá các công việc lặp đi lặp lại](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1%20c%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20l%E1%BA%B7p%20%C4%91i%20l%E1%BA%B7p%20l%E1%BA%A1i.md) |
+| Tự động hoá  |                                                                                     | [Tự động hoá các công việc lặp đi lặp lại](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20h%C3%B3a/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1%20c%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20l%E1%BA%B7p%20%C4%91i%20l%E1%BA%B7p%20l%E1%BA%A1i.md) |
 
 
 Chưa nói gì về chuẩn hoá, hệ thống hoá, số hoá, tự động hoá

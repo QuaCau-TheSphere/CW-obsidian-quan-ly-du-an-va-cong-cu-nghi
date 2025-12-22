@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-03T11:28
-updated: 2024-09-02T14:52
+updated: 2025-12-22T17:32
 ---
 1. Mỗi văn bản có càng ít màu càng tốt
 2. Mỗi từ có càng ít màu càng tốt

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-20T14:56
-updated: 2025-05-27T21:14
+updated: 2025-12-22T17:32
 ---
 [Chỉ số ta theo đuổi phải là chỉ số về giá trị của sản phẩm đối với người dùng](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/Ch%E1%BB%89%20s%E1%BB%91%20ta%20theo%20%C4%91u%E1%BB%95i%20ph%E1%BA%A3i%20l%C3%A0%20ch%E1%BB%89%20s%E1%BB%91%20v%E1%BB%81%20gi%C3%A1%20tr%E1%BB%8B%20c%E1%BB%A7a%20s%E1%BA%A3n%20ph%E1%BA%A9m%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
 [NPS trên 50% là đạt được sản phẩm phù hợp thị trường](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/NPS%20tr%C3%AAn%2050%EF%BC%85%20l%C3%A0%20%C4%91%E1%BA%A1t%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20ph%C3%B9%20h%E1%BB%A3p%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng.md)

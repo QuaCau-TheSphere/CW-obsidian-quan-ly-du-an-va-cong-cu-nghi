@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-07-29T14:00
+updated: 2025-12-22T17:32
 ---
 Khái niệm:: [Kế hoạch](%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/K%E1%BA%BF%20ho%E1%BA%A1ch.md)
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-03T00:32
-updated: 2024-11-12T21:24
+updated: 2025-12-22T17:32
 ---
 Khái niệm:: [Quản trị kiến thức](Qu%E1%BA%A3n%20tr%E1%BB%8B%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
 Trước tiên hãy nói về cách đánh số thư mục. Cách đánh số này lấy ý tưởng từ cách đánh số [Johnny•Decimal](https://johnnydecimal.com/).

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-27T23:51
+updated: 2025-12-22T17:32
 aliases:
   - Những dự án phụ thường là ý tưởng tốt cho startup. Những ý tưởng chỉ để có một startup lại thường không tốt
 ---

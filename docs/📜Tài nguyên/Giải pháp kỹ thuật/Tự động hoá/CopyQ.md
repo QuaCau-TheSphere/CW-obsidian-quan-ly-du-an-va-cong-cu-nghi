@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-01-19T21:00
+updated: 2025-12-22T17:32
 title: Quản lý clipboard bằng CopyQ
 ---
 ## Copy tin nhắn từ Discord

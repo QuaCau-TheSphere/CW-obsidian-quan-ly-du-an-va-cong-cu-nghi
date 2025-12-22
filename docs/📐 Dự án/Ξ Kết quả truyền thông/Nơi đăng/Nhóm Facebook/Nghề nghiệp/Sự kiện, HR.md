@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-02-20T16:31
+updated: 2025-12-22T17:32
 ---
 
 # [Bàn làm việc Google Calendar](../../../../C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Truy%E1%BB%81n%20th%C3%B4ng/B%C3%A0n%20l%C3%A0m%20vi%E1%BB%87c%20Google%20Calendar.md)

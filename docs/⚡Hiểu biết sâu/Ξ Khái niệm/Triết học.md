@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-22T13:43
-updated: 2025-04-22T13:43
+updated: 2025-12-22T17:32
 ---
 - \-: 
     - [Triết học công nghệ](../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Tri%E1%BA%BFt%20h%E1%BB%8Dc%20c%C3%B4ng%20ngh%E1%BB%87/index.md)
@@ -11,4 +11,5 @@ updated: 2025-04-22T13:43
 
 - Kiến trúc: 
     - [Triết học sự tĩnh cho ta máy tính, nhưng triết học chuyển động mới là thứ kiến trúc sư cần](../C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/Ki%E1%BA%BFn%20tr%C3%BAc/Tri%E1%BA%BFt%20h%E1%BB%8Dc/Tri%E1%BA%BFt%20h%E1%BB%8Dc%20s%E1%BB%B1%20t%C4%A9nh%20cho%20ta%20m%C3%A1y%20t%C3%ADnh,%20nh%C6%B0ng%20tri%E1%BA%BFt%20h%E1%BB%8Dc%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng%20m%E1%BB%9Bi%20l%C3%A0%20th%E1%BB%A9%20ki%E1%BA%BFn%20tr%C3%BAc%20s%C6%B0%20c%E1%BA%A7n.md)
+
 

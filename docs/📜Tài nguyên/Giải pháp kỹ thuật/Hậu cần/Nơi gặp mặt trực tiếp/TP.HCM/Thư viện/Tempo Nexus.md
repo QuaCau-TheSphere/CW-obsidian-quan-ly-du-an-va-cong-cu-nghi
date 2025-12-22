@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-11-09T10:54
+updated: 2025-12-22T17:32
 ---
 Khái niệm:: 
 Phòng đọc  sách, phòng nghiên cứu, không gian học tập và làm việc chung, nơi giao  lưu văn hóa

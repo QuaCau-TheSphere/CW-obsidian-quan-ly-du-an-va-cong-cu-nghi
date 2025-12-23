@@ -20,11 +20,12 @@ Bài chi tiết:: [Ý đồ thiết kế thư mục](../index.md)
 
 - Hợp tác, phát triển cộng đồng: 
     - [Phát triển cộng đồng](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
-    - [Ra quyết định tập thể](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20t%E1%BA%ADp%20th%E1%BB%83.md)
+    - [Quản lý đối tác, các bên liên quan](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Qu%E1%BA%A3n%20l%C3%BD%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.md)
     - [Thiết kế tiếp cận được cho người khuyết tật](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Thi%E1%BA%BFt%20k%E1%BA%BF%20ti%E1%BA%BFp%20c%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20cho%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt.md)
+    - [Ra quyết định tập thể](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20t%E1%BA%ADp%20th%E1%BB%83.md)
+    - [Thúc đẩy sự hợp tác giữa các cá nhân](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c%20gi%E1%BB%AFa%20c%C3%A1c%20c%C3%A1%20nh%C3%A2n.md)
     - [Thúc đẩy đối thoại](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Th%C3%BAc%20%C4%91%E1%BA%A9y%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i.md)
     - [Tổ chức gặp mặt nhau](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/T%E1%BB%95%20ch%E1%BB%A9c%20g%E1%BA%B7p%20m%E1%BA%B7t%20nhau.md)
-    - [Xây dựng mạng lưới đối tác, các bên liên quan. Kết nối nguồn lực nhàn rỗi](./H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.%20K%E1%BA%BFt%20n%E1%BB%91i%20ngu%E1%BB%93n%20l%E1%BB%B1c%20nh%C3%A0n%20r%E1%BB%97i.md)
 
 - Nghiên cứu: 
     - [Nghiên cứu cộng đồng mạng](./Nghi%C3%AAn%20c%E1%BB%A9u/Nghi%C3%AAn%20c%E1%BB%A9u%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20m%E1%BA%A1ng.md)
@@ -45,8 +46,8 @@ Bài chi tiết:: [Ý đồ thiết kế thư mục](../index.md)
 
 - Viết và chia sẻ tri thức: 
     - [Chia sẻ kho tri thức của mình cho mọi người](./Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
-    - [Chèn ảnh, bảng, sơ đồ, mục lục, ghi chú, song ngữ, trích dẫn theo đúng ý](./Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Ch%C3%A8n%20%E1%BA%A3nh,%20b%E1%BA%A3ng,%20s%C6%A1%20%C4%91%E1%BB%93,%20m%E1%BB%A5c%20l%E1%BB%A5c,%20ghi%20ch%C3%BA,%20song%20ng%E1%BB%AF,%20tr%C3%ADch%20d%E1%BA%ABn%20theo%20%C4%91%C3%BAng%20%C3%BD.md)
     - [Minh họa, thị giác hóa thông tin](./Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Minh%20h%E1%BB%8Da,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin.md)
+    - [Chèn ảnh, bảng, sơ đồ, mục lục, ghi chú, song ngữ, trích dẫn theo đúng ý](./Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Ch%C3%A8n%20%E1%BA%A3nh,%20b%E1%BA%A3ng,%20s%C6%A1%20%C4%91%E1%BB%93,%20m%E1%BB%A5c%20l%E1%BB%A5c,%20ghi%20ch%C3%BA,%20song%20ng%E1%BB%AF,%20tr%C3%ADch%20d%E1%BA%ABn%20theo%20%C4%91%C3%BAng%20%C3%BD.md)
     - [Quản lý trích dẫn](./Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Qu%E1%BA%A3n%20l%C3%BD%20tr%C3%ADch%20d%E1%BA%ABn.md)
     - [Tra lại lịch sử ghi chép](./Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Tra%20l%E1%BA%A1i%20l%E1%BB%8Bch%20s%E1%BB%AD%20ghi%20ch%C3%A9p.md)
     - [Trình bày, thuyết trình](./Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Tr%C3%ACnh%20b%C3%A0y,%20thuy%E1%BA%BFt%20tr%C3%ACnh.md)

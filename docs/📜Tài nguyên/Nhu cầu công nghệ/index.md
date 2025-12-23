@@ -21,7 +21,6 @@ title: Nhu cầu công nghệ
     - [Tạo web](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/T%E1%BA%A1o%20web.md)
     - [Tổng hợp nội dung, tin tức, sự kiện từ các website](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/T%E1%BB%95ng%20h%E1%BB%A3p%20n%E1%BB%99i%20dung,%20tin%20t%E1%BB%A9c,%20s%E1%BB%B1%20ki%E1%BB%87n%20t%E1%BB%AB%20c%C3%A1c%20website.md)
     - [Đọc sách, dịch thuật](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/%C4%90%E1%BB%8Dc%20s%C3%A1ch,%20d%E1%BB%8Bch%20thu%E1%BA%ADt.md)
-    - [Xây dựng hệ thống quản lý tài nguyên](./H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/X%C3%A2y%20d%E1%BB%B1ng%20h%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20t%C3%A0i%20nguy%C3%AAn.md)
 
 - Minh họa, sơ đồ hóa, thị giác hóa, tương tác hóa thông tin: 
     - [Element tương tác](./Minh%20h%E1%BB%8Da,%20s%C6%A1%20%C4%91%E1%BB%93%20h%C3%B3a,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a,%20t%C6%B0%C6%A1ng%20t%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin/Element%20t%C6%B0%C6%A1ng%20t%C3%A1c.md)
@@ -31,9 +30,9 @@ title: Nhu cầu công nghệ
 
 - Viết và quản lý nội dung, ghi chú, tài liệu: 
     - [Hệ thống quản lý kiến thức](./Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/H%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
+    - [Tài liệu động](./Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md)
     - [Khu vườn số](./Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/Khu%20v%C6%B0%E1%BB%9Dn%20s%E1%BB%91.md)
     - [Kiểm soát phiên bản (version control)](./Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/Ki%E1%BB%83m%20so%C3%A1t%20phi%C3%AAn%20b%E1%BA%A3n%20(version%20control).md)
-    - [Tài liệu động](./Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md)
     - [WYSIWYM](./Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/WYSIWYM.md)
 
 - Xác định mẫu hình: 

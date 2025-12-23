@@ -14,33 +14,33 @@ title: Giải pháp kỹ thuật
     - [Viết tài liệu đặc tả yêu cầu](./Vi%E1%BA%BFt%20t%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BA%B7c%20t%E1%BA%A3%20y%C3%AAu%20c%E1%BA%A7u.md)
 
 - Cộng đồng online: 
-    - [GitHub không phải là dịch vụ mã nguồn mở, dù nó tự nhận rằng nó là ngôi nhà của mã nguồn mở](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/GitHub%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20d%E1%BB%8Bch%20v%E1%BB%A5%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F,%20d%C3%B9%20n%C3%B3%20t%E1%BB%B1%20nh%E1%BA%ADn%20r%E1%BA%B1ng%20n%C3%B3%20l%C3%A0%20ng%C3%B4i%20nh%C3%A0%20c%E1%BB%A7a%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F.md)
-    - [LibGen](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/LibGen.md)
     - [Không reply sau 3 tháng](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Obsidian/Kh%C3%B4ng%20reply%20sau%203%20th%C3%A1ng.md)
+    - [LibGen](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/LibGen.md)
+    - [GitHub không phải là dịch vụ mã nguồn mở, dù nó tự nhận rằng nó là ngôi nhà của mã nguồn mở](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/GitHub%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20d%E1%BB%8Bch%20v%E1%BB%A5%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F,%20d%C3%B9%20n%C3%B3%20t%E1%BB%B1%20nh%E1%BA%ADn%20r%E1%BA%B1ng%20n%C3%B3%20l%C3%A0%20ng%C3%B4i%20nh%C3%A0%20c%E1%BB%A7a%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F.md)
+    - [Tôi học được gì khi tôi học Promise trong JavaScript](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/T%C3%B4i%20h%E1%BB%8Dc%20%C4%91%C6%B0%E1%BB%A3c%20g%C3%AC%20khi%20t%C3%B4i%20h%E1%BB%8Dc%20Promise%20trong%20JavaScript.md)
     - [Không được đăng trùng vì thiết kế không cho phép, chứ không phải về nguyên tắc là sai](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Stack%20Exchange/Kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C4%83ng%20tr%C3%B9ng%20v%C3%AC%20thi%E1%BA%BFt%20k%E1%BA%BF%20kh%C3%B4ng%20cho%20ph%C3%A9p,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20v%E1%BB%81%20nguy%C3%AAn%20t%E1%BA%AFc%20l%C3%A0%20sai.md)
     - [SO không xem mình là trang dạy kiến thức](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Stack%20Exchange/SO%20kh%C3%B4ng%20xem%20m%C3%ACnh%20l%C3%A0%20trang%20d%E1%BA%A1y%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
     - [Stack Exchange](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Stack%20Exchange/index.md)
     - [Vì Stack Exchange là một công ty tìm kiếm lợi nhuận nên thống thông tin của nó có mục tiêu kéo thêm người mới. Codidact thì nhấn mạnh đến đáp ứng nhu cầu cộng đồng hơn](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Stack%20Exchange/V%C3%AC%20Stack%20Exchange%20l%C3%A0%20m%E1%BB%99t%20c%C3%B4ng%20ty%20t%C3%ACm%20ki%E1%BA%BFm%20l%E1%BB%A3i%20nhu%E1%BA%ADn%20n%C3%AAn%20th%E1%BB%91ng%20th%C3%B4ng%20tin%20c%E1%BB%A7a%20n%C3%B3%20c%C3%B3%20m%E1%BB%A5c%20ti%C3%AAu%20k%C3%A9o%20th%C3%AAm%20ng%C6%B0%E1%BB%9Di%20m%E1%BB%9Bi.%20Codidact%20th%C3%AC%20nh%E1%BA%A5n%20m%E1%BA%A1nh%20%C4%91%E1%BA%BFn%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20h%C6%A1n.md)
-    - [Teamliquid, Liquidpedia, tl.net](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Teamliquid,%20Liquidpedia,%20tl.net.md)
-    - [Tôi học được gì khi tôi học Promise trong JavaScript](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/T%C3%B4i%20h%E1%BB%8Dc%20%C4%91%C6%B0%E1%BB%A3c%20g%C3%AC%20khi%20t%C3%B4i%20h%E1%BB%8Dc%20Promise%20trong%20JavaScript.md)
     - [Cộng đồng](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Wikipedia/C%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)
     - [Trường phái bớt và trường phái thêm](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Wikipedia/Tr%C6%B0%E1%BB%9Dng%20ph%C3%A1i%20b%E1%BB%9Bt%20v%C3%A0%20tr%C6%B0%E1%BB%9Dng%20ph%C3%A1i%20th%C3%AAm.md)
     - [Uy quyền sự thật của Wikipedia](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Wikipedia/Uy%20quy%E1%BB%81n%20s%E1%BB%B1%20th%E1%BA%ADt%20c%E1%BB%A7a%20Wikipedia.md)
     - [Wikipedia](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Wikipedia/index.md)
     - [Đóng góp vào Wikipedia](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Wikipedia/%C4%90%C3%B3ng%20g%C3%B3p%20v%C3%A0o%20Wikipedia.md)
     - [Ở trang nhà sẽ có tên cố vấn](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Wikipedia/%E1%BB%9E%20trang%20nh%C3%A0%20s%E1%BA%BD%20c%C3%B3%20t%C3%AAn%20c%E1%BB%91%20v%E1%BA%A5n.md)
+    - [Teamliquid, Liquidpedia, tl.net](./C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Teamliquid,%20Liquidpedia,%20tl.net.md)
 
 - Hậu cần: 
     - [Các công việc tổ chức một buổi họp](./H%E1%BA%ADu%20c%E1%BA%A7n/C%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20t%E1%BB%95%20ch%E1%BB%A9c%20m%E1%BB%99t%20bu%E1%BB%95i%20h%E1%BB%8Dp.md)
     - [HDMI không dây](./H%E1%BA%ADu%20c%E1%BA%A7n/HDMI%20kh%C3%B4ng%20d%C3%A2y.md)
     - [Kinh nghiệm setup khi có cả online và offline](./H%E1%BA%ADu%20c%E1%BA%A7n/Kinh%20nghi%E1%BB%87m%20setup%20khi%20c%C3%B3%20c%E1%BA%A3%20online%20v%C3%A0%20offline.md)
-    - [Làm livestream và video](./H%E1%BA%ADu%20c%E1%BA%A7n/L%C3%A0m%20livestream%20v%C3%A0%20video.md)
     - [Câu hỏi cho người hỗ trợ địa điểm](./H%E1%BA%ADu%20c%E1%BA%A7n/N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20tr%E1%BB%B1c%20ti%E1%BA%BFp/C%C3%A2u%20h%E1%BB%8Fi%20cho%20ng%C6%B0%E1%BB%9Di%20h%E1%BB%97%20tr%E1%BB%A3%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m.md)
     - [Di chuyển](./H%E1%BA%ADu%20c%E1%BA%A7n/N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20tr%E1%BB%B1c%20ti%E1%BA%BFp/Di%20chuy%E1%BB%83n.md)
     - [View](./H%E1%BA%ADu%20c%E1%BA%A7n/N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20tr%E1%BB%B1c%20ti%E1%BA%BFp/Hu%E1%BA%BF/View.md)
     - [Hướng dẫn đóng góp](./H%E1%BA%ADu%20c%E1%BA%A7n/N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20tr%E1%BB%B1c%20ti%E1%BA%BFp/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20%C4%91%C3%B3ng%20g%C3%B3p.md)
     - [Lý do ra đời và hệ quả](./H%E1%BA%ADu%20c%E1%BA%A7n/N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20tr%E1%BB%B1c%20ti%E1%BA%BFp/L%C3%BD%20do%20ra%20%C4%91%E1%BB%9Di%20v%C3%A0%20h%E1%BB%87%20qu%E1%BA%A3.md)
     - [Nơi gặp mặt trực tiếp](./H%E1%BA%ADu%20c%E1%BA%A7n/N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20tr%E1%BB%B1c%20ti%E1%BA%BFp/index.md)
+    - [Làm livestream và video](./H%E1%BA%ADu%20c%E1%BA%A7n/L%C3%A0m%20livestream%20v%C3%A0%20video.md)
 
 - Hệ hình nghiên cứu: 
     - [Hệ hình nghiên cứu](./H%E1%BB%87%20h%C3%ACnh%20nghi%C3%AAn%20c%E1%BB%A9u/index.md)
@@ -67,7 +67,6 @@ title: Giải pháp kỹ thuật
     - [Untitled](./K%E1%BA%BFt%20n%E1%BB%91i%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Untitled.md)
 
 - PDF. Sách, dịch thuật: 
-    - [Kinh nghiệm mua sách giấy](./PDF.%20S%C3%A1ch,%20d%E1%BB%8Bch%20thu%E1%BA%ADt/Kinh%20nghi%E1%BB%87m%20mua%20s%C3%A1ch%20gi%E1%BA%A5y.md)
     - [Kinh nghiệm tìm thuật ngữ tiếng Việt](./PDF.%20S%C3%A1ch,%20d%E1%BB%8Bch%20thu%E1%BA%ADt/Kinh%20nghi%E1%BB%87m%20t%C3%ACm%20thu%E1%BA%ADt%20ng%E1%BB%AF%20ti%E1%BA%BFng%20Vi%E1%BB%87t.md)
     - [Các lệnh chỉnh sửa PDF hàng loạt thường gặp](./PDF.%20S%C3%A1ch,%20d%E1%BB%8Bch%20thu%E1%BA%ADt/PDF/C%C3%A1c%20l%E1%BB%87nh%20ch%E1%BB%89nh%20s%E1%BB%ADa%20PDF%20h%C3%A0ng%20lo%E1%BA%A1t%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p.md)
     - [Cách làm việc đọc PDF thường xuyên](./PDF.%20S%C3%A1ch,%20d%E1%BB%8Bch%20thu%E1%BA%ADt/PDF/C%C3%A1ch%20l%C3%A0m%20vi%E1%BB%87c%20%C4%91%E1%BB%8Dc%20PDF%20th%C6%B0%E1%BB%9Dng%20xuy%C3%AAn.md)
@@ -75,6 +74,7 @@ title: Giải pháp kỹ thuật
     - [Thiết lập môi trường cho việc đọc PDF thường xuyên](./PDF.%20S%C3%A1ch,%20d%E1%BB%8Bch%20thu%E1%BA%ADt/PDF/Thi%E1%BA%BFt%20l%E1%BA%ADp%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20cho%20vi%E1%BB%87c%20%C4%91%E1%BB%8Dc%20PDF%20th%C6%B0%E1%BB%9Dng%20xuy%C3%AAn.md)
     - [Trích dữ liệu trong PDF](./PDF. Sách, dịch thuật/PDF/Trích dữ liệu trong PDF)
     - [Tạo mục lục cho PDF](./PDF. Sách, dịch thuật/PDF/Tạo mục lục cho PDF)
+    - [Kinh nghiệm mua sách giấy](./PDF.%20S%C3%A1ch,%20d%E1%BB%8Bch%20thu%E1%BA%ADt/Kinh%20nghi%E1%BB%87m%20mua%20s%C3%A1ch%20gi%E1%BA%A5y.md)
     - [Phương án dịch một số từ](./PDF.%20S%C3%A1ch,%20d%E1%BB%8Bch%20thu%E1%BA%ADt/Ph%C6%B0%C6%A1ng%20%C3%A1n%20d%E1%BB%8Bch%20m%E1%BB%99t%20s%E1%BB%91%20t%E1%BB%AB.md)
 
 - Phần mềm làm việc nhóm (groupware): 
@@ -83,6 +83,10 @@ title: Giải pháp kỹ thuật
     - [Discord](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20chat%20nh%C3%B3m/Discord.md)
     - [Messenger](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20chat%20nh%C3%B3m/Messenger.md)
     - [Zalo](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20chat%20nh%C3%B3m/Zalo.md)
+    - [Discord, Messenger và Telegram](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Discord,%20Messenger%20v%C3%A0%20Telegram.md)
+    - [Group Facebook](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Group%20Facebook.md)
+    - [Group Zalo](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Group%20Zalo.md)
+    - [Phần mềm xây dựng cộng đồng](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/index.md)
     - [Butter](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20g%E1%BB%8Di%20video/Butter.md)
     - [Discord (gọi video)](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20g%E1%BB%8Di%20video/Discord%20(g%E1%BB%8Di%20video).md)
     - [Gather](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20g%E1%BB%8Di%20video/Gather.md)
@@ -93,10 +97,6 @@ title: Giải pháp kỹ thuật
     - [Zoom](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20g%E1%BB%8Di%20video/Zoom.md)
     - [ExcaliDraw](./Phần mềm làm việc nhóm (groupware)/Phần mềm minh hoạ cho nhóm/ExcaliDraw)
     - [Miro](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20minh%20ho%E1%BA%A1%20cho%20nh%C3%B3m/Miro.md)
-    - [Discord, Messenger và Telegram](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Discord,%20Messenger%20v%C3%A0%20Telegram.md)
-    - [Group Facebook](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Group%20Facebook.md)
-    - [Group Zalo](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Group%20Zalo.md)
-    - [Phần mềm xây dựng cộng đồng](./Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/index.md)
 
 - Tổ chức, sắp xếp dữ liệu: 
     - [Airtable](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Airtable.md)
@@ -109,8 +109,8 @@ title: Giải pháp kỹ thuật
     - [Nhược điểm của Obsidian và Fibery](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Nh%C6%B0%E1%BB%A3c%20%C4%91i%E1%BB%83m%20c%E1%BB%A7a%20Obsidian%20v%C3%A0%20Fibery.md)
     - [Notion](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Notion.md)
     - [Các nỗ lực quản lý tác vụ trên Obsidian đa phần đều là gắn tag](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Obsidian/C%C3%A1c%20n%E1%BB%97%20l%E1%BB%B1c%20qu%E1%BA%A3n%20l%C3%BD%20t%C3%A1c%20v%E1%BB%A5%20tr%C3%AAn%20Obsidian%20%C4%91a%20ph%E1%BA%A7n%20%C4%91%E1%BB%81u%20l%C3%A0%20g%E1%BA%AFn%20tag.md)
-    - [Cách để tìm plugin đúng nhu cầu của mình](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Obsidian/C%C3%A1ch%20%C4%91%E1%BB%83%20t%C3%ACm%20plugin%20%C4%91%C3%BAng%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20m%C3%ACnh.md)
     - [Các plugin trong Obsidian liên quan đến Notion](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Obsidian/C%C3%A1c%20plugin%20trong%20Obsidian%20li%C3%AAn%20quan%20%C4%91%E1%BA%BFn%20Notion.md)
+    - [Cách để tìm plugin đúng nhu cầu của mình](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Obsidian/C%C3%A1ch%20%C4%91%E1%BB%83%20t%C3%ACm%20plugin%20%C4%91%C3%BAng%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20m%C3%ACnh.md)
     - [Obsidian Hub được thiết kế để không phải dùng plugin gì cũng dùng được ngay](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Obsidian/Obsidian%20Hub%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%83%20kh%C3%B4ng%20ph%E1%BA%A3i%20d%C3%B9ng%20plugin%20g%C3%AC%20c%C5%A9ng%20d%C3%B9ng%20%C4%91%C6%B0%E1%BB%A3c%20ngay.md)
     - [Obsidian tập trung hoàn toàn vào việc nhập liệu và bỏ qua việc quản lý tác vụ](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Obsidian/Obsidian%20t%E1%BA%ADp%20trung%20ho%C3%A0n%20to%C3%A0n%20v%C3%A0o%20vi%E1%BB%87c%20nh%E1%BA%ADp%20li%E1%BB%87u%20v%C3%A0%20b%E1%BB%8F%20qua%20vi%E1%BB%87c%20qu%E1%BA%A3n%20l%C3%BD%20t%C3%A1c%20v%E1%BB%A5.md)
     - [Obsidian](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Obsidian/index.md)
@@ -118,8 +118,8 @@ title: Giải pháp kỹ thuật
     - [TiddlyWiki](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/Ch%C6%B0%C6%A1ng%20tr%C3%ACnh/TiddlyWiki.md)
     - [Chọn tệp để đồng bộ qua Syncthing](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/Ch%E1%BB%8Dn%20t%E1%BB%87p%20%C4%91%E1%BB%83%20%C4%91%E1%BB%93ng%20b%E1%BB%99%20qua%20Syncthing.md)
     - [Các loại alias](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/C%C3%A1c%20lo%E1%BA%A1i%20alias.md)
-    - [Các loại tiêu đề và cách dùng chúng](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/C%C3%A1c%20lo%E1%BA%A1i%20ti%C3%AAu%20%C4%91%E1%BB%81%20v%C3%A0%20c%C3%A1ch%20d%C3%B9ng%20ch%C3%BAng.md)
     - [Cách kho này được thiết kế](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/C%C3%A1ch%20kho%20n%C3%A0y%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF.md)
+    - [Các loại tiêu đề và cách dùng chúng](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/C%C3%A1c%20lo%E1%BA%A1i%20ti%C3%AAu%20%C4%91%E1%BB%81%20v%C3%A0%20c%C3%A1ch%20d%C3%B9ng%20ch%C3%BAng.md)
     - [Cách sắp xếp thư mục cho các tập tin bổ trợ](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/C%C3%A1ch%20s%E1%BA%AFp%20x%E1%BA%BFp%20th%C6%B0%20m%E1%BB%A5c%20cho%20c%C3%A1c%20t%E1%BA%ADp%20tin%20b%E1%BB%95%20tr%E1%BB%A3.md)
     - [Quản lý công việc](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/Qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c.md)
     - [Quản lý dữ liệu cho dự án, sản phẩm](./T%E1%BB%95%20ch%E1%BB%A9c,%20s%E1%BA%AFp%20x%E1%BA%BFp%20d%E1%BB%AF%20li%E1%BB%87u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u%20cho%20d%E1%BB%B1%20%C3%A1n,%20s%E1%BA%A3n%20ph%E1%BA%A9m.md)

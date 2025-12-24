@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-27T23:51
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Tiền](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF/Ti%E1%BB%81n.md), [Động lực](%C4%90%E1%BB%99ng%20l%E1%BB%B1c.md)
 Vì [Tiền có nhiệm vụ làm trung gian cho việc trao đổi nhu cầu](./Ti%E1%BB%81n%20c%C3%B3%20nhi%E1%BB%87m%20v%E1%BB%A5%20l%C3%A0m%20trung%20gian%20cho%20vi%E1%BB%87c%20trao%20%C4%91%E1%BB%95i%20nhu%20c%E1%BA%A7u.md), nên [Tiền là một động lực ngoại sinh cực kỳ tốt](Ti%E1%BB%81n%20l%C3%A0%20m%E1%BB%99t%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20ngo%E1%BA%A1i%20sinh%20c%E1%BB%B1c%20k%E1%BB%B3%20t%E1%BB%91t.md)

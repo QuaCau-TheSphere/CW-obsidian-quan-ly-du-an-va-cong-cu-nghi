@@ -34,8 +34,8 @@ title: 💎 Giới thiệu về Obsidian
 
 - Điểm yếu của Obsidian: 
     - [Obsidian khó tạo liên kết hai chiều được](./M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20y%E1%BA%BFu%20c%E1%BB%A7a%20Obsidian/Obsidian%20kh%C3%B3%20t%E1%BA%A1o%20li%C3%AAn%20k%E1%BA%BFt%20hai%20chi%E1%BB%81u%20%C4%91%C6%B0%E1%BB%A3c.md)
-    - [Obsidian không sử dụng dữ liệu dạng bảng](./M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20y%E1%BA%BFu%20c%E1%BB%A7a%20Obsidian/Obsidian%20kh%C3%B4ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20d%E1%BB%AF%20li%E1%BB%87u%20d%E1%BA%A1ng%20b%E1%BA%A3ng.md)
     - [Obsidian không mạnh về quản lý tác vụ](./M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20y%E1%BA%BFu%20c%E1%BB%A7a%20Obsidian/Obsidian%20kh%C3%B4ng%20m%E1%BA%A1nh%20v%E1%BB%81%20qu%E1%BA%A3n%20l%C3%BD%20t%C3%A1c%20v%E1%BB%A5.md)
+    - [Obsidian không sử dụng dữ liệu dạng bảng](./M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20y%E1%BA%BFu%20c%E1%BB%A7a%20Obsidian/Obsidian%20kh%C3%B4ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20d%E1%BB%AF%20li%E1%BB%87u%20d%E1%BA%A1ng%20b%E1%BA%A3ng.md)
     - [Việc hợp tác qua mạng trên Obsidian tốt nhất là qua Git](./M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20y%E1%BA%BFu%20c%E1%BB%A7a%20Obsidian/Vi%E1%BB%87c%20h%E1%BB%A3p%20t%C3%A1c%20qua%20m%E1%BA%A1ng%20tr%C3%AAn%20Obsidian%20t%E1%BB%91t%20nh%E1%BA%A5t%20l%C3%A0%20qua%20Git.md)
 
 
@@ -54,8 +54,8 @@ title: 💎 Giới thiệu về Obsidian
 -  Trình bày thông tin: 
     - [Chèn bản đồ](./Theo%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20plugin/4.%20Tr%C3%ACnh%20b%C3%A0y%20th%C3%B4ng%20tin/Ch%C3%A8n%20b%E1%BA%A3n%20%C4%91%E1%BB%93.md)
     - [Kết nối dữ liệu với Trello, Notion, Discord](./Theo%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20plugin/4.%20Tr%C3%ACnh%20b%C3%A0y%20th%C3%B4ng%20tin/K%E1%BA%BFt%20n%E1%BB%91i%20d%E1%BB%AF%20li%E1%BB%87u%20v%E1%BB%9Bi%20Trello,%20Notion,%20Discord.md)
-    - [Tạo bảng](./Theo%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20plugin/4.%20Tr%C3%ACnh%20b%C3%A0y%20th%C3%B4ng%20tin/T%E1%BA%A1o%20b%E1%BA%A3ng.md)
     - [Slide](./Theo%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20plugin/4.%20Tr%C3%ACnh%20b%C3%A0y%20th%C3%B4ng%20tin/Slide.md)
+    - [Tạo bảng](./Theo%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20plugin/4.%20Tr%C3%ACnh%20b%C3%A0y%20th%C3%B4ng%20tin/T%E1%BA%A1o%20b%E1%BA%A3ng.md)
     - [Xuất bản trên web](./Theo%20t%C3%ADnh%20n%C4%83ng%20c%E1%BB%A7a%20plugin/4.%20Tr%C3%ACnh%20b%C3%A0y%20th%C3%B4ng%20tin/Xu%E1%BA%A5t%20b%E1%BA%A3n%20tr%C3%AAn%20web.md)
 
 -  Truy xuất thông tin: 

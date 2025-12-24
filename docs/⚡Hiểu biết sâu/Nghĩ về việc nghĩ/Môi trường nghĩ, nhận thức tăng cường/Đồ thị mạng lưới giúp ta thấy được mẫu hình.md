@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-10T21:51
-updated: 2024-10-29T10:17
+updated: 2025-12-22T17:27
 ---
 Khái niệm:: [Mẫu hình (pattern)](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BA%ABu%20h%C3%ACnh%20(pattern).md), [Đồ thị mạng lưới](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/%C4%90%E1%BB%93%20th%E1%BB%8B%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi.md)
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/yOYodfN84N4?t=640" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

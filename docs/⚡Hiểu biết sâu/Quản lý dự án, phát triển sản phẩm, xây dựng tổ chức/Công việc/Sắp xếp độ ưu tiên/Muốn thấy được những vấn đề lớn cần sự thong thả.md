@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-13T00:06
-updated: 2023-12-06T16:14
+updated: 2025-12-22T17:32
 ---
 [Áp lực giết chết sự sáng tạo](../%C3%81p%20l%E1%BB%B1c%20gi%E1%BA%BFt%20ch%E1%BA%BFt%20s%E1%BB%B1%20s%C3%A1ng%20t%E1%BA%A1o.md)
 [Việc ưu tiên ra quyết định nhanh làm ta thấy thảo luận và dành thời gian xây dựng kế hoạch và nghiên cứu là phí thời gian](../../Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Nghi%C3%AAn%20c%E1%BB%A9u,%20t%C3%ACm%20%C3%BD%20t%C6%B0%E1%BB%9Fng/L%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch/Vi%E1%BB%87c%20%C6%B0u%20ti%C3%AAn%20ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20nhanh%20l%C3%A0m%20ta%20th%E1%BA%A5y%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%C3%A0%20d%C3%A0nh%20th%E1%BB%9Di%20gian%20x%C3%A2y%20d%E1%BB%B1ng%20k%E1%BA%BF%20ho%E1%BA%A1ch%20v%C3%A0%20nghi%C3%AAn%20c%E1%BB%A9u%20l%C3%A0%20ph%C3%AD%20th%E1%BB%9Di%20gian.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-11-26T22:01
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Diễn giải, đọc](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Di%E1%BB%85n%20gi%E1%BA%A3i,%20%C4%91%E1%BB%8Dc.md), [Tóm tắt, mục lục](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%B3m%20t%E1%BA%AFt,%20m%E1%BB%A5c%20l%E1%BB%A5c.md)
 Nhiều khi việc đọc lên cũng mơ hồ, giống như những âm thanh vô nghĩa đi vào tai rồi đi ra. Chỉ khi đọc hết quyển sách thì nó mới rõ ràng

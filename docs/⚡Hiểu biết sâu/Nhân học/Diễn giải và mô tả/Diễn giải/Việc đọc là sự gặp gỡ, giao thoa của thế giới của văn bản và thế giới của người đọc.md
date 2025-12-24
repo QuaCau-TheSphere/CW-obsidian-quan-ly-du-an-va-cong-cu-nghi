@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-02T11:26
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Diễn giải, đọc](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Di%E1%BB%85n%20gi%E1%BA%A3i,%20%C4%91%E1%BB%8Dc.md), [Văn bản](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/V%C4%83n%20b%E1%BA%A3n.md)
 Chân trời là giới hạn của sự hiểu. Ta có thể thấy được chân trời nhưng không bao giờ đến được chân trời. Cái quan sát của chúng ta tưởng là sẽ hiểu nhưng sẽ không bao giờ hiểu thực sự. Chỉ có một giải pháp duy nhất là sự gặp gỡ, sự giao thoa, sự tương giao của thế giới văn bản và thế giới của người đọc.

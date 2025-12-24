@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-05-17T18:40
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Mental modal](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Mental%20modal.md)
 ![](https://media.nngroup.com/media/editor/2024/01/23/mental-models-1.jpg) 

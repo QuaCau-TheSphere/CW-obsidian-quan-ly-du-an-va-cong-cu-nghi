@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-08-28T13:50
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Gánh nặng nhận thức](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.md), [Hỏi](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/H%E1%BB%8Fi.md)
 > Luật bất thành văn, người ta không thích phải chật vật giải câu đố để làm 1 thứ gì đó. Họ thích giải câu đố nhưng phải ở đúng hoàn cảnh, khi mà họ muốn được giải trí hoặc thách thức, không phải khi họ đang muốn biết cái tiệm giặt sấy khô mấy giờ đóng cửa. Việc team dựng web không bận tâm để làm cho mọi thứ đơn giản và dễ dàng, có thể làm tiêu hao đi niềm tin của người dùng vào trang web và đội ngũ phát triển nó.

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-22T21:45
-updated: 2024-10-11T14:41
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Vật thể](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/V%E1%BA%ADt%20th%E1%BB%83.md)
 [Ẩn dụ là nền tảng của mọi suy nghĩ và lập luận](../../Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/%E1%BA%A8n%20d%E1%BB%A5/%E1%BA%A8n%20d%E1%BB%A5%20l%C3%A0%20n%E1%BB%81n%20t%E1%BA%A3ng%20c%E1%BB%A7a%20m%E1%BB%8Di%20suy%20ngh%C4%A9%20v%C3%A0%20l%E1%BA%ADp%20lu%E1%BA%ADn.md). [Chúng ta sống bằng ẩn dụ](../../Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/%E1%BA%A8n%20d%E1%BB%A5/Ch%C3%BAng%20ta%20s%E1%BB%91ng%20b%E1%BA%B1ng%20%E1%BA%A9n%20d%E1%BB%A5.md)

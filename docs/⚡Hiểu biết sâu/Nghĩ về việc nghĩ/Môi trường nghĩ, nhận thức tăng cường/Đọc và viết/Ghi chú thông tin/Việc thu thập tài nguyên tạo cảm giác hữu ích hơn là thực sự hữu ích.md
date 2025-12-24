@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-12-01T19:35
+updated: 2025-12-22T17:31
 ---
 [Ta thường không sẵn sàng để đọc một tài liệu khi ta mới thấy nó](Ta%20th%C6%B0%C6%A1%CC%80ng%20kh%C3%B4ng%20s%C4%83%CC%83n%20sa%CC%80ng%20%C4%91%C3%AA%CC%89%20%C4%91o%CC%A3c%20m%C3%B4%CC%A3t%20ta%CC%80i%20li%C3%AA%CC%A3u%20khi%20ta%20m%C6%A1%CC%81i%20th%C3%A2%CC%81y%20no%CC%81.md)
 

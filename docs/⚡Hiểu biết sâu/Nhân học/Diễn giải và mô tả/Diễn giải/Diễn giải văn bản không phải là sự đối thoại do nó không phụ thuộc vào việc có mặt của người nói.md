@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-02T11:28
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Diễn giải, đọc](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Di%E1%BB%85n%20gi%E1%BA%A3i,%20%C4%91%E1%BB%8Dc.md), [Văn bản](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/V%C4%83n%20b%E1%BA%A3n.md)
 [Một phần quan trọng của sự kiến tạo cuộc đá gà thành một văn bản là một quá trình hội thoại và đối mặt với một số người Bali chứ không phải là việc đọc và diễn giải văn hóa đằng sau lưng họ](./S%E1%BB%B1%20ki%E1%BA%BFn%20t%E1%BA%A1o%20cu%E1%BB%99c%20%C4%91%C3%A1%20g%C3%A0%20%E1%BB%9F%20Bali%20th%C3%A0nh%20m%E1%BB%99t%20v%C4%83n%20b%E1%BA%A3n.md) 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-12-20T20:28
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Sáng tạo](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%C3%A1ng%20t%E1%BA%A1o.md)
 [Quản lý công việc và quản lý kiến thức không thể tách rời nhau](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20kh%C3%B4ng%20th%E1%BB%83%20t%C3%A1ch%20r%E1%BB%9Di%20nhau.md)

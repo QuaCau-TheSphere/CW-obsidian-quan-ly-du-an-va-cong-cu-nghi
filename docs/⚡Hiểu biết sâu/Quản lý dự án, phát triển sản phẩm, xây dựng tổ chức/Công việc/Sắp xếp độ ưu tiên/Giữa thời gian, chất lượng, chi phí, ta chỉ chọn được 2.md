@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-24T14:35
-updated: 2025-05-27T21:42
+updated: 2025-12-22T17:32
 ---
 Khái niệm:: 
 Ngon bổ rẻ, chỉ chọn được 2. Ở đây là thời gian, chất lượng, chi phí

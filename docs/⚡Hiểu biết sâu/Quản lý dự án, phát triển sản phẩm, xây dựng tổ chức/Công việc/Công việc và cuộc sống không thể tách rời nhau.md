@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-12-06T17:51
+updated: 2025-12-22T17:32
 ---
 Lý do:: Sống trong cuộc sống chính là một dự án vĩ đại nhất của mỗi người
 [Quản lý công việc và quản lý kiến thức không thể tách rời nhau](../H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20kh%C3%B4ng%20th%E1%BB%83%20t%C3%A1ch%20r%E1%BB%9Di%20nhau.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-07-28T22:09
+updated: 2025-12-22T17:31
 ---
 Sự từ chối cơ thể và sự chiến thắng của não
 [Ẩn dụ là cách ta hiểu code bằng cơ thể](../../../C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/%E1%BA%A8n%20d%E1%BB%A5%20v%C3%A0%20mental%20model/%E1%BA%A8n%20d%E1%BB%A5%20l%C3%A0%20c%C3%A1ch%20ta%20hi%E1%BB%83u%20code%20b%E1%BA%B1ng%20c%C6%A1%20th%E1%BB%83.md)

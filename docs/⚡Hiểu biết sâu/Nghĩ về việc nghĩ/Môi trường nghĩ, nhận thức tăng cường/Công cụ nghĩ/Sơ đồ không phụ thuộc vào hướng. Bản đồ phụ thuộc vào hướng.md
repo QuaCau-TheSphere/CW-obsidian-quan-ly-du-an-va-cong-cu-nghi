@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-12-20T13:39
-updated: 2024-10-28T22:38
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Bản đồ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/C%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/B%E1%BA%A3n%20%C4%91%E1%BB%93.md), [Đồ thị mạng lưới](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/%C4%90%E1%BB%93%20th%E1%BB%8B%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi.md)
 ![](https://i.imgur.com/WogLoGv.jpeg)

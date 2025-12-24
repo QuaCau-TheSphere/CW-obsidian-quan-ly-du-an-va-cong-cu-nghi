@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-22T21:45
-updated: 2025-12-22T17:32
+updated: 2025-12-23T08:56
 ---
 Nguồn:: [Bret Victor](../../../%CE%9E%20Ngu%E1%BB%93n/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/Bret%20Victor.md), [Up and Down the Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)
 
@@ -18,3 +18,4 @@ Nguồn:: [Bret Victor](../../../%CE%9E%20Ngu%E1%BB%93n/M%C3%B4i%20tr%C6%B0%E1%B
 [Chơi là sự thử nghiệm các kỹ năng mới học trong những môi trường mới](../../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Game%20ho%C3%A1/Ch%C6%A1i%20l%C3%A0%20s%E1%BB%B1%20th%E1%BB%AD%20nghi%E1%BB%87m%20c%C3%A1c%20k%E1%BB%B9%20n%C4%83ng%20m%E1%BB%9Bi%20h%E1%BB%8Dc%20trong%20nh%E1%BB%AFng%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20m%E1%BB%9Bi.md)
 [Khi khoảnh khắc loé sáng ý tưởng đến vào lúc ta đang tập trung làm việc khác, nó làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/Khi%20kho%E1%BA%A3nh%20kh%E1%BA%AFc%20lo%C3%A9%20s%C3%A1ng%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20%C4%91%E1%BA%BFn%20v%C3%A0o%20l%C3%BAc%20ta%20%C4%91ang%20t%E1%BA%ADp%20trung%20l%C3%A0m%20vi%E1%BB%87c%20kh%C3%A1c,%20n%C3%B3%20l%C3%A0m%20ph%C3%A2n%20t%C3%A1n%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20c%E1%BB%A7a%20ta%20kh%E1%BB%8Fi%20th%E1%BB%A9%20m%C3%A0%20ta%20%C4%91%E1%BB%8Bnh%20l%C3%A0m.md)
 [Việc kiểm định giả thuyết thường bị bỏ qua khi có quá nhiều việc](./Vi%E1%BB%87c%20ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thuy%E1%BA%BFt%20th%C6%B0%E1%BB%9Dng%20b%E1%BB%8B%20b%E1%BB%8F%20qua%20khi%20c%C3%B3%20qu%C3%A1%20nhi%E1%BB%81u%20vi%E1%BB%87c.md)
+[Cần nghĩ về công việc như là một cách để kiểm định giả thiết, chứ không phải chỉ để hoàn thành](../../C%C3%B4ng%20vi%E1%BB%87c/C%E1%BA%A7n%20ngh%C4%A9%20v%E1%BB%81%20c%C3%B4ng%20vi%E1%BB%87c%20nh%C6%B0%20l%C3%A0%20m%E1%BB%99t%20c%C3%A1ch%20%C4%91%E1%BB%83%20ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thi%E1%BA%BFt,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20ch%E1%BB%89%20%C4%91%E1%BB%83%20ho%C3%A0n%20th%C3%A0nh.md)

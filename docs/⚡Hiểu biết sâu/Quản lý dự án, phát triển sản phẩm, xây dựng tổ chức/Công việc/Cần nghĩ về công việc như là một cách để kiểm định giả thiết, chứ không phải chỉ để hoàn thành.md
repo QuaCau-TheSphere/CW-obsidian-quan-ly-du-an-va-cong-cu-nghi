@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-28T18:12
+updated: 2025-12-23T08:57
 aliases:
   - không nên xem công việc chỉ để hoàn thành
   - mà nên xem nó như là một cách để kiểm định giả thiết
@@ -13,6 +13,6 @@ Chính vì như vậy, nên [Ta không lường trước được những công 
 [Thành quả mong muốn và giả định của một công việc tìm hiểu một vấn đề nào đó là chính nó](./Th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n%20v%C3%A0%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh%20c%E1%BB%A7a%20m%E1%BB%99t%20c%C3%B4ng%20vi%E1%BB%87c%20t%C3%ACm%20hi%E1%BB%83u%20m%E1%BB%99t%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20n%C3%A0o%20%C4%91%C3%B3%20l%C3%A0%20ch%C3%ADnh%20n%C3%B3.md)
 [Đừng chạy theo tính năng, mà hãy xác định vấn đề cần ưu tiên giải quyết và nhanh chóng kiểm tra các giả thuyết](../Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thuy%E1%BA%BFt/%C4%90%E1%BB%ABng%20ch%E1%BA%A1y%20theo%20t%C3%ADnh%20n%C4%83ng,%20m%C3%A0%20h%C3%A3y%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20c%E1%BA%A7n%20%C6%B0u%20ti%C3%AAn%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20v%C3%A0%20nhanh%20ch%C3%B3ng%20ki%E1%BB%83m%20tra%20c%C3%A1c%20gi%E1%BA%A3%20thuy%E1%BA%BFt.md)
 [Người dùng yêu cầu tính năng không có nghĩa là họ sẽ dùng](../Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20y%C3%AAu%20c%E1%BA%A7u%20t%C3%ADnh%20n%C4%83ng%20kh%C3%B4ng%20c%C3%B3%20ngh%C4%A9a%20l%C3%A0%20h%E1%BB%8D%20s%E1%BA%BD%20d%C3%B9ng.md)
-
+[Để có thể thiết kế một giải pháp một cách nhanh chóng và tự tin, ta cần được thử nghiệm ý tưởng mới và kiểm tra giả thiết ngay khi chúng vừa được nghĩ ra](../Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thuy%E1%BA%BFt/%C4%90%E1%BB%83%20c%C3%B3%20th%E1%BB%83%20thi%E1%BA%BFt%20k%E1%BA%BF%20m%E1%BB%99t%20gi%E1%BA%A3i%20ph%C3%A1p%20m%E1%BB%99t%20c%C3%A1ch%20nhanh%20ch%C3%B3ng%20v%C3%A0%20t%E1%BB%B1%20tin,%20ta%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%AD%20nghi%E1%BB%87m%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20m%E1%BB%9Bi%20v%C3%A0%20ki%E1%BB%83m%20tra%20gi%E1%BA%A3%20thi%E1%BA%BFt%20ngay%20khi%20ch%C3%BAng%20v%E1%BB%ABa%20%C4%91%C6%B0%E1%BB%A3c%20ngh%C4%A9%20ra.md)
 Tuy nhiên, [Từ thành quả mong muốn nghĩ ra công việc trước dễ hơn nghĩ ra giả định trước](./T%E1%BB%AB%20th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n%20ngh%C4%A9%20ra%20c%C3%B4ng%20vi%E1%BB%87c%20tr%C6%B0%E1%BB%9Bc%20d%E1%BB%85%20h%C6%A1n%20ngh%C4%A9%20ra%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh%20tr%C6%B0%E1%BB%9Bc.md)
 [Triết học là việc đặt câu hỏi về những giả định của mình](../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Tri%E1%BA%BFt%20h%E1%BB%8Dc%20l%C3%A0%20vi%E1%BB%87c%20%C4%91%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi%20v%E1%BB%81%20nh%E1%BB%AFng%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh%20c%E1%BB%A7a%20m%C3%ACnh.md)

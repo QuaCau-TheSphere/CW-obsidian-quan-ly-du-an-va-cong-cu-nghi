@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-10-12T20:43
+updated: 2025-12-22T17:31
 ---
 [Quan sát tham dự không phải là khai thác thông tin](../../Quan%20s%C3%A1t%20tham%20d%E1%BB%B1/Quan%20s%C3%A1t%20tham%20d%E1%BB%B1%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20khai%20th%C3%A1c%20th%C3%B4ng%20tin.md)
 [❓Nếu nhà nhân học kết nối với lý thuyết nhiều hơn, vậy thì khác gì với các bài báo xã luận, phân tích](%E2%9D%93N%E1%BA%BFu%20nh%C3%A0%20nh%C3%A2n%20h%E1%BB%8Dc%20k%E1%BA%BFt%20n%E1%BB%91i%20v%E1%BB%9Bi%20l%C3%BD%20thuy%E1%BA%BFt%20nhi%E1%BB%81u%20h%C6%A1n,%20v%E1%BA%ADy%20th%C3%AC%20kh%C3%A1c%20g%C3%AC%20v%E1%BB%9Bi%20c%C3%A1c%20b%C3%A0i%20b%C3%A1o%20x%C3%A3%20lu%E1%BA%ADn,%20ph%C3%A2n%20t%C3%ADch.md) 

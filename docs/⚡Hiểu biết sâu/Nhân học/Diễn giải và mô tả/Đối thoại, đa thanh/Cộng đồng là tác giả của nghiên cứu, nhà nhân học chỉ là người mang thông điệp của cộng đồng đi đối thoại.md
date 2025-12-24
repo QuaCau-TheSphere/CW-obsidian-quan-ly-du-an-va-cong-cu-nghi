@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-09-11T21:31
-updated: 2023-11-13T22:00
+updated: 2025-12-23T08:23
 ---
+Khái niệm:: [Cộng đồng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/C%E1%BB%99ng%20%C4%91%E1%BB%93ng/index.md)
 Lý do:: [Sự kiểm soát của người bản xứ đối với những kiến thức có được trong quá trình thực địa là khá đáng kể, và thậm chí là có tính quyết định](../Di%E1%BB%85n%20gi%E1%BA%A3i/S%E1%BB%B1%20ki%E1%BB%83m%20so%C3%A1t%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20b%E1%BA%A3n%20x%E1%BB%A9%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20ki%E1%BA%BFn%20th%E1%BB%A9c%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20trong%20qu%C3%A1%20tr%C3%ACnh%20th%E1%BB%B1c%20%C4%91%E1%BB%8Ba%20l%C3%A0%20kh%C3%A1%20%C4%91%C3%A1ng%20k%E1%BB%83,%20v%C3%A0%20th%E1%BA%ADm%20ch%C3%AD%20l%C3%A0%20c%C3%B3%20t%C3%ADnh%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh.md)
 Lý do:: [Quá trình nghiên cứu nói chung là một sự thương thảo diễn ra liên tục](../../Qu%C3%A1%20tr%C3%ACnh%20nghi%C3%AAn%20c%E1%BB%A9u%20n%C3%B3i%20chung%20l%C3%A0%20m%E1%BB%99t%20s%E1%BB%B1%20th%C6%B0%C6%A1ng%20th%E1%BA%A3o%20di%E1%BB%85n%20ra%20li%C3%AAn%20t%E1%BB%A5c.md) 
 

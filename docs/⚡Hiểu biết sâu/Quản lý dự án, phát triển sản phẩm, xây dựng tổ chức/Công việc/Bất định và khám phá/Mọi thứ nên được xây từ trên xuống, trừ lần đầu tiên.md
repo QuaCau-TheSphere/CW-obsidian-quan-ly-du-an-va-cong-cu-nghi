@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-22T21:12
-updated: 2025-05-28T18:12
+updated: 2025-12-22T17:32
 ---
 Nguồn:: [Epigrams in Programming | Computer Science](https://cpsc.yale.edu/epigrams-programming)
 

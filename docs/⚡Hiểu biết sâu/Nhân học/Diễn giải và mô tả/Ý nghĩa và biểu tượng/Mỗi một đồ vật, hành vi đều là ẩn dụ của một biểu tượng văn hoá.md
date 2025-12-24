@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-10-22T17:09
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Ẩn dụ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/%E1%BA%A8n%20d%E1%BB%A5.md)
 [Phía sau các tình tiết hiển hiện ở bên ngoài tiềm ẩn các ý nghĩa phía sau](./Ph%C3%ADa%20sau%20c%C3%A1c%20t%C3%ACnh%20ti%E1%BA%BFt%20hi%E1%BB%83n%20hi%E1%BB%87n%20%E1%BB%9F%20b%C3%AAn%20ngo%C3%A0i%20ti%E1%BB%81m%20%E1%BA%A9n%20c%C3%A1c%20%C3%BD%20ngh%C4%A9a%20ph%C3%ADa%20sau.md)

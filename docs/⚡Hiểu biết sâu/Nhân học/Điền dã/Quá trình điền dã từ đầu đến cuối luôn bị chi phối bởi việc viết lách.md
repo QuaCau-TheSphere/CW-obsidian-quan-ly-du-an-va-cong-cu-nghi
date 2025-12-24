@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-24T22:38
-updated: 2025-05-23T20:24
+updated: 2025-12-22T17:31
 ---
 Nếu điền dã dân tộc học đem lại những diễn giải văn hóa thông qua những trải nghiệm nghiên cứu có chiều sâu thì bằng cách nào mà những trải nghiệm đầy sóng gió của nghiên cứu có thể được chuyển hóa hành những bản báo cáo đầy tính uy quyền? Và bằng cách nào mà những cuộc va chạm xuyên văn hóa, chứa đầy những ngôn từ, và thường thấm đẫm mầu sắc của những quan hệ quyền lực cũng như mục tiêu cá nhân của cả hai bên tham gia lại có thể được khoanh tròn thành những báo cáo tương đối đầy đủ về một “thế giới khác” và chỉ bởi một tác giả?
 

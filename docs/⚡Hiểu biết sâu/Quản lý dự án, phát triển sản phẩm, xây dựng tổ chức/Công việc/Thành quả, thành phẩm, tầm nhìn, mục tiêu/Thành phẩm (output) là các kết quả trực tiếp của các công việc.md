@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-05-27T23:53
+updated: 2025-12-22T17:32
 aliases:
   - Việc đáp ứng nhu cầu công việc tạo ra thành phẩm
 description: một bản nghiên cứu, một tính năng mới, một sản phẩm mới, một trang web quảng cáo, một bài viết, một sự kiện, v.v

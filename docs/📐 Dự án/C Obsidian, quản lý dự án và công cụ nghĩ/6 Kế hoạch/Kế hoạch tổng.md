@@ -93,6 +93,9 @@ Thành quả hỗ trợ:: [50% người đóng góp đáp ứng được các nh
 - [ ] Gặp mặt
 - [ ] Cá nhân hoá
 - [ ] Riêng tư
+- [ ] Có khả năng tuỳ chỉnh theo đúng luồng làm việc, suy nghĩ của mình
+- [ ] Không phải dành quá nhiều thời gian để xây dựng hệ thống đó
+- [ ] Chi phí thấp
 - [ ] Xem nội dung họp trong lịch họp hằng tuần
 - [ ] Lên danh sách chủ đề các buổi họp để mọi người lựa chọn
 - [ ] Đăng thông báo lên group
@@ -120,9 +123,6 @@ Thành quả hỗ trợ:: [50% người đóng góp đáp ứng được các nh
 - [ ] Những thứ cần google nhưng không cần đọc kỹ: từ điển, mua/sửa đồ
 - [ ] Automation: tips, shortcuts
 - [ ] Xem analytics
-- [ ] Có khả năng tuỳ chỉnh theo đúng luồng làm việc, suy nghĩ của mình
-- [ ] Không phải dành quá nhiều thời gian để xây dựng hệ thống đó
-- [ ] Chi phí thấp
 
 
 [Gõ tắt](G%C3%B5%20t%E1%BA%AFt.md)

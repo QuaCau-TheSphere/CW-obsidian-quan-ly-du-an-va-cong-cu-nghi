@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2024-09-03T00:36
-updated: 2024-09-03T00:37
+updated: 2025-12-22T17:31
 ---
-Chủ đề:: [Lý thuyết đồ thị](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/L%C4%A9nh%20v%E1%BB%B1c/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u/Ph%C3%A2n%20t%C3%ADch%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi,%20l%C3%BD%20thuy%E1%BA%BFt%20%C4%91%E1%BB%93%20th%E1%BB%8B/L%C3%BD%20thuy%E1%BA%BFt%20%C4%91%E1%BB%93%20th%E1%BB%8B.md), [Giải trung tâm](Gi%E1%BA%A3i%20trung%20t%C3%A2m.md)
-❓:: [Sự phân loại](S%E1%BB%B1%20ph%C3%A2n%20lo%E1%BA%A1i.md)
+Khái niệm:: [Lý thuyết đồ thị](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/L%C4%A9nh%20v%E1%BB%B1c/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u/Ph%C3%A2n%20t%C3%ADch%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi,%20l%C3%BD%20thuy%E1%BA%BFt%20%C4%91%E1%BB%93%20th%E1%BB%8B/L%C3%BD%20thuy%E1%BA%BFt%20%C4%91%E1%BB%93%20th%E1%BB%8B.md), [Giải trung tâm](Gi%E1%BA%A3i%20trung%20t%C3%A2m.md)
+❓:: [Sự phân loại](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/L%C4%A9nh%20v%E1%BB%B1c/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u/S%E1%BB%B1%20ph%C3%A2n%20lo%E1%BA%A1i.md)
 ## Sách rễ cọc
 Mô hình nhị phân có sự thống nhất căn bản, là sự thống nhất của rễ cọc, là trụ cột cho cấu trúc tư duy của con người
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-02-27T15:45
-updated: 2025-12-22T18:44
+updated: 2025-12-23T21:05
 description: WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ tạo web hiệu quả nhất
 blog: true
 aliases:
@@ -65,6 +65,8 @@ WordPress ra đời năm 2003. 21 năm đã trôi qua, và công nghệ web cũn
 Xem thêm: 
 - [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
 - [Phá vỡ silo thông tin, nắm bắt nhu cầu các bên và sử dụng các nguồn tài nguyên cộng đồng hiệu quả](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/M%C3%B4%20t%E1%BA%A3%20d%E1%BB%B1%20%C3%A1n.md)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_DF4-23C8Q?si=AzXOQUuvh6-C5BPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Nơi thảo luận
 ![](https://i.imgur.com/4fq665i.png)

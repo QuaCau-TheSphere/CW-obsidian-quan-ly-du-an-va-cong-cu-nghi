@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-28T15:15
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Văn hoá](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%E1%BA%A3n%20l%C3%BD%20t%E1%BB%95%20ch%E1%BB%A9c/V%C4%83n%20ho%C3%A1.md)
 [Văn bản là nơi ta đọc ra các ý nghĩa và diễn giải nó](../%C3%9D%20ngh%C4%A9a%20v%C3%A0%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng/V%C4%83n%20b%E1%BA%A3n%20l%C3%A0%20n%C6%A1i%20ta%20%C4%91%E1%BB%8Dc%20ra%20c%C3%A1c%20%C3%BD%20ngh%C4%A9a%20v%C3%A0%20di%E1%BB%85n%20gi%E1%BA%A3i%20n%C3%B3.md) 

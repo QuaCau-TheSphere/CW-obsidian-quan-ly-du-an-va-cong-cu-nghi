@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-05-27T21:42
+updated: 2025-12-22T17:32
 ---
 Khái niệm:: [Ra quyết định](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%E1%BA%A3n%20l%C3%BD%20t%E1%BB%95%20ch%E1%BB%A9c/Ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh.md)
 Không biết phương pháp này đã tối ưu nhất chưa? Không biết nó đã phải đánh đổi cái gì với cái gì?
 Bản chất là bài toán tính thể tích vật đa chiều
-Nguồn:: [Wikipedia](../../../../%CE%9E%20Ngu%E1%BB%93n/Wikipedia.md), [Multiple-criteria decision analysis - Wikipedia](https://en.wikipedia.org/wiki/Multiple-criteria_decision_analysis)
+Nguồn:: [Wikipedia](../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Wikipedia/index.md), [Multiple-criteria decision analysis - Wikipedia](https://en.wikipedia.org/wiki/Multiple-criteria_decision_analysis)
 
 [❓Kết quả cuối cùng của MCDA có khác gì với tiền](./%E2%9D%93K%E1%BA%BFt%20qu%E1%BA%A3%20cu%E1%BB%91i%20c%C3%B9ng%20c%E1%BB%A7a%20MCDA%20c%C3%B3%20kh%C3%A1c%20g%C3%AC%20v%E1%BB%9Bi%20ti%E1%BB%81n.md) 
 

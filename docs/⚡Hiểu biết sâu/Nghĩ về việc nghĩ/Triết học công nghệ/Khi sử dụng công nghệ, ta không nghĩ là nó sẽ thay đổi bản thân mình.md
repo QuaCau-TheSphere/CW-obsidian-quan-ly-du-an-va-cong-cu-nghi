@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-05T17:22
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: 
 Khi dùng búa để đập đinh, ta nghĩ là chỉ có đinh và gỗ bị biến dạng, chứ ta không nghĩ rằng búa có thể thay đổi bản thân ta. Nếu như búa đập vào tay thì ta chỉ nghĩ đó là tai nạn, chứ không trông đợi sự thay đổi đó. Trong khi đó, khi nói chuyện với con người, ta có nghĩ rằng sự nói chuyện đó sẽ thay đổi con người ta. 

@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-10-06T16:09
+updated: 2025-12-22T17:31
 ---
-Khái niệm:: [Diễn giải, đọc](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Di%E1%BB%85n%20gi%E1%BA%A3i,%20%C4%91%E1%BB%8Dc.md), [Quan sát tham dự](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Quan%20s%C3%A1t%20tham%20d%E1%BB%B1.md)
+Khái niệm:: [Diễn giải, đọc](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Di%E1%BB%85n%20gi%E1%BA%A3i,%20%C4%91%E1%BB%8Dc.md), [Quan sát tham dự](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/C%E1%BB%99ng%20%C4%91%E1%BB%93ng/Quan%20s%C3%A1t%20tham%20d%E1%BB%B1.md)
 
 Thứ ba: tác phẩm điền dã dân tộc học được đánh dấu bằng sự nhấn mạnh ngày càng nhiều vào quyền lực của sự quan sát. Văn hóa được coi là một tập hợp các hành vi có tính điển hình, những nghi lễ và những động thái cử chỉ mà một người quan sát được đào tạo hoàn toàn có thể ghi lại và giải thích. Tác giả Mead đã nhấn mạnh điều này một cách mạnh mẽ nhất (và thực tế là năng lực phân tích dựa trên thị giác của tác giả này rất đáng kính nể). Và theo một xu hướng chung thì người quan sát tham dự (the participant-observer) đã trở thành một chuẩn mực trong nghiên cứu. Tất nhiên là công việc thực địa thành công hay không còn phụ thuộc vào việc vận dụng tối đa các năng lực tương tác khác nhau, nhưng vai trò chủ đạo ở đây được đặt vào năng lực quan sát: diễn giải đồng nghĩa với việc mô tả. Đi cùng với tác giả Malinowski là một sự nghi vấn bao trùm đối với “những người cung cấp thông tin được coi trọng” và sự nghi vấn này phản ảnh ở sự ưa chuộng phổ biến các phương pháp quan sát (một cách cẩn thận) của nhà điền dã dân tộc học so với những diễn giải (có chủ đích) của những nhân vật có quyền lực ở thế giới bản địa.
 

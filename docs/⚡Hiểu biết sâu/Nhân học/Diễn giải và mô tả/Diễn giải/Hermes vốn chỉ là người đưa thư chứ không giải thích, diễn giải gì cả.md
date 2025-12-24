@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-10-06T16:09
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Diễn giải, đọc](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Di%E1%BB%85n%20gi%E1%BA%A3i,%20%C4%91%E1%BB%8Dc.md)
 [Người đọc là người chú giải](./Ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%8Dc%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20ch%C3%BA%20gi%E1%BA%A3i.md)

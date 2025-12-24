@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2023-10-16T23:14
+updated: 2025-12-22T17:31
 ---
 [Các tập quán chung giúp người dùng sử dụng web dễ dàng hơn, còn thôi thúc sáng tạo khỏi lối mòn đó là mãnh liệt](./C%C3%A1c%20t%E1%BA%ADp%20qu%C3%A1n%20chung%20gi%C3%BAp%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20web%20d%E1%BB%85%20d%C3%A0ng%20h%C6%A1n,%20c%C3%B2n%20th%C3%B4i%20th%C3%BAc%20s%C3%A1ng%20t%E1%BA%A1o%20kh%E1%BB%8Fi%20l%E1%BB%91i%20m%C3%B2n%20%C4%91%C3%B3%20l%C3%A0%20m%C3%A3nh%20li%E1%BB%87t.md) 
 [Việc mò mẫm vui, đỡ phải nghĩ và thường là hiệu quả hơn là đọc hướng dẫn cẩn thận](../Vi%E1%BB%87c%20m%C3%B2%20m%E1%BA%ABm%20vui,%20%C4%91%E1%BB%A1%20ph%E1%BA%A3i%20ngh%C4%A9%20v%C3%A0%20th%C6%B0%E1%BB%9Dng%20l%C3%A0%20hi%E1%BB%87u%20qu%E1%BA%A3%20h%C6%A1n%20l%C3%A0%20%C4%91%E1%BB%8Dc%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20c%E1%BA%A9n%20th%E1%BA%ADn.md) 

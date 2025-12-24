@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-11T21:16
-updated: 2023-10-06T16:09
+updated: 2025-12-22T17:31
 ---
 Mô tả và tường thuật lại sự kiện của cộng đồng chứ không phải suy nghĩ của mình
 

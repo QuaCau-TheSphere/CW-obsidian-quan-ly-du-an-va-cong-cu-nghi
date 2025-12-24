@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-05T16:06
-updated: 2025-11-25T16:17
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Sự không biết](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%B1%20kh%C3%B4ng%20bi%E1%BA%BFt.md)
 [❓Bản đồ là cách để ta biết mình cần gì khi còn chưa cảm nhận được thứ mình cần là gì](./%E2%9D%93B%E1%BA%A3n%20%C4%91%E1%BB%93%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20ta%20bi%E1%BA%BFt%20m%C3%ACnh%20c%E1%BA%A7n%20g%C3%AC%20khi%20c%C3%B2n%20ch%C6%B0a%20c%E1%BA%A3m%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%A9%20m%C3%ACnh%20c%E1%BA%A7n%20l%C3%A0%20g%C3%AC.md)

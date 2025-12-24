@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-11T18:17
-updated: 2025-06-06T05:45
+updated: 2025-12-22T17:32
 ---
 [Từ thành quả mong muốn nghĩ ra công việc trước dễ hơn nghĩ ra giả định trước](../T%E1%BB%AB%20th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n%20ngh%C4%A9%20ra%20c%C3%B4ng%20vi%E1%BB%87c%20tr%C6%B0%E1%BB%9Bc%20d%E1%BB%85%20h%C6%A1n%20ngh%C4%A9%20ra%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh%20tr%C6%B0%E1%BB%9Bc.md)
 [Thành quả (outcome) là kết quả thu được do sự thay đổi về hành vi của người dùng khi tương tác với sản phẩm đã được cải tiến hoặc sản phẩm mới](../Th%C3%A0nh%20qu%E1%BA%A3,%20th%C3%A0nh%20ph%E1%BA%A9m,%20t%E1%BA%A7m%20nh%C3%ACn,%20m%E1%BB%A5c%20ti%C3%AAu/Th%C3%A0nh%20qu%E1%BA%A3%20(outcome)%20l%C3%A0%20k%E1%BA%BFt%20qu%E1%BA%A3%20thu%20%C4%91%C6%B0%E1%BB%A3c%20do%20s%E1%BB%B1%20thay%20%C4%91%E1%BB%95i%20v%E1%BB%81%20h%C3%A0nh%20vi%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20khi%20t%C6%B0%C6%A1ng%20t%C3%A1c%20v%E1%BB%9Bi%20s%E1%BA%A3n%20ph%E1%BA%A9m%20%C4%91%C3%A3%20%C4%91%C6%B0%E1%BB%A3c%20c%E1%BA%A3i%20ti%E1%BA%BFn%20ho%E1%BA%B7c%20s%E1%BA%A3n%20ph%E1%BA%A9m%20m%E1%BB%9Bi.md)

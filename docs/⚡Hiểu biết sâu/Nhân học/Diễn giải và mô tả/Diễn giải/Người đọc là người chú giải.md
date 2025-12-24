@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-18T20:34
-updated: 2023-10-09T21:04
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Diễn giải, đọc](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Di%E1%BB%85n%20gi%E1%BA%A3i,%20%C4%91%E1%BB%8Dc.md)
 [Khi nhà nghiên cứu xem mình là người đọc và chú giải văn bản, họ bóc tách các lớp để tạo ra một văn bản mới. Khi họ xem mình là đưa thư, họ kết nối những văn bản để tạo ra văn bản mới](../Khi%20nh%C3%A0%20nghi%C3%AAn%20c%E1%BB%A9u%20xem%20m%C3%ACnh%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%8Dc%20v%C3%A0%20ch%C3%BA%20gi%E1%BA%A3i%20v%C4%83n%20b%E1%BA%A3n,%20h%E1%BB%8D%20b%C3%B3c%20t%C3%A1ch%20c%C3%A1c%20l%E1%BB%9Bp%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20ra%20m%E1%BB%99t%20v%C4%83n%20b%E1%BA%A3n%20m%E1%BB%9Bi.%20Khi%20h%E1%BB%8D%20xem%20m%C3%ACnh%20l%C3%A0%20%C4%91%C6%B0a%20th%C6%B0,%20h%E1%BB%8D%20k%E1%BA%BFt%20n%E1%BB%91i%20nh%E1%BB%AFng%20v%C4%83n%20b%E1%BA%A3n%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20ra%20v%C4%83n%20b%E1%BA%A3n%20m%E1%BB%9Bi.md)

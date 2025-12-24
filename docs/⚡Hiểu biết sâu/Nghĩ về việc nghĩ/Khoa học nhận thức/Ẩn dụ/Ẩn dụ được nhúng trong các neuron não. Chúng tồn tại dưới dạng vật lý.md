@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-07-28T21:56
+updated: 2025-12-22T17:31
 ---
 Khái niệm:: [Ẩn dụ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/%E1%BA%A8n%20d%E1%BB%A5.md)
 > I mean, it is, you understand where that dream comes from culturally, right? We, we've always been, so this comes back to Descartes a bit. He split the mind from the body and him and many other thinkers who came after him that they made very clear that the body was sort of our more animalistic nature.

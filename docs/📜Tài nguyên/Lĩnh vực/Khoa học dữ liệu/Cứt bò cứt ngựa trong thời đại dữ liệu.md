@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-12-22T17:32
+updated: 2025-12-31T10:49
 ---
+Khái niệm:: [Dữ liệu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md)
 Bạn tuy có thể không biết horseshit thì cũng là bullshit, nhưng bạn chắc đã biết bullshit là những thứ vớ vẩn, nhảm cứt. Trong lúc mình đang lướt Sketchplanations thì bắt gặp tranh vẽ mình hoạ [nguyên lý bất đối xứng cứt bò](https://sketchplanations.com/the-bs-asymmetry-principle) này:
 
 ![The BS Asymmetry principle, also known as Brandolini's law explained with one person struggling to persuade their friend that the moon isn't made of cheese](https://sketchplanations.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fsketchplanations%2F71d30e66-9038-498d-8d8c-6bf45cd53760_SP%2B677%2B-%2BThe%2BBS%2Basymmetry%2Bprinciple%2B-%2Blarge.png%3Fauto%3Dcompress%2Cformat&w=3840&q=75)

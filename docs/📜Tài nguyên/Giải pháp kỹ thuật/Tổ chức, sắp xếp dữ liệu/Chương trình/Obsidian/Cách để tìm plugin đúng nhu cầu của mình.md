@@ -1,10 +1,11 @@
 ---
 share: true
 created: 2024-09-03T14:13
-updated: 2025-12-22T17:32
+updated: 2026-01-02T13:51
 tags:
   - plugin-general
 ---
+[Cách để tìm công cụ đúng nhu cầu của mình](../../../C%C3%A1ch%20%C4%91%E1%BB%83%20t%C3%ACm%20c%C3%B4ng%20c%E1%BB%A5%20%C4%91%C3%BAng%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20m%C3%ACnh.md)
 ## Hỏi cộng đồng
 - Tiếng Anh: [#plugin-general](https://discord.com/channels/686053708261228577/707816848615407697)
 

@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:31
+updated: 2025-12-31T10:39
 ---
+Khái niệm:: [Dữ liệu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md)
+
 Việc **dữ liệu nằm trên máy của bạn** có nghĩa là nó là của bạn và luôn sẵn sàng chờ bạn. Bạn không còn phải lo về vấn đề bảo mật dữ liệu, bởi vì nó không có được chuyển qua một máy chủ nào hết. Bạn không cần phải lo lắng mỗi lần ra ngoài đường hay rớt mạng, vì bạn không phải tải dữ liệu về để làm việc. Việc [dữ liệu được lưu ở định dạng đơn giản](./Obsidian%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20%E1%BB%9F%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20%C4%91%C6%A1n%20gi%E1%BA%A3n.md) nghĩa là bạn không còn gặp khó khăn trong việc chuyển đổi định dạng. Điều này sẽ hữu ích nếu một ngày bạn chán Obsidian và muốn dùng công cụ khác, hoặc nếu Obsidian còn thiếu chức năng nào đó và bạn cần dùng công cụ khác để bổ sung. Một nền tảng có thể cung cấp tính năng xuất dữ liệu người dùng, và mỗi định dạng khác nhau sẽ có những phần mềm chuyên dụng để đọc nó. Nhưng nếu bạn còn phải tải về dữ liệu của mình, hoặc còn phải sử dụng một phần mềm riêng để có thể đọc được dữ liệu của mình, thì về lý thuyết, bạn sẽ còn chịu sự chi phối của nền tảng/phần mềm đó. Còn với triết lý này, thì bạn mới thực sự làm chủ dữ liệu của mình. [Bạn có quyền chỉnh sửa dữ liệu của mình dưới bất kỳ hình thức nào](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/T%E1%BB%B1%20tr%E1%BB%8B%20d%E1%BB%AF%20li%E1%BB%87u.%20M%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F,%20ph%E1%BA%A7n%20m%E1%BB%81m%20t%E1%BB%B1%20do/T%E1%BB%B1%20tr%E1%BB%8B%20d%E1%BB%AF%20li%E1%BB%87u/B%E1%BA%A1n%20c%C3%B3%20quy%E1%BB%81n%20ch%E1%BB%89nh%20s%E1%BB%ADa%20d%E1%BB%AF%20li%E1%BB%87u%20c%E1%BB%A7a%20m%C3%ACnh%20d%C6%B0%E1%BB%9Bi%20b%E1%BA%A5t%20k%E1%BB%B3%20h%C3%ACnh%20th%E1%BB%A9c%20n%C3%A0o.md) 
 
 

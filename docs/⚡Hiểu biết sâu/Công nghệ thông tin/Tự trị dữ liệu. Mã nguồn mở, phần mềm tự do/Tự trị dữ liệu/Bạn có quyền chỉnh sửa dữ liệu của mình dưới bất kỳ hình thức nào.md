@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:31
+updated: 2025-12-31T10:37
 ---
+Khái niệm:: [Dữ liệu](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md)
 ownership in the sense of user agency, autonomy, and control over data. You should be able to copy and modify data in any way, write down any thought, and no company should restrict what you are allowed to do.
 
 In cloud apps, the ways in which you can access and modify your data are limited by the APIs, user interfaces, and terms of service of the service provider. With local-first software, all of the bytes that comprise your data are stored on your own device, so you have the freedom to process this data in arbitrary ways.

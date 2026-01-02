@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:32
+updated: 2025-12-31T10:47
 ---
+Khái niệm:: [Dữ liệu](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md)
 Lý do:: [Excel không cản ta làm điều mà ta sẽ hối tiếc](./Excel%20kh%C3%B4ng%20c%E1%BA%A3n%20ta%20l%C3%A0m%20%C4%91i%E1%BB%81u%20m%C3%A0%20ta%20s%E1%BA%BD%20h%E1%BB%91i%20ti%E1%BA%BFc.md)
 
 [Excel là sản phẩm low code tồn tại lâu dài nhất](./Excel%20l%C3%A0%20s%E1%BA%A3n%20ph%E1%BA%A9m%20low%20code%20t%E1%BB%93n%20t%E1%BA%A1i%20l%C3%A2u%20d%C3%A0i%20nh%E1%BA%A5t.md) 

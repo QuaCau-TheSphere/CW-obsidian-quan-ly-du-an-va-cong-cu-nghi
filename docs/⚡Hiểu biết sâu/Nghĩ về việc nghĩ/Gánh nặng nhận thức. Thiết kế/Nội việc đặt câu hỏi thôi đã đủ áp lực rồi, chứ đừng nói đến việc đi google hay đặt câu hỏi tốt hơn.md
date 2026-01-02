@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-05-29T12:50
-updated: 2025-12-22T17:31
+updated: 2026-01-02T13:18
 ---
+Khái niệm:: [Hỏi](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/H%E1%BB%8Fi.md)
 Sự tập trung của chúng ta chỉ có một khoảng nhất định, và ta sẽ chỉ có thể làm thứ quan trọng nhất. Nếu ta ráng làm cái khác, thì một cơn nhức đầu sẽ kéo thôi thúc ta nhanh chóng bỏ cuộc để quay trở lại làm điều dang dở. Bạn có thể trải nghiệm cơn nhức đầu này mỗi khi đang tập trung làm một việc gì đó mà có tiếng điện thoại reo.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=Ig6I3prnlnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -34,6 +35,6 @@ Nếu đến cả tín hiệu trong cơ thể còn trở nên không quan trọn
 
 Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../%CE%9E%20Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
 [Việc mò mẫm vui, đỡ phải nghĩ và thường là hiệu quả hơn là đọc hướng dẫn cẩn thận](./Vi%E1%BB%87c%20m%C3%B2%20m%E1%BA%ABm%20vui,%20%C4%91%E1%BB%A1%20ph%E1%BA%A3i%20ngh%C4%A9%20v%C3%A0%20th%C6%B0%E1%BB%9Dng%20l%C3%A0%20hi%E1%BB%87u%20qu%E1%BA%A3%20h%C6%A1n%20l%C3%A0%20%C4%91%E1%BB%8Dc%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20c%E1%BA%A9n%20th%E1%BA%ADn.md)
-[Kể cả khi ta biết một trang web trả lời câu hỏi cho ta, thì việc đọc cũng nhức đầu](./Thi%E1%BA%BFt%20k%E1%BA%BF/K%E1%BB%83%20c%E1%BA%A3%20khi%20ta%20bi%E1%BA%BFt%20m%E1%BB%99t%20trang%20web%20tr%E1%BA%A3%20l%E1%BB%9Di%20c%C3%A2u%20h%E1%BB%8Fi%20cho%20ta,%20th%C3%AC%20vi%E1%BB%87c%20%C4%91%E1%BB%8Dc%20c%C5%A9ng%20nh%E1%BB%A9c%20%C4%91%E1%BA%A7u.md) 
+[Kể cả khi có được một tài liệu chắc chắn sẽ trả lời câu hỏi của ta, thì ta cũng thường không sẵn sàng để đọc nó](../M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Ghi%20ch%C3%BA%20th%C3%B4ng%20tin/K%E1%BB%83%20c%E1%BA%A3%20khi%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%99t%20t%C3%A0i%20li%E1%BB%87u%20ch%E1%BA%AFc%20ch%E1%BA%AFn%20s%E1%BA%BD%20tr%E1%BA%A3%20l%E1%BB%9Di%20c%C3%A2u%20h%E1%BB%8Fi%20c%E1%BB%A7a%20ta,%20th%C3%AC%20ta%20c%C5%A9ng%20th%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20s%E1%BA%B5n%20s%C3%A0ng%20%C4%91%E1%BB%83%20%C4%91%E1%BB%8Dc%20n%C3%B3.md) 
 [Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm](./M%E1%BB%97i%20m%E1%BB%99t%20th%E1%BA%AFc%20m%E1%BA%AFc%20%C4%91%E1%BB%81u%20l%C3%A0m%20t%C4%83ng%20th%C3%AAm%20kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20nh%E1%BA%ADn%20th%E1%BB%A9c%20m%C3%A0%20ch%C3%BAng%20ta%20c%C3%B3%20trong%20t%C3%A2m%20tr%C3%AD,%20qua%20%C4%91%C3%B3%20l%C3%A0m%20ph%C3%A2n%20t%C3%A1n%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20c%E1%BB%A7a%20ta%20kh%E1%BB%8Fi%20th%E1%BB%A9%20m%C3%A0%20ta%20%C4%91%E1%BB%8Bnh%20l%C3%A0m.md)
 [Một hệ sinh thái không hoạt động bằng cách đặt câu hỏi, mà bằng cách không cần hỏi cũng biết câu trả lời là gì](../../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20sinh%20th%C3%A1i/M%E1%BB%99t%20h%E1%BB%87%20sinh%20th%C3%A1i%20kh%C3%B4ng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20b%E1%BA%B1ng%20c%C3%A1ch%20%C4%91%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi,%20m%C3%A0%20b%E1%BA%B1ng%20c%C3%A1ch%20kh%C3%B4ng%20c%E1%BA%A7n%20h%E1%BB%8Fi%20c%C5%A9ng%20bi%E1%BA%BFt%20c%C3%A2u%20tr%E1%BA%A3%20l%E1%BB%9Di%20l%C3%A0%20g%C3%AC.md)

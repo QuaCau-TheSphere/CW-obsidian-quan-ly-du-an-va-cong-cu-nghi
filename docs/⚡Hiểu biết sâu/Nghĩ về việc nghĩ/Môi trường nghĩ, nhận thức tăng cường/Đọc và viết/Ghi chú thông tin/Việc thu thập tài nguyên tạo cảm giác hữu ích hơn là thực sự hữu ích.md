@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:31
+updated: 2026-01-02T15:41
 ---
-[Ta thường không sẵn sàng để đọc một tài liệu khi ta mới thấy nó](Ta%20th%C6%B0%C6%A1%CC%80ng%20kh%C3%B4ng%20s%C4%83%CC%83n%20sa%CC%80ng%20%C4%91%C3%AA%CC%89%20%C4%91o%CC%A3c%20m%C3%B4%CC%A3t%20ta%CC%80i%20li%C3%AA%CC%A3u%20khi%20ta%20m%C6%A1%CC%81i%20th%C3%A2%CC%81y%20no%CC%81.md)
+[Kể cả khi có được một tài liệu chắc chắn sẽ trả lời câu hỏi của ta, thì ta cũng thường không sẵn sàng để đọc nó](./K%E1%BB%83%20c%E1%BA%A3%20khi%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%99t%20t%C3%A0i%20li%E1%BB%87u%20ch%E1%BA%AFc%20ch%E1%BA%AFn%20s%E1%BA%BD%20tr%E1%BA%A3%20l%E1%BB%9Di%20c%C3%A2u%20h%E1%BB%8Fi%20c%E1%BB%A7a%20ta,%20th%C3%AC%20ta%20c%C5%A9ng%20th%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20s%E1%BA%B5n%20s%C3%A0ng%20%C4%91%E1%BB%83%20%C4%91%E1%BB%8Dc%20n%C3%B3.md)
 
 Nguồn:: [Andy Matuschak](../../../../%CE%9E%20Ngu%E1%BB%93n/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/Andy%20Matuschak.md), [Collecting material feels more useful than it usually is](https://notes.andymatuschak.org/z8QSUyNdq3CMK79KSnCW7QTR1MPHEFi4Q2LY8)
 

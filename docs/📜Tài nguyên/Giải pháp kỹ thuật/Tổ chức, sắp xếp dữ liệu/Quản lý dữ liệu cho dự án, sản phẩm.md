@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-22T17:32
+updated: 2025-12-31T10:48
 ---
+Khái niệm:: [Dữ liệu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md)
 Sau một thời gian loay hoay để quản lý dữ liệu cho việc phát triển sản phẩm, Trấn Kỳ
 
 
@@ -31,11 +32,11 @@ Bởi vì [Giả định có mặt ở khắp nơi](../../../%E2%9A%A1Hi%E1%BB%8
 
 Chỉ khi nào công việc bắt đầu phức tạp thì mới tách ra thành folder riêng, còn trước đó thì vẫn để trong kế hoạch
 Ví dụ: sản phẩm `vault dạy Obsidian` có những thành phẩm sau:
-- [Thành phẩm](Th%C3%A0nh%20ph%E1%BA%A9m.md)
-- [Các buổi cố vấn riêng](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20bu%E1%BB%95i%20c%E1%BB%91%20v%E1%BA%A5n%20ri%C3%AAng/index.md)
-- [Các buổi giới thiệu vault](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20bu%E1%BB%95i%20gi%E1%BB%9Bi%20thi%E1%BB%87u%20vault/index.md)
-- [15 - 3](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20bu%E1%BB%95i%20h%E1%BB%8Dp%20x%C3%A2y%20d%E1%BB%B1ng%20k%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n/15%20-%203.md)
-- [Các buổi họp xây dựng kế hoạch phát triển](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20bu%E1%BB%95i%20h%E1%BB%8Dp%20x%C3%A2y%20d%E1%BB%B1ng%20k%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n/index.md)
+- [Bài viết về vấn đề về hệ sinh thái](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/Truy%E1%BB%81n%20th%C3%B4ng/B%C3%A0i%20vi%E1%BA%BFt%20v%E1%BB%81%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20v%E1%BB%81%20h%E1%BB%87%20sinh%20th%C3%A1i.md)
+- [Web](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/3%20Th%C3%A0nh%20ph%E1%BA%A9m/Ph%E1%BA%A7n%20m%E1%BB%81m/Web/index.md)
+- [Bộ cài](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/3%20Th%C3%A0nh%20ph%E1%BA%A9m/Ph%E1%BA%A7n%20m%E1%BB%81m/B%E1%BB%99%20c%C3%A0i/index.md)
+- [Các nghiên cứu về sản phẩm](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20nghi%C3%AAn%20c%E1%BB%A9u%20v%E1%BB%81%20s%E1%BA%A3n%20ph%E1%BA%A9m/index.md)
+- [Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20nghi%C3%AAn%20c%E1%BB%A9u%20v%E1%BB%81%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/C%C3%A1c%20nghi%C3%AAn%20c%E1%BB%A9u%20v%E1%BB%81%20nhu%20c%E1%BA%A7u%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/index.md)
 
 
 Mỗi một thành phẩm chính là một khía cạnh khác nhau của sản phẩm. Giống như con voi được tạo thành từ vòi, ngà, tai, thân, chân, đuôi. Các bộ phận ấy đến lượt chúng lại được cấu tạo từ những bộ phận nhỏ hơn. Cho nên, thành phẩm thực chất là sản phẩm. Bởi vì [Sản phẩm là vật thể](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/Th%C3%A0nh%20qu%E1%BA%A3,%20th%C3%A0nh%20ph%E1%BA%A9m,%20t%E1%BA%A7m%20nh%C3%ACn,%20m%E1%BB%A5c%20ti%C3%AAu/S%E1%BA%A3n%20ph%E1%BA%A9m%20l%C3%A0%20v%E1%BA%ADt%20th%E1%BB%83.md), nên thành phẩm cũng là một vật thể. Các vật thể này cứ lồng vào nhau như fractal. Một lúc nào đó, khi một thành phẩm trở nên đủ phức tạp, ta có thể tách nó ra thành một sản phẩm riêng của tổ chức.

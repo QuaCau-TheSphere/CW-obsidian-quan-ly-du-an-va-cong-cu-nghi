@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:32
+updated: 2025-12-27T22:07
 title: Hệ thống thông tin
 ---
 ## Liệu các phần mềm hoạch định tài nguyên doanh nghiệp (ERP) có giải quyết được vấn đề đảo thông tin này không?

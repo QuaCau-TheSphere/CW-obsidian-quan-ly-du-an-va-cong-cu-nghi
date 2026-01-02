@@ -6,7 +6,7 @@ aliases:
   - Những nơi gặp được nhiều tương tác thực sự từ con người là những nơi được sàng lọc kỹ
   - Thuyết rừng âm u của web
   - Để giữ được sự bình an cho bản thân, nhiều người tránh xa những nơi quá công khai, rút vào những địa bàn có sự sàng lọc kỹ hơn
-updated: 2025-12-22T17:31
+updated: 2026-01-02T12:18
 ---
 Khái niệm:: [Nền tảng](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/N%E1%BB%81n%20t%E1%BA%A3ng.md)
 Hãy tưởng tượng một khu rừng về đêm. Nó thinh lặng chết người. Nó làm người ta tưởng rằng khu rừng không có sự sống. Nhưng thực ra không phải; khu rừng tràn ngập sự sống. Nó thinh lặng vì ban đêm là lúc hoạt động của rất nhiều loài săn mồi. Để sinh tồn, muôn thú giữ im lặng. 
@@ -21,6 +21,7 @@ Hãy tưởng tượng một khu rừng về đêm. Nó thinh lặng chết ngư
 
 ![Layered diagram of the cozy web as a series of underground burrows beneath the dark forest](https://res.cloudinary.com/dg3gyk0gu/image/upload/c_scale,w_960/v1589323597/maggieappleton.com/notes/cozyweb-tw.png)
 
+[Nền tảng bị kẹt vào cuộc chiến giữa chống độc hại và tự do ngôn luận, ở đó quyết định nào của nó cũng không giải quyết được vấn đề](../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/M%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i/N%E1%BB%81n%20t%E1%BA%A3ng%20b%E1%BB%8B%20k%E1%BA%B9t%20v%C3%A0o%20cu%E1%BB%99c%20chi%E1%BA%BFn%20gi%E1%BB%AFa%20ch%E1%BB%91ng%20%C4%91%E1%BB%99c%20h%E1%BA%A1i%20v%C3%A0%20t%E1%BB%B1%20do%20ng%C3%B4n%20lu%E1%BA%ADn,%20%E1%BB%9F%20%C4%91%C3%B3%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20n%C3%A0o%20c%E1%BB%A7a%20n%C3%B3%20c%C5%A9ng%20kh%C3%B4ng%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20v%E1%BA%A5n%20%C4%91%E1%BB%81.md)
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/VXkDaDDJjoA?si=yrSiYnx047EJOWIM&t=301" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Nguồn:: [The dark forest theory of the internet](https://www.ystrickler.com/the-dark-forest-theory-of-the-internet/)
 Nguồn:: [The Wisdom Gap](https://www.humanetech.com/insights/the-wisdom-gap "The Wisdom Gap - Center for Humane Technology")

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-24T15:20
-updated: 2025-12-22T17:32
+updated: 2026-01-02T12:09
 aliases:
   - Liên kết các mảnh hiểu biết
 ---

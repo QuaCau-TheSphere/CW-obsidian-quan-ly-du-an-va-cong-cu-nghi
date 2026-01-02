@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-18T12:02
-updated: 2025-12-22T17:32
+updated: 2025-12-31T10:41
 aliases:
   - Biểu đồ dữ liệu
 ---
@@ -26,4 +26,5 @@ Nhu cầu công nghệ:: [Tài liệu động](../Vi%E1%BA%BFt%20v%C3%A0%20qu%E1
 [Datawrapper: Create charts, maps, and tables](https://www.datawrapper.de/)
 
 ## Nơi thảo luận
+Khái niệm:: [Dữ liệu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md)
 [![](https://imagizer.imageshack.com/a/img924/9471/eQpmWA.png)](https://discord.com/channels/898550123007709204/1296474612716146719)

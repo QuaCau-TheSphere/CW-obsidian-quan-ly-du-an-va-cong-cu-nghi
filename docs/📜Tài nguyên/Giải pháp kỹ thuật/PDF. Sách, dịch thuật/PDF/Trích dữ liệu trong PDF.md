@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-06T00:11
-updated: 2025-12-22T17:32
+updated: 2026-01-08T13:01
 ---
 ## Lọc SĐT 
 1. Tách PDF thành các ảnh rời:

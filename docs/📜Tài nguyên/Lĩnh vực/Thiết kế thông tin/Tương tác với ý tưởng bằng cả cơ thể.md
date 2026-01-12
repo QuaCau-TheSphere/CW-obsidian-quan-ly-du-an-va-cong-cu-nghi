@@ -1,10 +1,11 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-12-22T17:32
+updated: 2026-01-09T12:20
 ---
 [Các ẩn dụ tri nhận cơ bản dựa trên mối tương quan của cơ thể và xung quanh](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/%E1%BA%A8n%20d%E1%BB%A5/C%C3%A1c%20%E1%BA%A9n%20d%E1%BB%A5%20tri%20nh%E1%BA%ADn%20c%C6%A1%20b%E1%BA%A3n%20d%E1%BB%B1a%20tr%C3%AAn%20m%E1%BB%91i%20t%C6%B0%C6%A1ng%20quan%20c%E1%BB%A7a%20c%C6%A1%20th%E1%BB%83%20v%C3%A0%20xung%20quanh.md)
-## Dance your phd
+## [Dance Your Ph.D.](https://www.science.org/content/article/watch-winners-year-s-dance-your-ph-d-contest)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qprd1VNNNec?si=WUf6Jzaa0EzuhG9a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## VR
 ## [Data physicalization](https://en.wikipedia.org/wiki/Data_physicalization)
 

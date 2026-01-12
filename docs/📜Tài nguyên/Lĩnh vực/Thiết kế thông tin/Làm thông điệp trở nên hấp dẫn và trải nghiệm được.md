@@ -2,7 +2,7 @@
 share: true
 created: 2025-05-26T19:55
 description: Ngoài việc viết ra thì còn có thể làm được những gì?
-updated: 2026-01-08T17:20
+updated: 2026-01-09T12:11
 ---
 Ngoài việc viết ra thì còn có thể làm được những gì? 
 - [Minh hoạ dữ liệu không nhất thiết phải chính xác, mà chỉ cần đủ để đặt câu hỏi](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/C%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/Minh%20ho%E1%BA%A1%20d%E1%BB%AF%20li%E1%BB%87u%20kh%C3%B4ng%20nh%E1%BA%A5t%20thi%E1%BA%BFt%20ph%E1%BA%A3i%20ch%C3%ADnh%20x%C3%A1c,%20m%C3%A0%20ch%E1%BB%89%20c%E1%BA%A7n%20%C4%91%E1%BB%A7%20%C4%91%E1%BB%83%20%C4%91%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi.md)
@@ -28,6 +28,7 @@ Kể cả khi là viết chữ thì quan trọng vẫn là tình tiết hoặc �
 	- Graphic design
 - [Truyện tranh kiến thức](./Truy%E1%BB%87n%20tranh%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
 - Phim tài liệu, video giáo dục
+- [Digital storytelling - Wikipedia](https://en.wikipedia.org/wiki/Digital_storytelling)
 
 ## Người dùng tương tác được
 [Một văn bản không nên chỉ là thứ để truyền đạt thông tin hay hiểu biết một chiều và thụ động, mà còn nên trở thành một sân chơi cho người đọc khám phá](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/M%E1%BB%99t%20v%C4%83n%20b%E1%BA%A3n%20kh%C3%B4ng%20n%C3%AAn%20ch%E1%BB%89%20l%C3%A0%20th%E1%BB%A9%20%C4%91%E1%BB%83%20truy%E1%BB%81n%20%C4%91%E1%BA%A1t%20th%C3%B4ng%20tin%20hay%20hi%E1%BB%83u%20bi%E1%BA%BFt%20m%E1%BB%99t%20chi%E1%BB%81u%20v%C3%A0%20th%E1%BB%A5%20%C4%91%E1%BB%99ng,%20m%C3%A0%20c%C3%B2n%20n%C3%AAn%20tr%E1%BB%9F%20th%C3%A0nh%20m%E1%BB%99t%20s%C3%A2n%20ch%C6%A1i%20cho%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%8Dc%20kh%C3%A1m%20ph%C3%A1.md)

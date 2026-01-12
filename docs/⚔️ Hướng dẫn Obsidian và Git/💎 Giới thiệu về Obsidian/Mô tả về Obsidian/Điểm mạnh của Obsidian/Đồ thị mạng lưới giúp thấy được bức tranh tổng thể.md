@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-26T10:33
-updated: 2025-12-30T14:08
+updated: 2026-01-12T12:48
 description: graph view có thực sự có tác dụng gì không?
 ---
 Khái niệm:: [Đồ thị mạng lưới](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/%C4%90%E1%BB%93%20th%E1%BB%8B%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi.md)
@@ -13,6 +13,6 @@ Ví dụ, trong việc quản lý nhóm, nhờ có đồ thị mà ta thấy đ�
 
 ## Xem thêm
 - [Quản lý các mối quan hệ](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/Qu%E1%BA%A3n%20l%C3%BD%20c%C3%A1c%20m%E1%BB%91i%20quan%20h%E1%BB%87.md)
-- [Thúc đẩy sự hợp tác giữa các cá nhân](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c%20gi%E1%BB%AFa%20c%C3%A1c%20c%C3%A1%20nh%C3%A2n.md)
+- [Thúc đẩy sự hợp tác giữa các thành viên trong mạng lưới](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Th%C3%BAc%20%C4%91%E1%BA%A9y%20s%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c%20gi%E1%BB%AFa%20c%C3%A1c%20th%C3%A0nh%20vi%C3%AAn%20trong%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi.md)
 - [Nắm bắt hoạt động của nhau](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/N%E1%BA%AFm%20b%E1%BA%AFt%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20nhau.md)
 - [Nhìn tổng thể, toàn cảnh kế hoạch](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/V%E1%BA%ADn%20h%C3%A0nh/Nh%C3%ACn%20t%E1%BB%95ng%20th%E1%BB%83,%20to%C3%A0n%20c%E1%BA%A3nh%20k%E1%BA%BF%20ho%E1%BA%A1ch.md)

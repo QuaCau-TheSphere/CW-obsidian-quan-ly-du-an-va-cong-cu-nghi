@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-12-18T10:01
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 - \-: 
     - [Con người dường như được thiết kế để thể hiện ý định qua cảm xúc hơn là lời nói](../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20sinh%20th%C3%A1i/Con%20ng%C6%B0%E1%BB%9Di%20d%C6%B0%E1%BB%9Dng%20nh%C6%B0%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%83%20th%E1%BB%83%20hi%E1%BB%87n%20%C3%BD%20%C4%91%E1%BB%8Bnh%20qua%20c%E1%BA%A3m%20x%C3%BAc%20h%C6%A1n%20l%C3%A0%20l%E1%BB%9Di%20n%C3%B3i.md)

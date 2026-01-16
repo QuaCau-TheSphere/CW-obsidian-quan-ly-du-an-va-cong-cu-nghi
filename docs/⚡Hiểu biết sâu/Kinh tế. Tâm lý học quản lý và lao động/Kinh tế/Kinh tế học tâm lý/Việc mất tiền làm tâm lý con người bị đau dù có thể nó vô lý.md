@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 ---
 [Cảm giác mất mát là cảm giác tiêu cực](./C%E1%BA%A3m%20gi%C3%A1c%20m%E1%BA%A5t%20m%C3%A1t%20l%C3%A0%20c%E1%BA%A3m%20gi%C3%A1c%20ti%C3%AAu%20c%E1%BB%B1c.md). Có một thí nghiệm nào đó cho thấy con người thà không bị mất $100 còn hơn có được thêm $150. Trong khi đó, [Cảm giác đáp ứng nhu cầu người khác lại là cảm giác tích cực](./C%E1%BA%A3m%20gi%C3%A1c%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20l%C3%A0%20c%E1%BA%A3m%20gi%C3%A1c%20t%C3%ADch%20c%E1%BB%B1c.md). [Sự giúp đỡ người khác làm con người cảm thấy cuộc sống có ý nghĩa](../../T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Gi%C3%BAp%20%C4%91%E1%BB%A1%20nhau/S%E1%BB%B1%20gi%C3%BAp%20%C4%91%E1%BB%A1%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20l%C3%A0m%20con%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A3m%20th%E1%BA%A5y%20cu%E1%BB%99c%20s%E1%BB%91ng%20c%C3%B3%20%C3%BD%20ngh%C4%A9a.md)
 Vì [Tiền làm thay đổi mối quan hệ từ việc đáp ứng nhu cầu lẫn nhau sang trao đổi hàng hoá](./Ti%E1%BB%81n%20l%C3%A0m%20thay%20%C4%91%E1%BB%95i%20m%E1%BB%91i%20quan%20h%E1%BB%87%20t%E1%BB%AB%20vi%E1%BB%87c%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20l%E1%BA%ABn%20nhau%20sang%20trao%20%C4%91%E1%BB%95i%20h%C3%A0ng%20ho%C3%A1.md), nên [Tiền tạo cảm giác phải cạnh tranh để có tài nguyên hơn là hợp tác để có nhiều tài nguyên hơn](./Ti%E1%BB%81n%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20ph%E1%BA%A3i%20c%E1%BA%A1nh%20tranh%20%C4%91%E1%BB%83%20c%C3%B3%20t%C3%A0i%20nguy%C3%AAn%20h%C6%A1n%20l%C3%A0%20h%E1%BB%A3p%20t%C3%A1c%20%C4%91%E1%BB%83%20c%C3%B3%20nhi%E1%BB%81u%20t%C3%A0i%20nguy%C3%AAn%20h%C6%A1n.md).

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: 
 However, the obvious meaning for the expression “open source software” is “You can look at the source code.” Indeed, most people seem to misunderstand “open source software” that way. (The clear term for that meaning is “source available.”) That criterion is much weaker than the free software definition, much weaker also than the official definition of open source. It includes many programs that are neither free nor open source.

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 ---
 [Việc đọc là sự gặp gỡ, giao thoa của thế giới của văn bản và thế giới của người đọc](../../../../Nh%C3%A2n%20h%E1%BB%8Dc/Di%E1%BB%85n%20gi%E1%BA%A3i%20v%C3%A0%20m%C3%B4%20t%E1%BA%A3/Di%E1%BB%85n%20gi%E1%BA%A3i/Vi%E1%BB%87c%20%C4%91%E1%BB%8Dc%20l%C3%A0%20s%E1%BB%B1%20g%E1%BA%B7p%20g%E1%BB%A1,%20giao%20thoa%20c%E1%BB%A7a%20th%E1%BA%BF%20gi%E1%BB%9Bi%20c%E1%BB%A7a%20v%C4%83n%20b%E1%BA%A3n%20v%C3%A0%20th%E1%BA%BF%20gi%E1%BB%9Bi%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%8Dc.md)
 [Việc rút gọn cả bài thành câu tóm tắt chỉ có tác dụng khi mình hiểu dược những khái niệm quan trọng trong bài](../Vi%E1%BB%87c%20r%C3%BAt%20g%E1%BB%8Dn%20c%E1%BA%A3%20b%C3%A0i%20th%C3%A0nh%20c%C3%A2u%20t%C3%B3m%20t%E1%BA%AFt%20ch%E1%BB%89%20c%C3%B3%20t%C3%A1c%20d%E1%BB%A5ng%20khi%20m%C3%ACnh%20hi%E1%BB%83u%20d%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20kh%C3%A1i%20ni%E1%BB%87m%20quan%20tr%E1%BB%8Dng%20trong%20b%C3%A0i.md)

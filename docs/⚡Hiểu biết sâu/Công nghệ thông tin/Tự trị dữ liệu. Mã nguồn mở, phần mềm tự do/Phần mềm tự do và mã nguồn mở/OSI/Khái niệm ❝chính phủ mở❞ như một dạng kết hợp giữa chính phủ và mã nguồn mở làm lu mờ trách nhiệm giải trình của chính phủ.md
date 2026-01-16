@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 title: Trước đây, khái niệm ❝chính phủ mở❞ là để nói về trách nhiệm giải trình minh bạch của chính phủ. Sau khi O'Reilly sử dụng nó như một dạng kết hợp giữa chính phủ và mã nguồn mở, ý niệm này đã bị lu mờ
 ---
 Khái niệm:: 

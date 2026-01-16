@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-01-01T16:52
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: [Cấu trúc](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/C%E1%BA%A5u%20tr%C3%BAc.md)
 “Vấn đề có cấu trúc” và “vấn đề phi cấu trúc” được phân biệt bằng mức độ hiểu biết của người giải quyết vấn đề về cấu trúc, quy luật, quy tắc, khái niệm và tham số của các vấn đề đó.

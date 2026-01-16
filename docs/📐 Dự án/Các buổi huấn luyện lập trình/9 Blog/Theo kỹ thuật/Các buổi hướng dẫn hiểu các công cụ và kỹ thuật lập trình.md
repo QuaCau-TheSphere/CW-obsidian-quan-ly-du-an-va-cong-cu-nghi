@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 # Kết quả đầu ra
 - Biết được người ta nói cái gì khi google 

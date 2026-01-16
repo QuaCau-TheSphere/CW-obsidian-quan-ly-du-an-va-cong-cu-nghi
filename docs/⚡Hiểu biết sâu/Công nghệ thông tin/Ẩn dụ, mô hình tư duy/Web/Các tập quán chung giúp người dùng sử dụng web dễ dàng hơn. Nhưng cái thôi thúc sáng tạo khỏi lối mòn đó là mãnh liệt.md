@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-01-02T12:30
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: [Web](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Web.md)
 [Thứ làm tốt công việc của mình là thứ ta không nhận ra sự tồn tại của nó](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/B%E1%BA%A3n%20th%E1%BB%83%20lu%E1%BA%ADn/Th%E1%BB%A9%20l%C3%A0m%20t%E1%BB%91t%20c%C3%B4ng%20vi%E1%BB%87c%20c%E1%BB%A7a%20m%C3%ACnh%20l%C3%A0%20th%E1%BB%A9%20ta%20kh%C3%B4ng%20nh%E1%BA%ADn%20ra%20s%E1%BB%B1%20t%E1%BB%93n%20t%E1%BA%A1i%20c%E1%BB%A7a%20n%C3%B3.md) 

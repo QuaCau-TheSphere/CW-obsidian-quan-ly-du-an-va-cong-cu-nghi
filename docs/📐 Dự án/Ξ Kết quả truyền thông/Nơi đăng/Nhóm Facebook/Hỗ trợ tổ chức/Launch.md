@@ -1,6 +1,6 @@
 ---
 created: 2023-09-05T16:17
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 share: true
 ---
 # [29-10](29-10.md)
@@ -31,5 +31,5 @@ share: true
 17:50 75 react
 22:00 80 react
 
-# [](../../../../C%C3%A1c%20bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20c%C3%A1c%20nhu%20c%E1%BA%A7u/B%E1%BA%A1n%20g%E1%BA%B7p%20kh%C3%B3%20kh%C4%83n%20n%C3%A0o%20v%E1%BB%81%20nhu%20c%E1%BA%A7u%20n%C3%A0o.md)
+# [](B%E1%BA%A1n%20g%E1%BA%B7p%20kh%C3%B3%20kh%C4%83n%20n%C3%A0o%20v%E1%BB%81%20nhu%20c%E1%BA%A7u%20n%C3%A0o.md)
 [09-10-24](09-10-24.md) 14:33 https://www.facebook.com/groups/153841081324271/pending_posts/27127004953581185/

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-22T21:45
-updated: 2025-12-31T10:37
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: [Kiến thức](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFn%20th%E1%BB%A9c.md), [Dữ liệu](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md)
 > Data is not information, information is not knowledge, knowledge is not understanding, understanding is not wisdom.

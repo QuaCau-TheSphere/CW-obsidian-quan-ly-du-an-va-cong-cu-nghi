@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-07T13:08
-updated: 2026-01-07T13:08
+updated: 2026-01-14T13:11
 ---
 Khái niệm:: [Chuyên gia](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF/Chuy%C3%AAn%20gia.md), [Sự không biết](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%B1%20kh%C3%B4ng%20bi%E1%BA%BFt.md)
 

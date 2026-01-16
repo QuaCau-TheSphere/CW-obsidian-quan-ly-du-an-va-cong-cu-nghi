@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 Khái niệm:: [Thành quả](Th%C3%A0nh%20qu%E1%BA%A3.md)
 Ví dụ: tăng retention rate, tăng giá trị đơn hàng mỗi lần mua, tăng frequency mua hàng

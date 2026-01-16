@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 Khái niệm:: [Quản trị kiến thức](Qu%E1%BA%A3n%20tr%E1%BB%8B%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
 There are two reasons for that behavior:

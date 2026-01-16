@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-28T13:13
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 MỜI THÀNH VIÊN ABG TẠI SÀI GÒN ĐĂNG KÝ THUYẾT TRÌNH DỰ ÁN TẠI ABG DAY 17/11
 

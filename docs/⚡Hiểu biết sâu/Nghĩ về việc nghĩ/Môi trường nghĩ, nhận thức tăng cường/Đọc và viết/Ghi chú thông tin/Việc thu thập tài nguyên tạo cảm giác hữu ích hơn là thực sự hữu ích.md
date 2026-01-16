@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-01-02T15:41
+updated: 2026-01-14T13:10
 ---
 [Kể cả khi có được một tài liệu chắc chắn sẽ trả lời câu hỏi của ta, thì ta cũng thường không sẵn sàng để đọc nó](./K%E1%BB%83%20c%E1%BA%A3%20khi%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%99t%20t%C3%A0i%20li%E1%BB%87u%20ch%E1%BA%AFc%20ch%E1%BA%AFn%20s%E1%BA%BD%20tr%E1%BA%A3%20l%E1%BB%9Di%20c%C3%A2u%20h%E1%BB%8Fi%20c%E1%BB%A7a%20ta,%20th%C3%AC%20ta%20c%C5%A9ng%20th%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20s%E1%BA%B5n%20s%C3%A0ng%20%C4%91%E1%BB%83%20%C4%91%E1%BB%8Dc%20n%C3%B3.md)
 

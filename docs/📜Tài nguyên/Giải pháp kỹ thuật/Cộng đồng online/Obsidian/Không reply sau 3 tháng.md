@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-31T17:17
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 Khái niệm:: 
 [Why do Internet forums tend to prohibit responding to inactive threads?](https://communitybuilding.stackexchange.com/q/2632/961)

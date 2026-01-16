@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-02T13:14
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 Mục đích của alias là để nối tiếp dòng suy nghĩ.
 

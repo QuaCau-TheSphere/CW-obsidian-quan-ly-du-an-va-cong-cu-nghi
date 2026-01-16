@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 Khái niệm:: [Kế hoạch (khái niệm)](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/K%E1%BA%BF%20ho%E1%BA%A1ch%20(kh%C3%A1i%20ni%E1%BB%87m).md)
 ![](https://www.tallengestore.com/cdn/shop/products/Spirit_Of_Sports_-_Motivational_Quote_-_Everybody_Has_A_Plan_Till_They_Get_Punched_In_The_Mouth_-_Iron_Mike_Tyson_464f61f6-196a-4a15-bb7f-1ad1bed76835.jpg) 

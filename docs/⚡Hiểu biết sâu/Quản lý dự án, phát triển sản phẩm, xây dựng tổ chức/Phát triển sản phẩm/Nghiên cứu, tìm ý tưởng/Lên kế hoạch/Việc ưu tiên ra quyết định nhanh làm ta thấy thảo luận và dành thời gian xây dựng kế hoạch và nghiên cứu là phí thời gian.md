@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 Khái niệm:: [Ra quyết định](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%E1%BA%A3n%20l%C3%BD%20t%E1%BB%95%20ch%E1%BB%A9c/Ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh.md), [Thảo luận](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%E1%BA%A3n%20l%C3%BD%20t%E1%BB%95%20ch%E1%BB%A9c/Th%E1%BA%A3o%20lu%E1%BA%ADn.md), [Kế hoạch (khái niệm)](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/K%E1%BA%BF%20ho%E1%BA%A1ch%20(kh%C3%A1i%20ni%E1%BB%87m).md)
 [1 nghiên cứu 20 ngày khác với 4 nghiên cứu 5 ngày](../1%20nghi%C3%AAn%20c%E1%BB%A9u%2020%20ng%C3%A0y%20kh%C3%A1c%20v%E1%BB%9Bi%204%20nghi%C3%AAn%20c%E1%BB%A9u%205%20ng%C3%A0y.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-26T12:45
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 Làm thứ một số người rất cần quan trọng hơn là làm thứ nhiều người thấy hay. Biến một thứ một số người cần thành một thứ nhiều người cần dễ hơn là biến một thứ nhiều người thích thành một thứ nhiều người cần.
 

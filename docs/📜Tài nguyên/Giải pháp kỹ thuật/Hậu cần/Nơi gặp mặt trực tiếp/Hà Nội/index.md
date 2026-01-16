@@ -4,7 +4,7 @@ title: Nơi gặp mặt trực tiếp tại Hà Nội
 aliases:
   - Nơi gặp mặt trực tiếp tại Hà Nội
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 Ở Hà Nội mình chưa cập nhật được nhiều. Mời bạn đóng góp thêm.
 - [Cricket](./Cricket.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-01-25T19:56
-updated: 2025-12-30T21:48
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: 
 ![](https://i.imgur.com/wj5edYY.jpeg)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 description: Khi câu hỏi không rõ cần câu trả lời để làm gì
 ---
 Sự hữu ích, có lẽ cũng giống như cái đẹp, phụ thuộc rất nhiều vào người nhìn nhận. Cùng một ý tưởng có người sẽ thấy nó chấn động tâm can, có người lại thấy nó không khác gì là hoang tưởng. Nên việc một người cảm thấy câu hỏi không biết để làm gì, thậm chí là vô nghĩa, không có nghĩa là người khác cũng thấy thế. Họ không cảm thấy vậy vì có thể là họ chưa đủ nền tảng để hiểu nó có những tiềm năng gì.

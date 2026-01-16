@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: [Vật thể](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/V%E1%BA%ADt%20th%E1%BB%83.md), [Trải nghiệm](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
 [Ta mô phỏng thế giới qua những vật thể](./Ta%20m%C3%B4%20ph%E1%BB%8Fng%20th%E1%BA%BF%20gi%E1%BB%9Bi%20qua%20nh%E1%BB%AFng%20v%E1%BA%ADt%20th%E1%BB%83.md)

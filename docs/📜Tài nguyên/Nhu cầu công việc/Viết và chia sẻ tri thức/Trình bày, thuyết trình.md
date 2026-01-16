@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-12-03T09:50
-updated: 2026-01-08T17:23
+updated: 2026-01-14T13:11
 ---
 Lĩnh vực:: 
 Nhu cầu công nghệ:: [Tạo slide](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%E1%BA%A1o%20slide.md)

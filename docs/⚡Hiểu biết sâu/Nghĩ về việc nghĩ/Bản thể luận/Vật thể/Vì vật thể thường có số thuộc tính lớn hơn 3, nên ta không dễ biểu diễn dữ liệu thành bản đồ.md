@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-11T14:31
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: 
 Lý do:: [Mỗi thuộc tính của vật thể tạo nên chiều của nó](./M%E1%BB%97i%20thu%E1%BB%99c%20t%C3%ADnh%20c%E1%BB%A7a%20v%E1%BA%ADt%20th%E1%BB%83%20t%E1%BA%A1o%20n%C3%AAn%20chi%E1%BB%81u%20c%E1%BB%A7a%20n%C3%B3.md)

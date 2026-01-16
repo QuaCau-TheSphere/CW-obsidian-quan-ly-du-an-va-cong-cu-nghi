@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-22T21:45
-updated: 2026-01-02T13:18
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: [Hỏi](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/H%E1%BB%8Fi.md), [Gánh nặng nhận thức](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.md)
 Lý do:: [Nội việc đặt câu hỏi thôi đã đủ áp lực rồi, chứ đừng nói đến việc đi google hay đặt câu hỏi tốt hơn](./N%E1%BB%99i%20vi%E1%BB%87c%20%C4%91%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi%20th%C3%B4i%20%C4%91%C3%A3%20%C4%91%E1%BB%A7%20%C3%A1p%20l%E1%BB%B1c%20r%E1%BB%93i,%20ch%E1%BB%A9%20%C4%91%E1%BB%ABng%20n%C3%B3i%20%C4%91%E1%BA%BFn%20vi%E1%BB%87c%20%C4%91i%20google%20hay%20%C4%91%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi%20t%E1%BB%91t%20h%C6%A1n.md)

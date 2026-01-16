@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:27
+updated: 2026-01-14T13:10
 ---
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/67076984?h=f57f26cc02" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 [Media for Thinking the Unthinkable](https://worrydream.com/MediaForThinkingTheUnthinkable/)

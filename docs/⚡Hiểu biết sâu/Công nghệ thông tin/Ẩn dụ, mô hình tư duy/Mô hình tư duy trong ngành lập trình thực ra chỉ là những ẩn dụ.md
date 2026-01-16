@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-01-01T16:54
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: [Mô hình tư duy](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/M%C3%B4%20h%C3%ACnh%20t%C6%B0%20duy.md)
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-31T10:38
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: [Dữ liệu](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md)
 Lý do:: [Việc hợp tác làm việc thời gian thực với dữ liệu được lưu ở máy cá nhân là một bài toán khó](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/L%C4%A9nh%20v%E1%BB%B1c/H%E1%BB%A3p%20t%C3%A1c%20l%C3%A0m%20vi%E1%BB%87c/Vi%E1%BB%87c%20h%E1%BB%A3p%20t%C3%A1c%20l%C3%A0m%20vi%E1%BB%87c%20th%E1%BB%9Di%20gian%20th%E1%BB%B1c%20v%E1%BB%9Bi%20d%E1%BB%AF%20li%E1%BB%87u%20%C4%91%C6%B0%E1%BB%A3c%20l%C6%B0u%20%E1%BB%9F%20m%C3%A1y%20c%C3%A1%20nh%C3%A2n%20l%C3%A0%20m%E1%BB%99t%20b%C3%A0i%20to%C3%A1n%20kh%C3%B3.md)

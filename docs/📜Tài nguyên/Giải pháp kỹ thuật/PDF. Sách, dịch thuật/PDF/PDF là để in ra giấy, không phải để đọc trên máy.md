@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-22T18:25
+updated: 2026-01-14T13:11
 ---
 Nếu bạn chỉ đọc thông tin trên máy chứ không phải trên giấy, thì đọc bằng định dạng HTML hoặc ebook sẽ tốt hơn là PDF. HTML mới là định dạng để đọc trên màn hình, còn PDF được sinh ra là để làm những việc liên quan tới giấy, như xử lý sách scan, ký tài liệu hoặc in ấn. Nó cố ý giới hạn việc thay đổi nội dung gốc, chỉ cho phép ghi chú hoặc tạo bookmark. Nó không làm được những thứ sau:
 - Tăng giảm kích thước phông chữ

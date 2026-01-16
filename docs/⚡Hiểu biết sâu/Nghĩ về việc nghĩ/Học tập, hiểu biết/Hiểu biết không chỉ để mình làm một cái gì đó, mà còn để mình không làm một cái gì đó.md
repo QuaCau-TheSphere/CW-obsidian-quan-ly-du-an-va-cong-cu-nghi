@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 ---
 [Việc lập kế hoạch là để giảm những hệ quả không lường trước được và tạo ra được sự bền vững dài hạn](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Nghi%C3%AAn%20c%E1%BB%A9u,%20t%C3%ACm%20%C3%BD%20t%C6%B0%E1%BB%9Fng/L%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch/Vi%E1%BB%87c%20l%E1%BA%ADp%20k%E1%BA%BF%20ho%E1%BA%A1ch%20l%C3%A0%20%C4%91%E1%BB%83%20gi%E1%BA%A3m%20nh%E1%BB%AFng%20h%E1%BB%87%20qu%E1%BA%A3%20kh%C3%B4ng%20l%C6%B0%E1%BB%9Dng%20tr%C6%B0%E1%BB%9Bc%20%C4%91%C6%B0%E1%BB%A3c%20v%C3%A0%20t%E1%BA%A1o%20ra%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%B1%20b%E1%BB%81n%20v%E1%BB%AFng%20d%C3%A0i%20h%E1%BA%A1n.md) 
 [❓Hiểu biết sâu thông qua việc bắt tay vào làm, hay hiểu biết sâu thông qua việc nghiên cứu](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Nghi%C3%AAn%20c%E1%BB%A9u,%20t%C3%ACm%20%C3%BD%20t%C6%B0%E1%BB%9Fng/%E2%9D%93Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u%20th%C3%B4ng%20qua%20vi%E1%BB%87c%20b%E1%BA%AFt%20tay%20v%C3%A0o%20l%C3%A0m,%20hay%20hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u%20th%C3%B4ng%20qua%20vi%E1%BB%87c%20nghi%C3%AAn%20c%E1%BB%A9u.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-18T12:41
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 aliases:
   - Sơ đồ kiến thức, canvas
 description: Thể hiện bức tranh toàn cảnh giữa các lập luận, ý tưởng

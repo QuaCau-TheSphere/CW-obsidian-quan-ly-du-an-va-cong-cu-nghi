@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-08T17:06
-updated: 2026-01-08T17:27
+updated: 2026-01-14T13:11
 ---
 Đáp ứng cho nhu cầu công việc: [Trình bày, thuyết trình](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Tr%C3%ACnh%20b%C3%A0y,%20thuy%E1%BA%BFt%20tr%C3%ACnh.md)
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 [Nhà đầu tư không ăn cắp ý tưởng vì phải cạnh tranh với các nhà đầu tư khác](./Nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20kh%C3%B4ng%20%C4%83n%20c%E1%BA%AFp%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20v%C3%AC%20ph%E1%BA%A3i%20c%E1%BA%A1nh%20tranh%20v%E1%BB%9Bi%20c%C3%A1c%20nh%C3%A0%20%C4%91%E1%BA%A7u%20t%C6%B0%20kh%C3%A1c.md)
 [Làm thứ một số người rất cần quan trọng hơn là làm thứ nhiều người thấy hay](../L%C3%A0m%20th%E1%BB%A9%20m%E1%BB%99t%20s%E1%BB%91%20ng%C6%B0%E1%BB%9Di%20r%E1%BA%A5t%20c%E1%BA%A7n%20quan%20tr%E1%BB%8Dng%20h%C6%A1n%20l%C3%A0%20l%C3%A0m%20th%E1%BB%A9%20nhi%E1%BB%81u%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20hay.md)

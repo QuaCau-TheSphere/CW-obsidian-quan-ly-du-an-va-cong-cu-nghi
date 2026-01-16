@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-11T20:37
-updated: 2025-12-31T10:40
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: [Dữ liệu](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md)
 [[Bookademy] Review Sách “Dữ Liệu Nhỏ”: Manh Mối Nhỏ Mở Ra Xu Hướng Lớn - YBOX](https://ybox.vn/ky-nang/bookademy-review-sach-du-lieu-nho-manh-moi-nho-mo-ra-xu-huong-lon-0iyubnsre8)

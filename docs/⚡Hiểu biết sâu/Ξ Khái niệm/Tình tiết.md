@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-25T14:18
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 - Đọc và viết: 
     - [❓Tình tiết khiến ta cảm thấy vẫn hấp dẫn và có lợi ích dù không hiểu quá nhiều](../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/%E2%9D%93T%C3%ACnh%20ti%E1%BA%BFt%20khi%E1%BA%BFn%20ta%20c%E1%BA%A3m%20th%E1%BA%A5y%20v%E1%BA%ABn%20h%E1%BA%A5p%20d%E1%BA%ABn%20v%C3%A0%20c%C3%B3%20l%E1%BB%A3i%20%C3%ADch%20d%C3%B9%20kh%C3%B4ng%20hi%E1%BB%83u%20qu%C3%A1%20nhi%E1%BB%81u.md)

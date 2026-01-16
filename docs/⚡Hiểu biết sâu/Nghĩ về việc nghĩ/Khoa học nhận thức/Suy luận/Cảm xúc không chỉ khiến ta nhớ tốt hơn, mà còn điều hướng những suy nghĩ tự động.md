@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-22T21:45
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: [Cảm xúc](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/C%E1%BA%A3m%20x%C3%BAc.md)
 Vì thiên kiến là những kết luận xảy ra một cách tự động, nên cảm xúc vừa là cách để tạo ra thiên kiến, vừa là cách để khắc phục thiên kiến.

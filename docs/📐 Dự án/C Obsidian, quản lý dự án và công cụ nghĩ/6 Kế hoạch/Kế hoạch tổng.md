@@ -3,7 +3,7 @@ aliases:
   - Khi nào thì có thể nói là thành công
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 Nhu cầu:: các nhóm liên thông dữ liệu với nhau, Quả Cầu có thêm người quan tâm
 
@@ -34,10 +34,10 @@ Thành quả hỗ trợ:: [50% người đóng góp đáp ứng được các nh
 
 # Thành phẩm chính
 - [Các buổi cố vấn riêng](../3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20bu%E1%BB%95i%20c%E1%BB%91%20v%E1%BA%A5n%20ri%C3%AAng/index.md)
-- [Các buổi giới thiệu vault](../3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20bu%E1%BB%95i%20gi%E1%BB%9Bi%20thi%E1%BB%87u%20vault/index.md)
-- [Các buổi họp xây dựng kế hoạch phát triển](../3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20bu%E1%BB%95i%20h%E1%BB%8Dp%20x%C3%A2y%20d%E1%BB%B1ng%20k%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n/index.md)
-- [Các bài học trên vault](../3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20b%C3%A0i%20h%E1%BB%8Dc%20tr%C3%AAn%20vault/index.md)
 - [Các nghiên cứu về nhu cầu sử dụng công cụ quản lý dự án cộng đồng](../3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20nghi%C3%AAn%20c%E1%BB%A9u%20v%E1%BB%81%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/C%C3%A1c%20nghi%C3%AAn%20c%E1%BB%A9u%20v%E1%BB%81%20nhu%20c%E1%BA%A7u%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/index.md)
+- [Các bài học trên vault](../3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20b%C3%A0i%20h%E1%BB%8Dc%20tr%C3%AAn%20vault/index.md)
+- [Các buổi họp xây dựng kế hoạch phát triển](../3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20bu%E1%BB%95i%20h%E1%BB%8Dp%20x%C3%A2y%20d%E1%BB%B1ng%20k%E1%BA%BF%20ho%E1%BA%A1ch%20ph%C3%A1t%20tri%E1%BB%83n/index.md)
+- [Các buổi giới thiệu vault](../3%20Th%C3%A0nh%20ph%E1%BA%A9m/C%C3%A1c%20bu%E1%BB%95i%20gi%E1%BB%9Bi%20thi%E1%BB%87u%20vault/index.md)
 - [Bài viết về vấn đề về hệ sinh thái](../../C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/Truy%E1%BB%81n%20th%C3%B4ng/B%C3%A0i%20vi%E1%BA%BFt%20v%E1%BB%81%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20v%E1%BB%81%20h%E1%BB%87%20sinh%20th%C3%A1i.md)
 
 
@@ -45,21 +45,36 @@ Thành quả hỗ trợ:: [50% người đóng góp đáp ứng được các nh
 - [ ] Có khả năng tuỳ chỉnh theo đúng luồng làm việc, suy nghĩ của mình
 - [ ] Không phải dành quá nhiều thời gian để xây dựng hệ thống đó
 - [ ] Chi phí thấp
-- [ ] Hoàn thành [Hướng dẫn phỏng vấn người muốn xây dựng cộng đồng hoặc mạng lưới](H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ho%E1%BA%B7c%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi.md)
-- [ ] [Email mời phỏng vấn](Email%20m%E1%BB%9Di%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)
-    - [ ] SNPO
-    - [ ] VOGE
-    - [ ] 
-- [ ] Khảo sát
-- [ ] Kiểm định giả thuyết
-- [ ] 10 [nhóm dự án sử dụng Obsidian để quản lý công việc](50%20nh%C3%B3m%20d%E1%BB%B1%20%C3%A1n%20s%E1%BB%AD%20d%E1%BB%A5ng%20Obsidian%20%C4%91%E1%BB%83%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20c%C3%B4ng%20vi%E1%BB%87c.md)
-- [ ] 1 [người tham gia phỏng vấn mỗi tuần](1%20ng%C6%B0%E1%BB%9Di%20tham%20gia%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20m%E1%BB%97i%20tu%E1%BA%A7n.md)
-- [ ] 10 [người làm vault để quản lý cuộc sống của họ](ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20vault%20%C4%91%E1%BB%83%20qu%E1%BA%A3n%20l%C3%BD%20cu%E1%BB%99c%20s%E1%BB%91ng%20c%E1%BB%A7a%20h%E1%BB%8D.md)
-- [ ] 2 [nhóm dự án sử dụng Obsidian để quản lý công việc](50%20nh%C3%B3m%20d%E1%BB%B1%20%C3%A1n%20s%E1%BB%AD%20d%E1%BB%A5ng%20Obsidian%20%C4%91%E1%BB%83%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20c%C3%B4ng%20vi%E1%BB%87c.md)
-- [ ] 4 [người tham gia phỏng vấn](1%20ng%C6%B0%E1%BB%9Di%20tham%20gia%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20m%E1%BB%97i%20tu%E1%BA%A7n.md)
-- [ ] 2 [người làm vault để quản lý cuộc sống của họ](ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20vault%20%C4%91%E1%BB%83%20qu%E1%BA%A3n%20l%C3%BD%20cu%E1%BB%99c%20s%E1%BB%91ng%20c%E1%BB%A7a%20h%E1%BB%8D.md)
-    - [ ] [Nghi](Nghi.md)
-- [ ] Kiểm định giả thuyết
+- [ ] Xem nội dung họp trong lịch họp hằng tuần
+- [ ] Lên danh sách chủ đề các buổi họp để mọi người lựa chọn
+- [ ] Đăng thông báo lên group
+    - [ ] Xác định ngày họp nhiều người tham gia được nhất
+        - [ ] Tạo lịch Google Calendar
+- [ ] Chọn nơi họp
+- [ ] Khởi động một chút cho thêm không khí
+- [ ] Tạo khảo sát cuối buổi
+- [ ] Ghi chép
+- [ ] Chuẩn bị nội dung họp
+- [ ] Chuẩn bị phiếu khảo sát nhu cầu của họ
+- [ ] Gửi cho các bên nội dung họp
+- [ ] Mở trước 5 phút
+- [ ] Camera quan sát được cả nhóm
+- [ ] Mic và loa rõ
+- [ ] Màn hình để mọi người thấy được sự hiện diện của họ
+- [ ] Có sẵn nước uống
+- [ ] Viết email
+- [ ] Dọn dẹp, khâu đồ
+- [ ] Seeding
+- [ ] Đọc bài 
+- [ ] Flashcard
+- [ ] Khám phá: [https://www.reddit.com/r/findareddit/wiki/directory](https://www.reddit.com/r/findareddit/wiki/directory)
+- [ ] Số hóa từ điển
+- [ ] Những thứ cần google nhưng không cần đọc kỹ: từ điển, mua/sửa đồ
+- [ ] Automation: tips, shortcuts
+- [ ] Xem analytics
+- [ ] Có khả năng tuỳ chỉnh theo đúng luồng làm việc, suy nghĩ của mình
+- [ ] Không phải dành quá nhiều thời gian để xây dựng hệ thống đó
+- [ ] Chi phí thấp
 - [ ] Kiểm chứng các giả định
     - [ ] Hỏi ý kiến mọi người về [Mô hình kinh doanh](M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20c%E1%BB%A7a%20c%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh.md)
 - [ ] [Nghiên cứu người dùng](%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
@@ -93,36 +108,21 @@ Thành quả hỗ trợ:: [50% người đóng góp đáp ứng được các nh
 - [ ] Gặp mặt
 - [ ] Cá nhân hoá
 - [ ] Riêng tư
-- [ ] Có khả năng tuỳ chỉnh theo đúng luồng làm việc, suy nghĩ của mình
-- [ ] Không phải dành quá nhiều thời gian để xây dựng hệ thống đó
-- [ ] Chi phí thấp
-- [ ] Xem nội dung họp trong lịch họp hằng tuần
-- [ ] Lên danh sách chủ đề các buổi họp để mọi người lựa chọn
-- [ ] Đăng thông báo lên group
-    - [ ] Xác định ngày họp nhiều người tham gia được nhất
-        - [ ] Tạo lịch Google Calendar
-- [ ] Chọn nơi họp
-- [ ] Khởi động một chút cho thêm không khí
-- [ ] Tạo khảo sát cuối buổi
-- [ ] Ghi chép
-- [ ] Chuẩn bị nội dung họp
-- [ ] Chuẩn bị phiếu khảo sát nhu cầu của họ
-- [ ] Gửi cho các bên nội dung họp
-- [ ] Mở trước 5 phút
-- [ ] Camera quan sát được cả nhóm
-- [ ] Mic và loa rõ
-- [ ] Màn hình để mọi người thấy được sự hiện diện của họ
-- [ ] Có sẵn nước uống
-- [ ] Viết email
-- [ ] Dọn dẹp, khâu đồ
-- [ ] Seeding
-- [ ] Đọc bài 
-- [ ] Flashcard
-- [ ] Khám phá: [https://www.reddit.com/r/findareddit/wiki/directory](https://www.reddit.com/r/findareddit/wiki/directory)
-- [ ] Số hóa từ điển
-- [ ] Những thứ cần google nhưng không cần đọc kỹ: từ điển, mua/sửa đồ
-- [ ] Automation: tips, shortcuts
-- [ ] Xem analytics
+- [ ] Hoàn thành [Hướng dẫn phỏng vấn người muốn xây dựng cộng đồng hoặc mạng lưới](H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ho%E1%BA%B7c%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi.md)
+- [ ] [Email mời phỏng vấn](Email%20m%E1%BB%9Di%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)
+    - [ ] SNPO
+    - [ ] VOGE
+    - [ ] 
+- [ ] Khảo sát
+- [ ] Kiểm định giả thuyết
+- [ ] 10 [nhóm dự án sử dụng Obsidian để quản lý công việc](50%20nh%C3%B3m%20d%E1%BB%B1%20%C3%A1n%20s%E1%BB%AD%20d%E1%BB%A5ng%20Obsidian%20%C4%91%E1%BB%83%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20c%C3%B4ng%20vi%E1%BB%87c.md)
+- [ ] 1 [người tham gia phỏng vấn mỗi tuần](1%20ng%C6%B0%E1%BB%9Di%20tham%20gia%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20m%E1%BB%97i%20tu%E1%BA%A7n.md)
+- [ ] 10 [người làm vault để quản lý cuộc sống của họ](ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20vault%20%C4%91%E1%BB%83%20qu%E1%BA%A3n%20l%C3%BD%20cu%E1%BB%99c%20s%E1%BB%91ng%20c%E1%BB%A7a%20h%E1%BB%8D.md)
+- [ ] 2 [nhóm dự án sử dụng Obsidian để quản lý công việc](50%20nh%C3%B3m%20d%E1%BB%B1%20%C3%A1n%20s%E1%BB%AD%20d%E1%BB%A5ng%20Obsidian%20%C4%91%E1%BB%83%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20v%C3%A0%20c%C3%B4ng%20vi%E1%BB%87c.md)
+- [ ] 4 [người tham gia phỏng vấn](1%20ng%C6%B0%E1%BB%9Di%20tham%20gia%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20m%E1%BB%97i%20tu%E1%BA%A7n.md)
+- [ ] 2 [người làm vault để quản lý cuộc sống của họ](ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20vault%20%C4%91%E1%BB%83%20qu%E1%BA%A3n%20l%C3%BD%20cu%E1%BB%99c%20s%E1%BB%91ng%20c%E1%BB%A7a%20h%E1%BB%8D.md)
+    - [ ] [Nghi](Nghi.md)
+- [ ] Kiểm định giả thuyết
 
 
 [Gõ tắt](G%C3%B5%20t%E1%BA%AFt.md)

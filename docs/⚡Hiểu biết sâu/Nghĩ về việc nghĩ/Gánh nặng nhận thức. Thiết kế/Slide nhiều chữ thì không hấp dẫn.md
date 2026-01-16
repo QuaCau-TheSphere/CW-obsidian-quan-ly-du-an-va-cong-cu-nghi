@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-31T13:32
-updated: 2026-01-01T16:56
+updated: 2026-01-14T13:10
 ---
 Nếu phần nào cần nhiều chữ thì có thể để vào phụ lục hoặc bài viết sâu.
 [Sách và bài giảng là những môi trường được thiết kế như thể người học hiểu hết hoàn toàn trong một lần tiếp thu, kể cả khi tác giả và giảng viên cũng không thực sự nghĩ vậy](../M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/S%C3%A1ch%20v%C3%A0%20b%C3%A0i%20gi%E1%BA%A3ng%20l%C3%A0%20nh%E1%BB%AFng%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20nh%C6%B0%20th%E1%BB%83%20ng%C6%B0%E1%BB%9Di%20h%E1%BB%8Dc%20hi%E1%BB%83u%20h%E1%BA%BFt%20ho%C3%A0n%20to%C3%A0n%20trong%20m%E1%BB%99t%20l%E1%BA%A7n%20ti%E1%BA%BFp%20thu,%20k%E1%BB%83%20c%E1%BA%A3%20khi%20t%C3%A1c%20gi%E1%BA%A3%20v%C3%A0%20gi%E1%BA%A3ng%20vi%C3%AAn%20c%C5%A9ng%20kh%C3%B4ng%20th%E1%BB%B1c%20s%E1%BB%B1%20ngh%C4%A9%20v%E1%BA%ADy.md)

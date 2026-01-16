@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: [Mẫu hình (pattern)](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BA%ABu%20h%C3%ACnh%20(pattern).md)
 Chính điều này làm cho [Chuyên nghiệp (professional) và chuyên gia (expertise) là hai vấn đề khác nhau](../../H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/Chuy%C3%AAn%20nghi%E1%BB%87p%20(professional)%20v%C3%A0%20chuy%C3%AAn%20gia%20(expertise)%20l%C3%A0%20hai%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20kh%C3%A1c%20nhau.md) 

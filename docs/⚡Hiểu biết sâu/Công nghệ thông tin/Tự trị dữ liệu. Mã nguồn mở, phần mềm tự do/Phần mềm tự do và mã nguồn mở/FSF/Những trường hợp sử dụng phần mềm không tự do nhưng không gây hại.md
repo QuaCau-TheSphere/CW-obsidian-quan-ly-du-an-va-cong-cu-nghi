@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: 
 - The program doesn't send any data to the outside. I can check that via its network activity or run it in a sandbox

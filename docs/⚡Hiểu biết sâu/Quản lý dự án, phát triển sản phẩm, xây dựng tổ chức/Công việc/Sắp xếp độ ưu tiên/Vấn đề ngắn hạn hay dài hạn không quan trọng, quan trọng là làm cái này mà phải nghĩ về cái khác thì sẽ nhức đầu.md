@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 Khái niệm:: [Ưu tiên](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/%C6%AFu%20ti%C3%AAn.md), [Gánh nặng nhận thức](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.md)
 [Ý tưởng sinh ra không theo độ khẩn cấp](./%C3%9D%20t%C6%B0%E1%BB%9Fng%20sinh%20ra%20kh%C3%B4ng%20theo%20%C4%91%E1%BB%99%20kh%E1%BA%A9n%20c%E1%BA%A5p.md). [Ý tưởng nếu không ghi lại ngay sẽ quên rất nhanh](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Ghi%20ch%C3%BA%20th%C3%B4ng%20tin/%C3%9D%20t%C6%B0%E1%BB%9Fng%20n%E1%BA%BFu%20kh%C3%B4ng%20ghi%20l%E1%BA%A1i%20ngay%20s%E1%BA%BD%20qu%C3%AAn%20r%E1%BA%A5t%20nhanh.md)

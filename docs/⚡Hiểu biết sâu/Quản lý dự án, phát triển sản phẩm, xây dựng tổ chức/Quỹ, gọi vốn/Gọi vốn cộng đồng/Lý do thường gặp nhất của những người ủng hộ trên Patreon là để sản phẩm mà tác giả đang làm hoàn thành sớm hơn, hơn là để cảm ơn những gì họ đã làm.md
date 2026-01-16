@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 > In my interactions with patrons, I’ve been surprised to find that altruism is rarely the dominant force. Patrons mostly don’t think of themselves as paying for consumption of past work; they’re buying into production of future work.
 ![](https://andymatuschak.org/static/2020/graph.png) 

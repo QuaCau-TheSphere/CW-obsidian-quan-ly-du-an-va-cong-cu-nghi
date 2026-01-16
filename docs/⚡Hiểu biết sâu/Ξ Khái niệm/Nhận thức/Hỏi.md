@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-28T21:54
-updated: 2026-01-02T12:56
+updated: 2026-01-14T13:11
 ---
 - [Một hệ sinh thái không hoạt động bằng cách đặt câu hỏi, mà bằng cách không cần hỏi cũng biết câu trả lời là gì](../../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20sinh%20th%C3%A1i/M%E1%BB%99t%20h%E1%BB%87%20sinh%20th%C3%A1i%20kh%C3%B4ng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20b%E1%BA%B1ng%20c%C3%A1ch%20%C4%91%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi,%20m%C3%A0%20b%E1%BA%B1ng%20c%C3%A1ch%20kh%C3%B4ng%20c%E1%BA%A7n%20h%E1%BB%8Fi%20c%C5%A9ng%20bi%E1%BA%BFt%20c%C3%A2u%20tr%E1%BA%A3%20l%E1%BB%9Di%20l%C3%A0%20g%C3%AC.md)
 - [Có những câu hỏi ta rất muốn có câu trả lời nhưng mãi mà vẫn chưa đi google](../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/C%C3%B3%20nh%E1%BB%AFng%20c%C3%A2u%20h%E1%BB%8Fi%20ta%20r%E1%BA%A5t%20mu%E1%BB%91n%20c%C3%B3%20c%C3%A2u%20tr%E1%BA%A3%20l%E1%BB%9Di%20nh%C6%B0ng%20m%C3%A3i%20m%C3%A0%20v%E1%BA%ABn%20ch%C6%B0a%20%C4%91i%20google.md)

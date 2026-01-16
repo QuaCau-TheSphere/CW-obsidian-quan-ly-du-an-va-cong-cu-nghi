@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 title: "Hệ thống thông tin kế toán: từ lý thuyết đồ thị đến chương trình văn bản trơn"
 Filename: jdj
 ---

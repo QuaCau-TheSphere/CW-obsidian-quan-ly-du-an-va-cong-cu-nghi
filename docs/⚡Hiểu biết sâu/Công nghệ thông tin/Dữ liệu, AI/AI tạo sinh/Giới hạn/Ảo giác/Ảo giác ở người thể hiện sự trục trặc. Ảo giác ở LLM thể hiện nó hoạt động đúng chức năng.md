@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: 
 LLMs are designed to generate plausible answers and present them in an authoritative tone. All too often, however, they make things up that aren't true.

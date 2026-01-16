@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-01-07T11:43
+updated: 2026-01-14T13:11
 aliases:
   - Ý đồ thiết kế thư mục
 title: 📜Tài nguyên

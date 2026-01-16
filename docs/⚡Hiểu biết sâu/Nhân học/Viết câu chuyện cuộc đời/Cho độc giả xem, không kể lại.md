@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 ---
 > Tôi tên là Nữ, tôi sinh năm 1958 tại Sài Gòn. Sinh ra trong thời chiến, tôi, và những đứa bé cùng thời vốn đã nằm lòng với sinh ly tử biệt.
 

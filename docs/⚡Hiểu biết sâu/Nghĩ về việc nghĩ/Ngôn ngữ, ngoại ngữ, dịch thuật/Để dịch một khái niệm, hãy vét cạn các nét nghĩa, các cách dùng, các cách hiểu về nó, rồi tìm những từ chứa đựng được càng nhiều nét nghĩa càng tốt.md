@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-21T14:21
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 aliases:
   - Từ cách một từ được đổ nghĩa đến việc dịch khái niệm philanthropy sang tiếng Việt
 ---

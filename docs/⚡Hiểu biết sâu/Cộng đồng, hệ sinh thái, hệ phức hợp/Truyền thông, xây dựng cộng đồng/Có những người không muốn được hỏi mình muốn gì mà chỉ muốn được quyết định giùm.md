@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-01-02T12:55
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: [Gánh nặng nhận thức](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.md)
 [Có sự chênh lệch về sự thoải mái trong việc hỏi và việc trả lời](../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/C%C3%B3%20s%E1%BB%B1%20ch%C3%AAnh%20l%E1%BB%87ch%20v%E1%BB%81%20s%E1%BB%B1%20tho%E1%BA%A3i%20m%C3%A1i%20trong%20vi%E1%BB%87c%20h%E1%BB%8Fi%20v%C3%A0%20vi%E1%BB%87c%20tr%E1%BA%A3%20l%E1%BB%9Di.md)

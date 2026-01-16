@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: [Công cụ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/C%C3%B4ng%20c%E1%BB%A5.md)
 Khi cầm vợt đánh cầu lông mình chỉ vung tay và không cảm giác là cái vợt là thứ rời ra khỏi cơ thể của mình.

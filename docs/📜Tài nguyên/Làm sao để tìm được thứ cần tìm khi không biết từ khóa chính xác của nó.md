@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-04-24T09:02
-updated: 2026-01-07T12:57
+updated: 2026-01-14T13:11
 title: Làm sao để tìm được thứ cần tìm khi không biết từ khóa chính xác của nó?
 aliases:
   - Đâu là nơi dễ gặp được từ khóa cần tìm nhất?
@@ -26,7 +26,7 @@ Có thể giảm bớt vấn đề này bằng việc thêm vào các từ khóa
 - `diagram`
 - `literature review`
 
-Hoặc tốt hơn cả là kiếm trên [Web nhỏ, internet tí hon](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/Nh%C3%A2n%20h%E1%BB%8Dc/Web%20nh%E1%BB%8F,%20internet%20t%C3%AD%20hon.md)?
+Hoặc tốt hơn cả là kiếm trên [Web nhỏ, internet tí hon](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/Nh%C3%A2n%20h%E1%BB%8Dc/Internet/Web%20nh%E1%BB%8F,%20internet%20t%C3%AD%20hon.md)?
 
 [Kinh nghiệm tìm thuật ngữ tiếng Việt](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/PDF.%20S%C3%A1ch,%20d%E1%BB%8Bch%20thu%E1%BA%ADt/Kinh%20nghi%E1%BB%87m%20t%C3%ACm%20thu%E1%BA%ADt%20ng%E1%BB%AF%20ti%E1%BA%BFng%20Vi%E1%BB%87t.md)
 [Kagi](https://kagi.com/)

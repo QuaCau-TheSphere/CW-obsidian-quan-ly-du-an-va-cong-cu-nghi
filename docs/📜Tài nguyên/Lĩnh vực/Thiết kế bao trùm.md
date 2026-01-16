@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2025-12-22T18:25
+updated: 2026-01-14T13:11
 ---
 Thực ra thì trong ngành kiến trúc đã gọi đây là thiết kế phổ quát (universal design). Nhưng Heydon Pickering lập luận rằng khái niệm này không sát nghĩa, và nên thay bằng thiết kế bao trùm (inclusive design). 
 

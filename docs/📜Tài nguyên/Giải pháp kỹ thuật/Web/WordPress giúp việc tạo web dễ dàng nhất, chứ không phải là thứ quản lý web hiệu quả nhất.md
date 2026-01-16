@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-02-27T15:45
-updated: 2025-12-23T21:05
+updated: 2026-01-14T13:11
 description: WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ tạo web hiệu quả nhất
 blog: true
 aliases:

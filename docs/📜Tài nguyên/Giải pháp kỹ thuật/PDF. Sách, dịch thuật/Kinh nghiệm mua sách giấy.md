@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 Có những cuốn ta quyết định không mua vì không thấy có ích trong việc gì hết. Nhưng lúc nhìn vào thì lại thấy là bổ sung cho một thứ mình cần phải có định mua.
 

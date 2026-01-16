@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 created: 2024-08-31T16:54
 ---
 Theo quan điểm của Uỷ ban châu Âu:

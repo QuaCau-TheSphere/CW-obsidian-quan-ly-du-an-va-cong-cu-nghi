@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 Khái niệm:: [Cấu trúc](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/C%E1%BA%A5u%20tr%C3%BAc.md)
 Lý do:: [Công việc khai phá và công việc khai thác](../../C%C3%B4ng%20vi%E1%BB%87c/B%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20v%C3%A0%20kh%C3%A1m%20ph%C3%A1/C%C3%B4ng%20vi%E1%BB%87c%20khai%20ph%C3%A1%20v%C3%A0%20c%C3%B4ng%20vi%E1%BB%87c%20khai%20th%C3%A1c.md)

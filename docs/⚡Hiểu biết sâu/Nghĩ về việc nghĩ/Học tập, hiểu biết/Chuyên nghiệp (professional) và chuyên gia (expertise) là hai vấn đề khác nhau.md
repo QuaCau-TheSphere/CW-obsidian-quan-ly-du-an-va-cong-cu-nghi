@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-05T15:42
-updated: 2025-12-22T17:26
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: [Chuyên nghiệp](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF/Chuy%C3%AAn%20nghi%E1%BB%87p.md), [Chuyên gia](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kinh%20t%E1%BA%BF/Chuy%C3%AAn%20gia.md)
 Họ đưa ra dự đoán còn tệ hơn đánh ngẫu nhiên

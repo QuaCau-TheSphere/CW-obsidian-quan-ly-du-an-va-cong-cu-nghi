@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-11-25T14:18
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: [Tình tiết](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ACnh%20ti%E1%BA%BFt.md)
 [Tình tiết là các sự kiện cá nhân](../../../Nh%C3%A2n%20h%E1%BB%8Dc/Di%E1%BB%85n%20gi%E1%BA%A3i%20v%C3%A0%20m%C3%B4%20t%E1%BA%A3/%C3%9D%20ngh%C4%A9a%20v%C3%A0%20bi%E1%BB%83u%20t%C6%B0%E1%BB%A3ng/T%C3%ACnh%20ti%E1%BA%BFt%20l%C3%A0%20c%C3%A1c%20s%E1%BB%B1%20ki%E1%BB%87n%20c%C3%A1%20nh%C3%A2n.md)

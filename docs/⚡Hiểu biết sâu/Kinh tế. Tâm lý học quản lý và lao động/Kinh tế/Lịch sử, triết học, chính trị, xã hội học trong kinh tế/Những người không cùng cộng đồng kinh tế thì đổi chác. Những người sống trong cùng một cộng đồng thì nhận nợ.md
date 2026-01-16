@@ -1,6 +1,6 @@
 ---
 share: true
 created: 2023-11-29T21:01
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 ---
 Nguồn:: [Nguyễn Hoài Vân](../../../%CE%9E%20Ngu%E1%BB%93n/Nguy%E1%BB%85n%20Ho%C3%A0i%20V%C3%A2n.md), [Nguyễn Hoài Vân - Chính Trị - Lịch Sử: Đổi chác và tiền tệ](https://chinh-tri-lich-su.blogspot.com/2020/04/oi-chac-va-tien-te.html)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-11-08T18:22
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: [Trực giác](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%E1%BB%B1c%20gi%C3%A1c.md), [Lập luận](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/L%E1%BA%ADp%20lu%E1%BA%ADn.md)
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/_ArVh3Cj9rw?start=454" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

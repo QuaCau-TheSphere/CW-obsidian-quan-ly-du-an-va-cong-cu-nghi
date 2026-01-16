@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-01T16:44
-updated: 2026-01-01T16:51
+updated: 2026-01-14T13:11
 ---
 - Web: 
     - [Các tập quán chung giúp người dùng sử dụng web dễ dàng hơn. Nhưng cái thôi thúc sáng tạo khỏi lối mòn đó là mãnh liệt](../C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/%E1%BA%A8n%20d%E1%BB%A5,%20m%C3%B4%20h%C3%ACnh%20t%C6%B0%20duy/Web/C%C3%A1c%20t%E1%BA%ADp%20qu%C3%A1n%20chung%20gi%C3%BAp%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20web%20d%E1%BB%85%20d%C3%A0ng%20h%C6%A1n.%20Nh%C6%B0ng%20c%C3%A1i%20th%C3%B4i%20th%C3%BAc%20s%C3%A1ng%20t%E1%BA%A1o%20kh%E1%BB%8Fi%20l%E1%BB%91i%20m%C3%B2n%20%C4%91%C3%B3%20l%C3%A0%20m%C3%A3nh%20li%E1%BB%87t.md)

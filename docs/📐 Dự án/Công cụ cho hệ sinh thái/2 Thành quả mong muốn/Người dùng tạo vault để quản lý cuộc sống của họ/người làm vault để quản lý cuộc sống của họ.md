@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 tags:
   - file_thành-quả
   - tt_đang-làm
@@ -30,7 +30,7 @@ Evaluation Error: TypeError: Cannot read properties of undefined (reading '0')
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:689289)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:690150)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewCompiler.tryExecuteJs (plugin:obsidian-mkdocs-publisher:40:85131)
     at DataviewCompiler.dataviewJS (plugin:obsidian-mkdocs-publisher:40:84525)

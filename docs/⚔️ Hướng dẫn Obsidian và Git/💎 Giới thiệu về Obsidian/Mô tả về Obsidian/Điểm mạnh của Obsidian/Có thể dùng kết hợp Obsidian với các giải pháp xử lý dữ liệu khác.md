@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 ---
 [Obsidian cực kỳ dễ mở rộng tính năng](./Obsidian%20c%E1%BB%B1c%20k%E1%BB%B3%20d%E1%BB%85%20m%E1%BB%9F%20r%E1%BB%99ng%20t%C3%ADnh%20n%C4%83ng.md)
  Git:

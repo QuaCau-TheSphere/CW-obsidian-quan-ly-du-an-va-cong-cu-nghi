@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-04-16T15:27
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 description: Việc hợp nhất copyright, patent và trademark dưới một cái tên là tài sản trí tuệ giống như hợp nhất Hàn Quốc, Mông Cổ, Pakistan lại thành nước Hàn Cổ Stan, rồi cố tìm điểm chung giữa chúng cho dù ngay từ đầu chúng chẳng liên quan gì đến nhau, dù đó là địa lý, chủng tộc, văn hoá, ngôn ngữ, chính trị, v.v.
 aliases:
   - Việc hợp nhất copyright

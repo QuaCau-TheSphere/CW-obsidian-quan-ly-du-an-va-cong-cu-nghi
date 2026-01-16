@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 ## [Các buổi đáp ứng nhu cầu học lập trình](../../../C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Truy%E1%BB%81n%20th%C3%B4ng/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md)
 [09-11](09-11.md) 15:38 https://www.facebook.com/quacau.sphere/posts/pfbid0ePQADgc8zmQH7FyVa2GjHtmaMF1Rv4h8MnwMiy3f7LgSn3YQf9tDtvUzCwwuYJmQl
@@ -63,7 +63,7 @@ dạng ảnh https://www.facebook.com/quacau.sphere/posts/pfbid02KYRdxC6aAXdkDJL
 | Ảnh trang chủ , link dưới comment |       |            |       |
 | 
 
-## [Những nơi khó chỉ mục được là những nơi gặp được nhiều cuộc trò chuyện lành mạnh](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/Nh%C3%A2n%20h%E1%BB%8Dc/Nh%E1%BB%AFng%20n%C6%A1i%20kh%C3%B3%20ch%E1%BB%89%20m%E1%BB%A5c%20%C4%91%C6%B0%E1%BB%A3c%20l%C3%A0%20nh%E1%BB%AFng%20n%C6%A1i%20g%E1%BA%B7p%20%C4%91%C6%B0%E1%BB%A3c%20nhi%E1%BB%81u%20cu%E1%BB%99c%20tr%C3%B2%20chuy%E1%BB%87n%20l%C3%A0nh%20m%E1%BA%A1nh.md)
+## [Những nơi khó chỉ mục được là những nơi gặp được nhiều cuộc trò chuyện lành mạnh](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/Nh%C3%A2n%20h%E1%BB%8Dc/Internet/Nh%E1%BB%AFng%20n%C6%A1i%20kh%C3%B3%20ch%E1%BB%89%20m%E1%BB%A5c%20%C4%91%C6%B0%E1%BB%A3c%20l%C3%A0%20nh%E1%BB%AFng%20n%C6%A1i%20g%E1%BA%B7p%20%C4%91%C6%B0%E1%BB%A3c%20nhi%E1%BB%81u%20cu%E1%BB%99c%20tr%C3%B2%20chuy%E1%BB%87n%20l%C3%A0nh%20m%E1%BA%A1nh.md)
 [26-09-24](26-09-24.md) 21:30 https://www.facebook.com/quacau.sphere/posts/pfbid02aDMNAynJcwmRKMkcqDevWL321zWDibviKexY9D3UmvhZFP55neQ3mwHB7wKuztoXl
 [27-09-24](27-09-24.md) 18:19 6 react, 2 share. Share về profile
 ## [Buổi thảo luận về việc xây dựng mạng lưới đối tác, các bên liên quan](../../../C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/Truy%E1%BB%81n%20th%C3%B4ng/Bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20vi%E1%BB%87c%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.md)

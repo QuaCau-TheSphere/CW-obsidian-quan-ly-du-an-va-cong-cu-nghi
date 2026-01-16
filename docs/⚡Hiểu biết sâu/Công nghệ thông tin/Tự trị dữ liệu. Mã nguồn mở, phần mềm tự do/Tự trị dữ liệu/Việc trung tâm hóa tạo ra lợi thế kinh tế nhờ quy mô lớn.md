@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 ---
 Khái niệm:: [Trung tâm hóa](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Trung%20t%C3%A2m%20h%C3%B3a.md)
 [Các giao thức bị tái trung tâm hóa](./C%C3%A1c%20giao%20th%E1%BB%A9c%20b%E1%BB%8B%20t%C3%A1i%20trung%20t%C3%A2m%20h%C3%B3a.md)

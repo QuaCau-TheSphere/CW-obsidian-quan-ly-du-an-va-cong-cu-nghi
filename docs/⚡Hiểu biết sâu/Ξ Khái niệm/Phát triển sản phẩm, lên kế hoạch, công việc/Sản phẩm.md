@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-28T21:54
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 - [Các cách xác định sản phẩm đã phù hợp thị trường hay chưa](../../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/Truy%E1%BB%81n%20th%C3%B4ng,%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/C%C3%A1c%20c%C3%A1ch%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20s%E1%BA%A3n%20ph%E1%BA%A9m%20%C4%91%C3%A3%20ph%C3%B9%20h%E1%BB%A3p%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20hay%20ch%C6%B0a.md)
 - [Một công ty không có sản phẩm tốt nhưng tiếp thị tốt sẽ khiến người dùng không biết về sản phẩm tốt hơn](../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Kinh%20t%E1%BA%BF/Gi%C3%A1%20tr%E1%BB%8B,%20gi%C3%A1%20c%E1%BA%A3,%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/M%E1%BB%99t%20c%C3%B4ng%20ty%20kh%C3%B4ng%20c%C3%B3%20s%E1%BA%A3n%20ph%E1%BA%A9m%20t%E1%BB%91t%20nh%C6%B0ng%20ti%E1%BA%BFp%20th%E1%BB%8B%20t%E1%BB%91t%20s%E1%BA%BD%20khi%E1%BA%BFn%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20kh%C3%B4ng%20bi%E1%BA%BFt%20v%E1%BB%81%20s%E1%BA%A3n%20ph%E1%BA%A9m%20t%E1%BB%91t%20h%C6%A1n.md)

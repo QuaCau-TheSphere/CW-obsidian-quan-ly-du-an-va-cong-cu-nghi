@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-04T13:03
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 ---
 Doanh nghiệp thì mới cần quản lý dữ liệu. LIN khác vì dữ liệu đối tác rất lớn
 

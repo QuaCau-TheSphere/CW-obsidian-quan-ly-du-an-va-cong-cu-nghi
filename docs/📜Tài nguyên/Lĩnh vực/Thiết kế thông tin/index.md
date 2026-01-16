@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-17T00:10
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 title: Thiết kế thông tin
 ---
 Lĩnh vực quan tâm đến việc trình bày thông tin sao cho người dùng hiểu thông tin một cách hiệu quả được gọi là **thiết kế thông tin**. Để hiểu về nó một cách tổng quan có thể đọc về nó trên Wikipedia: [Information design](https://en.wikipedia.org/wiki/Information_design). 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2025-12-22T17:32
+updated: 2026-01-14T13:11
 ---
 # [Các buổi đáp ứng nhu cầu học lập trình](../../../../C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Truy%E1%BB%81n%20th%C3%B4ng/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md)
 ## Pending
@@ -92,7 +92,7 @@ Làm suốt, dùng R, tạo một nhóm từ theo list phân loại sẵn để 
 ## SNPO
 [01-10-24](01-10-24.md) 23:22 https://www.facebook.com/groups/562933844569060/pending_posts/1586199662242468/
 
-# [Trong các nhu cầu, kỹ năng sau đây, nhu cầu nào bạn đang gặp khó khăn trong việc giải quyết và muốn được hướng dẫn, thảo luận thêm?](../../../../C%C3%A1c%20bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20c%C3%A1c%20nhu%20c%E1%BA%A7u/B%E1%BA%A1n%20g%E1%BA%B7p%20kh%C3%B3%20kh%C4%83n%20n%C3%A0o%20v%E1%BB%81%20nhu%20c%E1%BA%A7u%20n%C3%A0o.md)
+# [Trong các nhu cầu, kỹ năng sau đây, nhu cầu nào bạn đang gặp khó khăn trong việc giải quyết và muốn được hướng dẫn, thảo luận thêm?](B%E1%BA%A1n%20g%E1%BA%B7p%20kh%C3%B3%20kh%C4%83n%20n%C3%A0o%20v%E1%BB%81%20nhu%20c%E1%BA%A7u%20n%C3%A0o.md)
 ## SNPO
 [05-10-24](05-10-24.md) 22:27 https://www.facebook.com/groups/562933844569060/pending_posts/1589179501944484/
 [16-10-24](16-10-24.md) 13:15 duyệt https://www.facebook.com/groups/mangluoisnpo/posts/1589179501944484/

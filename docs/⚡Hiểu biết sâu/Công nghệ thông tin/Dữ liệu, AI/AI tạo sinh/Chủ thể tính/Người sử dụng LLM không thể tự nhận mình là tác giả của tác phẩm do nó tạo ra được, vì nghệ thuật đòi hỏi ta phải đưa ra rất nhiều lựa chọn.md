@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-06T09:06
-updated: 2025-12-22T17:31
+updated: 2026-01-14T13:10
 description: Nghệ thuật là việc lựa chọn. Dù trong lúc lao động mình không để ý vào việc mình lựa chọn thì mình vẫn phải lựa chọn vô vàn thứ. Trong khi đó, kết quả từ AI không phải từ sự lựa chọn
 ---
 Khái niệm:: [Văn bản](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/V%C4%83n%20b%E1%BA%A3n.md)

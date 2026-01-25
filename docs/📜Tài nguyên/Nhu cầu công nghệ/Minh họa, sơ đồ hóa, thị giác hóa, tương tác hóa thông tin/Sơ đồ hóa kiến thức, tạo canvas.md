@@ -1,13 +1,14 @@
 ---
 share: true
 created: 2024-10-18T12:41
-updated: 2026-01-14T13:11
+updated: 2026-01-19T12:53
 aliases:
-  - Sơ đồ kiến thức, canvas
+  - Sơ đồ kiến thức, canvas, mindmap
 description: Thể hiện bức tranh toàn cảnh giữa các lập luận, ý tưởng
 ---
 Cơ bản là để nghĩ tốt hơn
 Canvas giống như một bàn làm việc được trải ra hơn là đơn thuần là nơi vẽ. Xem [Zsolt's Visual Personal Knowledge Management - YouTube](https://www.youtube.com/@VisualPKM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=5G9QF-u9w0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Graphic facilitation - Wikipedia](https://en.wikipedia.org/wiki/Graphic_facilitation)
 [Rich picture - Wikipedia](https://en.wikipedia.org/wiki/Rich_picture)
 [Rich pictures \| OpenLearn - Open University](https://www.open.edu/openlearn/science-maths-technology/engineering-technology/rich-pictures)
@@ -16,7 +17,7 @@ Canvas giống như một bàn làm việc được trải ra hơn là đơn thu
 
 ## Các loại sơ đồ
 Lý thuyết phạm trù
-https://untools.co/
+[Tools for better thinking \| Untools](https://untools.co/)
 [UX Mapping Methods Compared: A Cheat Sheet - NN/G](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/), [UX Mapping Methods: Study Guide - NN/G](https://www.nngroup.com/articles/ux-mapping-methods-study-guide/)
 [nihlibrary.nih.gov/sites/default/files/Creating\_Infographics\_with\_Inkscape.pdf](https://www.nihlibrary.nih.gov/sites/default/files/Creating_Infographics_with_Inkscape. pdf)
 ![A SURVEY OF STAKEHOLDER VISUALIZATION APPROACHES.pdf](../../../attachments/A%20SURVEY%20OF%20STAKEHOLDER%20VISUALIZATION%20APPROACHES.pdf)

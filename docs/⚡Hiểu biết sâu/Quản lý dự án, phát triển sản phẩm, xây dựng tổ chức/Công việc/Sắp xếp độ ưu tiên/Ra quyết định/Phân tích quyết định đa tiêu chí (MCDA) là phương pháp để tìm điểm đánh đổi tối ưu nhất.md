@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-01-14T13:11
+updated: 2026-01-20T13:55
 ---
-Khái niệm:: [Ra quyết định](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%E1%BA%A3n%20l%C3%BD%20t%E1%BB%95%20ch%E1%BB%A9c/Ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh.md)
+Khái niệm:: [Ra quyết định](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%E1%BA%A3n%20l%C3%BD%20t%E1%BB%95%20ch%E1%BB%A9c/Ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh.md), [Thước đo, đo lường, chỉ số, KPI](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/Th%C6%B0%E1%BB%9Bc%20%C4%91o,%20%C4%91o%20l%C6%B0%E1%BB%9Dng,%20ch%E1%BB%89%20s%E1%BB%91,%20KPI.md)
 Không biết phương pháp này đã tối ưu nhất chưa? Không biết nó đã phải đánh đổi cái gì với cái gì?
 Bản chất là bài toán tính thể tích vật đa chiều
 Nguồn:: [Wikipedia](../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%E1%BB%99ng%20%C4%91%E1%BB%93ng%20online/Wikipedia/index.md), [Multiple-criteria decision analysis - Wikipedia](https://en.wikipedia.org/wiki/Multiple-criteria_decision_analysis)

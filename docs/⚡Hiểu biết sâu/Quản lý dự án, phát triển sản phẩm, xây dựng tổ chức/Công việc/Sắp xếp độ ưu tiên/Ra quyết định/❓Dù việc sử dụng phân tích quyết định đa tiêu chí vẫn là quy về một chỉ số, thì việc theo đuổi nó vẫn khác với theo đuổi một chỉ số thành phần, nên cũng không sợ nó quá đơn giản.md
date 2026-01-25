@@ -1,0 +1,10 @@
+---
+share: true
+created: 2024-11-18T14:20
+updated: 2026-01-23T11:45
+---
+Khái niệm:: [Ra quyết định](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%E1%BA%A3n%20l%C3%BD%20t%E1%BB%95%20ch%E1%BB%A9c/Ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh.md), [Thước đo, đo lường, chỉ số, KPI](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/Th%C6%B0%E1%BB%9Bc%20%C4%91o,%20%C4%91o%20l%C6%B0%E1%BB%9Dng,%20ch%E1%BB%89%20s%E1%BB%91,%20KPI.md)
+[Phân tích quyết định đa tiêu chí (MCDA) là phương pháp để tìm điểm đánh đổi tối ưu nhất](./Ph%C3%A2n%20t%C3%ADch%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20%C4%91a%20ti%C3%AAu%20ch%C3%AD%20(MCDA)%20l%C3%A0%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91i%E1%BB%83m%20%C4%91%C3%A1nh%20%C4%91%E1%BB%95i%20t%E1%BB%91i%20%C6%B0u%20nh%E1%BA%A5t.md)
+[❓Theo đuổi một bộ chỉ số thì không còn sợ là quá đơn giản nữa](../../../Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/%E2%9D%93Theo%20%C4%91u%E1%BB%95i%20m%E1%BB%99t%20b%E1%BB%99%20ch%E1%BB%89%20s%E1%BB%91%20th%C3%AC%20kh%C3%B4ng%20c%C3%B2n%20s%E1%BB%A3%20l%C3%A0%20qu%C3%A1%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20n%E1%BB%AFa.md)
+[❓Việc theo đuổi chỉ số sẽ không phải là vấn đề nếu người tạo ra chỉ số là người quyết định dự án hoặc không để quyết định con người](../../../Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/%E2%9D%93Vi%E1%BB%87c%20theo%20%C4%91u%E1%BB%95i%20ch%E1%BB%89%20s%E1%BB%91%20s%E1%BA%BD%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20n%E1%BA%BFu%20ng%C6%B0%E1%BB%9Di%20t%E1%BA%A1o%20ra%20ch%E1%BB%89%20s%E1%BB%91%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20d%E1%BB%B1%20%C3%A1n%20ho%E1%BA%B7c%20kh%C3%B4ng%20%C4%91%E1%BB%83%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20con%20ng%C6%B0%E1%BB%9Di.md)
+Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../../%CE%9E%20Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)

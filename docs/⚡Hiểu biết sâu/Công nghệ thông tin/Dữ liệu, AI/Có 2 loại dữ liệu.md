@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-16T12:53
-updated: 2026-01-26T11:04
+updated: 2026-01-Mo'T'16:17
 aliases:
   - Người làm dữ liệu đối diện với sự thiếu sót của dữ liệu thế nào?
 filename: Có 2 loại dữ liệu
@@ -64,5 +64,6 @@ Trong khi đó, ngành này thì lại chỉ xử lý dữ liệu loại 1 (vì 
 ## Xem thêm
 - [Việc phân loại không quan trọng bằng việc chuẩn bị cho sự thay đổi cách phân loại](../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/B%E1%BA%A3n%20th%E1%BB%83%20lu%E1%BA%ADn/Ph%C3%A2n%20lo%E1%BA%A1i/Vi%E1%BB%87c%20ph%C3%A2n%20lo%E1%BA%A1i%20kh%C3%B4ng%20quan%20tr%E1%BB%8Dng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20chu%E1%BA%A9n%20b%E1%BB%8B%20cho%20s%E1%BB%B1%20thay%20%C4%91%E1%BB%95i%20c%C3%A1ch%20ph%C3%A2n%20lo%E1%BA%A1i.md)
 - [Chỉ theo đuổi một chỉ số là quá đơn giản](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/Ch%E1%BB%89%20theo%20%C4%91u%E1%BB%95i%20m%E1%BB%99t%20ch%E1%BB%89%20s%E1%BB%91%20l%C3%A0%20qu%C3%A1%20%C4%91%C6%A1n%20gi%E1%BA%A3n.md). [Sự đơn giản ép ta phải làm nó cực kỳ tốt](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Th%C3%A0nh%20l%E1%BA%ADp%20d%E1%BB%B1%20%C3%A1n/Startup/S%E1%BB%B1%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20%C3%A9p%20ta%20ph%E1%BA%A3i%20l%C3%A0m%20n%C3%B3%20c%E1%BB%B1c%20k%E1%BB%B3%20t%E1%BB%91t.md)
+- [Việc phân loại không quan trọng bằng việc chuẩn bị cho sự thay đổi cách phân loại](../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/B%E1%BA%A3n%20th%E1%BB%83%20lu%E1%BA%ADn/Ph%C3%A2n%20lo%E1%BA%A1i/Vi%E1%BB%87c%20ph%C3%A2n%20lo%E1%BA%A1i%20kh%C3%B4ng%20quan%20tr%E1%BB%8Dng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20chu%E1%BA%A9n%20b%E1%BB%8B%20cho%20s%E1%BB%B1%20thay%20%C4%91%E1%BB%95i%20c%C3%A1ch%20ph%C3%A2n%20lo%E1%BA%A1i.md)
 
 Khái niệm:: [Dữ liệu](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md), [Mô hình](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/M%C3%B4%20h%C3%ACnh.md), [Phân loại](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Ph%C3%A2n%20lo%E1%BA%A1i.md)

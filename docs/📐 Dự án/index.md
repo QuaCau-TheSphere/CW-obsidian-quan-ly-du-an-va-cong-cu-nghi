@@ -1,10 +1,9 @@
 ---
 share: true
 created: 2023-10-28T22:40
-updated: 2026-01-14T13:17
+updated: 2026-01-Mo'T'15:23
 title: 📐 Dự án
 ---
-
 > [!info] Bài chi tiết
 >[Phá vỡ silo thông tin, nắm bắt nhu cầu các bên và sử dụng các nguồn tài nguyên cộng đồng hiệu quả: vai trò của các phần mềm ghi chú động lưu dữ liệu tại máy người dùng và ở định dạng đơn giản](./M%C3%B4%20t%E1%BA%A3%20d%E1%BB%B1%20%C3%A1n.md)
 
@@ -48,7 +47,7 @@ Nhà nghiên cứu
 - Vẽ biểu đồ Venn các nét nghĩa
 
 ### Xây dựng mạng kết nối nhu cầu
-- Tham gia với nhóm VCIL, Duy Phong
+- Tham gia với nhóm VCIL
 
 ### Giúp người thụ hưởng truy vấn, liên kết thông tin từ kho khác và tự động hoá việc đóng góp dữ liệu vào chúng 
 - Viết plugin Obsidian giúp đẩy dữ liệu trong kho lên các nền tảng khác nhau

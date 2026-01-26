@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2025-05-23T19:46
-updated: 2026-01-14T13:11
+updated: 2026-01-Mo'T'15:43
 title: "Từ việc phá vỡ silo thông tin và sử dụng hiệu quả các nguồn lực cộng đồng, đến hệ thống quản lý niềm tin và nền kinh tế không dùng tiền: vai trò của các phần mềm ghi chú động lưu dữ liệu tại máy người dùng và ở định dạng đơn giản"
 description: Chỉ khi nào nhu cầu của các bên liên quan hiện ra ngay trong kho dữ liệu của nhóm mà không cần phải hỏi họ hay thậm chí là nhập liệu, thì lúc đó chúng ta mới có thể bắt đầu nói về một hệ sinh thái mà những thành viên mới – vốn rất thiếu nhân lực – vẫn có thể hưởng lợi.
 aliases:
   - Mô tả dự án
   - Phá vỡ silo thông tin, nắm bắt nhu cầu các bên và sử dụng các nguồn tài nguyên cộng đồng hiệu quả
   - Vai trò của các phần mềm ghi chú động lưu dữ liệu tại máy người dùng và ở định dạng đơn giản
-  - Từ việc phá vỡ silo thông tin và sử dụng hiệu quả các nguồn lực cộng đồng, đến hệ thống quản lý niềm tin và nền kinh tế không dùng tiền: vai trò của các phần mềm ghi chú động lưu dữ liệu tại máy người dùng và ở định dạng đơn giản
+  - "Từ việc phá vỡ silo thông tin và sử dụng hiệu quả các nguồn lực cộng đồng, đến hệ thống quản lý niềm tin và nền kinh tế không dùng tiền: vai trò của các phần mềm ghi chú động lưu dữ liệu tại máy người dùng và ở định dạng đơn giản"
 ---
 
 > [!NOTE] Bài viết đang hoàn thiện
@@ -213,7 +213,3 @@ Tôi cho rằng chiến lược hợp tác liên quan đến việc xem xét qua
 Người quản lý niềm tin nên giúp người dùng giảm chi phí để làm như vậy.
 
 ## Tài liệu tham khảo
-
-Khái niệm:: 
-
-Nguồn:: 

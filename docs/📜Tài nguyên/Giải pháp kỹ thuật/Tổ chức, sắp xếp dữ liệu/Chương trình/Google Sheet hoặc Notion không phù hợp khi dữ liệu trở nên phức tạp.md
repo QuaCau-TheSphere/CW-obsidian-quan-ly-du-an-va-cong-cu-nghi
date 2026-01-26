@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2025-12-31T11:01
-updated: 2026-01-14T13:11
+updated: 2026-01-Mo'T'15:50
 ---
-title: Khi nào thì Google Sheet hoặc Notion không phù hợp để dùng?
+# Khi nào thì Google Sheet hoặc Notion không phù hợp để dùng?
 Theo dõi protocol quan trọng
 
 Giao cho nhân sự

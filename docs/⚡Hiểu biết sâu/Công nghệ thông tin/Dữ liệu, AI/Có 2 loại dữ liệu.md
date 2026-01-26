@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2026-01-16T12:53
-updated: 2026-01-25T17:10
+updated: 2026-01-26T11:04
 aliases:
   - Người làm dữ liệu đối diện với sự thiếu sót của dữ liệu thế nào?
-  - Có 2 loại dữ liệu: dữ liệu đến từ sự định lượng của con người và dữ liệu từ cảm biến. Mỗi loại dữ liệu sẽ có tư duy làm việc với chúng khác nhau
+filename: Có 2 loại dữ liệu
 ---
 # Người làm dữ liệu đối diện với sự thiếu sót của dữ liệu thế nào?
 [Ngành khoa học dữ liệu còn nhiều thuật ngữ không có sự ổn định về nghĩa](./Ng%C3%A0nh%20khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u%20c%C3%B2n%20nhi%E1%BB%81u%20thu%E1%BA%ADt%20ng%E1%BB%AF%20kh%C3%B4ng%20c%C3%B3%20s%E1%BB%B1%20%E1%BB%95n%20%C4%91%E1%BB%8Bnh%20v%E1%BB%81%20ngh%C4%A9a.md). Thậm chí có người còn cho rằng [cái gọi là khoa học dữ liệu đúng ra chỉ là kỹ thuật dữ liệu](./C%C3%A1i%20g%E1%BB%8Di%20l%C3%A0%20khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u%20%C4%91%C3%BAng%20ra%20ch%E1%BB%89%20l%C3%A0%20k%E1%BB%B9%20thu%E1%BA%ADt%20d%E1%BB%AF%20li%E1%BB%87u.md). (Giống như không có khoa học phần mềm mà chỉ có kỹ thuật phần mềm.) Cho nên không có một loại người làm dữ liệu duy nhất để bàn về quan điểm của họ, mà phải biết là mình đang nói về loại người làm dữ liệu nào. Và loại người làm dữ liệu nào phụ thuộc vào bài toán dữ liệu nào họ thường giải quyết. Mỗi loại bài toán sẽ có nguồn gốc dữ liệu và cách sử dụng chúng khác nhau, dẫn đến cách tư duy khi giải quyết chúng cũng khác nhau.
@@ -12,7 +12,7 @@ aliases:
 ## Dữ liệu có nguồn gốc từ đâu?
 Tôi cho rằng dữ liệu có hai loại nguồn gốc. **Loại dữ liệu thứ nhất đến từ sự định lượng của con người về một khái niệm.** VD: bao nhiêu người là nam, bao nhiêu vị thần linh, bao nhiêu lượt truy cập web, v.v. Những khái niệm này vốn đã mang tính phân loại, và có nhiều cách để định nghĩa. Các định nghĩa này dù na ná nhau nhưng độc lập với nhau, không thể quy đổi được. Giả sử bạn đã thống kê được bao nhiêu người là nam theo định nghĩa 1, nhưng sau đó muốn biết bao nhiêu người là nam theo định nghĩa 2, thì bạn phải thống kê lại từ đầu chứ không chuyển đổi đơn vị được. Không có chuyện quy đổi 1 nam theo định nghĩa 1 bằng bao nhiêu nam theo định nghĩa 2.
 
-**Loại dữ liệu thứ hai đến từ các cảm biến.** Tất cả cảm biến đều hoạt động bằng việc đo một tần số năng lượng nào đó. Cơ bản chúng là những cái radio mini, nếu gặp dò trúng đài thì nó báo tín hiệu. Việc thí nghiệm giống như việc dò vài triệu cái đài cùng lúc. Dữ liệu chúng tạo ra sẽ luôn có đơn vị là tổ hợp của 7 đơn vị cơ bản sau:
+**Loại dữ liệu thứ hai đến từ sự đo lường các đại lượng vật lý.** VD: dài bao nhiêu mét, nặng bao nhiêu ký, v.v. Sự đo lường này đến từ các cảm biến, vốn hoạt động bằng việc đo một tần số năng lượng nào đó. Chúng giống như các radio mini, nếu dò trúng đài (gặp đúng tần số) thì báo tín hiệu. Các thí nghiệm (nhất là với các thí nghiệm lớn) giống như việc dò vài triệu cái đài cùng lúc. Dữ liệu chúng tạo ra sẽ luôn có đơn vị là tổ hợp của 7 đơn vị cơ bản sau:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O8oZFaaJTUc?si=NXVvChgEGOhrvuVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -54,7 +54,7 @@ Do cuộc đời của họ gắn chặt với dữ liệu loại 2 nên góc nh
 Trích Max Planck:
 > Mỗi thí nghiệm là một câu hỏi mà khoa học đặt ra cho tự nhiên, và mỗi phép đo là sự ghi lại câu trả lời của tự nhiên
 
-Nếu xem con số là câu trả lời của tự nhiên, và nếu xem tự nhiên thì không nói dối, thì đúng là `Các con số không biết nói dối` thật. Tất nhiên, họ cũng biết rằng một nửa sự thật thì không phải là sự thật, và rằng có thể có những điều mà không những các cảm biến không đo được, mà cả các mô hình tính toán cũng không chỉ ra được luôn. Giống như những hạt neutrino bay qua không để lại tương tác gì cả. Nhưng việc có những thứ không đo đạc được đó không làm họ đau khổ như những đồng nghiệp bên khoa học xã hội. Nó đúng là kiểu "out of sight, out of mind" mà những đồng nghiệp bên khoa học xã hội sợ hãi. Nếu bằng lập luận họ chỉ ra được còn những thứ mà lần lấy dữ liệu lần trước còn thiếu sót thì họ đi đo lại thôi, không việc gì phải xoắn. Nếu bây giờ chưa đo được thì tương lai con cháu sau này sẽ đo được. Còn nếu nó mãi mãi không đo được thì chắc được gọi là tâm linh, hoặc là lý thuyết dây.
+Nếu xem con số là câu trả lời của tự nhiên, và nếu xem tự nhiên thì không nói dối, thì đúng là `Các con số không biết nói dối` thật. Tất nhiên, họ cũng biết rằng một nửa sự thật thì không phải là sự thật, và rằng có thể có những điều mà không những các cảm biến không đo được, mà cả các mô hình tính toán cũng không chỉ ra được luôn. Giống như những hạt neutrino bay qua không để lại tương tác gì cả. Nhưng việc có những thứ không đo đạc được đó không làm họ đau khổ như những đồng nghiệp bên khoa học xã hội. Nó đúng là kiểu "out of sight, out of mind" mà những người kia sợ hãi. Nếu bằng lập luận họ chỉ ra được còn những thứ mà lần lấy dữ liệu lần trước còn thiếu sót thì họ đi đo lại thôi, không việc gì phải xoắn. Nếu bây giờ chưa đo được thì tương lai con cháu sau này sẽ đo được. Còn nếu nó mãi mãi không đo được thì chắc được gọi là triết học, tâm linh, hoặc lý thuyết dây.
 
 #### Ảnh hưởng của ngành vật lý lên ngành dữ liệu
 Có lẽ có thể nói là nhu cầu xây dựng lý thuyết mới về tính toán và thống kê gắn chặt với nhu cầu giải quyết bài toán của các ngành khoa học tự nhiên, đặc biệt là vật lý. ([Vật lý tính toán là ứng dụng đầu tiên của máy tính vào khoa học](https://hsm.stackexchange.com/a/19171/65). Những chiếc máy tính đầu tiên được phát triển những năm thế chiến 2, lúc nhu cầu tính toán đường đạn và phản ứng hạt nhân tăng cao.) Cộng với việc khoa học tính toán ra đời sớm hơn và đòi hỏi những xử lý phức tạp hơn khoa học dữ liệu, nên có lẽ những người làm khoa học tự nhiên sẽ có lợi thế khi chuyển sang ngành dữ liệu.

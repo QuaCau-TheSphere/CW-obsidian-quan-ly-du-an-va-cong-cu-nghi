@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-16T12:53
-updated: 2026-01-Mo'T'16:17
+updated: 2026-01-Tu'T'13:35
 aliases:
   - Người làm dữ liệu đối diện với sự thiếu sót của dữ liệu thế nào?
 filename: Có 2 loại dữ liệu
@@ -60,6 +60,14 @@ Nếu xem con số là câu trả lời của tự nhiên, và nếu xem tự nh
 Có lẽ có thể nói là nhu cầu xây dựng lý thuyết mới về tính toán và thống kê gắn chặt với nhu cầu giải quyết bài toán của các ngành khoa học tự nhiên, đặc biệt là vật lý. ([Vật lý tính toán là ứng dụng đầu tiên của máy tính vào khoa học](https://hsm.stackexchange.com/a/19171/65). Những chiếc máy tính đầu tiên được phát triển những năm thế chiến 2, lúc nhu cầu tính toán đường đạn và phản ứng hạt nhân tăng cao.) Cộng với việc khoa học tính toán ra đời sớm hơn và đòi hỏi những xử lý phức tạp hơn khoa học dữ liệu, nên có lẽ những người làm khoa học tự nhiên sẽ có lợi thế khi chuyển sang ngành dữ liệu.
 
 Trong khi đó, ngành này thì lại chỉ xử lý dữ liệu loại 1 (vì dữ liệu loại 2 là ở ngành khoa học tính toán). Và vì cả hai loại dữ liệu đều được gọi chung là dữ liệu, nên những người làm khoa học tự nhiên sẽ không để ý thấy mình đang dùng tư duy sai lên bộ dữ liệu của mình, trừ phi làm trong ngành thật lâu. Nên có lẽ một phần việc người sử dụng dữ liệu không để ý đến vấn đề của dữ liệu là từ chuyện này. Có thể xem đây là một dạng lấy vật lý làm trung tâm. (Nó khác vật lý luận ở chỗ nó chỉ dùng tư duy vật lý trong việc xử lý dữ liệu, không phải là quan niệm xem mọi thứ đều giải thích được bằng vật lý).
+
+## Tiền và kinh tế học
+Tiền tuy không phải là đại lượng vật lý và là sự định lượng của con người về khái niệm, nhưng có vẻ nó vẫn mang các đặc điểm của dữ liệu loại 2 hơn là loại 1: 
+- **Có thể chuyển đổi giữa các cách định nghĩa:** tuy có nhiều cách định nghĩa về [giá trị](https://en.wikipedia.org/wiki/Exchange_value), nhưng một khi nó đã là **vật trung gian** rồi thì tất cả mọi người đều phải đồng ý với nhau?
+- **Các biểu thức tường minh giữa các khái niệm có thể thiết lập được:** các phương trình kế toán, kinh tế
+- **Hệ kinh tế có thể mô phỏng được:** value flow, lý thuyết nhóm. Ngoài thống kê, toán tài chính, kinh tế cũng đóng góp những thứ khác vào toán. Ví dụ như số âm, số e.
+
+Có lẽ tiền là một ngoại lệ của cả loại 1 và loại 2. Hoặc nói cách khác nó là một điểm giao của 1 và 2?
 
 ## Xem thêm
 - [Việc phân loại không quan trọng bằng việc chuẩn bị cho sự thay đổi cách phân loại](../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/B%E1%BA%A3n%20th%E1%BB%83%20lu%E1%BA%ADn/Ph%C3%A2n%20lo%E1%BA%A1i/Vi%E1%BB%87c%20ph%C3%A2n%20lo%E1%BA%A1i%20kh%C3%B4ng%20quan%20tr%E1%BB%8Dng%20b%E1%BA%B1ng%20vi%E1%BB%87c%20chu%E1%BA%A9n%20b%E1%BB%8B%20cho%20s%E1%BB%B1%20thay%20%C4%91%E1%BB%95i%20c%C3%A1ch%20ph%C3%A2n%20lo%E1%BA%A1i.md)

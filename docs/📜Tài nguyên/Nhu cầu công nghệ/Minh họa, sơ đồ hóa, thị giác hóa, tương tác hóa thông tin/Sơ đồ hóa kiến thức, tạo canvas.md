@@ -1,18 +1,22 @@
 ---
 share: true
 created: 2024-10-18T12:41
-updated: 2026-01-19T12:53
+updated: 2026-01-29T18:00
 aliases:
   - Sơ đồ kiến thức, canvas, mindmap
 description: Thể hiện bức tranh toàn cảnh giữa các lập luận, ý tưởng
 ---
 Cơ bản là để nghĩ tốt hơn
+
+
 Canvas giống như một bàn làm việc được trải ra hơn là đơn thuần là nơi vẽ. Xem [Zsolt's Visual Personal Knowledge Management - YouTube](https://www.youtube.com/@VisualPKM)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=5G9QF-u9w0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Graphic facilitation - Wikipedia](https://en.wikipedia.org/wiki/Graphic_facilitation)
+
+
+[![What is a rich picture diagram — a group of people sketching a rich picture about planning a group holiday, showing connected ideas, icons, and notes on a large whiteboard to visualise a complex situation.](https://images.prismic.io/sketchplanations/aPdPDbpReVYa3gPX_SP948-RichPictures.png?auto=format%2Ccompress&fit=max&w=3840)](https://sketchplanations.com/rich-pictures)
 [Rich picture - Wikipedia](https://en.wikipedia.org/wiki/Rich_picture)
 [Rich pictures \| OpenLearn - Open University](https://www.open.edu/openlearn/science-maths-technology/engineering-technology/rich-pictures)
-[Rich Pictures: Making sense of Complex situations](https://sketchplanations.substack.com/p/rich-pictures?utm_source=share&utm_medium=android&r=o1jso&triedRedirect=true)
 [Sơ đồ không phụ thuộc vào hướng. Bản đồ phụ thuộc vào hướng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/C%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/S%C6%A1%20%C4%91%E1%BB%93%20kh%C3%B4ng%20ph%E1%BB%A5%20thu%E1%BB%99c%20v%C3%A0o%20h%C6%B0%E1%BB%9Bng.%20B%E1%BA%A3n%20%C4%91%E1%BB%93%20ph%E1%BB%A5%20thu%E1%BB%99c%20v%C3%A0o%20h%C6%B0%E1%BB%9Bng.md)
 
 ## Các loại sơ đồ
@@ -28,6 +32,7 @@ Lý thuyết phạm trù
 - [The Flowchart - UKPersonalFinance Wiki](https://ukpersonal.finance/flowchart/)
 ## Tự nhập ý tưởng của mình
 ### Số lượng nhỏ
+[Chỉ cần mẩu khăn giấy](https://file.nhasachmienphi.com/pdf/nhasachmienphi-chi-can-mau-khan-giay.pdf)
 - UML, mermaid 
 - [Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)
 - [Excalidraw Whiteboard](https://excalidraw.com/)

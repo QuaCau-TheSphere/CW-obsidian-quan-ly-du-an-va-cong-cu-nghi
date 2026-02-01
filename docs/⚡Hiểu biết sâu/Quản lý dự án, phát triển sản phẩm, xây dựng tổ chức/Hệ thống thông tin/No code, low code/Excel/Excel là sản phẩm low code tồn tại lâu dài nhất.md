@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-01-Mo'T'21:45
+updated: 2026-01-27T15:21
 ---
 Khái niệm:: 
 Nguồn:: [Excel Never Dies - Not Boring by Packy McCormick](https://www.notboring.co/p/excel-never-dies)

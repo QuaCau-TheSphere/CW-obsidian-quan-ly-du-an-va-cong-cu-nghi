@@ -1,10 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-01-14T13:10
+updated: 2026-02-03T13:41
 ---
 Khái niệm:: [Diễn giải, đọc](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Di%E1%BB%85n%20gi%E1%BA%A3i,%20%C4%91%E1%BB%8Dc.md), [Văn bản](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/V%C4%83n%20b%E1%BA%A3n.md)
 [Một phần quan trọng của sự kiến tạo cuộc đá gà thành một văn bản là một quá trình hội thoại và đối mặt với một số người Bali chứ không phải là việc đọc và diễn giải văn hóa đằng sau lưng họ](./S%E1%BB%B1%20ki%E1%BA%BFn%20t%E1%BA%A1o%20cu%E1%BB%99c%20%C4%91%C3%A1%20g%C3%A0%20%E1%BB%9F%20Bali%20th%C3%A0nh%20m%E1%BB%99t%20v%C4%83n%20b%E1%BA%A3n.md) 
+[Uy quyền diễn giải loại bỏ các quá trình đối thoại. Uy quyền đối thoại hoàn toàn che dấu đi tiến trình văn bản hóa](../Uy%20quy%E1%BB%81n%20di%E1%BB%85n%20gi%E1%BA%A3i%20lo%E1%BA%A1i%20b%E1%BB%8F%20c%C3%A1c%20qu%C3%A1%20tr%C3%ACnh%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i.%20Uy%20quy%E1%BB%81n%20%C4%91%E1%BB%91i%20tho%E1%BA%A1i%20ho%C3%A0n%20to%C3%A0n%20che%20d%E1%BA%A5u%20%C4%91i%20ti%E1%BA%BFn%20tr%C3%ACnh%20v%C4%83n%20b%E1%BA%A3n%20h%C3%B3a.md)
 
 Một bước quan trọng thứ hai trong phân tích của Ricoeur chính là việc ông mô tả quá trình chuyển đổi từ “diễn ngôn” sang văn bản. Diễn ngôn, theo định nghĩa kinh điển của Benveniste, là một phương thức giao tiếp mà trong đó bao giờ cũng có một chủ thể nói chuyện và có một tình huống giao tiếp cụ thể. Diễn ngôn được đánh dấu bởi các đại từ nhân xưng (được nói ra hoặc ngầm chỉ) như “Tôi” và “Anh/Chị”, và bởi những từ nặng tính quy chiếu về không gian và thời gian diễn ngôn (deictic indicators) như “đó”, “đây” và “hiện nay” vv...vốn đánh dấu giây phút hiện tại ngay lúc diễn ngôn chứ không phải là cái gì sau lúc diễn ngôn. [Với những từ này- NHĐ] Diễn ngôn bao giờ cũng gắn kết với một tình huống cụ thể [lúc diễn ngôn] mà trong đó một chủ thể tận dụng những nguồn lực của ngôn ngữ để đối thoại. Ricoeur cho rằng diễn ngôn không thể được hiểu theo nhiều cách khác nhau như cách mà văn bản được “đọc” [theo nhiều cách khác nhau] bởi những người đọc. Để có thể hiểu diễn ngôn thì chính anh “phải có mặt ở đó”, khi có sự có mặt của chủ thể đang thực hiện diễn ngôn. Để diễn ngôn trở thành văn bản, nó phải trở nên “đôc lập”, theo cách mô tả của Ricoeur, hoàn toàn tách rời khỏi những lời nói cụ thể hoặc chủ đích của tác giả. [Nói khác đi- NHĐ] Diễn giải [văn bản] không còn phải là sự đối thoại. Nó không phụ thuộc vào việc có mặt một người nói. 
 

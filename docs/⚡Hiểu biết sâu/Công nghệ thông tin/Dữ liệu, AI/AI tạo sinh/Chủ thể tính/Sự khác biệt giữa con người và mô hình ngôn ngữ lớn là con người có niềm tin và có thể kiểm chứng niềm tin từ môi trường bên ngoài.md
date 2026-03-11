@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-01-14T13:10
+updated: 2026-03-10T14:29
 ---
 We are embodied humans in a shared reality filled with rich embodied sensory information.
 
@@ -33,3 +33,5 @@ Nguồn:: [Maggie Appleton](../../../../%CE%9E%20Ngu%E1%BB%93n/M%C3%B4i%20tr%C6%
 
 [Talk: The Expanding Dark Forest and Generative AI](https://maggieappleton.com/forest-talk)
 [The Expanding Dark Forest and Generative AI](https://maggieappleton.com/ai-dark-forest)
+[Ảo giác là việc có niềm tin sai về thế giới do có giác quan sai. LLM không có giác quan cũng không có niềm tin, nên gọi nó là ảo giác là không đúng](../Gi%E1%BB%9Bi%20h%E1%BA%A1n/%E1%BA%A2o%20gi%C3%A1c/%E1%BA%A2o%20gi%C3%A1c%20l%C3%A0%20vi%E1%BB%87c%20c%C3%B3%20ni%E1%BB%81m%20tin%20sai%20v%E1%BB%81%20th%E1%BA%BF%20gi%E1%BB%9Bi%20do%20c%C3%B3%20gi%C3%A1c%20quan%20sai.%20LLM%20kh%C3%B4ng%20c%C3%B3%20gi%C3%A1c%20quan%20c%C5%A9ng%20kh%C3%B4ng%20c%C3%B3%20ni%E1%BB%81m%20tin,%20n%C3%AAn%20g%E1%BB%8Di%20n%C3%B3%20l%C3%A0%20%E1%BA%A3o%20gi%C3%A1c%20l%C3%A0%20kh%C3%B4ng%20%C4%91%C3%BAng.md)
+[Cứt bò cứt ngựa trong thời đại dữ liệu](../../C%E1%BB%A9t%20b%C3%B2%20c%E1%BB%A9t%20ng%E1%BB%B1a%20trong%20th%E1%BB%9Di%20%C4%91%E1%BA%A1i%20d%E1%BB%AF%20li%E1%BB%87u.md)

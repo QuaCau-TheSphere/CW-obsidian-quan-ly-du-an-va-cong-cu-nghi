@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-04-24T09:02
-updated: 2026-01-14T13:11
+updated: 2026-03-06T16:14
 title: Làm sao để tìm được thứ cần tìm khi không biết từ khóa chính xác của nó?
 aliases:
   - Đâu là nơi dễ gặp được từ khóa cần tìm nhất?
@@ -61,7 +61,7 @@ Thường đó sẽ là các danh sách được tuyển chọn, ví dụ như:
 Các kho kiến thức:
  - Với tiếng Việt thì có [trang giới thiệu về đối ⊷ thoại](https://doi-thoai.deno.dev/blog?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=đối+⊷+thoại&utm_content=⚡Hiểu+biết+sâu%2FNghĩ+về+việc+nghĩ%2FHọc+tập%2C+hiểu+biết%2FLàm+sao+để+tìm+được+thứ+ta+cần+khi+ta+không+biết+từ+khoá+chính+xác+của+nó.md&utm_term=).
 
-Xem thêm:: [Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
+Xem thêm:: [Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c,%20t%C3%A0i%20nguy%C3%AAn%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
 ### Các nghiên cứu tổng quan, sách nhập môn, bài giảng đại học
 Hết cách rồi, phải lao đầu vào nghiên cứu thật kỹ thôi.
 
@@ -97,7 +97,7 @@ Hoặc cũng có thể có câu trả lời rồi mà mình chưa biết. Nếu 
 - [Khai thác một từ khoá](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Khai%20th%C3%A1c%20m%E1%BB%99t%20t%E1%BB%AB%20kho%C3%A1.md)
 - [Bản chất của sự mơ hồ](https://quảcầu.cc/ly-thuyet-ve-goc-nhin?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Hiểu+biết+sâu)&utm_medium=Vault&utm_campaign=hiểu+lầm%2Cnét+nghĩa+ẩn%2Cthay+đổi+góc+nhìn%2CHiện+tượng+học%2C+khoa+học+nhận+thức%2C+vật+lý+luận%2Chiện+tượng+học&utm_content=⚡Hiểu+biết+sâu%2FNghĩ+về+việc+nghĩ%2FHọc+tập%2C+hiểu+biết%2FLàm+sao+để+tìm+được+thứ+ta+cần+khi+ta+không+biết+từ+khoá+chính+xác+của+nó.md&utm_term=)
 - [Nghịch lý triển ngôn: Ý tưởng có trước hay sự triển khai ngôn ngữ có trước?](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/Ngh%E1%BB%8Bch%20l%C3%BD%20tri%E1%BB%83n%20ng%C3%B4n.md)
-- [Xây dựng hệ thống tri thức cộng đồng: Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md) 
+- [Xây dựng hệ thống tri thức cộng đồng: Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?](./Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c,%20t%C3%A0i%20nguy%C3%AAn%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md) 
 - [Làm sao để giỏi hơn: Sự chuyên gia (expertise) đến từ việc nhìn ra mẫu hình](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BA%ABu%20h%C3%ACnh,%20tr%E1%BB%B1c%20gi%C3%A1c/S%E1%BB%B1%20chuy%C3%AAn%20gia%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20vi%E1%BB%87c%20nh%C3%ACn%20ra%20m%E1%BA%ABu%20h%C3%ACnh.md)
 - [Điều đã biết là đã biết được dùng để lên kế hoạch chính. Điều không biết là đã biết được dùng để lên kế hoạch dự phòng. Điều đã biết là không biết thì cần nghiên cứu thêm](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/%C4%90i%E1%BB%81u%20%C4%91%C3%A3%20bi%E1%BA%BFt%20l%C3%A0%20%C4%91%C3%A3%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20%C4%91%E1%BB%83%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch%20ch%C3%ADnh.%20%C4%90i%E1%BB%81u%20kh%C3%B4ng%20bi%E1%BA%BFt%20l%C3%A0%20%C4%91%C3%A3%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20%C4%91%E1%BB%83%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch%20d%E1%BB%B1%20ph%C3%B2ng.%20%C4%90i%E1%BB%81u%20%C4%91%C3%A3%20bi%E1%BA%BFt%20l%C3%A0%20kh%C3%B4ng%20bi%E1%BA%BFt%20th%C3%AC%20c%E1%BA%A7n%20nghi%C3%AAn%20c%E1%BB%A9u%20th%C3%AAm.md)
 

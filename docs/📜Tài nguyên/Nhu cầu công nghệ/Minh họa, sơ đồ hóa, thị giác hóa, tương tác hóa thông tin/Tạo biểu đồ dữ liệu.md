@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-18T12:02
-updated: 2026-01-14T13:11
+updated: 2026-03-07T00:31
 aliases:
   - Biểu đồ dữ liệu
 ---
@@ -19,9 +19,10 @@ Nhu cầu công nghệ:: [Tài liệu động](../Vi%E1%BA%BFt%20v%C3%A0%20qu%E1
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
 - [Category:Diagrams - Wikipedia](https://en.wikipedia.org/wiki/Category:Diagrams)
 - [Information is Beautiful](https://informationisbeautiful.net/)
+- [List of graphical methods - Wikipedia](https://en.wikipedia.org/wiki/List_of_graphical_methods)
 [Misleading graph - Wikipedia](https://en.wikipedia.org/wiki/Misleading_graph), [WTF Visualizations](https://viz.wtf/)
 ![](https://www.data-to-viz.com/img/poster/poster_small.png) 
-
+[A Periodic Table of Visualization Methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
 ## Công cụ
 [Datawrapper: Create charts, maps, and tables](https://www.datawrapper.de/)
 

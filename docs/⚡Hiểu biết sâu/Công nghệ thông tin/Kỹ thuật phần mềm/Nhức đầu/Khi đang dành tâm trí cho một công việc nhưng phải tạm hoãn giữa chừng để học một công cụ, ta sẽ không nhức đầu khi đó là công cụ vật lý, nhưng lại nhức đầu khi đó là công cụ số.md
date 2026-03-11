@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-01-Mo'T'21:49
+updated: 2026-02-02T14:38
 ---
-Khái niệm:: [Nhức đầu](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.md), [Công cụ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/C%C3%B4ng%20c%E1%BB%A5.md)
+Khái niệm:: [Nhức đầu](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.md), [Công cụ, công nghệ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/C%C3%B4ng%20c%E1%BB%A5,%20c%C3%B4ng%20ngh%E1%BB%87.md)
 Lý do:: [Các ngành khác đều làm việc với những vật thể cụ thể trong không gian. Chỉ có ngành lập trình là không có điều đó](../../T%C6%B0%C6%A1ng%20t%C3%A1c%20ng%C6%B0%E1%BB%9Di%20-%20m%C3%A1y/C%C3%A1c%20ng%C3%A0nh%20kh%C3%A1c%20%C4%91%E1%BB%81u%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20v%E1%BA%ADt%20th%E1%BB%83%20c%E1%BB%A5%20th%E1%BB%83%20trong%20kh%C3%B4ng%20gian.%20Ch%E1%BB%89%20c%C3%B3%20ng%C3%A0nh%20l%E1%BA%ADp%20tr%C3%ACnh%20l%C3%A0%20kh%C3%B4ng%20c%C3%B3%20%C4%91i%E1%BB%81u%20%C4%91%C3%B3.md)
 
 [Kể cả khi có được một tài liệu chắc chắn sẽ trả lời câu hỏi của ta, thì ta cũng thường không sẵn sàng để đọc nó](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Ghi%20ch%C3%BA%20th%C3%B4ng%20tin/K%E1%BB%83%20c%E1%BA%A3%20khi%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%99t%20t%C3%A0i%20li%E1%BB%87u%20ch%E1%BA%AFc%20ch%E1%BA%AFn%20s%E1%BA%BD%20tr%E1%BA%A3%20l%E1%BB%9Di%20c%C3%A2u%20h%E1%BB%8Fi%20c%E1%BB%A7a%20ta,%20th%C3%AC%20ta%20c%C5%A9ng%20th%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20s%E1%BA%B5n%20s%C3%A0ng%20%C4%91%E1%BB%83%20%C4%91%E1%BB%8Dc%20n%C3%B3.md)

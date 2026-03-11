@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-18T12:41
-updated: 2026-01-29T18:00
+updated: 2026-02-05T17:28
 aliases:
   - Sơ đồ kiến thức, canvas, mindmap
 description: Thể hiện bức tranh toàn cảnh giữa các lập luận, ý tưởng
@@ -59,5 +59,7 @@ Từng có người làm thư viện này [xmind2json](https://pypi.org/project/
 Chỉ trừ khi nào mình xác định là phải đọc trên giấy, chứ nếu người đọc chỉ đọc trên màn hình thì tại sao
 
 Điều này sẽ dẫn đến việc tạo [Tài liệu động](../Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md)
+
+[OMNI-Mapping](https://omnimapping.org/)
 
 Xem thêm:: [Towards a theory of quality in documentation - Diátaxis](https://diataxis.fr/quality/)

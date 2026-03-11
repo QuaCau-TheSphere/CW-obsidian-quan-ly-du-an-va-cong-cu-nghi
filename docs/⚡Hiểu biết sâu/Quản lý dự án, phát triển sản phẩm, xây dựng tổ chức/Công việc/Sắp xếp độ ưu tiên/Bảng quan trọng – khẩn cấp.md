@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-30T14:31
-updated: 2026-01-14T13:11
+updated: 2026-03-11T14:03
 ---
 ![300](../../../../attachments/Eisenhower-Matrix-920x1024.png)
 ![300](../../../../attachments/Eisenhower-Matrix-Actions-539x600.png)
@@ -101,3 +101,4 @@ I find that when someone's taking time to do something right in the present, the
 [Không có giải pháp nào cho người sáng lập để giải quyết sự quá tải ngoài những lời khuyên chung chung](../../Th%C3%A0nh%20l%E1%BA%ADp%20d%E1%BB%B1%20%C3%A1n/Startup/Kh%C3%B4ng%20c%C3%B3%20gi%E1%BA%A3i%20ph%C3%A1p%20n%C3%A0o%20cho%20ng%C6%B0%E1%BB%9Di%20s%C3%A1ng%20l%E1%BA%ADp%20%C4%91%E1%BB%83%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20s%E1%BB%B1%20qu%C3%A1%20t%E1%BA%A3i%20ngo%C3%A0i%20nh%E1%BB%AFng%20l%E1%BB%9Di%20khuy%C3%AAn%20chung%20chung.md)
 [Việc mải mê làm việc đến quên cả đói cho thấy phần thưởng từ việc làm việc là đủ lớn hơn việc được ăn](../../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/K%E1%BB%B9%20n%C4%83ng,%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c/Vi%E1%BB%87c%20m%E1%BA%A3i%20m%C3%AA%20l%C3%A0m%20vi%E1%BB%87c%20%C4%91%E1%BA%BFn%20qu%C3%AAn%20c%E1%BA%A3%20%C4%91%C3%B3i%20cho%20th%E1%BA%A5y%20ph%E1%BA%A7n%20th%C6%B0%E1%BB%9Fng%20t%E1%BB%AB%20vi%E1%BB%87c%20l%C3%A0m%20vi%E1%BB%87c%20l%C3%A0%20%C4%91%E1%BB%A7%20l%E1%BB%9Bn%20h%C6%A1n%20vi%E1%BB%87c%20%C4%91%C6%B0%E1%BB%A3c%20%C4%83n.md) 
 [Vấn đề ngắn hạn hay dài hạn không quan trọng, quan trọng là làm cái này mà phải nghĩ về cái khác thì sẽ nhức đầu](./V%E1%BA%A5n%20%C4%91%E1%BB%81%20ng%E1%BA%AFn%20h%E1%BA%A1n%20hay%20d%C3%A0i%20h%E1%BA%A1n%20kh%C3%B4ng%20quan%20tr%E1%BB%8Dng,%20quan%20tr%E1%BB%8Dng%20l%C3%A0%20l%C3%A0m%20c%C3%A1i%20n%C3%A0y%20m%C3%A0%20ph%E1%BA%A3i%20ngh%C4%A9%20v%E1%BB%81%20c%C3%A1i%20kh%C3%A1c%20th%C3%AC%20s%E1%BA%BD%20nh%E1%BB%A9c%20%C4%91%E1%BA%A7u.md) 
+[Những công việc không đòi hỏi sự tập trung cao độ](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Nh%E1%BB%AFng%20c%C3%B4ng%20vi%E1%BB%87c%20kh%C3%B4ng%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20cao%20%C4%91%E1%BB%99.md)

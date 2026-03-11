@@ -1,15 +1,15 @@
 ---
 share: true
 created: 2025-04-22T15:09
-updated: 2026-01-14T13:10
+updated: 2026-02-19T12:46
 ---
 Khái niệm:: 
 
-1. Trong hầu hết các trường hợp, những người ủy thác xây dựng một hệ thống phần mềm không biết chính xác những gì họ muốn và không thể cho ta biết tất cả những gì họ biết.
+1. Trong hầu hết các trường hợp, những người đặt đề bài xây dựng một hệ thống phần mềm không biết chính xác những gì họ muốn và không thể cho ta biết tất cả những gì họ biết.
 2. Ngay cả khi ta biết các yêu cầu, vẫn có nhiều sự kiện khác mà ta cần biết để thiết kế phần mềm. [Nhiều khi vấn đề chỉ được phát hiện ra khi đến khâu triển khai ý tưởng](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/B%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20v%C3%A0%20kh%C3%A1m%20ph%C3%A1/Nhi%E1%BB%81u%20khi%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20ch%E1%BB%89%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A1t%20hi%E1%BB%87n%20ra%20khi%20%C4%91%E1%BA%BFn%20kh%C3%A2u%20tri%E1%BB%83n%20khai%20%C3%BD%20t%C6%B0%E1%BB%9Fng.md). Một số điều mà ta học được làm mất hiệu lực thiết kế của ta và ta phải quay trở lại. Bởi vì ta cố gắng giảm thiểu công việc bị mất, thiết kế kết quả có thể là một thiết kế không phải là kết quả của một quá trình thiết kế hợp lý.
 3. Ngay cả khi ta biết tất cả các sự kiện liên quan trước khi bắt đầu, kinh nghiệm cho thấy con người không thể hiểu đầy đủ rất nhiều chi tiết phải được tính đến để thiết kế và xây dựng một hệ thống chính xác. Quá trình thiết kế phần mềm là một trong đó ta cố gắng tách biệt các mối quan tâm để ta làm việc với một lượng thông tin có thể quản lý được. Tuy nhiên, cho đến khi ta tách rời các mối quan tâm, ta chắc chắn sẽ mắc sai lầm.
 4. Ngay cả khi ta có thể nắm vững tất cả các chi tiết cần thiết, tất cả trừ những dự án tầm thường nhất đều có thể thay đổi vì lý do bên ngoài. Một số thay đổi đó có thể làm mất hiệu lực của các quyết định thiết kế trước đó. Thiết kế kết quả không phải là một thiết kế được tạo ra bởi một quá trình thiết kế hợp lý.
-5. Lỗi của con người chỉ có thể tránh được nếu có thể tránh được việc sử dụng con người. Ngay cả sau khi các mối quan tâm được tách rời, sai sót sẽ được thực hiện.
+5. [Lỗi của con người chỉ có thể tránh được nếu có thể tránh được việc sử dụng con người](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/L%E1%BB%97i%20c%E1%BB%A7a%20con%20ng%C6%B0%E1%BB%9Di%20ch%E1%BB%89%20c%C3%B3%20th%E1%BB%83%20tr%C3%A1nh%20%C4%91%C6%B0%E1%BB%A3c%20n%E1%BA%BFu%20c%C3%B3%20th%E1%BB%83%20tr%C3%A1nh%20%C4%91%C6%B0%E1%BB%A3c%20vi%E1%BB%87c%20s%E1%BB%AD%20d%E1%BB%A5ng%20con%20ng%C6%B0%E1%BB%9Di.md). Ngay cả sau khi các mối quan tâm được tách rời, sai sót sẽ được thực hiện.
 6. Chúng ta thường bị gánh nặng bởi những ý tưởng thiết kế định kiến, những ý tưởng mà ta phát minh, có được trong các dự án liên quan hoặc nghe nói trong một lớp học. Đôi khi ta thực hiện một dự án để thử hoặc sử dụng một ý tưởng yêu thích. Những ý tưởng như vậy có thể không bắt nguồn từ các yêu cầu của ta bằng một quá trình hợp lý.
 7. Thường thì vì lý do kinh tế, ta được khuyến khích sử dụng phần mềm được phát triển cho một số dự án khác. Trong các tình huống khác, ta có thể được khuyến khích chia sẻ phần mềm của ta với một dự án khác đang diễn ra. Phần mềm kết quả có thể không phải là phần mềm lý tưởng cho cả hai dự án, tức là không phải phần mềm mà ta sẽ phát triển chỉ dựa trên yêu cầu của nó, nhưng nó đủ tốt và sẽ tiết kiệm công sức
 

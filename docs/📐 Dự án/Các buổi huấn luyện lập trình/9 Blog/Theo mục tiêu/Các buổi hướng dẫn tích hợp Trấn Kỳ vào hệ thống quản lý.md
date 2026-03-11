@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-01-14T13:11
+updated: 2026-02-07T12:45
 description: Nhập dữ liệu và tạo bảng phân loại ngay trên hệ thống bạn đang dùng
 aliases:
   - Tích hợp Trấn Kỳ vào hệ thống của bạn

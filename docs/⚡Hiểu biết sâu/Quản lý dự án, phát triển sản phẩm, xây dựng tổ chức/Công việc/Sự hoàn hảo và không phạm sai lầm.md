@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2025-04-27T10:22
-updated: 2026-01-14T13:11
+updated: 2026-04-26T12:47
 ---
 Khái niệm:: 
-[When someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight](./S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/When%20someone's%20taking%20time%20to%20do%20something%20right%20in%20the%20present,%20they're%20a%20perfectionist%20with%20no%20ability%20to%20prioritize,%20whereas%20when%20someone%20took%20time%20to%20do%20something%20right%20in%20the%20past,%20they're%20a%20master%20artisan%20of%20great%20foresight.md)
+[Khi một người dành thời gian để làm một điều đúng ở hiện tại, họ là một người cầu toàn không có khả năng ưu tiên. Còn khi một người dành thời gian làm một điều đúng trong quá khứ, họ là nghệ nhân bậc thầy với tầm nhìn xa trông rộng](./S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/Khi%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20d%C3%A0nh%20th%E1%BB%9Di%20gian%20%C4%91%E1%BB%83%20l%C3%A0m%20m%E1%BB%99t%20%C4%91i%E1%BB%81u%20%C4%91%C3%BAng%20%E1%BB%9F%20hi%E1%BB%87n%20t%E1%BA%A1i,%20h%E1%BB%8D%20l%C3%A0%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7u%20to%C3%A0n%20kh%C3%B4ng%20c%C3%B3%20kh%E1%BA%A3%20n%C4%83ng%20%C6%B0u%20ti%C3%AAn.%20C%C3%B2n%20khi%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20d%C3%A0nh%20th%E1%BB%9Di%20gian%20l%C3%A0m%20m%E1%BB%99t%20%C4%91i%E1%BB%81u%20%C4%91%C3%BAng%20trong%20qu%C3%A1%20kh%E1%BB%A9,%20h%E1%BB%8D%20l%C3%A0%20ngh%E1%BB%87%20nh%C3%A2n%20b%E1%BA%ADc%20th%E1%BA%A7y%20v%E1%BB%9Bi%20t%E1%BA%A7m%20nh%C3%ACn%20xa%20tr%C3%B4ng%20r%E1%BB%99ng.md)
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/ua4QMFQATco?si=e2zeHY0-94fO89yZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

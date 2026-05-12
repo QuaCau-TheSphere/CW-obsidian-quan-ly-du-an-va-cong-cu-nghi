@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-02-18T22:16
+updated: 2026-04-16T12:25
 ---
-Khái niệm:: 
+Khái niệm:: [Thời gian, lịch](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Th%E1%BB%9Di%20gian,%20l%E1%BB%8Bch.md), [Dự đoán](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%B1%20%C4%91o%C3%A1n.md)
 
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/rySTB112z6w?si=Rj5AZyOAnn5mDWf5&t=165" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

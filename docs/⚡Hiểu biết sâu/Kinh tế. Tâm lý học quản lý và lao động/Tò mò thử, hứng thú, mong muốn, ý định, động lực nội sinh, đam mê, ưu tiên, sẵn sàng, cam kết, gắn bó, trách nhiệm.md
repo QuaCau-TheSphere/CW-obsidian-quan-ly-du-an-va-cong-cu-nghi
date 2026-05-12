@@ -1,6 +1,6 @@
 ---
 created: 2023-06-12T00:57
-updated: 2026-01-25T11:50
+updated: 2026-04-18T20:23
 share: true
 ---
 Tài liệu:: [Thoả mãn, vui, thoải mái](Tho%E1%BA%A3%20m%C3%A3n,%20vui,%20tho%E1%BA%A3i%20m%C3%A1i.md)
@@ -20,10 +20,9 @@ Tài liệu:: [Mục tiêu, yếu tố hỗ trợ, ý tưởng tốt hơn. Mục
 | Gắn bó              | Attachment           |                                                                                  |                                            |                                                                        |
 | Trách nhiệm         | Responsibility       |                                                                                  |                                            |                                                                        |
 
-Khái niệm:: [Hứng thú](H%E1%BB%A9ng%20th%C3%BA.md)
-Khái niệm:: [Tò mò](T%C3%B2%20m%C3%B2.md)
-Khái niệm:: [Động lực](%C4%90%E1%BB%99ng%20l%E1%BB%B1c.md)
-Khái niệm:: [Hiện tượng khuếch tán trách nhiệm, người ngoài đứng nhìn khiến cho ngay cả khi ta thấy người khác chịu khổ sở và rất cần được giúp thì mong muốn giúp đỡ cũng bị tê liệt](../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20sinh%20th%C3%A1i/Hi%E1%BB%87n%20t%C6%B0%E1%BB%A3ng%20khu%E1%BA%BFch%20t%C3%A1n%20tr%C3%A1ch%20nhi%E1%BB%87m,%20ng%C6%B0%E1%BB%9Di%20ngo%C3%A0i%20%C4%91%E1%BB%A9ng%20nh%C3%ACn%20khi%E1%BA%BFn%20cho%20ngay%20c%E1%BA%A3%20khi%20ta%20th%E1%BA%A5y%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20ch%E1%BB%8Bu%20kh%E1%BB%95%20s%E1%BB%9F%20v%C3%A0%20r%E1%BA%A5t%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20gi%C3%BAp%20th%C3%AC%20mong%20mu%E1%BB%91n%20gi%C3%BAp%20%C4%91%E1%BB%A1%20c%C5%A9ng%20b%E1%BB%8B%20t%C3%AA%20li%E1%BB%87t.md)
+Khái niệm:: [Động lực](%C4%90%E1%BB%99ng%20l%E1%BB%B1c.md), [Mục tiêu](../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/M%E1%BB%A5c%20ti%C3%AAu.md)
+
+[Hiện tượng khuếch tán trách nhiệm, người ngoài đứng nhìn khiến cho ngay cả khi ta thấy người khác chịu khổ sở và rất cần được giúp thì mong muốn giúp đỡ cũng bị tê liệt](../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20sinh%20th%C3%A1i/Hi%E1%BB%87n%20t%C6%B0%E1%BB%A3ng%20khu%E1%BA%BFch%20t%C3%A1n%20tr%C3%A1ch%20nhi%E1%BB%87m,%20ng%C6%B0%E1%BB%9Di%20ngo%C3%A0i%20%C4%91%E1%BB%A9ng%20nh%C3%ACn%20khi%E1%BA%BFn%20cho%20ngay%20c%E1%BA%A3%20khi%20ta%20th%E1%BA%A5y%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20ch%E1%BB%8Bu%20kh%E1%BB%95%20s%E1%BB%9F%20v%C3%A0%20r%E1%BA%A5t%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20gi%C3%BAp%20th%C3%AC%20mong%20mu%E1%BB%91n%20gi%C3%BAp%20%C4%91%E1%BB%A1%20c%C5%A9ng%20b%E1%BB%8B%20t%C3%AA%20li%E1%BB%87t.md)
 
 ❓:: [Biết rằng một người phải đi làm để kiếm tiền, nhưng tại sao họ lại phải cảm thấy có trách nhiệm nếu phải làm một thứ họ cảm thấy hứng thú？](Bi%E1%BA%BFt%20r%E1%BA%B1ng%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20ph%E1%BA%A3i%20%C4%91i%20l%C3%A0m%20%C4%91%E1%BB%83%20ki%E1%BA%BFm%20ti%E1%BB%81n,%20nh%C6%B0ng%20t%E1%BA%A1i%20sao%20h%E1%BB%8D%20l%E1%BA%A1i%20ph%E1%BA%A3i%20c%E1%BA%A3m%20th%E1%BA%A5y%20c%C3%B3%20tr%C3%A1ch%20nhi%E1%BB%87m%20n%E1%BA%BFu%20ph%E1%BA%A3i%20l%C3%A0m%20m%E1%BB%99t%20th%E1%BB%A9%20h%E1%BB%8D%20c%E1%BA%A3m%20th%E1%BA%A5y%20h%E1%BB%A9ng%20th%C3%BA%EF%BC%9F.md)
 ❓:: [Khi nào một người cần và họ sẽ đóng góp, và khi nào họ thấy rất cần nhưng họ cũng không đóng góp？](Khi%20n%C3%A0o%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20c%E1%BA%A7n%20v%C3%A0%20h%E1%BB%8D%20s%E1%BA%BD%20%C4%91%C3%B3ng%20g%C3%B3p,%20v%C3%A0%20khi%20n%C3%A0o%20h%E1%BB%8D%20th%E1%BA%A5y%20r%E1%BA%A5t%20c%E1%BA%A7n%20nh%C6%B0ng%20h%E1%BB%8D%20c%C5%A9ng%20kh%C3%B4ng%20%C4%91%C3%B3ng%20g%C3%B3p%EF%BC%9F.md)

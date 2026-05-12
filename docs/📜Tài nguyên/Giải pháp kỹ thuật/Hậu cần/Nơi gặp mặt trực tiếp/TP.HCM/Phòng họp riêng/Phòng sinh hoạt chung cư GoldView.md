@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-02-02T18:03
+updated: 2026-03-18T12:17
 description: Tầng 5, chung cư The GoldView, 346 Bến Vân Đồn, Vĩnh Hội
 ---
 Địa chỉ:: Tầng 5, chung cư The GoldView, 346 Bến Vân Đồn, Vĩnh Hội
@@ -21,7 +21,7 @@ Ghi chú:
 - Đi vào, đi vệ sinh, đi ra ở tầng G cần có Nhật đi theo để mở cửa (nếu không nhờ được bảo vệ, hoặc chen vào cùng người mở cửa)
 - Nhà vệ sinh hơi xa, nhất là nhà vệ sinh nữ
 - Không có sẵn nước, cần tự đem theo
-- Cần cư dân đặt lịch (Giấy Xác Nhận Sử Dụng Tiện Ích (Amenities Usage Confirmation) PMD-BF-111-ASC )
+- Cần cư dân đặt lịch (Giấy Xác Nhận Sử Dụng Tiện Ích (Amenities Usage Confirmation) PMD-BF-111-ASC)
 
 ## Hướng dẫn di chuyển
 Khi đến TNL Plaza, bạn xuống hầm gửi xe rồi đi lên mặt đất lại. Đi men theo bờ tường bên phải, tới ngã ba thì quẹo trái, vào cửa an ninh gần nhất. Sau khi đi qua cửa thì lên thang máy lên tầng 5:

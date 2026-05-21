@@ -19,7 +19,6 @@ Thành quả hỗ trợ::
 
 Thành phẩm nhỏ hơn:
 - [Buổi thảo luận về việc xây dựng mạng lưới đối tác, các bên liên quan](./Bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20vi%E1%BB%87c%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.md)
-- [ABG](./Email/ABG.md)
 - [Hanoi Grapevine](./Email/Hanoi%20Grapevine.md)
 - [Lê Nguyễn Tường Vân](./Email/L%C3%AA%20Nguy%E1%BB%85n%20T%C6%B0%E1%BB%9Dng%20V%C3%A2n.md)
 - [Nguyễn Cảnh Bình](./Email/Nguy%E1%BB%85n%20C%E1%BA%A3nh%20B%C3%ACnh.md)

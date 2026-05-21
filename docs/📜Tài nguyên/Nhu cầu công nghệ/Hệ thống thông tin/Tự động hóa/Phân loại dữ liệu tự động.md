@@ -3,7 +3,7 @@ share: true
 created: 2023-05-26T14:51
 updated: 2026-01-14T13:11
 ---
-Lĩnh vực:: [Xử lý ngôn ngữ tự nhiên (NLP)](../../../L%C4%A9nh%20v%E1%BB%B1c/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u/Ph%C3%A2n%20t%C3%ADch%20xu%20h%C6%B0%E1%BB%9Bng,%20x%E1%BB%AD%20l%C3%BD%20ng%C3%B4n%20ng%E1%BB%AF%20t%E1%BB%B1%20nhi%C3%AAn/X%E1%BB%AD%20l%C3%BD%20ng%C3%B4n%20ng%E1%BB%AF%20t%E1%BB%B1%20nhi%C3%AAn%20(NLP).md)
+Lĩnh vực:: [Xử lý ngôn ngữ tự nhiên (NLP)](../../../L%C4%A9nh%20v%E1%BB%B1c/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u/X%E1%BB%AD%20l%C3%BD%20ng%C3%B4n%20ng%E1%BB%AF%20t%E1%BB%B1%20nhi%C3%AAn%20(NLP).md)
 
 Phục vụ cho nhu cầu:
 - [Ghi chép chi tiêu](https://kiếmtiền.quảcầu.cc/Tài-nguyên-hỗ-trợ/Quang-cảnh-thị-trường/Chương-trình-quản-lý-tiền/4-Loại-chương-trình/Chương-trình-ghi-chép-thu-chi-cá-nhân?utm_source=Vault+C+Obsidian%2C+quản+lý+dự+án+và+công+cụ+nghĩ+(Tài+nguyên)&utm_medium=Vault&utm_campaign=&utm_content=📜Tài+nguyên%2FNhu+cầu+công+nghệ%2FPhân+loại+dữ+liệu+tự+động.md&utm_term=)

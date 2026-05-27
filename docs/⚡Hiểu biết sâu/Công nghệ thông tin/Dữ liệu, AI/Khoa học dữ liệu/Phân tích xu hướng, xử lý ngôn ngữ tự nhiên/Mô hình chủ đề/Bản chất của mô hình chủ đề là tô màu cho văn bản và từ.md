@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-03T11:28
-updated: 2026-02-10T12:09
+updated: 2026-05-12T23:39
 ---
 Khái niệm:: [Văn bản](../../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/V%C4%83n%20b%E1%BA%A3n.md)
 Cho rất nhiều văn bản, mỗi văn bản chứa rất nhiều từ. Mục tiêu là tô màu các từ sao cho:

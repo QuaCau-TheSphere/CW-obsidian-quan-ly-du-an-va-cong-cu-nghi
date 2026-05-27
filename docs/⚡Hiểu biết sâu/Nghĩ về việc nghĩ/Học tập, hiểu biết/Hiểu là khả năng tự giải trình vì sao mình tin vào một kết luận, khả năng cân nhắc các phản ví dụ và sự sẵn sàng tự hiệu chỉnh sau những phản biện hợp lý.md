@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-03T13:34
-updated: 2026-02-03T13:37
+updated: 2026-05-27T13:46
 ---
 Khái niệm:: [Hiểu](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Hi%E1%BB%83u.md)
 
@@ -12,3 +12,5 @@ Dưới lăng kính của nhà thông diễn học hiện đại người Đức
 Sự hiểu chỉ đạt đến chiều sâu khi ta dám dấn thân vào cuộc đối thoại với "chân trời" khác, không phải để xóa bỏ khác biệt, mà để cả hai bên cùng được điều chỉnh và mở rộng, để các chân trời hòa quyện vào nhau.
 
 Trích từ:: [Cái bẫy của nền giáo dục ám ảnh các chỉ số](https://tiasang.com.vn/cai-bay-cua-nen-giao-duc-am-anh-cac-chi-so-5006919.html)
+
+[Học là quá trình cấu trúc hoá những thứ phi cấu trúc](./H%E1%BB%8Dc%20l%C3%A0%20qu%C3%A1%20tr%C3%ACnh%20c%E1%BA%A5u%20tr%C3%BAc%20ho%C3%A1%20nh%E1%BB%AFng%20th%E1%BB%A9%20phi%20c%E1%BA%A5u%20tr%C3%BAc.md)

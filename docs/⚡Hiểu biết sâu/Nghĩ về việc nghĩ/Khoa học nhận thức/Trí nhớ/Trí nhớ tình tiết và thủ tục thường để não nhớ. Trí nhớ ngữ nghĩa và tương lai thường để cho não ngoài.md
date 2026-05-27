@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-05T17:16
-updated: 2026-02-14T20:44
+updated: 2026-05-12T23:39
 ---
 Khái niệm:: [Trí nhớ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%C3%AD%20nh%E1%BB%9B.md)
 

@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2024-07-28T21:54
-updated: 2026-04-18T20:21
+updated: 2026-05-12T23:39
 title: Kế hoạch
 ---
 Evaluation Error: TypeError: Cannot read properties of undefined (reading 'path')
-    at eval (eval at <anonymous> (plugin:dataview), <anonymous>:13:19)
+    at eval (eval at <anonymous> (plugin:dataview), <anonymous>:14:19)
     at DataviewInlineApi.eval (plugin:dataview:19027:16)
     at evalInContext (plugin:dataview:19028:7)
     at asyncEvalInContext (plugin:dataview:19038:32)

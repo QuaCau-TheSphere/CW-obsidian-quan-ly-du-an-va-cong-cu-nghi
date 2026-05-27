@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-03-17T14:05
+updated: 2026-05-12T23:39
 ---
 Khái niệm:: [Mô hình tâm trí](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/M%C3%B4%20h%C3%ACnh%20t%C3%A2m%20tr%C3%AD.md), [Mô hình](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/M%C3%B4%20h%C3%ACnh.md)
 ![](https://media.nngroup.com/media/editor/2024/01/23/mental-models-1.jpg) 

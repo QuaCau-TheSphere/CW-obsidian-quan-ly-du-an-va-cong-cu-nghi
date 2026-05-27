@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2026-01-14T13:10
+updated: 2026-05-27T16:34
 ---
 Khái niệm:: [Nhức đầu](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.md), [Diễn giải, đọc](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Di%E1%BB%85n%20gi%E1%BA%A3i,%20%C4%91%E1%BB%8Dc.md)
 
@@ -15,7 +15,3 @@ Khái niệm:: [Nhức đầu](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%
 [Nội việc đặt câu hỏi thôi đã đủ áp lực rồi, chứ đừng nói đến việc đi google hay đặt câu hỏi tốt hơn](../../../G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/T%C3%ACm%20ki%E1%BA%BFm%20th%C3%B4ng%20tin/N%E1%BB%99i%20vi%E1%BB%87c%20%C4%91%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi%20th%C3%B4i%20%C4%91%C3%A3%20%C4%91%E1%BB%A7%20%C3%A1p%20l%E1%BB%B1c%20r%E1%BB%93i,%20ch%E1%BB%A9%20%C4%91%E1%BB%ABng%20n%C3%B3i%20%C4%91%E1%BA%BFn%20vi%E1%BB%87c%20%C4%91i%20google%20hay%20%C4%91%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi%20t%E1%BB%91t%20h%C6%A1n.md)
 Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../../%CE%9E%20Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
 [The Academic Knowledge Management (AKM) system that 10x’d my research productivity | Chris Lovejoy](https://www.chrislovejoy.me/akm)
-
-Khái niệm:: 
-
-Nguồn:: 

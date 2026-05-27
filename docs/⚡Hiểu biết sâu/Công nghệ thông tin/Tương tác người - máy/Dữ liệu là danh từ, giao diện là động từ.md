@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-Mo'T'21:45
-updated: 2026-01-29T21:55
+updated: 2026-05-12T23:39
 ---
 Khái niệm:: [Dữ liệu](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md), [Giao diện](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Giao%20di%E1%BB%87n.md)
 GOMS

@@ -1,6 +1,6 @@
 ---
 created: 2023-10-12T22:30
-updated: 2026-03-30T12:46
+updated: 2026-05-12T23:39
 share: true
 title: Nhân học
 ---

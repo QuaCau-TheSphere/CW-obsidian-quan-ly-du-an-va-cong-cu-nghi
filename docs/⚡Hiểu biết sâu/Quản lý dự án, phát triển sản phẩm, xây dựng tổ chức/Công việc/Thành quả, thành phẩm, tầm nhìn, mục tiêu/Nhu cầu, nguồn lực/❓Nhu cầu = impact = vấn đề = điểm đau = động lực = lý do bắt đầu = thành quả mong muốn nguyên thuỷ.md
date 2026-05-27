@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-04-18T20:12
+updated: 2026-05-12T23:39
 ---
 Khái niệm:: [Nhu cầu](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/Nhu%20c%E1%BA%A7u.md)
 [Tầm nhìn là điều mình sẽ có khi tất cả mọi hoạt động của mình đều thành công](../T%E1%BA%A7m%20nh%C3%ACn%20l%C3%A0%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20s%E1%BA%BD%20c%C3%B3%20khi%20t%E1%BA%A5t%20c%E1%BA%A3%20m%E1%BB%8Di%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20m%C3%ACnh%20%C4%91%E1%BB%81u%20th%C3%A0nh%20c%C3%B4ng.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2026-03-17T14:04
+updated: 2026-05-12T23:39
 ---
 - \-: 
     - [Mô hình tâm trí trong ngành lập trình thực ra chỉ là những ẩn dụ](../../C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/T%C6%B0%C6%A1ng%20t%C3%A1c%20ng%C6%B0%E1%BB%9Di%20-%20m%C3%A1y/M%C3%B4%20h%C3%ACnh%20t%C3%A2m%20tr%C3%AD%20trong%20ng%C3%A0nh%20l%E1%BA%ADp%20tr%C3%ACnh%20th%E1%BB%B1c%20ra%20ch%E1%BB%89%20l%C3%A0%20nh%E1%BB%AFng%20%E1%BA%A9n%20d%E1%BB%A5.md)

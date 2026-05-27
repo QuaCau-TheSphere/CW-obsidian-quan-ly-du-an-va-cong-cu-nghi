@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-04-24T09:02
-updated: 2026-03-17T14:04
+updated: 2026-05-27T13:57
 title: Làm sao để tìm được thứ cần tìm khi không biết từ khóa chính xác của nó?
 aliases:
   - Đâu là nơi dễ gặp được từ khóa cần tìm nhất?
@@ -52,6 +52,8 @@ Nếu cần nơi tổng hợp tiếng Việt thì mình có tổng hợp [500 nh
 Phần khai báo trong đối thoại
 
 Nếu dành thời gian để viết những gì bạn đã thử mà không được thì câu hỏi của bạn sẽ trở nên hấp dẫn hơn, tạo được nhiều tương tác hơn.
+
+[Sự khác biệt giữa khai vấn, tư vấn, đào tạo, huấn luyện](../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20khai%20v%E1%BA%A5n,%20t%C6%B0%20v%E1%BA%A5n,%20%C4%91%C3%A0o%20t%E1%BA%A1o,%20hu%E1%BA%A5n%20luy%E1%BB%87n.md)
 
 ### Các hệ thống tri thức cộng đồng
 Thường đó sẽ là các danh sách được tuyển chọn, ví dụ như:

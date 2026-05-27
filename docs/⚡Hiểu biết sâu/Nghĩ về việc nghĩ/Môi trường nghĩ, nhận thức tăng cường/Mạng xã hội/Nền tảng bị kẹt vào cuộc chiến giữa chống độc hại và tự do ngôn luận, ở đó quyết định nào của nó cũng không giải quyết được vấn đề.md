@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2026-01-02T12:32
+updated: 2026-05-12T23:39
 ---
 Khái niệm:: [Nền tảng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/N%E1%BB%81n%20t%E1%BA%A3ng.md)
 

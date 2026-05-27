@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-01-24T15:30
+updated: 2026-05-12T23:39
 ---
 - Cộng đồng, hệ sinh thái, hệ phức hợp: 
     - [Khi cố điều khiển một hệ phức hợp bằng một hệ đơn giản, ta dễ gặp những hệ quả không mong muốn](../../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/Khi%20c%E1%BB%91%20%C4%91i%E1%BB%81u%20khi%E1%BB%83n%20m%E1%BB%99t%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p%20b%E1%BA%B1ng%20m%E1%BB%99t%20h%E1%BB%87%20%C4%91%C6%A1n%20gi%E1%BA%A3n,%20ta%20d%E1%BB%85%20g%E1%BA%B7p%20nh%E1%BB%AFng%20h%E1%BB%87%20qu%E1%BA%A3%20kh%C3%B4ng%20mong%20mu%E1%BB%91n.md)
 
 - Công nghệ thông tin: 
-    - [Việc dùng máy học có thể làm ta nghĩ mô hình rất phức tạp mặc dù thực chất nó rất đơn giản](../../C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/M%C3%A1y%20h%E1%BB%8Dc,%20d%E1%BB%AF%20li%E1%BB%87u%20l%E1%BB%9Bn/Vi%E1%BB%87c%20d%C3%B9ng%20m%C3%A1y%20h%E1%BB%8Dc%20c%C3%B3%20th%E1%BB%83%20l%C3%A0m%20ta%20ngh%C4%A9%20m%C3%B4%20h%C3%ACnh%20r%E1%BA%A5t%20ph%E1%BB%A9c%20t%E1%BA%A1p%20m%E1%BA%B7c%20d%C3%B9%20th%E1%BB%B1c%20ch%E1%BA%A5t%20n%C3%B3%20r%E1%BA%A5t%20%C4%91%C6%A1n%20gi%E1%BA%A3n.md)
+    - [Việc dùng máy học có thể làm ta nghĩ mô hình rất phức tạp mặc dù thực chất nó rất đơn giản](../../C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u/M%C3%A1y%20h%E1%BB%8Dc,%20d%E1%BB%AF%20li%E1%BB%87u%20l%E1%BB%9Bn/Vi%E1%BB%87c%20d%C3%B9ng%20m%C3%A1y%20h%E1%BB%8Dc%20c%C3%B3%20th%E1%BB%83%20l%C3%A0m%20ta%20ngh%C4%A9%20m%C3%B4%20h%C3%ACnh%20r%E1%BA%A5t%20ph%E1%BB%A9c%20t%E1%BA%A1p%20m%E1%BA%B7c%20d%C3%B9%20th%E1%BB%B1c%20ch%E1%BA%A5t%20n%C3%B3%20r%E1%BA%A5t%20%C4%91%C6%A1n%20gi%E1%BA%A3n.md)
 
 - Kinh tế. Tâm lý học quản lý và lao động: 
     - [Tiền đơn giản hoá quá trình đáp ứng nhu cầu](../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Kinh%20t%E1%BA%BF/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc%20t%C3%A2m%20l%C3%BD/Ti%E1%BB%81n%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20ho%C3%A1%20qu%C3%A1%20tr%C3%ACnh%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u.md)
@@ -21,4 +21,5 @@ updated: 2026-01-24T15:30
     - [Chỉ theo đuổi một chỉ số là quá đơn giản](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/Ch%E1%BB%89%20theo%20%C4%91u%E1%BB%95i%20m%E1%BB%99t%20ch%E1%BB%89%20s%E1%BB%91%20l%C3%A0%20qu%C3%A1%20%C4%91%C6%A1n%20gi%E1%BA%A3n.md)
     - [Quá trình chú ý và ghi nhớ ép ta phải đơn giản](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Th%C3%A0nh%20l%E1%BA%ADp%20d%E1%BB%B1%20%C3%A1n/Startup/Qu%C3%A1%20tr%C3%ACnh%20ch%C3%BA%20%C3%BD%20v%C3%A0%20ghi%20nh%E1%BB%9B%20%C3%A9p%20ta%20ph%E1%BA%A3i%20%C4%91%C6%A1n%20gi%E1%BA%A3n.md)
     - [Sự đơn giản ép ta phải làm nó cực kỳ tốt](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Th%C3%A0nh%20l%E1%BA%ADp%20d%E1%BB%B1%20%C3%A1n/Startup/S%E1%BB%B1%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20%C3%A9p%20ta%20ph%E1%BA%A3i%20l%C3%A0m%20n%C3%B3%20c%E1%BB%B1c%20k%E1%BB%B3%20t%E1%BB%91t.md)
+
 

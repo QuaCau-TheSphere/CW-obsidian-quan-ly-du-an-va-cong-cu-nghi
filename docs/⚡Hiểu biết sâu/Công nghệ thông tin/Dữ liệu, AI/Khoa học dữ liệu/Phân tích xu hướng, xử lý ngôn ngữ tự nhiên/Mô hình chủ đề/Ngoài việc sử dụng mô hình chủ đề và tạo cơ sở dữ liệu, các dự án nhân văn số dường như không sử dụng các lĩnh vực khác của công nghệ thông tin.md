@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-10T17:29
-updated: 2026-02-10T12:05
+updated: 2026-05-12T23:39
 ---
 Khái niệm:: [Dữ liệu](../../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md), [Nhân văn số](../../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A2n%20v%C4%83n%20s%E1%BB%91.md)
 Lý do:: [Nhân văn số sử dụng mô hình chủ đề rất nhiều](./Nh%C3%A2n%20v%C4%83n%20s%E1%BB%91%20s%E1%BB%AD%20d%E1%BB%A5ng%20m%C3%B4%20h%C3%ACnh%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20r%E1%BA%A5t%20nhi%E1%BB%81u.md)

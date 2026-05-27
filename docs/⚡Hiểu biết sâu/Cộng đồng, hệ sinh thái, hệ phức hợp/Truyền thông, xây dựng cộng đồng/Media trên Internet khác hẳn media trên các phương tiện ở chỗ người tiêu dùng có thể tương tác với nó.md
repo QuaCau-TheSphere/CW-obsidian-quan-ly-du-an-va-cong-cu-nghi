@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-25T14:26
-updated: 2026-01-14T13:10
+updated: 2026-05-15T21:47
 ---
 Khách hàng có thể nhấn vào quảng cáo để lấy thông tin hoặc mua sản phẩm cùng mẫu mã trên quảng cáo đó, thậm chí họ còn có thể mua cả sản phẩm từ các quảng cáo online trên Internet.
 

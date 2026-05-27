@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T17:08
-updated: 2026-03-07T00:05
+updated: 2026-05-12T23:39
 ---
 Khái niệm:: [Mô hình](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/M%C3%B4%20h%C3%ACnh.md)
 Tuy nhiên, mọi trích dẫn tách rời khỏi ngữ cảnh thì đều mất hết ý nghĩa [18]. Thực ra, điều George Edward Pelham Box (1919-2013) muốn diễn đạt lại là “_mọi mô hình đều là sự xấp xỉ của hiện thực, nên mọi mô hình đều đúng_”[5].

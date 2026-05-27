@@ -1,6 +1,6 @@
 ---
 created: 2023-06-12T00:57
-updated: 2026-04-23T14:49
+updated: 2026-05-12T23:39
 share: true
 ---
 - Cộng đồng, hệ sinh thái, hệ phức hợp: 
@@ -13,5 +13,6 @@ share: true
     - [❓Truyền miệng là cách duy nhất để sản phẩm thực sự tốt hơn chiến thắng trên thị trường](../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Kinh%20t%E1%BA%BF/Gi%C3%A1%20tr%E1%BB%8B,%20gi%C3%A1%20c%E1%BA%A3,%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng/%E2%9D%93Truy%E1%BB%81n%20mi%E1%BB%87ng%20l%C3%A0%20c%C3%A1ch%20duy%20nh%E1%BA%A5t%20%C4%91%E1%BB%83%20s%E1%BA%A3n%20ph%E1%BA%A9m%20th%E1%BB%B1c%20s%E1%BB%B1%20t%E1%BB%91t%20h%C6%A1n%20chi%E1%BA%BFn%20th%E1%BA%AFng%20tr%C3%AAn%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng.md)
 
 - Quản lý dự án, phát triển sản phẩm, xây dựng tổ chức: 
-    - [Tại sao các bài dịch không được ủng hộ lắm, mặc dù bài viết tổng thì được nhiều người share？](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/A%20X%C3%A2y%20d%E1%BB%B1ng%20d%E1%BB%B1%20%C3%A1n/T%E1%BA%A1i%20sao%20c%C3%A1c%20b%C3%A0i%20d%E1%BB%8Bch%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20%E1%BB%A7ng%20h%E1%BB%99%20l%E1%BA%AFm,%20m%E1%BA%B7c%20d%C3%B9%20b%C3%A0i%20vi%E1%BA%BFt%20t%E1%BB%95ng%20th%C3%AC%20%C4%91%C6%B0%E1%BB%A3c%20nhi%E1%BB%81u%20ng%C6%B0%E1%BB%9Di%20share%EF%BC%9F.md)
+    - [Tại sao các bài dịch không được ủng hộ lắm, mặc dù bài viết tổng thì được nhiều người share？](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi/T%E1%BA%A1i%20sao%20c%C3%A1c%20b%C3%A0i%20d%E1%BB%8Bch%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20%E1%BB%A7ng%20h%E1%BB%99%20l%E1%BA%AFm,%20m%E1%BA%B7c%20d%C3%B9%20b%C3%A0i%20vi%E1%BA%BFt%20t%E1%BB%95ng%20th%C3%AC%20%C4%91%C6%B0%E1%BB%A3c%20nhi%E1%BB%81u%20ng%C6%B0%E1%BB%9Di%20share%EF%BC%9F.md)
+
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-05-12T21:25
-updated: 2026-05-12T21:29
+updated: 2026-05-12T23:39
 ---
 Khái niệm:: 
 This is perhaps best known, or at least documented, among researchers in the field of [library and information science](https://en.wikipedia.org/wiki/Library_and_information_science "Library and information science"). Their principle states that an [information-seeking](https://en.wikipedia.org/wiki/Information_seeking "Information seeking") client will tend to use the most convenient search method in the least exacting mode available. Information-seeking behavior stops as soon as minimally acceptable results are found. This theory holds true regardless of the user's proficiency as a searcher, or their level of subject expertise. Also, this theory takes into account the user's previous information-seeking experience. The user will use the tools that are most familiar and easy to use that find results. The principle of least effort is known as a "deterministic description of human behavior".[1](1.md)(https://en.wikipedia.org/wiki/Principle_of_least_effort#cite_note-1)

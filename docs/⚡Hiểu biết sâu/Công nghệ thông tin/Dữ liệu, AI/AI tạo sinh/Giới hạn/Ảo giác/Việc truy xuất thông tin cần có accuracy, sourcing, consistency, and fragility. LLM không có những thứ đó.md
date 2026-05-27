@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2026-05-12T21:57
+updated: 2026-05-12T23:39
 aliases:
   - Ngay từ đầu LLM được tạo ra không nhằm mục đích truy vấn thông tin mà là để tạo ra văn bản
 ---

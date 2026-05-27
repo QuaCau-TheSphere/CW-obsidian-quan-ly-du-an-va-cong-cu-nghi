@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-04-02T15:28
-updated: 2026-04-02T15:28
+updated: 2026-05-12T23:39
 ---
 - Nghiên cứu, tìm ý tưởng: 
     - [Các nghiên cứu có thể có cùng một mục tiêu nghiên cứu, nhưng khác nhau về câu hỏi nghiên cứu](../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Nghi%C3%AAn%20c%E1%BB%A9u,%20t%C3%ACm%20%C3%BD%20t%C6%B0%E1%BB%9Fng/C%C3%A1c%20nghi%C3%AAn%20c%E1%BB%A9u%20c%C3%B3%20th%E1%BB%83%20c%C3%B3%20c%C3%B9ng%20m%E1%BB%99t%20m%E1%BB%A5c%20ti%C3%AAu%20nghi%C3%AAn%20c%E1%BB%A9u,%20nh%C6%B0ng%20kh%C3%A1c%20nhau%20v%E1%BB%81%20c%C3%A2u%20h%E1%BB%8Fi%20nghi%C3%AAn%20c%E1%BB%A9u.md)

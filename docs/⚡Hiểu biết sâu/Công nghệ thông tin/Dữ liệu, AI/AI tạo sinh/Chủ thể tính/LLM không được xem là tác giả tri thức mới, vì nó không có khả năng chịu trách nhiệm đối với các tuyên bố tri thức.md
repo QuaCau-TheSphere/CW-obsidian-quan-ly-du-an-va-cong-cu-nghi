@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-13T22:22
-updated: 2026-04-20T16:28
+updated: 2026-05-12T23:39
 ---
 Khái niệm:: [Tác giả](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%A1c%20gi%E1%BA%A3.md)
 Sau khi OpenAI cho cộng đồng tiếp cận bản ChatGPT vào tháng 11/2022, đã có kha khá các nhà nghiên cứu hào tình vạn trượng đã nghĩ tới đã đến lúc AI cùng con người sáng tạo.

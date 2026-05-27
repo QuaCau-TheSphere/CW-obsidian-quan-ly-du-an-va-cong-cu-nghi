@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-06T12:52
-updated: 2026-03-06T16:14
+updated: 2026-05-12T23:39
 description: Nó khác gì với những dự án tương tự khác? Nó chấp nhận những đánh đổi nào?
 aliases:
   - Động lực
@@ -28,7 +28,7 @@ Các SaaS tổng hợp địa điểm gặp mặt như Foody, do phải tính đ
 - Chèn quảng cáo, popup làm rối mắt
 - Ưu tiên giới thiệu các cửa hàng trả tiền cho họ, chứ không giới thiệu thứ phù hợp nhất cho người dùng
 
-Đây không phải là nơi để làm điều đó. Có người sẽ lập luận rằng việc kiếm tiền không xấu. Nhưng vẫn có những cách khác để kiếm tiền mà không phải làm những điều đó, như yêu cầu người dùng trả tiền để được sử dụng. (Nói cho chặt chẽ thì việc đó cũng không ngăn cản nhà phát hành cài cắm những kỹ thuật để khai thác người dùng. Chỉ có những [phần mềm tự do và mã nguồn mở](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/T%E1%BB%B1%20tr%E1%BB%8B%20d%E1%BB%AF%20li%E1%BB%87u.%20M%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F,%20ph%E1%BA%A7n%20m%E1%BB%81m%20t%E1%BB%B1%20do/Ph%E1%BA%A7n%20m%E1%BB%81m%20t%E1%BB%B1%20do%20v%C3%A0%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F/index.md) mới giải quyết triệt để vấn đề này.) Việc yêu cầu người dùng trả tiền không đi ngược lại yêu cầu này.
+Đây không phải là nơi để làm điều đó. Có người sẽ lập luận rằng việc kiếm tiền không xấu. Nhưng vẫn có những cách khác để kiếm tiền mà không phải làm những điều đó, như yêu cầu người dùng trả tiền để được sử dụng. (Nói cho chặt chẽ thì việc đó cũng không ngăn cản nhà phát hành cài cắm những kỹ thuật để khai thác người dùng. Chỉ có những [phần mềm tự do và mã nguồn mở](ph%E1%BA%A7n%20m%E1%BB%81m%20t%E1%BB%B1%20do%20v%C3%A0%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F.md) mới giải quyết triệt để vấn đề này.) Việc yêu cầu người dùng trả tiền không đi ngược lại yêu cầu này.
 
 ### Giảm gánh nặng nhận thức trong việc cung cấp, quản lý, sử dụng và chia sẻ dữ liệu theo những nhu cầu đặc thù của họ
 Trong quan sát của tôi, những dự án không vì lợi nhuận sau một thời gian đều lạc hậu do không có người quản lý kế thừa. Lý do là vì dữ liệu không được lưu trữ ở định dạng đơn giản, không dễ thao tác, khiến cho việc nhập liệu và chia sẻ dữ liệu trở nên khó khăn. 
@@ -85,7 +85,7 @@ Khi cần trung tâm hóa thì mới
 
 Ở ngay trong hệ thống dữ liệu
 [Việc đổi mới sáng tạo bắt đầu bằng việc mỗi người có thể tự mình điều khiển được máy tính, chứ không phải có thêm một sản phẩm no code hay AI nữa](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/Vi%E1%BB%87c%20%C4%91%E1%BB%95i%20m%E1%BB%9Bi%20s%C3%A1ng%20t%E1%BA%A1o%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20b%E1%BA%B1ng%20vi%E1%BB%87c%20m%E1%BB%97i%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20th%E1%BB%83%20t%E1%BB%B1%20m%C3%ACnh%20%C4%91i%E1%BB%81u%20khi%E1%BB%83n%20%C4%91%C6%B0%E1%BB%A3c%20m%C3%A1y%20t%C3%ADnh,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20c%C3%B3%20th%C3%AAm%20m%E1%BB%99t%20s%E1%BA%A3n%20ph%E1%BA%A9m%20no%20code%20hay%20AI%20n%E1%BB%AFa.md)
-[Những người tự thấy mình ngu công nghệ đơn giản là vì họ không được trao quyền tự trị dữ liệu](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/T%E1%BB%B1%20tr%E1%BB%8B%20d%E1%BB%AF%20li%E1%BB%87u.%20M%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F,%20ph%E1%BA%A7n%20m%E1%BB%81m%20t%E1%BB%B1%20do/T%E1%BB%B1%20tr%E1%BB%8B%20d%E1%BB%AF%20li%E1%BB%87u/Nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20t%E1%BB%B1%20th%E1%BA%A5y%20m%C3%ACnh%20ngu%20c%C3%B4ng%20ngh%E1%BB%87%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20l%C3%A0%20v%C3%AC%20h%E1%BB%8D%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20trao%20quy%E1%BB%81n%20t%E1%BB%B1%20tr%E1%BB%8B%20d%E1%BB%AF%20li%E1%BB%87u.md)
+[Những người tự thấy mình ngu công nghệ đơn giản là vì họ không được trao quyền tự trị dữ liệu](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/T%E1%BB%B1%20tr%E1%BB%8B%20d%E1%BB%AF%20li%E1%BB%87u/Nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20t%E1%BB%B1%20th%E1%BA%A5y%20m%C3%ACnh%20ngu%20c%C3%B4ng%20ngh%E1%BB%87%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20l%C3%A0%20v%C3%AC%20h%E1%BB%8D%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20trao%20quy%E1%BB%81n%20t%E1%BB%B1%20tr%E1%BB%8B%20d%E1%BB%AF%20li%E1%BB%87u.md)
 
 Trung tâm hoá. Giảm gánh nặng cho người kế thừa
 Trung tâm hoá dữ liệu. Nếu chỉ cho mình thôi thì đơn giản

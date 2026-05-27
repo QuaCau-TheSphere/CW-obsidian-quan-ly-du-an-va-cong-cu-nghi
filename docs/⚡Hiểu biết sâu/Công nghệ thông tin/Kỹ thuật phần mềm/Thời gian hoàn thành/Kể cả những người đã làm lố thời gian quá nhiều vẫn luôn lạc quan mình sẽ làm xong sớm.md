@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-04-16T12:25
+updated: 2026-05-12T23:39
 ---
 Khái niệm:: [Thời gian, lịch](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Th%E1%BB%9Di%20gian,%20l%E1%BB%8Bch.md), [Dự đoán](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%B1%20%C4%91o%C3%A1n.md)
 

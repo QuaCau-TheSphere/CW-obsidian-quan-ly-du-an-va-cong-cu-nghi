@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-09T09:41
-updated: 2026-01-02T12:49
+updated: 2026-05-12T23:39
 ---
 Khái niệm:: [Cộng đồng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/C%E1%BB%99ng%20%C4%91%E1%BB%93ng/index.md)
 ## Nhược điểm của nhóm Facebook

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-12-22T17:31
+updated: 2026-05-12T23:39
 ---
 Sự mạnh mẽ của cộng đồng Obsidian và những triết lý của nó đã thắp lên một ngọn lửa đầy phấn khởi trong những người muốn tìm ra được một công cụ giúp quản lý tất cả những công việc trong cuộc sống của họ. Họ hiểu rất rõ rằng [Quản lý công việc và quản lý kiến thức không thể tách rời nhau](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Qu%E1%BA%A3n%20l%C3%BD%20c%C3%B4ng%20vi%E1%BB%87c%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c%20kh%C3%B4ng%20th%E1%BB%83%20t%C3%A1ch%20r%E1%BB%9Di%20nhau.md), và họ trông đợi rằng rồi cũng sẽ có ai đó viết ra được một cái plugin quản lý công việc đáp ứng được những nhu cầu của họ, hy vọng rằng những khao khát có một nơi chứa tất cả trong một rồi cũng sẽ được giải quyết. Nhưng dù có uống bao nhiêu tin tức thì họ vẫn thấy mình còn khát. Plugin thì cứ mọc như nấm sau mưa, nhưng cái thứ duy nhất họ cần thì vẫn tăm hơi biệt tích. Càng chờ càng chán, nhưng họ cũng không sao từ bỏ hy vọng được, vì không hiểu vì lẽ gì mà một cộng đồng mạnh mẽ đến vậy lại chẳng có người có cùng vấn đề với mình. Obsidian đã tạo ra một bất hòa nhận thức kinh niên trong người họ. 
 

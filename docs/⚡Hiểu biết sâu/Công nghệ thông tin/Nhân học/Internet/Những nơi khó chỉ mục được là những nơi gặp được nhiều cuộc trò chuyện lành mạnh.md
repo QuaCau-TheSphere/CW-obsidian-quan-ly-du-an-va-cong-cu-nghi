@@ -6,7 +6,7 @@ aliases:
   - Những nơi gặp được nhiều tương tác thực sự từ con người là những nơi được sàng lọc kỹ
   - Thuyết rừng âm u của web
   - Để giữ được sự bình an cho bản thân, nhiều người tránh xa những nơi quá công khai, rút vào những địa bàn có sự sàng lọc kỹ hơn
-updated: 2026-01-14T13:10
+updated: 2026-05-12T23:39
 ---
 Khái niệm:: [Nền tảng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/N%E1%BB%81n%20t%E1%BA%A3ng.md)
 Hãy tưởng tượng một khu rừng về đêm. Nó thinh lặng chết người. Nó làm người ta tưởng rằng khu rừng không có sự sống. Nhưng thực ra không phải; khu rừng tràn ngập sự sống. Nó thinh lặng vì ban đêm là lúc hoạt động của rất nhiều loài săn mồi. Để sinh tồn, muôn thú giữ im lặng. 
@@ -26,7 +26,7 @@ Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/VX
 Nguồn:: [The dark forest theory of the internet](https://www.ystrickler.com/the-dark-forest-theory-of-the-internet/)
 Nguồn:: [The Wisdom Gap](https://www.humanetech.com/insights/the-wisdom-gap "The Wisdom Gap - Center for Humane Technology")
 
-Mâu thuẫn với:: [Silo thông tin khiến cho những thao tác tự động hoá đơn giản không thể làm được](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/H%C3%ACnh%20th%E1%BB%A9c%20l%C6%B0u%20tr%E1%BB%AF/Silo%20th%C3%B4ng%20tin%20khi%E1%BA%BFn%20cho%20nh%E1%BB%AFng%20thao%20t%C3%A1c%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20kh%C3%B4ng%20th%E1%BB%83%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c.md), [Quyền được đọc là quyền được cào](../../T%E1%BB%B1%20tr%E1%BB%8B%20d%E1%BB%AF%20li%E1%BB%87u.%20M%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F,%20ph%E1%BA%A7n%20m%E1%BB%81m%20t%E1%BB%B1%20do/Quy%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%8Dc%20l%C3%A0%20quy%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20c%C3%A0o.md)
+Mâu thuẫn với:: [Silo thông tin khiến cho những thao tác tự động hoá đơn giản không thể làm được](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/H%C3%ACnh%20th%E1%BB%A9c%20l%C6%B0u%20tr%E1%BB%AF/Silo%20th%C3%B4ng%20tin%20khi%E1%BA%BFn%20cho%20nh%E1%BB%AFng%20thao%20t%C3%A1c%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20kh%C3%B4ng%20th%E1%BB%83%20l%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c.md), [Quyền được đọc là quyền được cào](../../T%E1%BB%B1%20tr%E1%BB%8B%20d%E1%BB%AF%20li%E1%BB%87u/Quy%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%8Dc%20l%C3%A0%20quy%E1%BB%81n%20%C4%91%C6%B0%E1%BB%A3c%20c%C3%A0o.md)
 Xem thêm:: [Delightful humane design](Delightful%20humane%20design.md)
 
 Content farm, humane tech

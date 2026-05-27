@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-16T12:53
-updated: 2026-05-12T21:15
+updated: 2026-05-18T15:54
 blog: true
 aliases:
   - Người làm dữ liệu nói gì về sự thiếu sót của dữ liệu?
@@ -451,8 +451,8 @@ confounder không biết là một trong những lý do ta phải lấy mẫu ng
 [Nếu bệnh nặng, dễ lây, hoặc điều trị được, thì giảm ngưỡng cắt để tối đa hóa số ca dương thật. Nếu việc xét nghiệm quá đắt, hoặc xâm lấn nhiều, hoặc có tác hại lớn nếu kết quả sai thì tăng ngưỡng cắt để tối thiểu hóa số ca dương giả](N%E1%BA%BFu%20b%E1%BB%87nh%20n%E1%BA%B7ng,%20d%E1%BB%85%20l%C3%A2y,%20ho%E1%BA%B7c%20%C4%91i%E1%BB%81u%20tr%E1%BB%8B%20%C4%91%C6%B0%E1%BB%A3c,%20th%C3%AC%20gi%E1%BA%A3m%20ng%C6%B0%E1%BB%A1ng%20c%E1%BA%AFt%20%C4%91%E1%BB%83%20t%E1%BB%91i%20%C4%91a%20h%C3%B3a%20s%E1%BB%91%20ca%20d%C6%B0%C6%A1ng%20th%E1%BA%ADt.%20N%E1%BA%BFu%20vi%E1%BB%87c%20x%C3%A9t%20nghi%E1%BB%87m%20qu%C3%A1%20%C4%91%E1%BA%AFt,%20ho%E1%BA%B7c%20x%C3%A2m%20l%E1%BA%A5n%20nhi%E1%BB%81u,%20ho%E1%BA%B7c%20c%C3%B3%20t%C3%A1c%20h%E1%BA%A1i%20l%E1%BB%9Bn%20n%E1%BA%BFu%20k%E1%BA%BFt%20qu%E1%BA%A3%20sai%20th%C3%AC%20t%C4%83ng%20ng%C6%B0%E1%BB%A1ng%20c%E1%BA%AFt%20%C4%91%E1%BB%83%20t%E1%BB%91i%20thi%E1%BB%83u%20h%C3%B3a%20s%E1%BB%91%20ca%20d%C6%B0%C6%A1ng%20gi%E1%BA%A3.md). [Giảm ngưỡng cắt làm tăng độ nhạy, từ đó làm tăng số dương thật. Tăng ngưỡng cắt làm làm tăng độ đặc hiệu, từ đó làm giảm số dương giả](Gi%E1%BA%A3m%20ng%C6%B0%E1%BB%A1ng%20c%E1%BA%AFt%20l%C3%A0m%20t%C4%83ng%20%C4%91%E1%BB%99%20nh%E1%BA%A1y,%20t%E1%BB%AB%20%C4%91%C3%B3%20l%C3%A0m%20t%C4%83ng%20s%E1%BB%91%20d%C6%B0%C6%A1ng%20th%E1%BA%ADt.%20T%C4%83ng%20ng%C6%B0%E1%BB%A1ng%20c%E1%BA%AFt%20l%C3%A0m%20l%C3%A0m%20t%C4%83ng%20%C4%91%E1%BB%99%20%C4%91%E1%BA%B7c%20hi%E1%BB%87u,%20t%E1%BB%AB%20%C4%91%C3%B3%20l%C3%A0m%20gi%E1%BA%A3m%20s%E1%BB%91%20d%C6%B0%C6%A1ng%20gi%E1%BA%A3.md)
 Các thiếu sót của dữ liệu đã được đánh đổi ở đây. Một khi đã ấn định một con số, nghĩa là đã chấp nhận đánh đổi
 Bayes 
-
-
+Việc nói rằng trung bình chỉ là một phát minh cũng giống như nói rằng hồi quy cũng chỉ là một phát minh. Toán học là phát minh hay khám phá
+Cái gì cũng là phát minh cả. So sánh loài người với tích phân hay đạo hàm thì cũng bị phê bình?
 
 | **Tên chương**                                                                                                  | **Mục, tiểu mục**                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -512,6 +512,8 @@ The process T → Z → Y → X → $\mathbb R$ is what I call "T become $\mathb
 
 Dữ liệu lớn chỉ dự báo bằng thống kê suy diễn. Mô phỏng dự báo bằng các mối quan hệ nhân quả
 
+Cái gì c
+
 
 Is the example in [this comment](https://math.codidact.com/comments/thread/11791#comment-29302)?
 
@@ -519,3 +521,6 @@ So there are different kinds of σ-algebra:
 - The body can be the whole set that the σ-algebra is defined on, and the subsets are head, torso, limbs, genitals. the set of all actual bodies
 - Or the whole set is the set of all bodies in the world, and an individual body is one subset of it
 - the set of all bodies in some probability distribution (
+
+
+

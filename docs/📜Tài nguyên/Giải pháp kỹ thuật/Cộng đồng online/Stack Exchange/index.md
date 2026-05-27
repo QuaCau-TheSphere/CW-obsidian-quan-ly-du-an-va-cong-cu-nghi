@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-01-14T13:11
+updated: 2026-05-27T13:55
 title: Stack Exchange
 ---
 - Comment hỏi tại sao bị downvote sẽ bị xoá [Is asking for "how to improve the question" a reason to delete a comment?](https://meta.stackoverflow.com/q/386369/3416774)

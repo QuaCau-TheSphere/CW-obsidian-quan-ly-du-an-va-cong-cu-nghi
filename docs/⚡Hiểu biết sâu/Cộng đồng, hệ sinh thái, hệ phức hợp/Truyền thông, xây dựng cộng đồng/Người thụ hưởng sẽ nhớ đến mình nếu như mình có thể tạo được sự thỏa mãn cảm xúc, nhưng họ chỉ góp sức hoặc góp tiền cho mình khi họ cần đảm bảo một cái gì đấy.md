@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-04-23T14:52
+updated: 2026-05-12T23:39
 ---
 Khái niệm:: [Marketing](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/C%E1%BB%99ng%20%C4%91%E1%BB%93ng/Marketing.md)
 

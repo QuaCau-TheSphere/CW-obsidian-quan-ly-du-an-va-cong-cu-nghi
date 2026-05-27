@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-30T12:40
-updated: 2025-12-22T17:31
+updated: 2026-05-12T23:39
 ---
 [Đơn vị nhỏ nhất của Obsidian là file, không phải block](./%C4%90%C6%A1n%20v%E1%BB%8B%20nh%E1%BB%8F%20nh%E1%BA%A5t%20c%E1%BB%A7a%20Obsidian%20l%C3%A0%20file,%20kh%C3%B4ng%20ph%E1%BA%A3i%20block.md). Ưu điểm của block là [Giao diện block cho phép người dùng linh hoạt hơn mà vẫn giữ được sự cấu trúc](Giao%20di%E1%BB%87n%20block%20cho%20ph%C3%A9p%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20linh%20ho%E1%BA%A1t%20h%C6%A1n%20m%C3%A0%20v%E1%BA%ABn%20gi%E1%BB%AF%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%B1%20c%E1%BA%A5u%20tr%C3%BAc.md). Tuy nhiên nếu chịu khó dùng plugin và codeblock thì cũng có thể đạt được ưu điểm này. Nhược điểm của block là [Khó có thể copy dữ liệu dạng block giữa các app khác nhau](Kh%C3%B3%20c%C3%B3%20th%E1%BB%83%20copy%20d%E1%BB%AF%20li%E1%BB%87u%20d%E1%BA%A1ng%20block%20gi%E1%BB%AFa%20c%C3%A1c%20app%20kh%C3%A1c%20nhau.md), trong khi [Có thể dùng kết hợp Obsidian với các giải pháp xử lý dữ liệu khác](./%C4%90i%E1%BB%83m%20m%E1%BA%A1nh%20c%E1%BB%A7a%20Obsidian/C%C3%B3%20th%E1%BB%83%20d%C3%B9ng%20k%E1%BA%BFt%20h%E1%BB%A3p%20Obsidian%20v%E1%BB%9Bi%20c%C3%A1c%20gi%E1%BA%A3i%20ph%C3%A1p%20x%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u%20kh%C3%A1c.md)
 

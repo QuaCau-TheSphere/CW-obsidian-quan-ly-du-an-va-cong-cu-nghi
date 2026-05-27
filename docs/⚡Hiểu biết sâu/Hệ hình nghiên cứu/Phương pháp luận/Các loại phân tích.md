@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-04-02T20:21
-updated: 2026-04-03T01:11
+updated: 2026-05-12T23:39
 title: "Có 4 loại phân tích dữ liệu: mô tả, chẩn đoán, dự báo, đề xuất"
 ---
 Khái niệm:: [Phân tích](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A2n%20t%C3%ADch.md)

@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-05-12T23:39
+updated: 2026-05-29T01:50
 ---
+Khái niệm:: [Nghiên cứu](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nghi%C3%AAn%20c%E1%BB%A9u.md)
 Có những cái phải chạy mô hình dự báo
 
 Nguồn:: [ABG Open Special 2023](../../../%CE%9E%20Ngu%E1%BB%93n/Kinh%20t%E1%BA%BF%20h%E1%BB%8Dc/ABG%20Open%20Special%202023.md)

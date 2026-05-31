@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-05-27T16:31
+updated: 2026-05-27T17:55
 description: Khai vấn là để giúp hiểu rõ nhu cầu bản thân. Tư vấn là đưa ý kiến của mình. Đào tạo (teaching, training) là để lấy kiến thức, quy trình, thành thạo kỹ năng. Huấn luyện (coach) là để ra sản phẩm
 aliases:
   - Khai vấn là để giúp hiểu rõ nhu cầu bản thân
@@ -15,15 +15,14 @@ Muốn biết thì phải hỏi. Tuy nhiên, [Có những câu hỏi ta rất mu
 
 [Bản chất của việc hợp tác xã hội không nằm ở mỗi chuyện làm nhẹ gánh nặng của nhau, mà còn là chuyện sắp xếp làm sao để có thể đẩy gánh nặng sang cho nhau mà không ai cảm thấy áy náy](../G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/B%E1%BA%A3n%20ch%E1%BA%A5t%20c%E1%BB%A7a%20vi%E1%BB%87c%20h%E1%BB%A3p%20t%C3%A1c%20x%C3%A3%20h%E1%BB%99i%20kh%C3%B4ng%20n%E1%BA%B1m%20%E1%BB%9F%20m%E1%BB%97i%20chuy%E1%BB%87n%20l%C3%A0m%20nh%E1%BA%B9%20g%C3%A1nh%20n%E1%BA%B7ng%20c%E1%BB%A7a%20nhau,%20m%C3%A0%20c%C3%B2n%20l%C3%A0%20chuy%E1%BB%87n%20s%E1%BA%AFp%20x%E1%BA%BFp%20l%C3%A0m%20sao%20%C4%91%E1%BB%83%20c%C3%B3%20th%E1%BB%83%20%C4%91%E1%BA%A9y%20g%C3%A1nh%20n%E1%BA%B7ng%20sang%20cho%20nhau%20m%C3%A0%20kh%C3%B4ng%20ai%20c%E1%BA%A3m%20th%E1%BA%A5y%20%C3%A1y%20n%C3%A1y.md). [Nếu được trò chuyện với người cùng quan tâm thì việc nghĩ không nhức đầu](../G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/Khi%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%B2%20chuy%E1%BB%87n%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20c%C3%B9ng%20quan%20t%C3%A2m%20th%C3%AC%20vi%E1%BB%87c%20ngh%C4%A9%20kh%C3%B4ng%20nh%E1%BB%A9c%20%C4%91%E1%BA%A7u.%20Khi%20kh%C3%B4ng%20c%C3%B3%20th%C3%AC%20vi%E1%BB%87c%20ngh%C4%A9%20nh%E1%BB%A9c%20%C4%91%E1%BA%A7u.md). [Nếu có thể được thử nghiệm ý tưởng mới và kiểm tra giả thiết ngay khi chúng vừa được nghĩ ra, việc thiết kế một giải pháp sẽ trở nên nhanh chóng và tự tin](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thuy%E1%BA%BFt/%C4%90%E1%BB%83%20c%C3%B3%20th%E1%BB%83%20thi%E1%BA%BFt%20k%E1%BA%BF%20m%E1%BB%99t%20gi%E1%BA%A3i%20ph%C3%A1p%20m%E1%BB%99t%20c%C3%A1ch%20nhanh%20ch%C3%B3ng%20v%C3%A0%20t%E1%BB%B1%20tin,%20ta%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%AD%20nghi%E1%BB%87m%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20m%E1%BB%9Bi%20v%C3%A0%20ki%E1%BB%83m%20tra%20gi%E1%BA%A3%20thi%E1%BA%BFt%20ngay%20khi%20ch%C3%BAng%20v%E1%BB%ABa%20%C4%91%C6%B0%E1%BB%A3c%20ngh%C4%A9%20ra.md). Việc có thể hỏi và nhận ngay phản hồi mà không cần phải tìm hiểu trước chính là hoạt động khai vấn, tư vấn, đào tạo, huấn luyện. Tất nhiên là nếu có tìm hiểu trước thì vẫn tốt hơn.
 
-| Hoạt động → <br>Đặc điểm ↓                                       | Khai vấn | Tư vấn     | Đào tạo            | Huấn luyện |
-| ---------------------------------------------------------------- | -------- | ---------- | ------------------ | ---------- |
-| Tiếng Anh                                                        | Mentor   | Consultant | Training, teaching | Coaching   |
-| Kích thích suy nghĩ, thay đổi tư duy                             | ✔        | ✔          | ✔                  | ✔          |
-| Cung cấp kiến thức, quy trình                                    | ✔        | ✔          | ✔                  | ✔          |
-| Định hướng khi không biết chọn gì, giúp hiểu rõ nhu cầu bản thân | ✔        | ✔          | ✔                  | ✔          |
-| Đưa ý kiến khi đối diện một tình huống cụ thể                    | ❌       | ✔          | ❌                 | ✔          |
-| Tạo ra một sản phẩm cụ thể                                       | ❌       | ❌         | ❌                 | ✔          |
-| Giúp thành thạo kỹ năng                                          | ❌       | ❌         | ✔                  | ✔          |
+| Hoạt động → <br>Đặc điểm ↓                                       | Khai vấn  | Tư vấn     | Đào tạo  | Huấn luyện |          |
+| ---------------------------------------------------------------- | --------- | ---------- | -------- | ---------- | -------- |
+| Tiếng Anh                                                        | Mentoring | Consulting | Training | Coaching   | Teaching |
+| Kích thích suy nghĩ, thay đổi tư duy                             | ✔         | ✔          | ✔        | ✔          | ✔        |
+| Cung cấp kiến thức, quy trình                                    | ✔         | ✔          | ✔        | ✔          | ✔        |
+| Định hướng khi không biết chọn gì, giúp hiểu rõ nhu cầu bản thân | ✔         | ✔          | ✔        | ✔          |          |
+| Đưa ý kiến khi đối diện một tình huống cụ thể                    | ❌        | ✔          | ❌       | ✔          |          |
+| Giúp thành thạo kỹ năng để tự tạo ra được sản phẩm cụ thể        | ❌        | ❌         | ✔        | ✔          |          |
 
 Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../%CE%9E%20Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
 Dự án:: [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)

@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-05-15T21:47
+updated: 2026-05-29T01:49
 ---
-Khái niệm:: [Ra quyết định](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%E1%BA%A3n%20l%C3%BD%20t%E1%BB%95%20ch%E1%BB%A9c/Ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh.md), [Thảo luận](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%E1%BA%A3n%20l%C3%BD%20t%E1%BB%95%20ch%E1%BB%A9c/Th%E1%BA%A3o%20lu%E1%BA%ADn.md), [Kế hoạch (khái niệm)](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/K%E1%BA%BF%20ho%E1%BA%A1ch%20(kh%C3%A1i%20ni%E1%BB%87m).md)
+Khái niệm:: [Ra quyết định](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%E1%BA%A3n%20l%C3%BD%20t%E1%BB%95%20ch%E1%BB%A9c/Ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh.md), [Thảo luận](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Qu%E1%BA%A3n%20l%C3%BD%20t%E1%BB%95%20ch%E1%BB%A9c/Th%E1%BA%A3o%20lu%E1%BA%ADn.md), [Kế hoạch (khái niệm)](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/K%E1%BA%BF%20ho%E1%BA%A1ch%20(kh%C3%A1i%20ni%E1%BB%87m).md), [Nghiên cứu](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nghi%C3%AAn%20c%E1%BB%A9u.md)
+
 [1 nghiên cứu 20 ngày khác với 4 nghiên cứu 5 ngày](../1%20nghi%C3%AAn%20c%E1%BB%A9u%2020%20ng%C3%A0y%20kh%C3%A1c%20v%E1%BB%9Bi%204%20nghi%C3%AAn%20c%E1%BB%A9u%205%20ng%C3%A0y.md)
 [Nhiều khi vấn đề chỉ được phát hiện ra khi đến khâu triển khai ý tưởng](../../../C%C3%B4ng%20vi%E1%BB%87c/B%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20v%C3%A0%20kh%C3%A1m%20ph%C3%A1/Nhi%E1%BB%81u%20khi%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20ch%E1%BB%89%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A1t%20hi%E1%BB%87n%20ra%20khi%20%C4%91%E1%BA%BFn%20kh%C3%A2u%20tri%E1%BB%83n%20khai%20%C3%BD%20t%C6%B0%E1%BB%9Fng.md)
 [Ai cũng có một kế hoạch cho tới khi bị đấm vào mồm](./Ai%20c%C5%A9ng%20c%C3%B3%20m%E1%BB%99t%20k%E1%BA%BF%20ho%E1%BA%A1ch%20cho%20t%E1%BB%9Bi%20khi%20b%E1%BB%8B%20%C4%91%E1%BA%A5m%20v%C3%A0o%20m%E1%BB%93m.md)

@@ -1,0 +1,20 @@
+---
+share: true
+created: 2026-05-29T01:50
+updated: 2026-05-29T01:50
+---
+- Bất định và khám phá: 
+    - [Điều đã biết là đã biết được dùng để lên kế hoạch chính. Điều không biết là đã biết được dùng để lên kế hoạch dự phòng. Điều đã biết là không biết thì cần nghiên cứu thêm](../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/B%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20v%C3%A0%20kh%C3%A1m%20ph%C3%A1/%C4%90i%E1%BB%81u%20%C4%91%C3%A3%20bi%E1%BA%BFt%20l%C3%A0%20%C4%91%C3%A3%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20%C4%91%E1%BB%83%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch%20ch%C3%ADnh.%20%C4%90i%E1%BB%81u%20kh%C3%B4ng%20bi%E1%BA%BFt%20l%C3%A0%20%C4%91%C3%A3%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20%C4%91%E1%BB%83%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch%20d%E1%BB%B1%20ph%C3%B2ng.%20%C4%90i%E1%BB%81u%20%C4%91%C3%A3%20bi%E1%BA%BFt%20l%C3%A0%20kh%C3%B4ng%20bi%E1%BA%BFt%20th%C3%AC%20c%E1%BA%A7n%20nghi%C3%AAn%20c%E1%BB%A9u%20th%C3%AAm.md)
+
+- Nghiên cứu người dùng: 
+    - [Chuyển từ giả định nghiên cứu sang bảng hỏi định lượng thế nào cho hiệu quả](../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/4%20Th%C3%A0nh%20ph%E1%BA%A9m/Nghi%C3%AAn%20c%E1%BB%A9u%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Chuy%E1%BB%83n%20t%E1%BB%AB%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh%20nghi%C3%AAn%20c%E1%BB%A9u%20sang%20b%E1%BA%A3ng%20h%E1%BB%8Fi%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng%20th%E1%BA%BF%20n%C3%A0o%20cho%20hi%E1%BB%87u%20qu%E1%BA%A3.md)
+
+- Nghiên cứu, tìm ý tưởng: 
+    - [1 nghiên cứu 20 ngày khác với 4 nghiên cứu 5 ngày](../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Nghi%C3%AAn%20c%E1%BB%A9u,%20t%C3%ACm%20%C3%BD%20t%C6%B0%E1%BB%9Fng/1%20nghi%C3%AAn%20c%E1%BB%A9u%2020%20ng%C3%A0y%20kh%C3%A1c%20v%E1%BB%9Bi%204%20nghi%C3%AAn%20c%E1%BB%A9u%205%20ng%C3%A0y.md)
+    - [Việc ưu tiên ra quyết định nhanh làm ta thấy thảo luận và dành thời gian xây dựng kế hoạch và nghiên cứu là phí thời gian](../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Nghi%C3%AAn%20c%E1%BB%A9u,%20t%C3%ACm%20%C3%BD%20t%C6%B0%E1%BB%9Fng/L%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch/Vi%E1%BB%87c%20%C6%B0u%20ti%C3%AAn%20ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20nhanh%20l%C3%A0m%20ta%20th%E1%BA%A5y%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%C3%A0%20d%C3%A0nh%20th%E1%BB%9Di%20gian%20x%C3%A2y%20d%E1%BB%B1ng%20k%E1%BA%BF%20ho%E1%BA%A1ch%20v%C3%A0%20nghi%C3%AAn%20c%E1%BB%A9u%20l%C3%A0%20ph%C3%AD%20th%E1%BB%9Di%20gian.md)
+    - [Những câu hỏi đánh giá tác động đòi hỏi phải nghiên cứu sâu](../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Nghi%C3%AAn%20c%E1%BB%A9u,%20t%C3%ACm%20%C3%BD%20t%C6%B0%E1%BB%9Fng/Nh%E1%BB%AFng%20c%C3%A2u%20h%E1%BB%8Fi%20%C4%91%C3%A1nh%20gi%C3%A1%20t%C3%A1c%20%C4%91%E1%BB%99ng%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20ph%E1%BA%A3i%20nghi%C3%AAn%20c%E1%BB%A9u%20s%C3%A2u.md)
+
+- Thời gian làm việc: 
+    - [Nghiên cứu trong bối cảnh thực hành khác với nghiên cứu học thuật](../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20gian%20l%C3%A0m%20vi%E1%BB%87c/Nghi%C3%AAn%20c%E1%BB%A9u%20trong%20b%E1%BB%91i%20c%E1%BA%A3nh%20th%E1%BB%B1c%20h%C3%A0nh%20kh%C3%A1c%20v%E1%BB%9Bi%20nghi%C3%AAn%20c%E1%BB%A9u%20h%E1%BB%8Dc%20thu%E1%BA%ADt.md)
+
+

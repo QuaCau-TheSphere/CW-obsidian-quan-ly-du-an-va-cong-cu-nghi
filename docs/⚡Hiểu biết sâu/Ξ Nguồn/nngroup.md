@@ -1,8 +1,17 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-05-12T23:39
+updated: 2026-05-28T00:11
 ---
-Khái niệm:: 
+- Đọc và viết: 
+    - [Dùng thuật ngữ chính xác hơn dùng từ bình dân, nhưng ngay cả chuyên gia cũng không phàn nàn về việc dùng từ bình dân, miễn là việc đó không tạo ra sự mơ hồ](../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/D%C3%B9ng%20thu%E1%BA%ADt%20ng%E1%BB%AF%20ch%C3%ADnh%20x%C3%A1c%20h%C6%A1n%20d%C3%B9ng%20t%E1%BB%AB%20b%C3%ACnh%20d%C3%A2n,%20nh%C6%B0ng%20ngay%20c%E1%BA%A3%20chuy%C3%AAn%20gia%20c%C5%A9ng%20kh%C3%B4ng%20ph%C3%A0n%20n%C3%A0n%20v%E1%BB%81%20vi%E1%BB%87c%20d%C3%B9ng%20t%E1%BB%AB%20b%C3%ACnh%20d%C3%A2n,%20mi%E1%BB%85n%20l%C3%A0%20vi%E1%BB%87c%20%C4%91%C3%B3%20kh%C3%B4ng%20t%E1%BA%A1o%20ra%20s%E1%BB%B1%20m%C6%A1%20h%E1%BB%93.md)
+    - [Đọc một bài viết sâu làm ta biết mình cần phải làm gì nhiều hơn là đọc một bài viết nông](../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/%C4%90%E1%BB%8Dc%20m%E1%BB%99t%20b%C3%A0i%20vi%E1%BA%BFt%20s%C3%A2u%20l%C3%A0m%20ta%20bi%E1%BA%BFt%20m%C3%ACnh%20c%E1%BA%A7n%20ph%E1%BA%A3i%20l%C3%A0m%20g%C3%AC%20nhi%E1%BB%81u%20h%C6%A1n%20l%C3%A0%20%C4%91%E1%BB%8Dc%20m%E1%BB%99t%20b%C3%A0i%20vi%E1%BA%BFt%20n%C3%B4ng.md)
 
-Nguồn:: 
+- Quan niệm, thái độ, hành vi của người dùng: 
+    - [Khoảng 20% người mở tab lên là tắt ngay hoặc để đó không đọc](../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Quan%20ni%E1%BB%87m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20h%C3%A0nh%20vi%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Kho%E1%BA%A3ng%2020%EF%BC%85%20ng%C6%B0%E1%BB%9Di%20m%E1%BB%9F%20tab%20l%C3%AAn%20l%C3%A0%20t%E1%BA%AFt%20ngay%20ho%E1%BA%B7c%20%C4%91%E1%BB%83%20%C4%91%C3%B3%20kh%C3%B4ng%20%C4%91%E1%BB%8Dc.md)
+    - [Người muốn có giải pháp sẽ muốn đọc nội dung dài](../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Quan%20ni%E1%BB%87m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20h%C3%A0nh%20vi%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20c%C3%B3%20gi%E1%BA%A3i%20ph%C3%A1p%20s%E1%BA%BD%20mu%E1%BB%91n%20%C4%91%E1%BB%8Dc%20n%E1%BB%99i%20dung%20d%C3%A0i.md)
+    - [Trong số những người chịu đọc, về trung bình họ dành ra 25 s đầu để hiểu giao diện, các tính năng khác và hình ảnh. Sau đó cứ 100 chữ thì đọc thêm 4.4 s, cỡ 18 chữ](../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Quan%20ni%E1%BB%87m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20h%C3%A0nh%20vi%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Trong%20s%E1%BB%91%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20ch%E1%BB%8Bu%20%C4%91%E1%BB%8Dc,%20v%E1%BB%81%20trung%20b%C3%ACnh%20h%E1%BB%8D%20d%C3%A0nh%20ra%2025%20s%20%C4%91%E1%BA%A7u%20%C4%91%E1%BB%83%20hi%E1%BB%83u%20giao%20di%E1%BB%87n,%20c%C3%A1c%20t%C3%ADnh%20n%C4%83ng%20kh%C3%A1c%20v%C3%A0%20h%C3%ACnh%20%E1%BA%A3nh.%20Sau%20%C4%91%C3%B3%20c%E1%BB%A9%20100%20ch%E1%BB%AF%20th%C3%AC%20%C4%91%E1%BB%8Dc%20th%C3%AAm%204.4%20s,%20c%E1%BB%A1%2018%20ch%E1%BB%AF.md)
+
+- Suy luận: 
+    - [Sự dễ hiểu làm tăng sự đáng tin, dù có thể nó không hợp lý](../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/Suy%20lu%E1%BA%ADn/S%E1%BB%B1%20d%E1%BB%85%20hi%E1%BB%83u%20l%C3%A0m%20t%C4%83ng%20s%E1%BB%B1%20%C4%91%C3%A1ng%20tin,%20d%C3%B9%20c%C3%B3%20th%E1%BB%83%20n%C3%B3%20kh%C3%B4ng%20h%E1%BB%A3p%20l%C3%BD.md)
+

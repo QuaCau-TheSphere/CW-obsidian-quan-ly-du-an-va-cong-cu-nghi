@@ -1,12 +1,16 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-01-14T13:11
+updated: 2026-06-01T15:35
 ---
 Lĩnh vực:: 
 Nhu cầu công nghệ:: [Cào web](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/C%C3%A0o%20web.md), [Tự động nhập sự kiện vào lịch](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20h%C3%B3a/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20nh%E1%BA%ADp%20s%E1%BB%B1%20ki%E1%BB%87n%20v%C3%A0o%20l%E1%BB%8Bch.md), [Hệ thống quản lý kiến thức](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/H%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md), [Tự động hoá các công việc lặp đi lặp lại](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20h%C3%B3a/T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1%20c%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20l%E1%BA%B7p%20%C4%91i%20l%E1%BA%B7p%20l%E1%BA%A1i.md), [Tổng hợp nội dung, tin tức, sự kiện từ các website](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/T%E1%BB%95ng%20h%E1%BB%A3p%20n%E1%BB%99i%20dung,%20tin%20t%E1%BB%A9c,%20s%E1%BB%B1%20ki%E1%BB%87n%20t%E1%BB%AB%20c%C3%A1c%20website.md), [Tài liệu động](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md)
 
 Cần aggregator
 Bản chất là cần tới [Tổng hợp nội dung, tin tức, sự kiện từ các website](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Web/T%E1%BB%95ng%20h%E1%BB%A3p%20n%E1%BB%99i%20dung,%20tin%20t%E1%BB%A9c,%20s%E1%BB%B1%20ki%E1%BB%87n%20t%E1%BB%AB%20c%C3%A1c%20website.md). Xem bài chi tiết ở đó
+
+Hướng em thì: Connect trên mạng nó nhiều thông tin quá. Process thông tin liên tục khiến em mệt. Lý do tại sao em ghét đọc tin nhắn trên công ty và add vào nhiều group là vì mình vừa execute, vừa nghĩ, vừa phải ngồi đọc và detect thông tin. Nên đôi khi em cứ nghĩ ước gì có con AI nào đó nó tổng hợp hết tất cả các thông tin trên mọi nền tảng và tự động update và phân bổ các đầu task và deadline cho em + kèm với requirement
+
+[Bội thực chat nhóm gây phân tán nguồn lực, mất tập trung, tăng rủi ro lộ dữ liệu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/X%C3%A2y%20d%E1%BB%B1ng%20nh%C3%B3m,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A2n%20s%E1%BB%B1/K%C3%AAnh%20li%C3%AAn%20l%E1%BA%A1c/B%E1%BB%99i%20th%E1%BB%B1c%20chat%20nh%C3%B3m%20g%C3%A2y%20ph%C3%A2n%20t%C3%A1n%20ngu%E1%BB%93n%20l%E1%BB%B1c,%20m%E1%BA%A5t%20t%E1%BA%ADp%20trung,%20t%C4%83ng%20r%E1%BB%A7i%20ro%20l%E1%BB%99%20d%E1%BB%AF%20li%E1%BB%87u.md)
 
 Xem thêm:: [Nắm bắt xu hướng mạng](../Nghi%C3%AAn%20c%E1%BB%A9u/Thu%20th%E1%BA%ADp%20d%E1%BB%AF%20li%E1%BB%87u/N%E1%BA%AFm%20b%E1%BA%AFt%20xu%20h%C6%B0%E1%BB%9Bng%20m%E1%BA%A1ng.md)

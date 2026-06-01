@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2024-08-05T17:21
-updated: 2026-05-12T23:39
+updated: 2026-05-31T21:58
 ---
-Khái niệm:: 
+Khái niệm:: [Trí nhớ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%C3%AD%20nh%E1%BB%9B.md)
 
 Nguồn:: 

@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2026-01-16T12:53
-updated: 2026-05-18T15:54
-blog: true
+updated: 2026-06-02T21:42
+blog: working
 aliases:
   - Người làm dữ liệu nói gì về sự thiếu sót của dữ liệu?
 description: Dữ liệu đến từ sự định lượng của con người chỉ sử dụng thống kê. Dữ liệu từ sự đo lường các đại lượng vật lý dùng cả các loại toán khác. Người làm với loại dữ liệu đầu cần cẩn trọng
@@ -261,7 +261,7 @@ và khoa học tự quy chiếu (metascience) sẽ
 
 ### Cách nhìn của người làm các ngành khoa học tự nhiên về dữ liệu
 Quan tâm về giá trị p, phân tích các nghiên cứu về nghiên cứu
-Do cuộc đời của họ gắn chặt với dữ liệu loại 2 nên góc nhìn của họ về dữ liệu chỉ gồm những vấn đề của dữ liệu loại 2. Tức chỉ là phương pháp lấy dữ liệu. Nếu đúng phương pháp thì là dữ liệu tốt. Những vấn đề của dữ liệu loại 1 nếu có ở dữ liệu loại 2 thì cũng không quá nhiều, nên họ không thấy quan niệm `Tự bản thân việc lấy dữ liệu đã là có vấn đề` là cần thiết. Ngay cả khi họ làm việc trên dữ liệu loại 1 thì vẫn thấy rằng quan niệm [Mọi mô hình đều sai](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/B%E1%BA%A3n%20th%E1%BB%83%20lu%E1%BA%ADn/M%E1%BB%8Di%20m%C3%B4%20h%C3%ACnh%20%C4%91%E1%BB%81u%20sai,%20nh%C6%B0ng%20m%E1%BB%99t%20s%E1%BB%91%20th%C3%AC%20h%E1%BB%AFu%20%C3%ADch.md) là đã đủ rồi. 
+Do cuộc đời của họ gắn chặt với dữ liệu loại 2 nên góc nhìn của họ về dữ liệu chỉ gồm những vấn đề của dữ liệu loại 2. Tức chỉ là phương pháp lấy dữ liệu. Nếu đúng phương pháp thì là dữ liệu tốt. Những vấn đề của dữ liệu loại 1 nếu có ở dữ liệu loại 2 thì cũng không quá nhiều, nên họ không thấy quan niệm `Tự bản thân việc lấy dữ liệu đã là có vấn đề` là cần thiết. Ngay cả khi họ làm việc trên dữ liệu loại 1 thì vẫn thấy rằng quan niệm [Mọi mô hình đều sai](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Hi%E1%BB%83u%20bi%E1%BA%BFt/M%E1%BB%8Di%20m%C3%B4%20h%C3%ACnh%20%C4%91%E1%BB%81u%20sai,%20nh%C6%B0ng%20m%E1%BB%99t%20s%E1%BB%91%20th%C3%AC%20h%E1%BB%AFu%20%C3%ADch.md) là đã đủ rồi. 
 
 Trích Max Planck:
 > Mỗi thí nghiệm là một câu hỏi mà khoa học đặt ra cho tự nhiên, và mỗi phép đo là sự ghi lại câu trả lời của tự nhiên

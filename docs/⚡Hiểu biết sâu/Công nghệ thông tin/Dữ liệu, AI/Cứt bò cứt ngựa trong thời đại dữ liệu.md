@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2026-05-12T23:39
+updated: 2026-06-21T20:59
 ---
 Khái niệm:: [Dữ liệu](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md)
 Bạn tuy có thể không biết horseshit thì cũng là bullshit, nhưng bạn chắc đã biết bullshit là những thứ vớ vẩn, nhảm cứt. Trong lúc mình đang lướt Sketchplanations thì bắt gặp tranh vẽ mình hoạ [nguyên lý bất đối xứng cứt bò](https://sketchplanations.com/the-bs-asymmetry-principle) này:
@@ -68,7 +68,7 @@ But let's be honest: we _like_ the fact that the term is profane. After all, pro
 In this course, we focus on bullshit as it often appears in the natural and social sciences: in the form of misleading models and data that drive erroneous conclusions.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rmii1hfP6d4?si=s5VGdr2Oolz8yS5X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W3APikrtqqU?si=e-jy3fXrblKSTNAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Hệ thống tri thức cộng đồng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c,%20t%C3%A0i%20nguy%C3%AAn%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
+[Hệ thống tri thức cộng đồng](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%8Dc%20t%E1%BA%ADp/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20th%E1%BB%83%20t%C3%ACm%20%C4%91%E1%BA%BFn%20t%C3%A0i%20nguy%C3%AAn%20t%E1%BB%91t%20nh%E1%BA%A5t%20cho%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20h%E1%BB%8D%20m%E1%BB%99t%20c%C3%A1ch%20nhanh%20nh%E1%BA%A5t.md)
 Crackpot
 Không có Khoa học xã hội
 [The Bullshit Machines](https://thebullshitmachines.com/)

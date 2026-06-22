@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-03-11T14:35
-updated: 2026-04-03T01:12
+updated: 2026-06-21T19:55
 aliases:
   - karaoke từ hàng xóm
   - Tiếng TV
@@ -31,13 +31,13 @@ Có nhiều lý do khiến cho một người không tập trung cao độ để
 | Lướt mạng xã hội                                                                              | ✔                         | ✔              | ✔             | ❌                        | ❌                         |
 | Đăng bài, xem kết quả truyền thông                                                            | ✔                         | ✔              | ✔             | ❌                        | ❌                         |
 | Khám phá danh mục: [Subreddit Directory](https://www.reddit.com/r/findareddit/wiki/directory) | ✔                         | ✔              | ✔             | ❌                        | ❌                         |
-| Nhập, phân loại dữ liệu thô: tiền bạc, [Nơi gặp mặt trực tiếp](./H%E1%BA%ADu%20c%E1%BA%A7n/N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20tr%E1%BB%B1c%20ti%E1%BA%BFp/index.md), ghi chú nháp                | ✔                         | ✔              | ✔             | ✔                         | ✔                          |
+| Nhập, phân loại dữ liệu thô: tiền bạc, [Nơi gặp mặt trực tiếp](../H%E1%BA%ADu%20c%E1%BA%A7n/N%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t%20tr%E1%BB%B1c%20ti%E1%BA%BFp/index.md), ghi chú nháp                | ✔                         | ✔              | ✔             | ✔                         | ✔                          |
 | Dọn dẹp dữ liệu: tập tin, chương trình                                                        | ✔                         | ✔              | ✔             | ✔                         | ✔                          |
 | Việc thủ công: làm việc nhà                                                                   | ✔                         | ✔              | ✔             | ✔                         | ✔                          |
 | Trò chuyện trực tiếp                                                                          | ✔                         | ✔              | ✔             | ✔                         | ✔                          |
 | Lái xe                                                                                        | ✔                         | ✔              | ✔             | ✔                         | ✔                          |
 
-Đa số chúng có vẻ như là không cần nghĩ cũng làm được. Trừ việc trò chuyện trực tiếp ra, thì còn lại cơ bản đó là những [công việc khai thác](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/B%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20v%C3%A0%20kh%C3%A1m%20ph%C3%A1/C%C3%B4ng%20vi%E1%BB%87c%20khai%20ph%C3%A1%20v%C3%A0%20c%C3%B4ng%20vi%E1%BB%87c%20khai%20th%C3%A1c.md), hoặc có tính khai phá thấp. Có lẽ việc trò chuyện trực tiếp là một thứ mà con người có thể làm đa nhiệm được tốt? Xem [How does social interaction affect the decrease in performance when multitasking?](https://psychology.stackexchange.com/q/27579/12937)
+Đa số chúng có vẻ như là không cần nghĩ cũng làm được. Trừ việc trò chuyện trực tiếp ra, thì còn lại cơ bản đó là những [công việc khai thác](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/B%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20v%C3%A0%20kh%C3%A1m%20ph%C3%A1/C%C3%B4ng%20vi%E1%BB%87c%20khai%20ph%C3%A1%20v%C3%A0%20c%C3%B4ng%20vi%E1%BB%87c%20khai%20th%C3%A1c.md), hoặc có tính khai phá thấp. Có lẽ việc trò chuyện trực tiếp là một thứ mà con người có thể làm đa nhiệm được tốt? Xem [How does social interaction affect the decrease in performance when multitasking?](https://psychology.stackexchange.com/q/27579/12937)
 
 ## Những cách để làm át tiếng ồn
 - Bật quạt to
@@ -46,4 +46,4 @@ Có nhiều lý do khiến cho một người không tập trung cao độ để
 ## Trường hợp nhức đầu
 ### Nhức đầu do nắng
 ### Nhức đầu do suy nghĩ
-Xem thêm:: [Bảng quan trọng – khẩn cấp](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/B%E1%BA%A3ng%20quan%20tr%E1%BB%8Dng%20%E2%80%93%20kh%E1%BA%A9n%20c%E1%BA%A5p.md)
+Xem thêm:: [Bảng quan trọng – khẩn cấp](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/B%E1%BA%A3ng%20quan%20tr%E1%BB%8Dng%20%E2%80%93%20kh%E1%BA%A9n%20c%E1%BA%A5p.md)

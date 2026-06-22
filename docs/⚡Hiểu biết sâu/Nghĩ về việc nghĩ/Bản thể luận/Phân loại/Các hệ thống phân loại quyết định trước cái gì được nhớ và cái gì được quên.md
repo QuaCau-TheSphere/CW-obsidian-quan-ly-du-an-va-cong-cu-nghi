@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2026-01-25T14:42
-updated: 2026-05-31T21:58
+updated: 2026-06-16T22:32
 ---
-Khái niệm:: [Phân loại](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Ph%C3%A2n%20lo%E1%BA%A1i.md), [Trí nhớ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%C3%AD%20nh%E1%BB%9B.md)
+Khái niệm:: [Phân loại](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Ph%C3%A2n%20lo%E1%BA%A1i.md), [Trí nhớ, ký ức](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%C3%AD%20nh%E1%BB%9B,%20k%C3%BD%20%E1%BB%A9c.md)
 [All classification systems are the result of political and social processes, which involve decisions about what’s worth remembering and what we can afford to forget](./All%20classification%20systems%20are%20the%20result%20of%20political%20and%20social%20processes,%20which%20involve%20decisions%20about%20what%E2%80%99s%20worth%20remembering%20and%20what%20we%20can%20afford%20to%20forget.md)
 Nguồn:: [The Limits of Data](https://issues.org/limits-of-data-nguyen/)
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-09-26T10:25
-updated: 2026-03-06T16:14
+updated: 2026-06-21T20:59
 ---
 Đọc tổng quan trên Wikipedia: [Visualization (graphics)](https://en.wikipedia.org/wiki/Visualization_(graphics))
 
@@ -19,7 +19,7 @@ updated: 2026-03-06T16:14
 
 ![Mối liên hệ giữa sơ đồ, biểu đồ, bản đồ, đồ thị mạng lưới.excalidraw](../../../attachments/M%E1%BB%91i%20li%C3%AAn%20h%E1%BB%87%20gi%E1%BB%AFa%20s%C6%A1%20%C4%91%E1%BB%93,%20bi%E1%BB%83u%20%C4%91%E1%BB%93,%20b%E1%BA%A3n%20%C4%91%E1%BB%93,%20%C4%91%E1%BB%93%20th%E1%BB%8B%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi.svg)
 
-Xem thêm:: [Chia sẻ kho tri thức, tài nguyên của mình cho mọi người](./Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c,%20t%C3%A0i%20nguy%C3%AAn%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
+Xem thêm:: [Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất](../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%8Dc%20t%E1%BA%ADp/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20th%E1%BB%83%20t%C3%ACm%20%C4%91%E1%BA%BFn%20t%C3%A0i%20nguy%C3%AAn%20t%E1%BB%91t%20nh%E1%BA%A5t%20cho%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20h%E1%BB%8D%20m%E1%BB%99t%20c%C3%A1ch%20nhanh%20nh%E1%BA%A5t.md)
 
 ## Nơi thảo luận
 [![](https://imagizer.imageshack.com/a/img924/9471/eQpmWA.png)](https://discord.com/channels/898550123007709204/1296474612716146719)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-06-05T19:03
-updated: 2026-06-05T19:03
+updated: 2026-06-21T19:55
 ---
 Hiệu quả ở đây được tính là giải quyết được thắc mắc, làm rõ thông tin, mâu thuẫn mà chat và text không thể giải quyết được.
 

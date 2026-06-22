@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-06T12:52
-updated: 2026-06-21T20:59
+updated: 2026-06-22T13:55
 description: Nó khác gì với những dự án tương tự khác? Nó chấp nhận những đánh đổi nào?
 aliases:
   - Động lực
@@ -151,7 +151,7 @@ Những người khgvông cần nơi này là, chấp nhận sự không hoàn h
 
 Với những nơi như này thì có lẽ động lực 1 là quan trọng nhất. (So sánh với Google Maps thì nó có xu hướng hỗ trợ tốt hơn cho người kinh doanh địa điểm.)
 ## Hệ quả của các yêu cầu trên
-Giải pháp đáp ứng được tất cả các nhu cầu này là một [hệ thống tri thức cộng đồng](../../H%E1%BB%8Dc%20t%E1%BA%ADp/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20th%E1%BB%83%20t%C3%ACm%20%C4%91%E1%BA%BFn%20t%C3%A0i%20nguy%C3%AAn%20t%E1%BB%91t%20nh%E1%BA%A5t%20cho%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20h%E1%BB%8D%20m%E1%BB%99t%20c%C3%A1ch%20nhanh%20nh%E1%BA%A5t.md) dưới hình thức là một [Tài liệu động](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md) được lưu ở định dạng đơn giản nhất là văn bản thuần. 
+Giải pháp đáp ứng được tất cả các nhu cầu này là một [hệ thống tri thức cộng đồng](../../H%E1%BB%8Dc%20t%E1%BA%ADp/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20th%E1%BB%83%20t%C3%ACm%20%C4%91%E1%BA%BFn%20t%C3%A0i%20nguy%C3%AAn%20t%E1%BB%91t%20nh%E1%BA%A5t%20cho%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20m%C3%ACnh%20m%E1%BB%99t%20c%C3%A1ch%20nhanh%20nh%E1%BA%A5t.md) dưới hình thức là một [Tài liệu động](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md) được lưu ở định dạng đơn giản nhất là văn bản thuần. 
 
 | Yêu cầu                                                                                                        | Hệ quả                         |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------ |

@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-03-06T16:14
+updated: 2026-06-21T20:59
 title: Các dự án, công cụ, tài nguyên cho nhân văn số
 description: Nhân văn số là một lĩnh vực giao thoa giữa ngành khoa học máy tính và các ngành khoa học xã hội và nhân văn.
 ---
 Giới thiệu: [Nhân văn số thức: Một lát cắt của xã hội toàn cầu - Tạp chí Tia sáng](https://tiasang.com.vn/khoa-hoc-cong-nghe/nhan-van-so-thuc-mot-lat-cat-cua-xa-hoi-toan-cau-11139/)
 
 ## Dự án
-### Giáo dục số: [Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Chia%20s%E1%BA%BB%20kho%20tri%20th%E1%BB%A9c,%20t%C3%A0i%20nguy%C3%AAn%20c%E1%BB%A7a%20m%C3%ACnh%20cho%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di.md)
+### Giáo dục số: [Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của họ một cách nhanh nhất?](../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%8Dc%20t%E1%BA%ADp/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20th%E1%BB%83%20t%C3%ACm%20%C4%91%E1%BA%BFn%20t%C3%A0i%20nguy%C3%AAn%20t%E1%BB%91t%20nh%E1%BA%A5t%20cho%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20h%E1%BB%8D%20m%E1%BB%99t%20c%C3%A1ch%20nhanh%20nh%E1%BA%A5t.md)
 Nhiều dự án nhân văn số rồi, nên chỉ tập trung vào các tài liệu giúp hướng dẫn một người tìm ra được dự án mình đang cần
 
 ### Xã hội học số: [Đồ thị mạng lưới 100+ niềm tin](https://xn--qucu-hr5aza.cc/phan-tich-mot-mang-luoi-100-niem-tin/?utm_source=CV+%C2%BB+T%C3%A0i+nguy%C3%AAn+NLP+v%C3%A0+nh%C3%A2n+v%C4%83n+s%E1%BB%91&utm_medium=Ph%C3%A2n+t%C3%ADch+m%E1%BB%99t+m%E1%BA%A1ng+l%C6%B0%E1%BB%9Bi+100%2B+ni%E1%BB%81m+tin&utm_campaign=Giai+%C4%91o%E1%BA%A1n+2) 

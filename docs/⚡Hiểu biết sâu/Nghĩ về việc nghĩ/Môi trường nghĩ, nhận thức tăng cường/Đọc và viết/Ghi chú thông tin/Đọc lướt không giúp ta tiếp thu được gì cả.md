@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-05-31T21:20
+updated: 2026-06-22T09:55
 ---
 Khái niệm:: [Diễn giải, đọc](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Di%E1%BB%85n%20gi%E1%BA%A3i,%20%C4%91%E1%BB%8Dc.md)
 [Việc đọc là sự gặp gỡ, giao thoa của thế giới của văn bản và thế giới của người đọc](../../../../H%E1%BB%87%20h%C3%ACnh%20nghi%C3%AAn%20c%E1%BB%A9u/Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20lu%E1%BA%ADn/Nh%C3%A2n%20h%E1%BB%8Dc/Di%E1%BB%85n%20gi%E1%BA%A3i%20v%C3%A0%20m%C3%B4%20t%E1%BA%A3/Di%E1%BB%85n%20gi%E1%BA%A3i/Vi%E1%BB%87c%20%C4%91%E1%BB%8Dc%20l%C3%A0%20s%E1%BB%B1%20g%E1%BA%B7p%20g%E1%BB%A1,%20giao%20thoa%20c%E1%BB%A7a%20th%E1%BA%BF%20gi%E1%BB%9Bi%20c%E1%BB%A7a%20v%C4%83n%20b%E1%BA%A3n%20v%C3%A0%20th%E1%BA%BF%20gi%E1%BB%9Bi%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%8Dc.md)
@@ -10,3 +10,5 @@ Khái niệm:: [Diễn giải, đọc](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB
 [Vấn đề của việc đọc lướt không phải vì nó có khả năng thành công cao, mà là vì khi mình đã kết luận là khả năng thành công không cao rồi, thì sự chuyển trạng thái sang thực sự đọc cẩn thận không suôn sẻ và tự nhiên](../../../G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/Ta%20d%C6%B0%E1%BB%9Dng%20nh%C6%B0%20kh%C3%B3%20c%C3%B3%20th%E1%BB%83%20chuy%E1%BB%83n%20tr%E1%BA%A1ng%20th%C3%A1i%20t%E1%BB%AB%20vi%E1%BB%87c%20%C4%91%E1%BB%8Dc%20l%C6%B0%E1%BB%9Bt%20sang%20vi%E1%BB%87c%20%C4%91%E1%BB%8Dc%20c%E1%BA%A9n%20th%E1%BA%ADn%20m%E1%BB%99t%20c%C3%A1ch%20su%C3%B4n%20s%E1%BA%BB%20v%C3%A0%20t%E1%BB%B1%20nhi%C3%AAn.md)
 
 [Sự sẵn sàng và tiện lợi luôn áp đảo hơn sự chính xác](../../../G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/T%C3%ACm%20ki%E1%BA%BFm%20th%C3%B4ng%20tin/S%E1%BB%B1%20s%E1%BA%B5n%20s%C3%A0ng%20v%C3%A0%20ti%E1%BB%87n%20l%E1%BB%A3i%20lu%C3%B4n%20%C3%A1p%20%C4%91%E1%BA%A3o%20h%C6%A1n%20s%E1%BB%B1%20ch%C3%ADnh%20x%C3%A1c.md)
+[Có thể học nhanh video mà không cần xem đầy đủ không](../../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%8Dc%20t%E1%BA%ADp/C%C3%B3%20th%E1%BB%83%20h%E1%BB%8Dc%20nhanh%20video%20m%C3%A0%20kh%C3%B4ng%20c%E1%BA%A7n%20xem%20%C4%91%E1%BA%A7y%20%C4%91%E1%BB%A7%20kh%C3%B4ng.md)
+[Vấn đề của việc đọc lướt không chỉ ở việc nó không có khả năng thành công cao, mà là vì khi mình đã kết luận là khả năng thành công không cao rồi, thì sự chuyển trạng thái sang thực sự đọc cẩn thận không suôn sẻ và tự nhiên](../../../G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/Ta%20d%C6%B0%E1%BB%9Dng%20nh%C6%B0%20kh%C3%B3%20c%C3%B3%20th%E1%BB%83%20chuy%E1%BB%83n%20tr%E1%BA%A1ng%20th%C3%A1i%20t%E1%BB%AB%20vi%E1%BB%87c%20%C4%91%E1%BB%8Dc%20l%C6%B0%E1%BB%9Bt%20sang%20vi%E1%BB%87c%20%C4%91%E1%BB%8Dc%20c%E1%BA%A9n%20th%E1%BA%ADn%20m%E1%BB%99t%20c%C3%A1ch%20su%C3%B4n%20s%E1%BA%BB%20v%C3%A0%20t%E1%BB%B1%20nhi%C3%AAn.md)

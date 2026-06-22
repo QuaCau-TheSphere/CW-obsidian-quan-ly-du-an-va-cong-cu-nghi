@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-05-31T17:01
-updated: 2026-06-21T19:55
+updated: 2026-06-22T09:51
 description: "Có 2 lý do chính: (1) Việc viết giúp diễn đạt được ý tốt hơn là nói. (2) Việc đưa liên kết không phải chỉ là để đọc bài viết, mà còn là để khám phá một sân chơi"
 title: Vì sao tôi hay chia sẻ bài viết của mình hơn là tự nói?
 blog: working
@@ -23,7 +23,6 @@ Việc tôi hay ậm ờ là vì nhiều khi thấy ý mình nói ra không hoà
 [Incubation](https://en.wikipedia.org/wiki/Incubation_\(psychology\)). Tốn thời gian để
 Mất vài giờ cho đến mấy tháng, khi mà sự việc được gợi ý lại một cách tình cờ. Lúc đi mình đã gác vấn đề đáng một bên rồi
 ![The sentence in my mind.jpg](../../../attachments/The%20sentence%20in%20my%20mind.jpg)
-
 Mark Twain: [Sự khác nhau giữa một từ gần đúng và một từ đúng cũng giống như sự khác nhau giữa một con bọ chớp và một tia chớp](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Hi%E1%BB%83u%20bi%E1%BA%BFt/S%E1%BB%B1%20kh%C3%A1c%20nhau%20gi%E1%BB%AFa%20m%E1%BB%99t%20t%E1%BB%AB%20g%E1%BA%A7n%20%C4%91%C3%BAng%20v%C3%A0%20m%E1%BB%99t%20t%E1%BB%AB%20%C4%91%C3%BAng%20c%C5%A9ng%20gi%E1%BB%91ng%20nh%C6%B0%20s%E1%BB%B1%20kh%C3%A1c%20nhau%20gi%E1%BB%AFa%20m%E1%BB%99t%20con%20b%E1%BB%8D%20ch%E1%BB%9Bp%20v%C3%A0%20m%E1%BB%99t%20tia%20ch%E1%BB%9Bp.md)
 ![Khả năng đưa ra câu trả lời tốt cho một câu hỏi.jpg](../../../attachments/Kh%E1%BA%A3%20n%C4%83ng%20%C4%91%C6%B0a%20ra%20c%C3%A2u%20tr%E1%BA%A3%20l%E1%BB%9Di%20t%E1%BB%91t%20cho%20m%E1%BB%99t%20c%C3%A2u%20h%E1%BB%8Fi.jpg)
 The perfect word
@@ -67,6 +66,7 @@ Bỏ qua những thứ đã làm, kém kích thích.
 Có thể đo lường sự quan tâm 
 
 ## Nhược điểm 
+[Việc nghe - nói tốn ít năng lượng hơn là đọc - viết](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/Vi%E1%BB%87c%20nghe%20-%20n%C3%B3i%20t%E1%BB%91n%20%C3%ADt%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20h%C6%A1n%20l%C3%A0%20%C4%91%E1%BB%8Dc%20-%20vi%E1%BA%BFt.md)
 [Kể cả khi có được một tài liệu chắc chắn sẽ trả lời câu hỏi của ta, thì ta cũng thường không sẵn sàng để đọc nó](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Ghi%20ch%C3%BA%20th%C3%B4ng%20tin/K%E1%BB%83%20c%E1%BA%A3%20khi%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20m%E1%BB%99t%20t%C3%A0i%20li%E1%BB%87u%20ch%E1%BA%AFc%20ch%E1%BA%AFn%20s%E1%BA%BD%20tr%E1%BA%A3%20l%E1%BB%9Di%20c%C3%A2u%20h%E1%BB%8Fi%20c%E1%BB%A7a%20ta,%20th%C3%AC%20ta%20c%C5%A9ng%20th%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20s%E1%BA%B5n%20s%C3%A0ng%20%C4%91%E1%BB%83%20%C4%91%E1%BB%8Dc%20n%C3%B3.md)
 Các bài viết trên web thường là nháp chứ ko hẳn là các bài đóng gói hoàn chỉnh, nên người chỉ cần có một câu trả lời đơn giản thì khó mà có được từ Nhật.
 

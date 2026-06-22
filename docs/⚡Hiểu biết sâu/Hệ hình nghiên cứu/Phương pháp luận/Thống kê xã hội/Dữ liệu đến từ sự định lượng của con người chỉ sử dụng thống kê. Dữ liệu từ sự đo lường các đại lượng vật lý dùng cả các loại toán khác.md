@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-16T12:53
-updated: 2026-06-15T20:23
+updated: 2026-06-20T15:16
 blog: working
 aliases:
   - Người làm dữ liệu nói gì về sự thiếu sót của dữ liệu?
@@ -234,7 +234,7 @@ Do cuộc đời của họ gắn chặt với dữ liệu loại 1 nên góc nh
 - Thiên kiến hệ thống ảnh hưởng đến cách chọn mẫu
 - Quá tập trung vào một chỉ số
 
-[Có những cách để hạn chế những vấn đề này](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Kh%E1%BA%AFc%20ph%E1%BB%A5c%20h%E1%BA%A1n%20ch%E1%BA%BF%20c%E1%BB%A7a%20d%E1%BB%AF%20li%E1%BB%87u%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng.md), nhưng có lẽ nếu họ làm được thì đã làm luôn rồi. Nhớ rằng, vì các khái niệm có nhiều cách để định nghĩa và không có cách nào để quy đổi dữ liệu dùng cho định nghĩa này sang định nghĩa kia, nên có lẽ sẽ vĩnh viễn không thể loại trừ được những vấn đề này, dù có ý thức đến mức độ nào đi chăng nữa. (Có lẽ trừ vấn đề cuối, do nó thiên về việc xây dựng chính sách, ra quyết định hơn.)
+[Có những cách để hạn chế những vấn đề này](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%8Dc%20t%E1%BA%ADp/Kh%E1%BA%AFc%20ph%E1%BB%A5c%20h%E1%BA%A1n%20ch%E1%BA%BF%20c%E1%BB%A7a%20d%E1%BB%AF%20li%E1%BB%87u%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng.md), nhưng có lẽ nếu họ làm được thì đã làm luôn rồi. Nhớ rằng, vì các khái niệm có nhiều cách để định nghĩa và không có cách nào để quy đổi dữ liệu dùng cho định nghĩa này sang định nghĩa kia, nên có lẽ sẽ vĩnh viễn không thể loại trừ được những vấn đề này, dù có ý thức đến mức độ nào đi chăng nữa. (Có lẽ trừ vấn đề cuối, do nó thiên về việc xây dựng chính sách, ra quyết định hơn.)
 
 Một số ý hay khác trong bài:
 - [Institutional quantification is designed to support procedures that can be executed by fungible employees](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Tri%E1%BA%BFt%20h%E1%BB%8Dc%20c%C3%B4ng%20ngh%E1%BB%87/%C4%90%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng/Institutional%20quantification%20is%20designed%20to%20support%20procedures%20that%20can%20be%20executed%20by%20fungible%20employees.md)
@@ -448,6 +448,7 @@ Dữ liệu trở nên đáng tin vì nó giúp xác lập được mối quan h
 
 confounder không biết là một trong những lý do ta phải lấy mẫu ngẫu nhiên
 
+trải nghiệm của các cá nhân là khác nhau, nhưng ta có thể gom lại thành giai cấp, văn hóa, cộng đồng
 [Nếu bệnh nặng, dễ lây, hoặc điều trị được, thì giảm ngưỡng cắt để tối đa hóa số ca dương thật. Nếu việc xét nghiệm quá đắt, hoặc xâm lấn nhiều, hoặc có tác hại lớn nếu kết quả sai thì tăng ngưỡng cắt để tối thiểu hóa số ca dương giả](N%E1%BA%BFu%20b%E1%BB%87nh%20n%E1%BA%B7ng,%20d%E1%BB%85%20l%C3%A2y,%20ho%E1%BA%B7c%20%C4%91i%E1%BB%81u%20tr%E1%BB%8B%20%C4%91%C6%B0%E1%BB%A3c,%20th%C3%AC%20gi%E1%BA%A3m%20ng%C6%B0%E1%BB%A1ng%20c%E1%BA%AFt%20%C4%91%E1%BB%83%20t%E1%BB%91i%20%C4%91a%20h%C3%B3a%20s%E1%BB%91%20ca%20d%C6%B0%C6%A1ng%20th%E1%BA%ADt.%20N%E1%BA%BFu%20vi%E1%BB%87c%20x%C3%A9t%20nghi%E1%BB%87m%20qu%C3%A1%20%C4%91%E1%BA%AFt,%20ho%E1%BA%B7c%20x%C3%A2m%20l%E1%BA%A5n%20nhi%E1%BB%81u,%20ho%E1%BA%B7c%20c%C3%B3%20t%C3%A1c%20h%E1%BA%A1i%20l%E1%BB%9Bn%20n%E1%BA%BFu%20k%E1%BA%BFt%20qu%E1%BA%A3%20sai%20th%C3%AC%20t%C4%83ng%20ng%C6%B0%E1%BB%A1ng%20c%E1%BA%AFt%20%C4%91%E1%BB%83%20t%E1%BB%91i%20thi%E1%BB%83u%20h%C3%B3a%20s%E1%BB%91%20ca%20d%C6%B0%C6%A1ng%20gi%E1%BA%A3.md). [Giảm ngưỡng cắt làm tăng độ nhạy, từ đó làm tăng số dương thật. Tăng ngưỡng cắt làm làm tăng độ đặc hiệu, từ đó làm giảm số dương giả](Gi%E1%BA%A3m%20ng%C6%B0%E1%BB%A1ng%20c%E1%BA%AFt%20l%C3%A0m%20t%C4%83ng%20%C4%91%E1%BB%99%20nh%E1%BA%A1y,%20t%E1%BB%AB%20%C4%91%C3%B3%20l%C3%A0m%20t%C4%83ng%20s%E1%BB%91%20d%C6%B0%C6%A1ng%20th%E1%BA%ADt.%20T%C4%83ng%20ng%C6%B0%E1%BB%A1ng%20c%E1%BA%AFt%20l%C3%A0m%20l%C3%A0m%20t%C4%83ng%20%C4%91%E1%BB%99%20%C4%91%E1%BA%B7c%20hi%E1%BB%87u,%20t%E1%BB%AB%20%C4%91%C3%B3%20l%C3%A0m%20gi%E1%BA%A3m%20s%E1%BB%91%20d%C6%B0%C6%A1ng%20gi%E1%BA%A3.md)
 Các thiếu sót của dữ liệu đã được đánh đổi ở đây. Một khi đã ấn định một con số, nghĩa là đã chấp nhận đánh đổi
 Bayes 

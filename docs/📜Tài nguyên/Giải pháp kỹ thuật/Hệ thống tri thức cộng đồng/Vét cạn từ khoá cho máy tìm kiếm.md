@@ -1,8 +1,14 @@
 ---
 share: true
 created: 2024-09-24T17:17
-updated: 2026-01-14T13:11
+updated: 2026-07-03T12:17
 ---
 Ví dụ:: Tìm trên Obsidian, SEO
 Ưu điểm::
-Hạn chế::
+Hạn chế:: [Những nơi khó chỉ mục được là những nơi gặp được nhiều cuộc trò chuyện lành mạnh](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/Nh%C3%A2n%20h%E1%BB%8Dc/Internet/Nh%E1%BB%AFng%20n%C6%A1i%20kh%C3%B3%20ch%E1%BB%89%20m%E1%BB%A5c%20%C4%91%C6%B0%E1%BB%A3c%20l%C3%A0%20nh%E1%BB%AFng%20n%C6%A1i%20g%E1%BA%B7p%20%C4%91%C6%B0%E1%BB%A3c%20nhi%E1%BB%81u%20cu%E1%BB%99c%20tr%C3%B2%20chuy%E1%BB%87n%20l%C3%A0nh%20m%E1%BA%A1nh.md)
+
+[Kệ sách cho ta thứ ta không biết là không biết. Thanh tìm kiếm cho ta thứ ta biết là không biết](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/T%C6%B0%C6%A1ng%20t%C3%A1c%20ng%C6%B0%E1%BB%9Di%20-%20m%C3%A1y/K%E1%BB%87%20s%C3%A1ch%20cho%20ta%20th%E1%BB%A9%20ta%20kh%C3%B4ng%20bi%E1%BA%BFt%20l%C3%A0%20kh%C3%B4ng%20bi%E1%BA%BFt.%20Thanh%20t%C3%ACm%20ki%E1%BA%BFm%20cho%20ta%20th%E1%BB%A9%20ta%20bi%E1%BA%BFt%20l%C3%A0%20kh%C3%B4ng%20bi%E1%BA%BFt.md)
+[Việc truy xuất thông tin cần có accuracy, sourcing, consistency, and fragility. LLM không có những thứ đó](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/D%E1%BB%AF%20li%E1%BB%87u,%20AI/AI%20t%E1%BA%A1o%20sinh/Gi%E1%BB%9Bi%20h%E1%BA%A1n/%E1%BA%A2o%20gi%C3%A1c/Vi%E1%BB%87c%20truy%20xu%E1%BA%A5t%20th%C3%B4ng%20tin%20c%E1%BA%A7n%20c%C3%B3%20accuracy,%20sourcing,%20consistency,%20and%20fragility.%20LLM%20kh%C3%B4ng%20c%C3%B3%20nh%E1%BB%AFng%20th%E1%BB%A9%20%C4%91%C3%B3.md)
+[Hành vi tìm kiếm thông tin sẽ dừng ngay khi kết quả chấp nhận được ở mức tối thiểu được tìm ra](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/T%C3%ACm%20ki%E1%BA%BFm%20th%C3%B4ng%20tin/H%C3%A0nh%20vi%20t%C3%ACm%20ki%E1%BA%BFm%20th%C3%B4ng%20tin%20s%E1%BA%BD%20d%E1%BB%ABng%20ngay%20khi%20k%E1%BA%BFt%20qu%E1%BA%A3%20ch%E1%BA%A5p%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20%E1%BB%9F%20m%E1%BB%A9c%20t%E1%BB%91i%20thi%E1%BB%83u%20%C4%91%C6%B0%E1%BB%A3c%20t%C3%ACm%20ra.md)
+[Người tìm kiếm thông tin có xu hướng dùng phương pháp tìm kiếm tiện nhất in the least exact mode available](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/T%C3%ACm%20ki%E1%BA%BFm%20th%C3%B4ng%20tin/Ng%C6%B0%E1%BB%9Di%20t%C3%ACm%20ki%E1%BA%BFm%20th%C3%B4ng%20tin%20c%C3%B3%20xu%20h%C6%B0%E1%BB%9Bng%20d%C3%B9ng%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20t%C3%ACm%20ki%E1%BA%BFm%20ti%E1%BB%87n%20nh%E1%BA%A5t%20in%20the%20least%20exact%20mode%20available.md)
+[Sự sẵn sàng và tiện lợi luôn áp đảo hơn sự chính xác](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/T%C3%ACm%20ki%E1%BA%BFm%20th%C3%B4ng%20tin/S%E1%BB%B1%20s%E1%BA%B5n%20s%C3%A0ng%20v%C3%A0%20ti%E1%BB%87n%20l%E1%BB%A3i%20lu%C3%B4n%20%C3%A1p%20%C4%91%E1%BA%A3o%20h%C6%A1n%20s%E1%BB%B1%20ch%C3%ADnh%20x%C3%A1c.md)

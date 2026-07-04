@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-05-31T17:01
-updated: 2026-06-22T09:51
+updated: 2026-07-03T21:54
 description: "Có 2 lý do chính: (1) Việc viết giúp diễn đạt được ý tốt hơn là nói. (2) Việc đưa liên kết không phải chỉ là để đọc bài viết, mà còn là để khám phá một sân chơi"
 title: Vì sao tôi hay chia sẻ bài viết của mình hơn là tự nói?
 blog: working
@@ -26,9 +26,10 @@ Mất vài giờ cho đến mấy tháng, khi mà sự việc được gợi ý 
 Mark Twain: [Sự khác nhau giữa một từ gần đúng và một từ đúng cũng giống như sự khác nhau giữa một con bọ chớp và một tia chớp](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Hi%E1%BB%83u%20bi%E1%BA%BFt/S%E1%BB%B1%20kh%C3%A1c%20nhau%20gi%E1%BB%AFa%20m%E1%BB%99t%20t%E1%BB%AB%20g%E1%BA%A7n%20%C4%91%C3%BAng%20v%C3%A0%20m%E1%BB%99t%20t%E1%BB%AB%20%C4%91%C3%BAng%20c%C5%A9ng%20gi%E1%BB%91ng%20nh%C6%B0%20s%E1%BB%B1%20kh%C3%A1c%20nhau%20gi%E1%BB%AFa%20m%E1%BB%99t%20con%20b%E1%BB%8D%20ch%E1%BB%9Bp%20v%C3%A0%20m%E1%BB%99t%20tia%20ch%E1%BB%9Bp.md)
 ![Khả năng đưa ra câu trả lời tốt cho một câu hỏi.jpg](../../../attachments/Kh%E1%BA%A3%20n%C4%83ng%20%C4%91%C6%B0a%20ra%20c%C3%A2u%20tr%E1%BA%A3%20l%E1%BB%9Di%20t%E1%BB%91t%20cho%20m%E1%BB%99t%20c%C3%A2u%20h%E1%BB%8Fi.jpg)
 The perfect word
-
+[A problem well stated is half solved](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/B%E1%BA%A3n%20th%E1%BB%83%20lu%E1%BA%ADn/A%20problem%20well%20stated%20is%20half%20solved.md)
 Việc nhớ được đầy đủ ý hơn cũng nằm trong ý này. [Nhiều khi ta nhớ nơi lưu trữ thông tin hơn là chính thông tin đó](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%C3%AD%20nh%E1%BB%9B/Nhi%E1%BB%81u%20khi%20ta%20nh%E1%BB%9B%20n%C6%A1i%20l%C6%B0u%20tr%E1%BB%AF%20th%C3%B4ng%20tin%20h%C6%A1n%20l%C3%A0%20ch%C3%ADnh%20th%C3%B4ng%20tin%20%C4%91%C3%B3.md). [Trí nhớ tình tiết và thủ tục thường để não nhớ. Trí nhớ ngữ nghĩa và tương lai thường để cho não ngoài](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%C3%AD%20nh%E1%BB%9B/Tr%C3%AD%20nh%E1%BB%9B%20t%C3%ACnh%20ti%E1%BA%BFt%20v%C3%A0%20th%E1%BB%A7%20t%E1%BB%A5c%20th%C6%B0%E1%BB%9Dng%20%C4%91%E1%BB%83%20n%C3%A3o%20nh%E1%BB%9B.%20Tr%C3%AD%20nh%E1%BB%9B%20ng%E1%BB%AF%20ngh%C4%A9a%20v%C3%A0%20t%C6%B0%C6%A1ng%20lai%20th%C6%B0%E1%BB%9Dng%20%C4%91%E1%BB%83%20cho%20n%C3%A3o%20ngo%C3%A0i.md)
 
+[Có những vấn đề lúc cần nói ra thì không nghĩ ra nhưng vẫn cảm thấy chưa vét cạn](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/C%C3%B3%20nh%E1%BB%AFng%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20l%C3%BAc%20c%E1%BA%A7n%20n%C3%B3i%20ra%20th%C3%AC%20kh%C3%B4ng%20ngh%C4%A9%20ra%20nh%C6%B0ng%20v%E1%BA%ABn%20c%E1%BA%A3m%20th%E1%BA%A5y%20ch%C6%B0a%20v%C3%A9t%20c%E1%BA%A1n.md)
 Từ ngữ nhập nhằng, cùng một từ mà nhiều người lại có thể hiểu khác nhau.
 
 > [!NOTE] Bạn có biết
@@ -49,12 +50,14 @@ Bởi vì [Hành vi và phản ứng là những thứ native trong môi trườ
 
 Bài cụ thể: [Làm thông điệp trở nên hấp dẫn và trải nghiệm được](../../L%C4%A9nh%20v%E1%BB%B1c/Thi%E1%BA%BFt%20k%E1%BA%BF%20th%C3%B4ng%20tin/L%C3%A0m%20th%C3%B4ng%20%C4%91i%E1%BB%87p%20tr%E1%BB%9F%20n%C3%AAn%20h%E1%BA%A5p%20d%E1%BA%ABn%20v%C3%A0%20tr%E1%BA%A3i%20nghi%E1%BB%87m%20%C4%91%C6%B0%E1%BB%A3c.md)
 
+[❓Bản đồ là cách để ta biết mình cần gì khi còn chưa cảm nhận được thứ mình cần là gì](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/%E2%9D%93B%E1%BA%A3n%20%C4%91%E1%BB%93%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20ta%20bi%E1%BA%BFt%20m%C3%ACnh%20c%E1%BA%A7n%20g%C3%AC%20khi%20c%C3%B2n%20ch%C6%B0a%20c%E1%BA%A3m%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%A9%20m%C3%ACnh%20c%E1%BA%A7n%20l%C3%A0%20g%C3%AC.md)
 [Một môi trường nghĩ mới là nơi ta có thể có những loại suy nghĩ mới mà không thể hoặc khó hình thành ở môi trường nghĩ cũ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/M%E1%BB%99t%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9%20m%E1%BB%9Bi%20l%C3%A0%20n%C6%A1i%20ta%20c%C3%B3%20th%E1%BB%83%20c%C3%B3%20nh%E1%BB%AFng%20lo%E1%BA%A1i%20suy%20ngh%C4%A9%20m%E1%BB%9Bi%20m%C3%A0%20kh%C3%B4ng%20th%E1%BB%83%20ho%E1%BA%B7c%20kh%C3%B3%20h%C3%ACnh%20th%C3%A0nh%20%E1%BB%9F%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9%20c%C5%A9.md)
 
 Có cập nhật gì thì họ cũng luôn được biết mà không cần phải hỏi lại
 [Khu vườn số luôn phát triển và thay đổi. Nó không bao giờ có trạng thái hoàn thành](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Ghi%20ch%C3%BA%20th%C3%B4ng%20tin/Khu%20v%C6%B0%E1%BB%9Dn%20s%E1%BB%91%20lu%C3%B4n%20ph%C3%A1t%20tri%E1%BB%83n%20v%C3%A0%20thay%20%C4%91%E1%BB%95i.%20N%C3%B3%20kh%C3%B4ng%20bao%20gi%E1%BB%9D%20c%C3%B3%20tr%E1%BA%A1ng%20th%C3%A1i%20ho%C3%A0n%20th%C3%A0nh.md)
 [Living document](https://en.wikipedia.org/wiki/Living_document)
 
+[Sự khác biệt giữa các nền tảng viết trên mạng](../Web/S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20c%C3%A1c%20n%E1%BB%81n%20t%E1%BA%A3ng%20vi%E1%BA%BFt%20tr%C3%AAn%20m%E1%BA%A1ng.md)
 ## Các lý do khác
 Nguồn sự thật duy nhất [Single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth)
 [Don't repeat yourself](https://en.wikipedia.org/wiki/Don't_repeat_yourself)

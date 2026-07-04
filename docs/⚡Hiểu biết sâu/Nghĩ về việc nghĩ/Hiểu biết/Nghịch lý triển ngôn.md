@@ -1,14 +1,17 @@
 ---
 share: true
 created: 2023-06-07T18:31
-updated: 2026-06-01T19:38
-description: Ý tưởng có trước hay sự triển khai ngôn ngữ có trước?
-aliases:
-  - Ý tưởng có trước hay sự triển khai ngôn ngữ về ý tưởng có trước?
-  - Nghịch lý triển ngôn: Ý tưởng có trước hay sự triển khai ngôn ngữ về ý tưởng có trước?
+updated: 2026-07-03T22:09
+blog: done
+description: Việc bạn phải khám phá lại chính cái ý tưởng của mình có đồng nghĩa với việc bạn cũng chẳng biết ý tưởng của mình là gì hay không?
+title: "Nghịch lý triển ngôn: Ý tưởng có trước hay sự triển khai ngôn ngữ về ý tưởng có trước?"
 ---
 Khi một tia sáng loé lên trong tâm trí của bạn, một ý tưởng hay đang manh nha xuất hiện. Ý tưởng đó vẫn còn mơ hồ, và bạn cần phải làm nó rõ ràng hơn bằng cách kiếm từ để miêu tả nó. Nếu cần bạn có thể viết lại nó ngay lập tức, nhưng nó chỉ là những từ chung chung mà bạn cũng không thoả mãn. Mỗi lần bạn tìm từ chọn chữ, đổi câu đảo cú để triển khai ý tưởng của bạn dưới dạng ngôn ngữ là mỗi lần bạn khám phá lại chính cái ý tưởng mà bạn vừa nghĩ ra. Chỉ sau khi cái câu để miêu tả nó được ổn định rồi thì bộ nhớ của bạn mới có thể lưu trữ nó tốt được, và bạn mới có thể truyền đạt lại nó cho người khác.
 
 Việc bạn phải khám phá lại chính cái ý tưởng của mình có đồng nghĩa với việc bạn cũng chẳng biết ý tưởng của mình là gì hay không? Ý tưởng có trước hay sự triển khai ngôn ngữ về ý tưởng có trước? Đây chính là một nghịch lý trong triết học ngôn ngữ: [nghịch lý triển ngôn (paradox of articulation)](https://aeon.co/essays/what-comes-first-ideas-or-words-the-paradox-of-articulation)
 
-Xem thêm:: [Vì sao tôi hay chia sẻ bài viết của mình hơn là tự nói](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/V%C3%AC%20sao%20t%C3%B4i%20hay%20chia%20s%E1%BA%BB%20b%C3%A0i%20vi%E1%BA%BFt%20c%E1%BB%A7a%20m%C3%ACnh%20h%C6%A1n%20l%C3%A0%20t%E1%BB%B1%20n%C3%B3i.md)
+Xem thêm:: [Vì sao tôi hay chia sẻ bài viết của mình hơn là tự nói](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%8Dc%20t%E1%BA%ADp/V%C3%AC%20sao%20t%C3%B4i%20hay%20chia%20s%E1%BA%BB%20b%C3%A0i%20vi%E1%BA%BFt%20c%E1%BB%A7a%20m%C3%ACnh%20h%C6%A1n%20l%C3%A0%20t%E1%BB%B1%20n%C3%B3i.md)
+[Não làm tốt việc tạo ra ý tưởng, nhưng không tốt việc nhớ lại nó](../M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Ghi%20ch%C3%BA%20th%C3%B4ng%20tin/N%C3%A3o%20l%C3%A0m%20t%E1%BB%91t%20vi%E1%BB%87c%20t%E1%BA%A1o%20ra%20%C3%BD%20t%C6%B0%E1%BB%9Fng,%20nh%C6%B0ng%20kh%C3%B4ng%20t%E1%BB%91t%20vi%E1%BB%87c%20nh%E1%BB%9B%20l%E1%BA%A1i%20n%C3%B3.md)
+[Ý tưởng nếu không ghi lại ngay sẽ quên rất nhanh](../M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Ghi%20ch%C3%BA%20th%C3%B4ng%20tin/%C3%9D%20t%C6%B0%E1%BB%9Fng%20n%E1%BA%BFu%20kh%C3%B4ng%20ghi%20l%E1%BA%A1i%20ngay%20s%E1%BA%BD%20qu%C3%AAn%20r%E1%BA%A5t%20nhanh.md)
+[Mỗi lần một ký ức được sự chú ý rọi đến, nó lại biến đổi một chút](../Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%C3%AD%20nh%E1%BB%9B/M%E1%BB%97i%20l%E1%BA%A7n%20m%E1%BB%99t%20k%C3%BD%20%E1%BB%A9c%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%B1%20ch%C3%BA%20%C3%BD%20r%E1%BB%8Di%20%C4%91%E1%BA%BFn,%20n%C3%B3%20l%E1%BA%A1i%20bi%E1%BA%BFn%20%C4%91%E1%BB%95i%20m%E1%BB%99t%20ch%C3%BAt.md)
+[Viết làm suy nghĩ không còn là vô hình](../M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Vi%E1%BA%BFt%20l%C3%A0m%20suy%20ngh%C4%A9%20kh%C3%B4ng%20c%C3%B2n%20l%C3%A0%20v%C3%B4%20h%C3%ACnh.md). [nó cho phép ta nghĩ về sự nghĩ](../M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Vi%E1%BA%BFt%20cho%20ph%C3%A9p%20ta%20ngh%C4%A9%20v%E1%BB%81%20s%E1%BB%B1%20ngh%C4%A9.md). Có thể nói [sự phát minh ra việc viết phát minh ra việc lập luận](../M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/S%E1%BB%B1%20ph%C3%A1t%20minh%20ra%20vi%E1%BB%87c%20vi%E1%BA%BFt%20ph%C3%A1t%20minh%20ra%20vi%E1%BB%87c%20l%E1%BA%ADp%20lu%E1%BA%ADn.md).

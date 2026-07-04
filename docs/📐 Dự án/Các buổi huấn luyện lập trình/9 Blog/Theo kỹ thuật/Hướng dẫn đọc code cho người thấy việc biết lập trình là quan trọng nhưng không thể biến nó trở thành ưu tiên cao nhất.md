@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-13T19:21
-updated: 2026-06-21T09:21
+updated: 2026-07-04T11:46
 ---
 Bạn không muốn lệ thuộc.
 
@@ -55,5 +55,3 @@ function hàm(biến1, biến2) {
 ```
 
 [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
-
-

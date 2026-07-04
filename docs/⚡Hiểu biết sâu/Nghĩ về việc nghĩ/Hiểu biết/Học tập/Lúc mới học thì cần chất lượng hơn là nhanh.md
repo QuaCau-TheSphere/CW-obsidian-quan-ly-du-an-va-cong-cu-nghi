@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-06-01T19:38
+updated: 2026-07-03T12:15
 created: 2024-08-02T00:59
 ---
 Khái niệm:: [Học](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/H%E1%BB%8Dc.md)
@@ -12,4 +12,5 @@ Mâu thuẫn với:: [Kể cả khi có được một tài liệu chắc chắn
 Mâu thuẫn với:: [Sự sẵn sàng và tiện lợi luôn áp đảo hơn sự chính xác](../../G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/T%C3%ACm%20ki%E1%BA%BFm%20th%C3%B4ng%20tin/S%E1%BB%B1%20s%E1%BA%B5n%20s%C3%A0ng%20v%C3%A0%20ti%E1%BB%87n%20l%E1%BB%A3i%20lu%C3%B4n%20%C3%A1p%20%C4%91%E1%BA%A3o%20h%C6%A1n%20s%E1%BB%B1%20ch%C3%ADnh%20x%C3%A1c.md)
 
 Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../%CE%9E%20Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
-[Có thể học nhanh video mà không cần xem đầy đủ không](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/C%C3%B3%20th%E1%BB%83%20h%E1%BB%8Dc%20nhanh%20video%20m%C3%A0%20kh%C3%B4ng%20c%E1%BA%A7n%20xem%20%C4%91%E1%BA%A7y%20%C4%91%E1%BB%A7%20kh%C3%B4ng.md)
+[Có thể học nhanh video mà không cần xem đầy đủ không](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%8Dc%20t%E1%BA%ADp/C%C3%B3%20th%E1%BB%83%20h%E1%BB%8Dc%20nhanh%20video%20m%C3%A0%20kh%C3%B4ng%20c%E1%BA%A7n%20xem%20%C4%91%E1%BA%A7y%20%C4%91%E1%BB%A7%20kh%C3%B4ng.md)
+

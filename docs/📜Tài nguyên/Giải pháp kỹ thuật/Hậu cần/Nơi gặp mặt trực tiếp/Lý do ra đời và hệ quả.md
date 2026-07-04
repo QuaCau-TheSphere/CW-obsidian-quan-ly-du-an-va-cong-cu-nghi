@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-06T12:52
-updated: 2026-06-22T13:55
+updated: 2026-06-27T18:11
 description: Nó khác gì với những dự án tương tự khác? Nó chấp nhận những đánh đổi nào?
 aliases:
   - Động lực
@@ -125,6 +125,9 @@ Kiến thức để tự vận hành một cơ sở dữ liệu thế này phứ
 ![Pasted image 20250717114251.png](../../../../attachments/Pasted%20image%2020250717114251.png)
 Dường như dự án đã ngừng hoạt động. Trong [trang giới thiệu dự án](https://www.drdvietnam.org/vi/du-an/ban-do-tiep-can-dmap/gioi-thieu/), lần cuối cùng cập nhật là 2021. Các app Andoird và iOS cũng đã bị gỡ xuống. Chức năng đăng ký không hoạt động được.
 
+### Bản đồ cứu hộ
+[Thông Tin Cứu Hộ](https://thongtincuuho.org/)
+[Bản đồ điểm hỗ trợ](https://tramcuutro.com/map/support)
 
 ## Đạt quy mô
 Hoặc không phải nơi chủ lưu. Đã có những dự án phục vụ cho một đối tượng cụ thể, nhưng vẫn chết yểu. Lấy ví dụ như D.Maps. Có tiền và có cả đội thu thập dữ liệu. Tức là dữ liệu không đủ để đối tượng thụ hưởng tiềm năng thấy là nó hữu ích. người nó đã giúp được không quay lại, còn người nó  giúp không quay lại giúp nó. [Tỉ lệ quay lại là thứ quan trọng nhất trong tăng trưởng](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/T%C4%83ng%20tr%C6%B0%E1%BB%9Fng/T%E1%BB%89%20l%E1%BB%87%20quay%20l%E1%BA%A1i%20l%C3%A0%20th%E1%BB%A9%20quan%20tr%E1%BB%8Dng%20nh%E1%BA%A5t%20trong%20t%C4%83ng%20tr%C6%B0%E1%BB%9Fng.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-09-27T16:20
-updated: 2026-05-18T21:31
+updated: 2026-06-27T16:59
 cssclasses:
   - wide-table
 aliases:
@@ -86,11 +86,11 @@ Tuy việc này sẽ làm cây mục tiêu đồ sộ hơn so với chỉ đính
 %%Dù sao thì nó cũng không có cảm giác đồ sộ bằng việc (khúc này quên ý)%%
 ## Xem thêm
 - [Áp lực giết chết sự sáng tạo](../%C3%81p%20l%E1%BB%B1c%20gi%E1%BA%BFt%20ch%E1%BA%BFt%20s%E1%BB%B1%20s%C3%A1ng%20t%E1%BA%A1o.md)
-- [Học là quá trình cấu trúc hoá những thứ phi cấu trúc](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/H%E1%BB%8Dc%20l%C3%A0%20qu%C3%A1%20tr%C3%ACnh%20c%E1%BA%A5u%20tr%C3%BAc%20ho%C3%A1%20nh%E1%BB%AFng%20th%E1%BB%A9%20phi%20c%E1%BA%A5u%20tr%C3%BAc.md)
+- [Học là quá trình cấu trúc hoá những thứ phi cấu trúc](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Hi%E1%BB%83u%20bi%E1%BA%BFt/H%E1%BB%8Dc%20t%E1%BA%ADp/H%E1%BB%8Dc%20l%C3%A0%20qu%C3%A1%20tr%C3%ACnh%20c%E1%BA%A5u%20tr%C3%BAc%20ho%C3%A1%20nh%E1%BB%AFng%20th%E1%BB%A9%20phi%20c%E1%BA%A5u%20tr%C3%BAc.md)
 - [Hệ thống 1 dựa vào trí nhớ dài hạn. Hệ thống 2 dựa vào trí nhớ ngắn hạn](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%201%20d%E1%BB%B1a%20v%C3%A0o%20tr%C3%AD%20nh%E1%BB%9B%20d%C3%A0i%20h%E1%BA%A1n.%20H%E1%BB%87%20th%E1%BB%91ng%202%20d%E1%BB%B1a%20v%C3%A0o%20tr%C3%AD%20nh%E1%BB%9B%20ng%E1%BA%AFn%20h%E1%BA%A1n.md) 
 - [Người người vạch chiến lược hay nhiều khi được giao triển khai luôn, hoặc người làm chuyên môn tốt nhiều khi được đề bạt lên làm quản lý, lãnh đạo](../../X%C3%A2y%20d%E1%BB%B1ng%20nh%C3%B3m,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A2n%20s%E1%BB%B1/Ph%C3%A2n%20c%E1%BA%A5p,%20qu%E1%BA%A3n%20l%C3%BD/Ng%C6%B0%E1%BB%9Di%20ng%C6%B0%E1%BB%9Di%20v%E1%BA%A1ch%20chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c%20hay%20nhi%E1%BB%81u%20khi%20%C4%91%C6%B0%E1%BB%A3c%20giao%20tri%E1%BB%83n%20khai%20lu%C3%B4n,%20ho%E1%BA%B7c%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20chuy%C3%AAn%20m%C3%B4n%20t%E1%BB%91t%20nhi%E1%BB%81u%20khi%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%81%20b%E1%BA%A1t%20l%C3%AAn%20l%C3%A0m%20qu%E1%BA%A3n%20l%C3%BD,%20l%C3%A3nh%20%C4%91%E1%BA%A1o.md)
-- [Những công việc không đòi hỏi sự tập trung cao độ](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Nh%E1%BB%AFng%20c%C3%B4ng%20vi%E1%BB%87c%20kh%C3%B4ng%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20cao%20%C4%91%E1%BB%99.md)
-- [Điều đã biết là đã biết được dùng để lên kế hoạch chính. Điều không biết là đã biết được dùng để lên kế hoạch dự phòng. Điều đã biết là không biết thì cần nghiên cứu thêm](../%C4%90i%E1%BB%81u%20%C4%91%C3%A3%20bi%E1%BA%BFt%20l%C3%A0%20%C4%91%C3%A3%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20%C4%91%E1%BB%83%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch%20ch%C3%ADnh.%20%C4%90i%E1%BB%81u%20kh%C3%B4ng%20bi%E1%BA%BFt%20l%C3%A0%20%C4%91%C3%A3%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20%C4%91%E1%BB%83%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch%20d%E1%BB%B1%20ph%C3%B2ng.%20%C4%90i%E1%BB%81u%20%C4%91%C3%A3%20bi%E1%BA%BFt%20l%C3%A0%20kh%C3%B4ng%20bi%E1%BA%BFt%20th%C3%AC%20c%E1%BA%A7n%20nghi%C3%AAn%20c%E1%BB%A9u%20th%C3%AAm.md)
+- [Những công việc không đòi hỏi sự tập trung cao độ](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%8Dc%20t%E1%BA%ADp/Nh%E1%BB%AFng%20c%C3%B4ng%20vi%E1%BB%87c%20kh%C3%B4ng%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20cao%20%C4%91%E1%BB%99.md)
+- [Điều đã biết là đã biết được dùng để lên kế hoạch chính. Điều không biết mà đã biết được dùng để lên kế hoạch dự phòng. Điều đã biết là không biết thì cần nghiên cứu thêm](./%C4%90i%E1%BB%81u%20%C4%91%C3%A3%20bi%E1%BA%BFt%20l%C3%A0%20%C4%91%C3%A3%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20%C4%91%E1%BB%83%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch%20ch%C3%ADnh.%20%C4%90i%E1%BB%81u%20kh%C3%B4ng%20bi%E1%BA%BFt%20m%C3%A0%20%C4%91%C3%A3%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20%C4%91%E1%BB%83%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch%20d%E1%BB%B1%20ph%C3%B2ng.%20%C4%90i%E1%BB%81u%20%C4%91%C3%A3%20bi%E1%BA%BFt%20l%C3%A0%20kh%C3%B4ng%20bi%E1%BA%BFt%20th%C3%AC%20c%E1%BA%A7n%20nghi%C3%AAn%20c%E1%BB%A9u%20th%C3%AAm.md)
 
 Khái niệm:: [Hệ phức hợp](../../../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/index.md)
 [Tổ chức phi tập trung](T%E1%BB%95%20ch%E1%BB%A9c%20phi%20t%E1%BA%ADp%20trung.md)

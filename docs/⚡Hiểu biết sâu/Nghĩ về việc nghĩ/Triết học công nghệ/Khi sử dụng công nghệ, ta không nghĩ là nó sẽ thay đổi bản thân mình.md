@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-02-02T14:38
+updated: 2026-07-03T22:17
 ---
 Khái niệm:: [Công cụ, công nghệ](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/C%C3%B4ng%20c%E1%BB%A5,%20c%C3%B4ng%20ngh%E1%BB%87.md)
 Khi dùng búa để đập đinh, ta nghĩ là chỉ có đinh và gỗ bị biến dạng, chứ ta không nghĩ rằng búa có thể thay đổi bản thân ta. Nếu như búa đập vào tay thì ta chỉ nghĩ đó là tai nạn, chứ không trông đợi sự thay đổi đó. Trong khi đó, khi nói chuyện với con người, ta có nghĩ rằng sự nói chuyện đó sẽ thay đổi con người ta. 
@@ -9,4 +9,7 @@ Khi dùng búa để đập đinh, ta nghĩ là chỉ có đinh và gỗ bị bi
 
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/live/XyY7C2nZv6c?si=IxxZ0YUjzh8J9iCB&t=1864" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Nhiều khi ta nhớ nơi lưu trữ thông tin hơn là chính thông tin đó](../Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%C3%AD%20nh%E1%BB%9B/Nhi%E1%BB%81u%20khi%20ta%20nh%E1%BB%9B%20n%C6%A1i%20l%C6%B0u%20tr%E1%BB%AF%20th%C3%B4ng%20tin%20h%C6%A1n%20l%C3%A0%20ch%C3%ADnh%20th%C3%B4ng%20tin%20%C4%91%C3%B3.md) 
+[Viết làm suy nghĩ không còn là vô hình](../M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Vi%E1%BA%BFt%20l%C3%A0m%20suy%20ngh%C4%A9%20kh%C3%B4ng%20c%C3%B2n%20l%C3%A0%20v%C3%B4%20h%C3%ACnh.md). [nó cho phép ta nghĩ về sự nghĩ](../M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Vi%E1%BA%BFt%20cho%20ph%C3%A9p%20ta%20ngh%C4%A9%20v%E1%BB%81%20s%E1%BB%B1%20ngh%C4%A9.md). Có thể nói [sự phát minh ra việc viết phát minh ra việc lập luận](../M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/S%E1%BB%B1%20ph%C3%A1t%20minh%20ra%20vi%E1%BB%87c%20vi%E1%BA%BFt%20ph%C3%A1t%20minh%20ra%20vi%E1%BB%87c%20l%E1%BA%ADp%20lu%E1%BA%ADn.md).
+[Công cụ không chỉ là cách để đạt mục tiêu nhanh hơn, mà còn thay đổi tư duy của chúng ta](../M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/C%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/C%C3%B4ng%20c%E1%BB%A5%20kh%C3%B4ng%20ch%E1%BB%89%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1t%20m%E1%BB%A5c%20ti%C3%AAu%20nhanh%20h%C6%A1n,%20m%C3%A0%20c%C3%B2n%20thay%20%C4%91%E1%BB%95i%20t%C6%B0%20duy%20c%E1%BB%A7a%20ch%C3%BAng%20ta.md)
+[Ý tưởng logo là cục đá đang được đẽo gọt, hàm ý ❝You shape your tools, and they shape you❞](../../../%E2%9A%94%EF%B8%8F%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20Obsidian%20v%C3%A0%20Git/%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20m%E1%BA%A1nh%20c%E1%BB%A7a%20Obsidian/%C3%9D%20t%C6%B0%E1%BB%9Fng%20logo%20l%C3%A0%20c%E1%BB%A5c%20%C4%91%C3%A1%20%C4%91ang%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BA%BDo%20g%E1%BB%8Dt,%20h%C3%A0m%20%C3%BD%20%E2%9D%9DYou%20shape%20your%20tools,%20and%20they%20shape%20you%E2%9D%9E.md)
+[Mọi công nghệ đều bắt đầu từ sự phản tư của con người](./M%E1%BB%8Di%20c%C3%B4ng%20ngh%E1%BB%87%20%C4%91%E1%BB%81u%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20t%E1%BB%AB%20s%E1%BB%B1%20ph%E1%BA%A3n%20t%C6%B0%20c%E1%BB%A7a%20con%20ng%C6%B0%E1%BB%9Di.md)

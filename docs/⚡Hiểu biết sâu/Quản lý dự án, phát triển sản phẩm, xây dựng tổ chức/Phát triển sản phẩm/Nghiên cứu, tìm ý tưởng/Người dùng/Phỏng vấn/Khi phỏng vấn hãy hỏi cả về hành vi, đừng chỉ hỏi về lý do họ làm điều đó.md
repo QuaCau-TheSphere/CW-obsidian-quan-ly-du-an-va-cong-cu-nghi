@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-09T11:10
-updated: 2026-01-14T13:11
+updated: 2026-07-01T19:52
 ---
 Lý do:: [Con người nhiều khi không nói dối mà chỉ đang lý tưởng hoá bản thân](./H%C3%A0nh%20vi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Con%20ng%C6%B0%E1%BB%9Di%20nhi%E1%BB%81u%20khi%20kh%C3%B4ng%20n%C3%B3i%20d%E1%BB%91i%20m%C3%A0%20ch%E1%BB%89%20%C4%91ang%20l%C3%BD%20t%C6%B0%E1%BB%9Fng%20ho%C3%A1%20b%E1%BA%A3n%20th%C3%A2n.md)
 Ví dụ một người nói phong cách của họ đơn giản, nhưng thời điểm họ nói điều đó họ cũng chỉ mới nghĩ ra cái khái niệm đơn giản đó. Có thể điều khiến họ mua là vì giá, vì tiện, nhưng trong đầu họ lại thấy mình mua vì phong cách, vì môi trường. Chính vì như vậy, nên [Khi phỏng vấn hãy hỏi cả về hành vi, đừng chỉ hỏi về lý do họ làm điều đó](Khi%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20h%C3%A3y%20h%E1%BB%8Fi%20c%E1%BA%A3%20v%E1%BB%81%20h%C3%A0nh%20vi,%20%C4%91%E1%BB%ABng%20ch%E1%BB%89%20h%E1%BB%8Fi%20v%E1%BB%81%20l%C3%BD%20do%20h%E1%BB%8D%20l%C3%A0m%20%C4%91i%E1%BB%81u%20%C4%91%C3%B3.md), dù cho [Phỏng vấn phù hợp để hiểu lý do cho một hành vi của một người](./Ph%E1%BB%8Fng%20v%E1%BA%A5n%20ph%C3%B9%20h%E1%BB%A3p%20%C4%91%E1%BB%83%20hi%E1%BB%83u%20l%C3%BD%20do%20cho%20m%E1%BB%99t%20h%C3%A0nh%20vi%20c%E1%BB%A7a%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di.md). Dù vậy, phỏng vấn vẫn rất nên được sử dụng vì ngoài chuyện hiểu lý do cho một hành vi của một người, [Phỏng vấn còn phù hợp để đánh giá cách tiếp nhận hay thái độ](./Ph%E1%BB%8Fng%20v%E1%BA%A5n%20ph%C3%B9%20h%E1%BB%A3p%20%C4%91%E1%BB%83%20%C4%91%C3%A1nh%20gi%C3%A1%20c%C3%A1ch%20ti%E1%BA%BFp%20nh%E1%BA%ADn%20hay%20th%C3%A1i%20%C4%91%E1%BB%99.md) nữa.
@@ -16,3 +16,4 @@ Show, don't tell
 Nguồn:: [Hoàng Đức Minh](../../../../../%CE%9E%20Ngu%E1%BB%93n/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ho%C3%A0ng%20%C4%90%E1%BB%A9c%20Minh.md)
 
 [Hãy hỏi người dùng họ cần sản phẩm này để giải quyết việc gì](./H%C3%A3y%20h%E1%BB%8Fi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20h%E1%BB%8D%20c%E1%BA%A7n%20s%E1%BA%A3n%20ph%E1%BA%A9m%20n%C3%A0y%20%C4%91%E1%BB%83%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20vi%E1%BB%87c%20g%C3%AC.md)
+[Hãy liệt kê những niềm tin trước khi phỏng vấn](../../../Ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thuy%E1%BA%BFt/H%C3%A3y%20li%E1%BB%87t%20k%C3%AA%20nh%E1%BB%AFng%20ni%E1%BB%81m%20tin%20tr%C6%B0%E1%BB%9Bc%20khi%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)

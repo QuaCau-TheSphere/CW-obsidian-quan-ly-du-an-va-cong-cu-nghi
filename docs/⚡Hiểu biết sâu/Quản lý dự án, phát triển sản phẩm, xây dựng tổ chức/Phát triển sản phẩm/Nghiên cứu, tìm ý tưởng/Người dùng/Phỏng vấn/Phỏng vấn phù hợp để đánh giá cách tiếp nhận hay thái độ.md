@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-01-14T13:11
+updated: 2026-07-01T19:51
 ---
 Ví dụ nhiều người hay chê một ai đó là hát không hay, nhưng vẫn theo dõi và xem hết các MV của người đó mỗi khi ra mắt.
 
@@ -14,3 +14,4 @@ Ví dụ, mình từng phỏng vấn khách hàng về ý tưởng một mạng 
 
 Mục tiêu `Kiểm tra cách khách hàng tiếp nhận ý tưởng về sản phẩm` nghe qua giống như mục tiêu `Xác định mức độ sẵn sàng khám phá sản phẩm của khách hàng`, tuy nhiên khác nhau ở chỗ một cái thì muốn tìm hiểu về thái độ, phương thức tiếp nhận, phản ứng đầu tiên khi nghe về sản phẩm, còn một cái thì muốn đánh giá nhu cầu, khả năng tiếp nhận. Nó đang cố dự đoán hành vi tương lai của người dùng (mà [Phỏng vấn thường kém chính xác trong việc dự đoán các hành vi tương lai của người dùng](./Ph%E1%BB%8Fng%20v%E1%BA%A5n%20th%C6%B0%E1%BB%9Dng%20k%C3%A9m%20ch%C3%ADnh%20x%C3%A1c%20trong%20vi%E1%BB%87c%20d%E1%BB%B1%20%C4%91o%C3%A1n%20c%C3%A1c%20h%C3%A0nh%20vi%20t%C6%B0%C6%A1ng%20lai%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)). Nó kiểm tra khả năng bán hàng thì tốt hơn.
 Nguồn:: [Hoàng Đức Minh](../../../../../%CE%9E%20Ngu%E1%BB%93n/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ho%C3%A0ng%20%C4%90%E1%BB%A9c%20Minh.md)
+[Hãy liệt kê những niềm tin trước khi phỏng vấn](../../../Ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thuy%E1%BA%BFt/H%C3%A3y%20li%E1%BB%87t%20k%C3%AA%20nh%E1%BB%AFng%20ni%E1%BB%81m%20tin%20tr%C6%B0%E1%BB%9Bc%20khi%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)

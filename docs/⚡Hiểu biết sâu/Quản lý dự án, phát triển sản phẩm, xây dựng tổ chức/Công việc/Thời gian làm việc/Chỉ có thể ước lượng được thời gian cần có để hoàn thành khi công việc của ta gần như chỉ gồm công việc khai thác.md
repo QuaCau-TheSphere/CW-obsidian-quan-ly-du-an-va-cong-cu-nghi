@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-05-29T01:48
+updated: 2026-07-01T20:16
 ---
 Khái niệm:: [Công việc](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/C%C3%B4ng%20vi%E1%BB%87c.md), [Thời gian, lịch](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Th%E1%BB%9Di%20gian,%20l%E1%BB%8Bch.md)
 [Dự án chủ yếu gồm các công việc khai phá. Chiến dịch, chương trình chủ yếu gồm các công việc khai thác](../B%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20v%C3%A0%20kh%C3%A1m%20ph%C3%A1/D%E1%BB%B1%20%C3%A1n%20ch%E1%BB%A7%20y%E1%BA%BFu%20g%E1%BB%93m%20c%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20khai%20ph%C3%A1.%20Chi%E1%BA%BFn%20d%E1%BB%8Bch,%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20ch%E1%BB%A7%20y%E1%BA%BFu%20g%E1%BB%93m%20c%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20khai%20th%C3%A1c.md)
@@ -12,3 +12,4 @@ Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../%CE%9E%20Ngu%E1%BB%93n/T
 [Áp lực giết chết sự sáng tạo](../%C3%81p%20l%E1%BB%B1c%20gi%E1%BA%BFt%20ch%E1%BA%BFt%20s%E1%BB%B1%20s%C3%A1ng%20t%E1%BA%A1o.md)
 [Nhiều khi vấn đề chỉ được phát hiện ra khi đến khâu triển khai ý tưởng](../B%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20v%C3%A0%20kh%C3%A1m%20ph%C3%A1/Nhi%E1%BB%81u%20khi%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20ch%E1%BB%89%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A1t%20hi%E1%BB%87n%20ra%20khi%20%C4%91%E1%BA%BFn%20kh%C3%A2u%20tri%E1%BB%83n%20khai%20%C3%BD%20t%C6%B0%E1%BB%9Fng.md)
 [Cây quyết định và PERT dành cho những dự án chủ yếu gồm các công việc khai thác](./C%C3%A2y%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20v%C3%A0%20PERT%20d%C3%A0nh%20cho%20nh%E1%BB%AFng%20d%E1%BB%B1%20%C3%A1n%20ch%E1%BB%A7%20y%E1%BA%BFu%20g%E1%BB%93m%20c%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20khai%20th%C3%A1c.md)
+[Làm sao để biết rằng việc nghiên cứu không kéo dài mãi mãi?](./Khi%20%C4%91%C3%A3%20chuy%E1%BB%83n%20%C4%91%C6%B0%E1%BB%A3c%20nhi%E1%BB%81u%20th%E1%BB%A9%20m%C3%ACnh%20bi%E1%BA%BFt%20l%C3%A0%20m%C3%ACnh%20kh%C3%B4ng%20bi%E1%BA%BFt%20sang%20m%C3%ACnh%20bi%E1%BA%BFt%20l%C3%A0%20m%C3%ACnh%20bi%E1%BA%BFt,%20th%C3%AC%20x%C3%A1c%20su%E1%BA%A5t%20d%E1%BB%B1%20%C4%91o%C3%A1n%20ch%C3%ADnh%20x%C3%A1c%20th%E1%BB%9Di%20gian%20ho%C3%A0n%20th%C3%A0nh%20s%E1%BA%BD%20t%C4%83ng%20l%C3%AAn.md)

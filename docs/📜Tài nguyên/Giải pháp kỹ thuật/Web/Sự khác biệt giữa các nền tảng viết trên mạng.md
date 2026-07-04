@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-31T13:18
-updated: 2026-01-14T13:11
+updated: 2026-07-03T21:52
 tags:
   - Marketing
 ---
@@ -33,3 +33,4 @@ Nhưng không có outcome là không có động lực.
 Anh nghĩ chắc là vì dùng WordPress vì bản thân nó k được nền tảng định hướng cho phân phối nội dung chuyên môn. Còn substack xây cộng đồng và data dù vất vả nhưng chắc chắn và nhanh hơn do công cụ có nhiều tính năng. Và thường đúng người hơn ấy. Substack phục vụ marketing và bán dịch vụ, sản phẩm 1 cách nghiêm túc hơn. Wordpress cảm giác để chơi chơi cho vui
 
 Nguồn:: [SỰ THẬT LÀ: Đội #Marketing của chúng... - Đức Anh Kostroma](https://www.facebook.com/levubachduong/posts/pfbid02wuRNuZMvxQhinLPwXrZFszv3fFWsb2dtVZzy1Fk9kG14aSwv4rccCbiqepVdTZQl?comment_id=815529827445768&reply_comment_id=1178818033343623)
+[Vì sao tôi hay chia sẻ bài viết của mình hơn là tự nói?](../H%E1%BB%8Dc%20t%E1%BA%ADp/V%C3%AC%20sao%20t%C3%B4i%20hay%20chia%20s%E1%BA%BB%20b%C3%A0i%20vi%E1%BA%BFt%20c%E1%BB%A7a%20m%C3%ACnh%20h%C6%A1n%20l%C3%A0%20t%E1%BB%B1%20n%C3%B3i.md)

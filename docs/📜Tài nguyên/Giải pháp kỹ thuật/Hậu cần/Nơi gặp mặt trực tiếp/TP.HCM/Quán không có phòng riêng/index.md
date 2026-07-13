@@ -8,7 +8,7 @@ Không bị ồn từ bên ngoài:: ❌
 Nhà vệ sinh:: ✔
 Được nói to:: tuỳ
 
+- [Mr Bean](./Mr%20Bean.md)
 - [The Joi factory](./The%20Joi%20factory.md)
 - [Ý Phương](./%C3%9D%20Ph%C6%B0%C6%A1ng.md)
-- [Mr Bean](./Mr%20Bean.md)
 

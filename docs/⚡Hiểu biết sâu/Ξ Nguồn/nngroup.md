@@ -15,3 +15,4 @@ updated: 2026-05-28T00:11
 - Suy luận: 
     - [Sự dễ hiểu làm tăng sự đáng tin, dù có thể nó không hợp lý](../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/Suy%20lu%E1%BA%ADn/S%E1%BB%B1%20d%E1%BB%85%20hi%E1%BB%83u%20l%C3%A0m%20t%C4%83ng%20s%E1%BB%B1%20%C4%91%C3%A1ng%20tin,%20d%C3%B9%20c%C3%B3%20th%E1%BB%83%20n%C3%B3%20kh%C3%B4ng%20h%E1%BB%A3p%20l%C3%BD.md)
 
+

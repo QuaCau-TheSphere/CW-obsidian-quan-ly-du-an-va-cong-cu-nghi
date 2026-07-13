@@ -7,7 +7,7 @@ aliases:
 title: 📜Tài nguyên
 ---
 # Ý đồ thiết kế thư mục
-Những gì được ghi chú trong thư mục này sẽ giúp bạn [tìm được thứ bạn cần tìm khi không biết từ khoá chính xác của nó](./L%C3%A0m%20sao%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%A9%20c%E1%BA%A7n%20t%C3%ACm%20khi%20kh%C3%B4ng%20bi%E1%BA%BFt%20t%E1%BB%AB%20kh%C3%B3a%20ch%C3%ADnh%20x%C3%A1c%20c%E1%BB%A7a%20n%C3%B3.md).
+Những gì được ghi chú trong thư mục này sẽ giúp bạn [tìm được thứ bạn cần tìm khi không biết từ khoá chính xác của nó](./Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%8Dc%20t%E1%BA%ADp/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%A9%20c%E1%BA%A7n%20t%C3%ACm%20khi%20kh%C3%B4ng%20bi%E1%BA%BFt%20t%E1%BB%AB%20kh%C3%B3a%20ch%C3%ADnh%20x%C3%A1c%20c%E1%BB%A7a%20n%C3%B3.md).
 
 ```mermaid
 flowchart LR

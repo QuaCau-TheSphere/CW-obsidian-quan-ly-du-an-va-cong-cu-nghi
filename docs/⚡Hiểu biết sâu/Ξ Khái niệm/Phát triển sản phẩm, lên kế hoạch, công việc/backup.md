@@ -5,7 +5,7 @@ updated: 2026-07-01T13:41
 ---
 Xem thêm:: [Ưu tiên](./%C6%AFu%20ti%C3%AAn.md)
 Evaluation Error: TypeError: Cannot read properties of undefined (reading 'path')
-    at eval (eval at <anonymous> (plugin:dataview), <anonymous>:14:50)
+    at eval (eval at <anonymous> (plugin:dataview), <anonymous>:15:50)
     at DataviewInlineApi.eval (plugin:dataview:19027:16)
     at evalInContext (plugin:dataview:19028:7)
     at asyncEvalInContext (plugin:dataview:19038:32)

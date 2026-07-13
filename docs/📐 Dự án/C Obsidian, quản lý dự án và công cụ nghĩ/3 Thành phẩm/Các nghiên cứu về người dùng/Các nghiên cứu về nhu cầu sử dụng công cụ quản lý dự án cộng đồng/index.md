@@ -32,8 +32,8 @@ Thành quả hỗ trợ:: [3 người có 1 năm kinh nghiệm trong lĩnh vực
 - [ ] Khảo sát
 
 Thành phẩm nhỏ hơn:
-- [Bài đăng kêu gọi phỏng vấn](./C%C3%A1c%20bu%E1%BB%95i%20ph%E1%BB%8Fng%20v%E1%BA%A5n/B%C3%A0i%20%C4%91%C4%83ng%20k%C3%AAu%20g%E1%BB%8Di%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)
 - [Hướng dẫn phỏng vấn người muốn xây dựng cộng đồng hoặc mạng lưới](./C%C3%A1c%20bu%E1%BB%95i%20ph%E1%BB%8Fng%20v%E1%BA%A5n/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ho%E1%BA%B7c%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi.md)
+- [Bài đăng kêu gọi phỏng vấn](./C%C3%A1c%20bu%E1%BB%95i%20ph%E1%BB%8Fng%20v%E1%BA%A5n/B%C3%A0i%20%C4%91%C4%83ng%20k%C3%AAu%20g%E1%BB%8Di%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)
 - [Email mời phỏng vấn](./Email%20m%E1%BB%9Di%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)
 
 

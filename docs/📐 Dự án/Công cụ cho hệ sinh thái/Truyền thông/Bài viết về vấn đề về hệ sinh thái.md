@@ -19,11 +19,11 @@ Thành quả hỗ trợ::
 
 Thành phẩm nhỏ hơn:
 - [Buổi thảo luận về việc xây dựng mạng lưới đối tác, các bên liên quan](./Bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20vi%E1%BB%87c%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.md)
+- [Hanoi Grapevine](./Email/Hanoi%20Grapevine.md)
+- [Nguyễn Cảnh Bình](./Email/Nguy%E1%BB%85n%20C%E1%BA%A3nh%20B%C3%ACnh.md)
+- [Lê Nguyễn Tường Vân](./Email/L%C3%AA%20Nguy%E1%BB%85n%20T%C6%B0%E1%BB%9Dng%20V%C3%A2n.md)
 - [Kho địa điểm để chọn nơi gặp mặt](./Kho%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20%C4%91%E1%BB%83%20ch%E1%BB%8Dn%20n%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t.md)
 - [Kết quả truyền thông cũ](./K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng%20c%C5%A9.md)
-- [Hanoi Grapevine](./Email/Hanoi%20Grapevine.md)
-- [Lê Nguyễn Tường Vân](./Email/L%C3%AA%20Nguy%E1%BB%85n%20T%C6%B0%E1%BB%9Dng%20V%C3%A2n.md)
-- [Nguyễn Cảnh Bình](./Email/Nguy%E1%BB%85n%20C%E1%BA%A3nh%20B%C3%ACnh.md)
 - [Từ việc lưu dữ liệu tại chỗ](./T%E1%BB%AB%20vi%E1%BB%87c%20l%C6%B0u%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BA%A1i%20ch%E1%BB%97.md)
 
 

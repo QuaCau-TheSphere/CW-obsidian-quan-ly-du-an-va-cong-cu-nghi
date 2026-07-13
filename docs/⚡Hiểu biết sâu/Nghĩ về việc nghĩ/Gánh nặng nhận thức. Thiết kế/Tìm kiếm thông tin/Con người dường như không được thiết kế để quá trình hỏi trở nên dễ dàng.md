@@ -5,7 +5,7 @@ updated: 2026-05-27T14:00
 ---
 ## Các khó khăn ở người hỏi
 - [Có những câu hỏi ta rất muốn có câu trả lời nhưng mãi mà vẫn chưa đi google](./C%C3%B3%20nh%E1%BB%AFng%20c%C3%A2u%20h%E1%BB%8Fi%20ta%20r%E1%BA%A5t%20mu%E1%BB%91n%20c%C3%B3%20c%C3%A2u%20tr%E1%BA%A3%20l%E1%BB%9Di%20nh%C6%B0ng%20m%C3%A3i%20m%C3%A0%20v%E1%BA%ABn%20ch%C6%B0a%20%C4%91i%20google.md)
-- [Nghịch lý triển ngôn](../../H%E1%BB%8Dc%20t%E1%BA%ADp,%20hi%E1%BB%83u%20bi%E1%BA%BFt/Ngh%E1%BB%8Bch%20l%C3%BD%20tri%E1%BB%83n%20ng%C3%B4n.md)
+- [Nghịch lý triển ngôn](../../Hi%E1%BB%83u%20bi%E1%BA%BFt/Ngh%E1%BB%8Bch%20l%C3%BD%20tri%E1%BB%83n%20ng%C3%B4n.md)
 
 ## Các khó khăn ở người trả lời
 - Câu hỏi dài quá thì lười đọc

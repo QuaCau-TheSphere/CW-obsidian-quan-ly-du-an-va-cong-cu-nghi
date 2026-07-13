@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-03T00:32
-updated: 2026-05-18T21:34
+updated: 2026-07-11T23:32
 ---
 Khái niệm:: [Quản trị kiến thức](Qu%E1%BA%A3n%20tr%E1%BB%8B%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
 Trước tiên hãy nói về cách đánh số thư mục. Cách đánh số này lấy ý tưởng từ cách đánh số [Johnny•Decimal](https://johnnydecimal.com/).
@@ -114,6 +114,7 @@ Sự kiện là một loại output
 Sản phẩm là sự bồi tụ của các dòng hải lưu nhu cầu và kết tinh của kiến thức, trong khi sản phẩm nhỏ hơn là output. Nó là lý do khiến mọi người bu vào. Sản phẩm = dự án = nhóm các output. Những outcome nào liên quan đến nhau thì sẽ là để phục vụ cho một outcome lớn hơn
 Thường là để các cấp trong tổ chức nói chuyện với nhau
 Tầm nhìn chắc là outcome tổng
+[❓Nhu cầu = impact = vấn đề = điểm đau = động lực = lý do bắt đầu = thành quả mong muốn nguyên thuỷ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/Th%C3%A0nh%20qu%E1%BA%A3,%20th%C3%A0nh%20ph%E1%BA%A9m,%20t%E1%BA%A7m%20nh%C3%ACn,%20m%E1%BB%A5c%20ti%C3%AAu/Nhu%20c%E1%BA%A7u,%20ngu%E1%BB%93n%20l%E1%BB%B1c/%E2%9D%93Nhu%20c%E1%BA%A7u%20=%20impact%20=%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20=%20%C4%91i%E1%BB%83m%20%C4%91au%20=%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20=%20l%C3%BD%20do%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20=%20th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n%20nguy%C3%AAn%20thu%E1%BB%B7.md)
 Nhu cầu = impact = problem = why start = pain point = động lực
 ![](https://miro.medium.com/max/1200/1*pNf5d7h2c-N-BrbM8cVDIA.png) 
 

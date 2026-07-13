@@ -4,7 +4,7 @@ created: 2024-12-18T10:01
 updated: 2026-05-12T23:39
 ---
 - \-: 
-    - [Con người dường như được thiết kế để thể hiện ý định qua cảm xúc hơn là lời nói](../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20sinh%20th%C3%A1i/Con%20ng%C6%B0%E1%BB%9Di%20d%C6%B0%E1%BB%9Dng%20nh%C6%B0%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%83%20th%E1%BB%83%20hi%E1%BB%87n%20%C3%BD%20%C4%91%E1%BB%8Bnh%20qua%20c%E1%BA%A3m%20x%C3%BAc%20h%C6%A1n%20l%C3%A0%20l%E1%BB%9Di%20n%C3%B3i.md)
+    - [Con người dường như được thiết kế để thể hiện ý định qua hành vi cơ thể hơn là lời nói](../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20sinh%20th%C3%A1i/Con%20ng%C6%B0%E1%BB%9Di%20d%C6%B0%E1%BB%9Dng%20nh%C6%B0%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20k%E1%BA%BF%20%C4%91%E1%BB%83%20th%E1%BB%83%20hi%E1%BB%87n%20%C3%BD%20%C4%91%E1%BB%8Bnh%20qua%20h%C3%A0nh%20vi%20c%C6%A1%20th%E1%BB%83%20h%C6%A1n%20l%C3%A0%20l%E1%BB%9Di%20n%C3%B3i.md)
     - [Chúng ta có cảm xúc cổ đại, thiết chế thời trung đại và công nghệ của chúa](../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Ch%C3%BAng%20ta%20c%C3%B3%20c%E1%BA%A3m%20x%C3%BAc%20c%E1%BB%95%20%C4%91%E1%BA%A1i,%20thi%E1%BA%BFt%20ch%E1%BA%BF%20th%E1%BB%9Di%20trung%20%C4%91%E1%BA%A1i%20v%C3%A0%20c%C3%B4ng%20ngh%E1%BB%87%20c%E1%BB%A7a%20ch%C3%BAa.md)
 
 - AI tạo sinh: 

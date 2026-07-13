@@ -10,9 +10,9 @@ Giải pháp kỹ thuật::
 [Matrix.org - Bridges](https://matrix.org/ecosystem/bridges/)
 [Tasker Webhook Log](https://anxin.quacau.deno.net/)
 
-- [Discord](../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20chat%20nh%C3%B3m/Discord.md)
 - [Messenger](../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20chat%20nh%C3%B3m/Messenger.md)
 - [Zalo](../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20chat%20nh%C3%B3m/Zalo.md)
+- [Discord](../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20chat%20nh%C3%B3m/Discord.md)
 
 [Bội thực chat nhóm gây phân tán nguồn lực, mất tập trung, tăng rủi ro lộ dữ liệu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/X%C3%A2y%20d%E1%BB%B1ng%20nh%C3%B3m,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A2n%20s%E1%BB%B1/K%C3%AAnh%20li%C3%AAn%20l%E1%BA%A1c/B%E1%BB%99i%20th%E1%BB%B1c%20chat%20nh%C3%B3m%20g%C3%A2y%20ph%C3%A2n%20t%C3%A1n%20ngu%E1%BB%93n%20l%E1%BB%B1c,%20m%E1%BA%A5t%20t%E1%BA%ADp%20trung,%20t%C4%83ng%20r%E1%BB%A7i%20ro%20l%E1%BB%99%20d%E1%BB%AF%20li%E1%BB%87u.md)
 [Loạn chủ đề khi chat](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/Lo%E1%BA%A1n%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20khi%20chat.md)

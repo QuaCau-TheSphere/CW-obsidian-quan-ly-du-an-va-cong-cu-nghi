@@ -47,4 +47,4 @@ _Chuyển từ công nghệ thông tin sang công nghệ thông tin +._ Công n
 
 Nguồn:: [Bộ trưởng Nguyễn Mạnh Hùng nói về sự khác nhau giữa công nghệ thông tin và chuyển đổi số](https://mic.gov.vn/mic_2020/Pages/TinTuc/154276/Bo-truong-Nguyen-Manh-Hung-noi-ve-su-khac-nhau-giua-cong-nghe-thong-tin-va-chuyen-doi-so.html)
 
-[](.md)
+[]()

@@ -16,3 +16,4 @@ updated: 2026-06-01T19:32
 - Quản lý dự án, phát triển sản phẩm, xây dựng tổ chức: 
     - [Trực giác về con người thường đúng. Trực giác về cách startup hoạt động thường sai](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Th%C3%A0nh%20l%E1%BA%ADp%20d%E1%BB%B1%20%C3%A1n/Tr%E1%BB%B1c%20gi%C3%A1c%20v%E1%BB%81%20con%20ng%C6%B0%E1%BB%9Di%20th%C6%B0%E1%BB%9Dng%20%C4%91%C3%BAng.%20Tr%E1%BB%B1c%20gi%C3%A1c%20v%E1%BB%81%20c%C3%A1ch%20startup%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20th%C6%B0%E1%BB%9Dng%20sai.md)
 
+

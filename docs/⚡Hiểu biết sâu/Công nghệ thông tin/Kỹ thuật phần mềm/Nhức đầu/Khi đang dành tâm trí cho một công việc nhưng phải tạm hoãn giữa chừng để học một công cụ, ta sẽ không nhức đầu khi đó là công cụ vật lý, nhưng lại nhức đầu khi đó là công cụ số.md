@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-05-12T23:39
+updated: 2026-07-10T19:54
 ---
 Khái niệm:: [Nhức đầu](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.md), [Công cụ, công nghệ](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/C%C3%B4ng%20c%E1%BB%A5,%20c%C3%B4ng%20ngh%E1%BB%87.md)
 Lý do:: [Các ngành khác đều làm việc với những vật thể cụ thể trong không gian. Chỉ có ngành lập trình là không có điều đó](../../T%C6%B0%C6%A1ng%20t%C3%A1c%20ng%C6%B0%E1%BB%9Di%20-%20m%C3%A1y/C%C3%A1c%20ng%C3%A0nh%20kh%C3%A1c%20%C4%91%E1%BB%81u%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20v%E1%BA%ADt%20th%E1%BB%83%20c%E1%BB%A5%20th%E1%BB%83%20trong%20kh%C3%B4ng%20gian.%20Ch%E1%BB%89%20c%C3%B3%20ng%C3%A0nh%20l%E1%BA%ADp%20tr%C3%ACnh%20l%C3%A0%20kh%C3%B4ng%20c%C3%B3%20%C4%91i%E1%BB%81u%20%C4%91%C3%B3.md)

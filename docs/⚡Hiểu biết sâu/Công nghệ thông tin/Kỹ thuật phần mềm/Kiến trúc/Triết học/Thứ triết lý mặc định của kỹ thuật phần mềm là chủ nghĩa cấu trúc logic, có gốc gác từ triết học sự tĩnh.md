@@ -9,7 +9,7 @@ Ngày xưa có 2 trường phái:
 - Parmenides: Tất cả mọi thứ là tĩnh. Thứ ta thấy là động chỉ là ảo giác của ta
 
 Plato chọn quan điểm của Parmenides. Nó ảnh hưởng tới ngày nay. Trong số những người chịu ảnh hưởng là 
-[Triết học sự tĩnh và triết học chuyển động](../../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/B%E1%BA%A3n%20th%E1%BB%83%20lu%E1%BA%ADn/Tri%E1%BA%BFt%20h%E1%BB%8Dc%20s%E1%BB%B1%20t%C4%A9nh%20v%C3%A0%20tri%E1%BA%BFt%20h%E1%BB%8Dc%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng.md)
+[Triết học sự tĩnh và triết học chuyển động](../../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Hi%E1%BB%83u%20bi%E1%BA%BFt/Tri%E1%BA%BFt%20h%E1%BB%8Dc%20s%E1%BB%B1%20t%C4%A9nh%20v%C3%A0%20tri%E1%BA%BFt%20h%E1%BB%8Dc%20chuy%E1%BB%83n%20%C4%91%E1%BB%99ng.md)
 [Những người đặt nền móng cho khoa học máy tính đều là những người theo phái logic thực chứng](./Nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BA%B7t%20n%E1%BB%81n%20m%C3%B3ng%20cho%20khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh%20%C4%91%E1%BB%81u%20l%C3%A0%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20theo%20ph%C3%A1i%20logic%20th%E1%BB%B1c%20ch%E1%BB%A9ng.md)
 
 

@@ -45,6 +45,26 @@ Thành quả hỗ trợ:: [50% người đóng góp đáp ứng được các nh
 - [ ] Có khả năng tuỳ chỉnh theo đúng luồng làm việc, suy nghĩ của mình
 - [ ] Không phải dành quá nhiều thời gian để xây dựng hệ thống đó
 - [ ] Chi phí thấp
+- [ ] Xem nội dung họp trong lịch họp hằng tuần
+- [ ] Lên danh sách chủ đề các buổi họp để mọi người lựa chọn
+- [ ] Đăng thông báo lên group
+    - [ ] Xác định ngày họp nhiều người tham gia được nhất
+        - [ ] Tạo lịch Google Calendar
+- [ ] Chọn nơi họp
+- [ ] Khởi động một chút cho thêm không khí
+- [ ] Tạo khảo sát cuối buổi
+- [ ] Ghi chép
+- [ ] Chuẩn bị nội dung họp
+- [ ] Chuẩn bị phiếu khảo sát nhu cầu của họ
+- [ ] Gửi cho các bên nội dung họp
+- [ ] Mở trước 5 phút
+- [ ] Camera quan sát được cả nhóm
+- [ ] Mic và loa rõ
+- [ ] Màn hình để mọi người thấy được sự hiện diện của họ
+- [ ] Có sẵn nước uống
+- [ ] Có khả năng tuỳ chỉnh theo đúng luồng làm việc, suy nghĩ của mình
+- [ ] Không phải dành quá nhiều thời gian để xây dựng hệ thống đó
+- [ ] Chi phí thấp
 - [ ] Hoàn thành [Hướng dẫn phỏng vấn người muốn xây dựng cộng đồng hoặc mạng lưới](H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20ph%E1%BB%8Fng%20v%E1%BA%A5n%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng%20ho%E1%BA%B7c%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi.md)
 - [ ] [Email mời phỏng vấn](Email%20m%E1%BB%9Di%20ph%E1%BB%8Fng%20v%E1%BA%A5n.md)
     - [ ] SNPO
@@ -70,7 +90,6 @@ Thành quả hỗ trợ:: [50% người đóng góp đáp ứng được các nh
     - [ ] [Bản khảo sát nhu cầu học lập trình](B%E1%BA%A3n%20kh%E1%BA%A3o%20s%C3%A1t%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md)
 - [ ] Tổ chức các buổi hướng dẫn
     - [ ] Tìm người có cùng nhu cầu để học cùng
-- [ ] Thấy nó giúp tiết kiệm thời gian của mình?
 - [ ] Thấy việc được chủ động định giá làm họ thấy công sức lao động của mình được tôn trọng, thấy được trao quyền
     - [ ] Thấy ở đây người tổ chức thực sự quan tâm đến nhu cầu của mình
 - [ ] Thấy nó giúp tiết kiệm thời gian của mình?
@@ -89,28 +108,5 @@ Thành quả hỗ trợ:: [50% người đóng góp đáp ứng được các nh
 - [ ] Thấy rằng AI hoặc nocode là không đủ và vẫn cần phải học lập trình
 - [ ] Hiểu được các buổi học được triển khai thế nào
 - [ ] Hiểu mình cần lên lộ trình học và kết quả đầu ra mong muốn
-- [ ] Làm sớm
-- [ ] Gặp mặt
-- [ ] Cá nhân hoá
-- [ ] Riêng tư
-- [ ] Xem nội dung họp trong lịch họp hằng tuần
-- [ ] Lên danh sách chủ đề các buổi họp để mọi người lựa chọn
-- [ ] Đăng thông báo lên group
-    - [ ] Xác định ngày họp nhiều người tham gia được nhất
-        - [ ] Tạo lịch Google Calendar
-- [ ] Chọn nơi họp
-- [ ] Khởi động một chút cho thêm không khí
-- [ ] Tạo khảo sát cuối buổi
-- [ ] Ghi chép
-- [ ] Chuẩn bị nội dung họp
-- [ ] Chuẩn bị phiếu khảo sát nhu cầu của họ
-- [ ] Gửi cho các bên nội dung họp
-- [ ] Mở trước 5 phút
-- [ ] Camera quan sát được cả nhóm
-- [ ] Mic và loa rõ
-- [ ] Màn hình để mọi người thấy được sự hiện diện của họ
-- [ ] Có sẵn nước uống
-- [ ] Có khả năng tuỳ chỉnh theo đúng luồng làm việc, suy nghĩ của mình
-- [ ] Không phải dành quá nhiều thời gian để xây dựng hệ thống đó
-- [ ] Chi phí thấp
+- [ ] Thấy nó giúp tiết kiệm thời gian của mình?
 

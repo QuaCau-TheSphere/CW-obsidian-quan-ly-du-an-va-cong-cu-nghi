@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-05-12T23:39
+updated: 2026-07-12T16:28
 ---
 Khái niệm:: [Khảo sát](../../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kh%E1%BA%A3o%20s%C3%A1t.md), [Định lượng](../../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/%C4%90%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng.md)
 

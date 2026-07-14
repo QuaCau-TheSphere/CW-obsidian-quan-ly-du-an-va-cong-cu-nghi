@@ -1,8 +1,9 @@
 ---
 share: true
+blog: true
 created: 2026-07-11T22:11
-updated: 2026-07-13T15:37
-title: Người làm giáo dục nói gì về việc sử dụng dữ liệu trong giáo dục?
+updated: 2026-07-14T15:54
+title: Một số ghi chép và suy nghĩ về dữ liệu trong giáo dục
 ---
 Hôm nay ngày 11/7/2026 tôi tham gia buổi chuyên đề "Kể chuyện bằng dữ liệu trong giáo dục" do [Lớp học đổi mới](https://www.facebook.com/lophocdoimoi) tổ chức. Tôi biết tới buổi này do một người chị trong nhóm ABG đã mua vé nhưng bị mệt đột xuất nên nhường lại cho ai có hứng thú. Tôi tham gia vì muốn biết thêm về những mối quan tâm của một người làm giáo dục, trong đó có việc sử dụng dữ liệu. Có thể xem đây là một phần trong nghiên cứu của tôi với chủ đề [Người làm dữ liệu nói gì về sự thiếu sót của dữ liệu?](./D%E1%BB%AF%20li%E1%BB%87u%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20s%E1%BB%B1%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng%20c%E1%BB%A7a%20con%20ng%C6%B0%E1%BB%9Di%20ch%E1%BB%89%20s%E1%BB%AD%20d%E1%BB%A5ng%20th%E1%BB%91ng%20k%C3%AA.%20D%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%AB%20s%E1%BB%B1%20%C4%91o%20l%C6%B0%E1%BB%9Dng%20c%C3%A1c%20%C4%91%E1%BA%A1i%20l%C6%B0%E1%BB%A3ng%20v%E1%BA%ADt%20l%C3%BD%20d%C3%B9ng%20c%E1%BA%A3%20c%C3%A1c%20lo%E1%BA%A1i%20to%C3%A1n%20kh%C3%A1c.md) (Dữ liệu ở đây là nói tắt của dữ liệu định lượng.) 
 
@@ -33,13 +34,13 @@ Một lập luận khác để biện minh cho việc giành khách là việc m
 - Phụ huynh nhiều khi đã biết hết triết lý của trường rồi, nhưng vẫn muốn nghe chính miệng hiệu trưởng nói điều đó
 - Trường tư phân khúc thấp không thể cạnh tranh lại được với trường công
 
-### Quản lý chất lượng giáo dục
+### Dữ liệu trong quản lý chất lượng giáo dục
 Để có một tập thể gắn kết thì những thành viên trong đó phải được cảm thấy đối xử công bằng. Và để có sự công bằng đòi hỏi sự minh bạch. Khi có sự minh bạch thì việc tuyên dương người có thành tích tốt không làm những người khác thấy ghen tị hay đố kị, và cũng làm giảm sự xấu hổ của người không có thành tích tốt khi phân tích vấn đề của họ. Mà [Số liệu định lượng tạo ra cảm giác minh bạch rất tốt](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/X%C3%A2y%20d%E1%BB%B1ng%20nh%C3%B3m,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A2n%20s%E1%BB%B1/T%E1%BA%A1o%20s%E1%BB%B1%20tin%20t%C6%B0%E1%BB%9Fng/S%E1%BB%91%20li%E1%BB%87u%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng%20t%E1%BA%A1o%20ra%20c%E1%BA%A3m%20gi%C3%A1c%20minh%20b%E1%BA%A1ch%20r%E1%BA%A5t%20t%E1%BB%91t.md), vì nó xóa bỏ cái cảm giác cảm tính. Thế nên, việc dùng số liệu được khuyến khích trong việc quản lý chất lượng giáo dục. 
 
 Tôi thấy có 3 dạng sử dụng dữ liệu được sử dụng:
-- **Dữ liệu từ thang đo:** điểm số ở học sinh, thang đo dự giờ giáo viên, bộ chỉ số đánh giá bắt buộc phải công khai của các trường, v.v.
-- **Dữ liệu từ thống kê từ thang đo:** tỉ lệ học sinh điểm thấp của một giáo viên hay một khối lớp, chỉ số sáng tạo trung bình của giáo viên của trường v.v.
-- **Dữ liệu từ thống kê hành vi:** số ngày thứ Hai học sinh đi trễ liên tiếp, v.v.
+- **Dữ liệu từ thang đo.** VD: điểm số ở học sinh, điểm dự giờ của một giáo viên, bộ chỉ số đánh giá bắt buộc phải công khai của các trường, v.v.
+- **Dữ liệu từ thống kê từ thang đo.** VD: tỉ lệ học sinh điểm thấp của một giáo viên hay một khối lớp, chỉ số sáng tạo trung bình của giáo viên của trường v.v.
+- **Dữ liệu từ thống kê hành vi.** VD: số ngày thứ Hai học sinh đi trễ liên tiếp, v.v.
 
 #### Dữ liệu từ thang đo
 Điểm số có vai trò phân loại khách thể. Ví dụ như đối với học sinh thì cần giúp giáo viên biết được học sinh nào: 
@@ -51,11 +52,11 @@ Tôi thấy có 3 dạng sử dụng dữ liệu được sử dụng:
 
 Với giáo viên thì cũng tương tự vậy. Chính vì như vậy, nên dù các con số trông như có vẻ tuyến tính, nhưng khoảng cách từ điểm 7 lên điểm 8 có thể rất khác với khoảng cách từ điểm 8 lên điểm 9. Nói theo ngôn ngữ thống kê, điểm số là thang đo khoảng, nhưng nó được dùng như một thang đo danh nghĩa. Tức là râu ông này cắm cằm bà kia. Tôi thấy rằng việc làm này sẽ tạo ra nhiều ảo tưởng thống kê, không chỉ ở điểm số mà còn ở bất kỳ các thống kê nào dựa trên nó.
 
-Đánh giá giáo dục ([educational assessment](https://en.wikipedia.org/wiki/Educational_assessment)) là một mảng rộng mà tôi chưa tìm hiểu gì cả, nhưng nhìn thoáng qua một số barem hoặc [rubric](https://en.wikipedia.org/wiki/Rubric_(academic)) chấm điểm, tôi cảm giác chúng là một dạng của phương pháp phân tích quyết định đa tiêu chí (Multicriteria Decision Analysis – MCDA). Theo tôi hiểu, về mặt toán học, phương pháp này là bài toán tính thể tích vật đa chiều. Nếu chỉ có 2 tiêu chí để đánh giá, thì nó là bài toán tính diện tích hình chữ nhật. [Nó có tác dụng tốt trong việc tìm lựa chọn tối ưu (cân bằng được các đánh đổi) và có thể sắp xếp các lựa chọn đó theo thứ tự từ trên xuống dưới.](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/X%C3%A2y%20d%E1%BB%B1ng%20nh%C3%B3m,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A2n%20s%E1%BB%B1/Th%E1%BA%A3o%20lu%E1%BA%ADn,%20ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh/Ph%C3%A2n%20t%C3%ADch%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20%C4%91a%20ti%C3%AAu%20ch%C3%AD%20(MCDA)%20l%C3%A0%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91i%E1%BB%83m%20%C4%91%C3%A1nh%20%C4%91%E1%BB%95i%20t%E1%BB%91i%20%C6%B0u%20nh%E1%BA%A5t,%20v%C3%A0%20c%C3%B3%20th%E1%BB%83%20s%E1%BA%AFp%20x%E1%BA%BFp%20c%C3%A1c%20l%E1%BB%B1a%20ch%E1%BB%8Dn%20theo%20th%E1%BB%A9%20t%E1%BB%B1%20gi%E1%BA%A3m%20d%E1%BA%A7n.md) Với các mục đích mang tính tuyển chọn như thi đại học hay phỏng vấn nhận việc thì phù hợp. Nhưng tôi thấy mục đích của việc cho điểm học sinh hay giáo viên không phải là để chọn ai loại ai, mà là để hỗ trợ từng người một cách phù hợp.
+Đánh giá giáo dục ([educational assessment](https://en.wikipedia.org/wiki/Educational_assessment)) là một mảng rộng mà tôi chưa tìm hiểu gì cả, nhưng nhìn thoáng qua một số barem hoặc [rubric](https://en.wikipedia.org/wiki/Rubric_(academic)) chấm điểm, tôi cảm giác chúng là một dạng của phương pháp phân tích quyết định đa tiêu chí (Multicriteria Decision Analysis – MCDA). Cách làm của nó là chấm điểm từng tiêu chí nhỏ, rồi gộp các con số đó lại thành một con số cuối cùng. [Phương pháp này có tác dụng tốt trong việc tìm lựa chọn tối ưu (cân bằng được các đánh đổi) và có thể sắp xếp các lựa chọn đó theo thứ tự từ trên xuống dưới.](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/X%C3%A2y%20d%E1%BB%B1ng%20nh%C3%B3m,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A2n%20s%E1%BB%B1/Th%E1%BA%A3o%20lu%E1%BA%ADn,%20ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh/Ph%C3%A2n%20t%C3%ADch%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20%C4%91a%20ti%C3%AAu%20ch%C3%AD%20(MCDA)%20l%C3%A0%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91i%E1%BB%83m%20%C4%91%C3%A1nh%20%C4%91%E1%BB%95i%20t%E1%BB%91i%20%C6%B0u%20nh%E1%BA%A5t,%20v%C3%A0%20c%C3%B3%20th%E1%BB%83%20s%E1%BA%AFp%20x%E1%BA%BFp%20c%C3%A1c%20l%E1%BB%B1a%20ch%E1%BB%8Dn%20theo%20th%E1%BB%A9%20t%E1%BB%B1%20gi%E1%BA%A3m%20d%E1%BA%A7n.md) Nó rất phù hợp với các mục đích mang tính tuyển chọn như thi đại học hay phỏng vấn nhận việc. Nhưng tôi thấy mục đích của việc cho điểm học sinh hay giáo viên không phải là để chọn ai loại ai, mà là để có cách hỗ trợ họ phù hợp. Có vẻ như phương pháp này không được thiết kế cho mục đích như vậy.
 
-Cách đánh giá tốt hơn là không nhân các bộ số lại với nhau, mà chỉ giữ nguyên bộ số điểm của từng tiêu chí thành phần. Tôi đoán đây là lý do khiến cho cách đánh giá bằng con số lại được phổ biến đến như vậy: việc quy thành một con số thay vì cả một bộ số giúp giảm số lượng con số phải ghi nhớ, lưu trữ, sử dụng. [Sự sẵn sàng và tiện lợi luôn áp đảo hơn sự chính xác](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/T%C3%ACm%20ki%E1%BA%BFm%20th%C3%B4ng%20tin/S%E1%BB%B1%20s%E1%BA%B5n%20s%C3%A0ng%20v%C3%A0%20ti%E1%BB%87n%20l%E1%BB%A3i%20lu%C3%B4n%20%C3%A1p%20%C4%91%E1%BA%A3o%20h%C6%A1n%20s%E1%BB%B1%20ch%C3%ADnh%20x%C3%A1c.md).
+Tôi nghĩ giải pháp cũng đơn giản thôi: giữ nguyên cả bộ số, không gộp lại thành một con số. Ví dụ như môn tiếng Anh có 4 kỹ năng nghe, nói, đọc, viết, thì khi chấm điểm ta ghi hẳn điểm từng kỹ năng riêng lẻ chứ không phải là điểm chung. Nếu việc chấm điểm mỗi kỹ năng đòi hỏi phải chấm điểm các tiêu chí nhỏ hơn, thì cũng chỉ ghi điểm của các tiêu chí thành phần chứ không gộp lại thành điểm của một kỹ năng. Nhưng điều này có một nhược điểm là thay vì chỉ cần ghi nhớ, lưu trữ, sử dụng một con số, nay ta phải làm vậy với cả một bộ số. Giả sử mỗi kỹ năng trong môn tiếng Anh lại có 4 tiêu chí để đánh giá, thì mỗi lần chấm điểm kết quả sẽ là nguyên một ma trận 4×4. Tôi đoán đây là lý do chủ yếu khiến cho cách đánh giá bằng con số lại được phổ biến đến như vậy. [Sự sẵn sàng và tiện lợi luôn áp đảo hơn sự chính xác](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/T%C3%ACm%20ki%E1%BA%BFm%20th%C3%B4ng%20tin/S%E1%BB%B1%20s%E1%BA%B5n%20s%C3%A0ng%20v%C3%A0%20ti%E1%BB%87n%20l%E1%BB%A3i%20lu%C3%B4n%20%C3%A1p%20%C4%91%E1%BA%A3o%20h%C6%A1n%20s%E1%BB%B1%20ch%C3%ADnh%20x%C3%A1c.md).
 
-Tôi không biết liệu việc lưu trữ dữ liệu trên máy tính thay vì trên giấy sẽ giải quyết được tình trạng này hay không? Phần [Hệ thống thông tin](Ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20gi%C3%A1o%20d%E1%BB%A5c%20n%C3%B3i%20g%C3%AC%20v%E1%BB%81%20vi%E1%BB%87c%20s%E1%BB%AD%20d%E1%BB%A5ng%20d%E1%BB%AF%20li%E1%BB%87u%20trong%20gi%C3%A1o%20d%E1%BB%A5c.md#Hệ%20thống%20thông%20tin) sẽ trình bày rõ hơn.
+Tôi không biết liệu việc lưu trữ dữ liệu trên máy tính thay vì trên giấy sẽ giải quyết được tình trạng này hay không? Phần về hệ thống thông tin sẽ trình bày rõ hơn.
 
 Ở trên chỉ mới nói về vấn đề điểm đánh giá có được thiết kế đúng cho mục đích của nó hay không. Nhưng đó không phải là vấn đề duy nhất của nó. Các con số này còn chịu nhiều sức ép khiến cho chúng dễ bị sai lệch. Ví dụ như ở học sinh:
 - Điểm không tốt làm học sinh thấy tự ti, đặc biệt là ở tiểu học. Với các trẻ gặp khó khăn trong việc học tập (VD: gặp chứng khó đọc chữ), thì ở các trường công trẻ còn được cộng thêm điểm
@@ -66,230 +67,101 @@ Còn với ở giáo viên:
 - Giáo viên khi được dự giờ có khuynh hướng phô diễn kỹ năng trình bày, nhưng không nhất thiết là có hiệu quả ở học sinh
 - Số lượng câu hỏi trong bảng đánh giá dự giờ không nên quá nhiều, nếu không thì chính người dự giờ cũng không xử lý được. Tầm 20 cái là vừa
 
-Giải pháp cho tình trạng này là xem rằng điểm số chỉ mang tính tham khảo, luôn cần dùng thêm nhiều đánh giá khác. Và quan trọng nhất là phải đối thoại với học sinh, phụ huynh, giáo viên. Nếu họ thấy mình quan tâm đến họ thật lòng, thì họ cũng sẽ chấp nhận được nó một cách thanh thản. Mà những cái này là dữ liệu định tính, thứ sẽ bị lược bỏ trong quá trình thống kê.
-
 Tôi đoán hẳn là phải có nhiều phân tích về vấn đề này rồi, nhưng do thời gian có hạn tôi chưa đọc được.
 
-#### Dữ liệu từ thống kê từ thang đo
-Bởi vì tôi thấy việc cho điểm chỉ phù hợp khi đang có sự cạnh tranh, nên các thống kê về điểm số cũng chỉ có ý nghĩa khi sử dụng những loại điểm đó. Còn các thống kê từ loại thang đo không được dùng với mục đích cạnh tranh thì tôi không biết việc dùng nó có ý nghĩa thế nào. Đây là vài ví dụ của loại thống kê như thế:
-- Tỉ lệ học sinh điểm thấp của một giáo viên hay một khối lớp
+#### Dữ liệu từ thống kê
+Bởi vì tôi thấy việc tổng hợp các đánh giá từ nhiều tiêu chí lại thành một điểm số chỉ hợp lý khi những người có điểm số đó đang cạnh tranh lẫn nhau, nên các thống kê về điểm số cũng chỉ có ý nghĩa khi sử dụng những loại điểm số mang tính cạnh tranh. Còn các thống kê từ các điểm số không được dùng với mục đích cạnh tranh thì tôi không biết việc dùng nó có ý nghĩa thế nào. Đây là vài ví dụ của loại thống kê mà tôi nghi vấn về tính hợp lý:
+- Tỉ lệ học sinh có điểm thi giữa kỳ thấp của một giáo viên
 - Chỉ số sáng tạo trung bình của giáo viên của trường
 
-Nhưng thôi, cứ cho là những thống kê như này vẫn dùng được đi. Thì điều các diễn giả nhấn mạnh là các con số này tự thân nó không có ý nghĩa, mà phải đem so sánh với các con số khác. Có thể là với chính con số đó của học sinh/giáo viên/trường trong quá khứ, hoặc với những học sinh/giáo viên/trường khác. 
+Còn những thống kê về hành vi, hoặc từ các điểm số được dùng để cạnh tranh thì có lẽ là hợp lý hơn. Ví dụ:
+- Tỉ lệ học sinh đạt điểm thấp kỹ năng nói môn tiếng Anh
+- Tỉ lệ học sinh có điểm thấp trong kỳ thi vào lớp 10
+- Trung bình học sinh đi trễ vào sáng thứ Hai
 
-Quetelet xem sự khác biệt giữa các cá nhân là do sai số tác động đến khuôn mẫu. Galton xem sự khác biệt số đo là có thật chứ không phải là sai số
-Quetelet và Galton 
-
-Việc phát hiện gian lận điểm cũng là nhờ phân tích dữ liệu:
+Nhưng thôi, cứ tạm bỏ qua chuyện đó và giả sử là tất cả các loại thống kê đều dùng được. Dù sao thì tôi cũng chưa tìm hiểu về giáo dục học nói chung, và thống kê giáo dục nói riêng. Nói chung, tôi đồng ý là có được số liệu thì hữu ích, giúp ta phát hiện được những vấn đề mà nếu không có thì khó mà thấy được. Ví dụ, nhờ phân tích dữ liệu mà ta phát hiện được gian lận điểm thi:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CQJ_SxZ0rIE?si=2zq0m7Zv3cIgjAfh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-với điểm cho sinh viên, thì việc cần là phân loại thành các nhóm này,  chứ không phải là phổ Gauss
 
-Một trường định vị bản thân là ưu điểm ở việc dùng tiếng Anh, mà lại có điểm tiếng Anh thấp 
+Theo tôi hiểu, thống kê giáo dục về cơ bản cũng là một mảng của thống kê xã hội. Tới lượt nó, thống kê xã hội cũng là một mảng của thống kê. Nên để có một đánh giá tốt cần hiểu được một số nguyên tắc thống kê, và nhận thức được các giới hạn của thống kê.
 
-* Học sinh đang gặp khó khăn ở kỹ năng nào?
-* Khoảng cách giữa các nhóm học sinh đang gia tăng hay thu hẹp?
-* Chương trình học hiện tại có thực sự hiệu quả?
-* Hoạt động chuyên môn nào đang tạo ra tác động lớn nhất?
-* Đâu là dấu hiệu cảnh báo sớm về nguy cơ nghỉ học, giảm động lực hoặc suy giảm kết quả?
+Thông  thường, khi làm việc với một bộ số liệu ta hay tìm giá trị trung bình của chúng. Nhưng khi làm vậy, ta sẽ bị mất thông tin về *độ phân tán* của chúng. Ví dụ:
+- Trong tiết thực hành vật lý, mỗi bộ thí nghiệm sẽ có hai học sinh cùng làm chung với nhau. Mỗi học sinh sẽ nộp bài riêng, sau đó điểm của nhóm sẽ là trung bình cộng của các thành viên. Nhóm A gồm có một người 1 điểm và một người 9 điểm. Nhóm B gồm có một người 4 điểm và một người 6 điểm. Chênh lệch học lực của nhóm A (8 điểm) sẽ lớn hơn nhiều so với chênh lệch học lực của nhóm B (2 điểm), dù điểm trung bình của cả hai nhóm đều là 5. Nếu chỉ ghi vào bảng điểm con số này, thì giáo viên sẽ nghĩ rằng cả khả năng của hai nhóm là tương đương với nhau.
+- Điểm của bốn kỹ năng nghe nói đọc viết môn tiếng Anh của học sinh A là (6, 7, 8, 7), và của học sinh B là (5, 4, 9, 10). Nếu điểm cuối cùng là trung bình của bốn kỹ năng, thì cả hai đều là 7. Kỹ năng của học sinh A là tương đối đều, trong khi học sinh B có vẻ như gặp khó khăn trong việc nghe nói, nhưng lại làm rất tốt trong việc đọc viết. Nếu không biết được điểm của các kỹ năng thành phần, giáo viên sẽ hỗ trợ các em như nhau.
 
-Tuy nhiên, nếu mọi con số đều chỉ mang tính tham khảo, thì phải chăng nó vốn đã chẳng khách quan, không cảm tính như nó đang được tin tưởng là vậy? Phải chăng việc dùng số liệu là một cách để những người dùng nó tự đánh lừa bản thân là mình khách quan, không cảm tính?
+Nên nếu nhất thiết việc cho điểm chỉ đưa ra một con số làm đại diện, thì có lẽ việc có thêm một con số phụ cho biết độ phân tán của các tiêu chí thành phần sẽ là hữu ích. Trong thống kê, con số này gọi là *độ lệch chuẩn*. Có thể sự khác biệt này giáo viên cũng dễ dàng phát hiện ra thôi, nên ta có thể cảm thấy là việc ghi thêm độ lệch chuẩn là không cần thiết. Nhưng nếu giáo viên có thể dễ dàng nắm được năng lực của học sinh, thì ngay cả việc cho điểm cũng đã là không cần thiết rồi. Nên mục đích ghi ra không phải là để cho người làm việc trực tiếp với học sinh, mà là cho những người không làm việc trực tiếp, những người không có cùng trải nghiệm với giáo viên có sự nắm bắt sát hơn.
 
-[Nếu người làm dữ liệu định lượng cũng tương tác trực tiếp với khách thể, thì việc dữ liệu định tính bị loại bỏ cũng bị giảm thiệt hại](./N%E1%BA%BFu%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20d%E1%BB%AF%20li%E1%BB%87u%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng%20c%C5%A9ng%20t%C6%B0%C6%A1ng%20t%C3%A1c%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20v%E1%BB%9Bi%20kh%C3%A1ch%20th%E1%BB%83,%20th%C3%AC%20vi%E1%BB%87c%20d%E1%BB%AF%20li%E1%BB%87u%20%C4%91%E1%BB%8Bnh%20t%C3%ADnh%20b%E1%BB%8B%20lo%E1%BA%A1i%20b%E1%BB%8F%20c%C5%A9ng%20b%E1%BB%8B%20gi%E1%BA%A3m%20thi%E1%BB%87t%20h%E1%BA%A1i.md)
-[Điểm yếu của dữ liệu là sự tự ti, mặc cảm, cảm thấy bị cạnh tranh quyền lợi. Để vượt qua nó thì cần mình thực sự quan tâm đến người bị đánh giá](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/X%C3%A2y%20d%E1%BB%B1ng%20nh%C3%B3m,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A2n%20s%E1%BB%B1/T%E1%BA%A1o%20s%E1%BB%B1%20tin%20t%C6%B0%E1%BB%9Fng/%C4%90i%E1%BB%83m%20y%E1%BA%BFu%20c%E1%BB%A7a%20d%E1%BB%AF%20li%E1%BB%87u%20l%C3%A0%20s%E1%BB%B1%20t%E1%BB%B1%20ti,%20m%E1%BA%B7c%20c%E1%BA%A3m,%20c%E1%BA%A3m%20th%E1%BA%A5y%20b%E1%BB%8B%20c%E1%BA%A1nh%20tranh%20quy%E1%BB%81n%20l%E1%BB%A3i.%20%C4%90%E1%BB%83%20v%C6%B0%E1%BB%A3t%20qua%20n%C3%B3%20th%C3%AC%20c%E1%BA%A7n%20m%C3%ACnh%20th%E1%BB%B1c%20s%E1%BB%B1%20quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20ng%C6%B0%E1%BB%9Di%20b%E1%BB%8B%20%C4%91%C3%A1nh%20gi%C3%A1.md)
+Các diễn giả nhấn mạnh là các con số tự thân nó không có ý nghĩa, mà phải đem so sánh với các con số khác. Có thể là với chính con số đó của học sinh/giáo viên/trường trong quá khứ, hoặc với những học sinh/giáo viên/trường khác. Có thể hiểu việc so sánh này cũng là so sánh độ lệch chuẩn của chúng.
 
-#### Dữ liệu từ hành vi
-Mô hình dữ liệu [Impact](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/Impact.md)
-Dư liệu để tạo thành insight. Nhưng dưới tảng băng là câu chuyện con người. Đây mới là thứ tạo ra action và impact, không phải dữ liệu
+#### Các bước sử dụng dữ liệu
+Buổi chuyên đề liệt kê các câu hỏi để nhà trường biết cách làm tăng hiệu quả hoạt động của mình trong các mảng khác nhau, như tuyển sinh, trải nghiệm phụ huynh, chất lượng giảng dạy, quản trị giáo viên & phát triển chuyên môn, v.v. Trong giới hạn thời gian của chương trình và với mục tiêu ứng dụng được ngay thì tôi nghĩ là đủ với tệp khán giả mục tiêu, nhưng nếu là tôi thì tôi sẽ muốn bổ sung thêm một số ý sau:
+- Làm sao để đặt được những câu hỏi mình cần hỏi?
+- Câu hỏi nào thì nên trả lời trước?
+- Làm sao để trả lời câu hỏi?
+- Cần dữ liệu gì để trả lời câu hỏi?
 
-Quy trình không nên là thu thập dữ liệu, xong rồi nhìn vào để phát hiện vấn đề ở đâu, mà là nêu ra các giả thiết trước, rồi mới nhìn vào dữ liệu để chấp nhận hay bác bỏ giả thiết.
+Để đặt được câu hỏi mình cần hỏi, đầu tiên phải xem xem mục tiêu của mình là gì, và liệt kê các giả định mình đang có. Khi làm vậy bạn sẽ thấy [giả định có mặt ở khắp nơi](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thuy%E1%BA%BFt/Gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh%20c%C3%B3%20m%E1%BA%B7t%20%E1%BB%9F%20kh%E1%BA%AFp%20n%C6%A1i.md). Ví dụ, nếu một trường định vị bản thân là học sinh học ở đây sẽ dùng tốt tiếng Anh, thì sẽ có các giả định là:
+- Trường tôi có khả năng dạy trẻ dùng tốt tiếng Anh
+- Học sinh tôi tuyển có khả năng dùng tốt tiếng Anh
+- Phụ huynh không nhất thiết phải có nhu cầu cho con mình học tốt tiếng Anh, nhưng nếu có thì đó là một lợi thế
+- v.v.
 
-[Cần nghĩ về công việc như là một cách để kiểm định giả thiết, chứ không phải chỉ để hoàn thành](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/C%E1%BA%A7n%20ngh%C4%A9%20v%E1%BB%81%20c%C3%B4ng%20vi%E1%BB%87c%20nh%C6%B0%20l%C3%A0%20m%E1%BB%99t%20c%C3%A1ch%20%C4%91%E1%BB%83%20ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thi%E1%BA%BFt,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20ch%E1%BB%89%20%C4%91%E1%BB%83%20ho%C3%A0n%20th%C3%A0nh.md)
+Đến lượt giả định "Trường tôi có khả năng dạy trẻ dùng tốt tiếng Anh" sẽ có nhiều giả định nhỏ hơn như:
+- Giáo viên có khả năng dạy trẻ dùng tốt tiếng Anh ứng tuyển vào trường tôi
+- Cơ sở vật chất có khả năng hỗ trợ giáo viên và học
+- v.v.
 
-[Chỉ số ta theo đuổi phải là chỉ số về giá trị của sản phẩm đối với người dùng](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/Ch%E1%BB%89%20s%E1%BB%91%20ta%20theo%20%C4%91u%E1%BB%95i%20ph%E1%BA%A3i%20l%C3%A0%20ch%E1%BB%89%20s%E1%BB%91%20v%E1%BB%81%20gi%C3%A1%20tr%E1%BB%8B%20c%E1%BB%A7a%20s%E1%BA%A3n%20ph%E1%BA%A9m%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md). [Dựa vào KPI thì bộ phận kinh doanh sẽ có tiếng nói lớn nhất, còn đội phát triển sản phẩm rất ít có tiếng nói](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/D%E1%BB%B1a%20v%C3%A0o%20KPI%20th%C3%AC%20b%E1%BB%99%20ph%E1%BA%ADn%20kinh%20doanh%20s%E1%BA%BD%20c%C3%B3%20ti%E1%BA%BFng%20n%C3%B3i%20l%E1%BB%9Bn%20nh%E1%BA%A5t,%20c%C3%B2n%20%C4%91%E1%BB%99i%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m%20r%E1%BA%A5t%20%C3%ADt%20c%C3%B3%20ti%E1%BA%BFng%20n%C3%B3i.md)
+Sau khi liệt kê được muôn vàn các giả định như vậy rồi thì mới bắt đầu chọn ra các giả định cần kiểm chứng nhất. Đến đây mới là lúc ta sử dụng dữ liệu để chấp nhận hoặc bác bỏ giả thiết. [Cần nghĩ về công việc như là một cách để kiểm định giả thiết, chứ không phải chỉ để hoàn thành](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/C%E1%BA%A7n%20ngh%C4%A9%20v%E1%BB%81%20c%C3%B4ng%20vi%E1%BB%87c%20nh%C6%B0%20l%C3%A0%20m%E1%BB%99t%20c%C3%A1ch%20%C4%91%E1%BB%83%20ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thi%E1%BA%BFt,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20ch%E1%BB%89%20%C4%91%E1%BB%83%20ho%C3%A0n%20th%C3%A0nh.md). [Nên ưu tiên làm những việc có thể sẽ khiến ta phải viết lại kế hoạch](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/L%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch/N%C3%AAn%20%C6%B0u%20ti%C3%AAn%20l%C3%A0m%20nh%E1%BB%AFng%20vi%E1%BB%87c%20c%C3%B3%20th%E1%BB%83%20s%E1%BA%BD%20khi%E1%BA%BFn%20ta%20ph%E1%BA%A3i%20vi%E1%BA%BFt%20l%E1%BA%A1i%20k%E1%BA%BF%20ho%E1%BA%A1ch.md).
 
-[Giả thiết có mặt ở khắp nơi](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thuy%E1%BA%BFt/Gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh%20c%C3%B3%20m%E1%BA%B7t%20%E1%BB%9F%20kh%E1%BA%AFp%20n%C6%A1i.md)
-[Sử dụng nhiều phương pháp khác nhau để kiểm tra giả thuyết sẽ tránh thiên kiến tốt hơn là dùng một phương pháp nhiều lần](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thuy%E1%BA%BFt/S%E1%BB%AD%20d%E1%BB%A5ng%20nhi%E1%BB%81u%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20kh%C3%A1c%20nhau%20%C4%91%E1%BB%83%20ki%E1%BB%83m%20tra%20gi%E1%BA%A3%20thuy%E1%BA%BFt%20s%E1%BA%BD%20tr%C3%A1nh%20thi%C3%AAn%20ki%E1%BA%BFn%20t%E1%BB%91t%20h%C6%A1n%20l%C3%A0%20d%C3%B9ng%20m%E1%BB%99t%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20nhi%E1%BB%81u%20l%E1%BA%A7n.md)
+Cho nên, với mô hình 5 giai đoạn sử dụng dữ liệu được đề xuất trong buổi trình bày:
+```mermaid
+flowchart LR
+c["Quan sát dữ liệu"]-->d["Khám phá mới"]-->e["Xác định nguyên nhân"]-->f["Hành động"]-->g["Tác động"]
+```
 
-Ý tưởng thì hay 
+Tôi đề xuất bổ sung thêm 2 giai đoạn trước đó
+```mermaid
+flowchart LR
+a["Phản tư<br>Khám phá các giả định"]-->b["Chọn giả định quan trọng để kiểm tra"]-->c["Quan sát dữ liệu"]-->d["..."]
+```
 
-### Hệ thống thông tin
+Với các giả định thông dụng, buổi chuyên đề có thể cung cấp thêm các bộ chỉ số để việc quan sát dữ liệu được dễ dàng hơn. Các khung đánh giá năng lực mà Bộ Giáo dục và Đào tạo hay UNESCO cung cấp là một ví dụ. Các hội, tổ chức làm về giáo dục cũng có thể nghiên cứu ra các thang đo để phổ biến cho nhà trường, giáo viên sử dụng.
 
+### Nhận thức và thái độ của người dùng dữ liệu đối với các hạn chế của nó
+Bài viết [The Limits of Data](https://issues.org/limits-of-data-nguyen/) chắc là tổng kết khá đầy đủ các hạn chế của dữ liệu:
+- Không nắm bắt được những thứ khó đo lường
 - Dữ liệu định tính sẽ bị loại bỏ khi tổng hợp
 - Hệ thống phân loại cứng nhắc, kém bao hàm
-
-Nếu nhà trường không làm thì có thể tự làm ngay trong lớp mình giảng.
-
-[Các đánh đổi tạo ra nhiều tổ hợp giải pháp khác nhau cho cùng một nhu cầu](../../../C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/%C4%90%C3%A1nh%20%C4%91%E1%BB%95i/C%C3%A1c%20%C4%91%C3%A1nh%20%C4%91%E1%BB%95i%20t%E1%BA%A1o%20ra%20nhi%E1%BB%81u%20t%E1%BB%95%20h%E1%BB%A3p%20gi%E1%BA%A3i%20ph%C3%A1p%20kh%C3%A1c%20nhau%20cho%20c%C3%B9ng%20m%E1%BB%99t%20nhu%20c%E1%BA%A7u.md)
-
-Vật thể điểm
-Cơ sở dữ liệu truy vấn từng hành vi
-
-Với giáo viên cá nhân, không được trường hỗ trợ
-
-
-
-
-
-Ai cũng biết sự trình diễn sự tâm huyết, tận tụy tốt nhất là thực sự tâm huyết, tận tụy. Nhưng việc phải nhận thức ra sự trình diễn đó và trình diễn cho tốt 
-Paradox of reputation
-
-Làm sao để phụ huynh không so sánh điểm giữa các trường
-
-Nó khác với cách quản lý bằng KPI
-Điểm yếu của dữ liệu là sự tự ti, mặc cảm, cảm thấy bị cạnh tranh quyền lợi. Để vượt qua nó thì cần mình thực sự quan tâm đến người bị đánh giá
-có được sự kiên nhẫn đó, vì thấy rằng trong vô vàn nghề nghiệp lại lựa chọn nghề này, thì 
-
-Bài viết [The Limits of Data](https://issues.org/limits-of-data-nguyen/) chắc là tổng kết khá đầy đủ:
-- Không nắm bắt được những thứ khó đo lường
 - Thiên kiến hệ thống ảnh hưởng đến cách chọn mẫu
 - Quá tập trung vào một chỉ số
 
-[Con số không nói dối, nhưng nó nói nửa sự thật, và người nói dối dùng con số](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/Con%20s%E1%BB%91%20kh%C3%B4ng%20n%C3%B3i%20d%E1%BB%91i,%20nh%C6%B0ng%20n%C3%B3%20n%C3%B3i%20n%E1%BB%ADa%20s%E1%BB%B1%20th%E1%BA%ADt,%20v%C3%A0%20ng%C6%B0%E1%BB%9Di%20n%C3%B3i%20d%E1%BB%91i%20d%C3%B9ng%20con%20s%E1%BB%91.md). Hay nói như câu thường được cho là của Mark Twain: Có 3 loại nói dối: nói dối, nói dối khốn nạn, và thống kê
-
-## 
-Hết buổi, tôi có trao đổi với anh Thiện về câu hỏi , thì anh bảo là cứ lên trang [Brand Camp](https://www.brandcamp.asia/), một nền tảng học trực tuyến và nội dung số về Marketing, Business và Creativity. Tuy nhiên tôi tìm thì không thấy. Tôi hỏi câu tương tự với chị Huyền, thì chị lại hiểu thành "Người làm giáo dục thiếu dữ liệu ở đâu nhất". 
-
-## Tiền ủng hộ
-Buổi trước được 250 người, buổi này chỉ được 80 người. Vẫn diễn giả đó, chỉ khác biệt là tiêu đề thêm chữ "dữ liệu", và buổi trình bày thay vì tổ chức vào chủ nhật thì là vào thứ bảy. 
-
-Toàn bộ chương trình được tổ chức với mục đích gây quỹ ủng hộ Trường Tiểu học Húc (Quảng Trị) và Mái ấm Thiên Thần (TP.HCM).
-
-Không nhận thù lao
-
-Sách và trẻ thơ
-Nếu bạn muốn có một danh sách những hiểu biết sâu về ngành, bao gồm những điều tôi không ghi ra ở đây do không biết phải nhét vào đâu để tạo thành một câu chuyện, thì có thể xem ở
-
-
-
-Ở trên tôi có nói về việc ngay lúc bắt đầu nội dung tôi đã có một ấn tượng khác về dữ liệu. Nhưng đó không phải là ấn tượng về dữ liệu đầu tiên tôi gặp. Thứ dữ liệu đầu tiên tiếp đón tôi là ở bàn đón tiếp. Khi đến, tôi đọc tên của người chị đã nhường vé cho tôi cho bạn hỗ trợ hậu cần. Có lẽ là vì quên chuyển bộ gõ sang chế độ tiếng Việt hay vì đánh nhanh quá mà chuỗi truy vấn nhảy loạn xạ, phải xóa đi gõ lại vài lần mới tìm ra. Chuyện này thì cũng bình thường; tôi kể ra đây vì nó giúp tôi chuyển 
-Google Sheets. Từ chối việc gia công quy mô lớn, mà chỉ sử dụng hệ thống "cây nhà lá vườn".
-
-
-GIẢI MÃ DỮ LIỆU TRONG QUẢN LÝ GIÁO DỤC: Từ cảm tính đến quyết định dựa trên bằng chứng
-
-Trong giáo dục, chúng ta đang có rất nhiều dữ liệu nhưng lại thiếu những quyết định dựa trên dữ liệu.
-
-Điểm số, tỷ lệ chuyên cần, kết quả khảo sát phụ huynh, dữ liệu tuyển sinh, kết quả học tập, báo cáo giáo viên… ngày càng nhiều. Thế nhưng, không ít quyết định trong nhà trường vẫn được đưa ra dựa trên kinh nghiệm cá nhân, trực giác hoặc những nhận định cảm tính.
-
-Trong khi đó, các nghiên cứu quốc tế gần đây về hiệu quả trường học cho thấy: những tổ chức giáo dục thành công không phải là những nơi có nhiều dữ liệu nhất, mà là những nơi biết biến dữ liệu thành hành động cải tiến.
-
-⸻
-
-Tại sao dữ liệu lại quan trọng?
-
-Một bảng điểm không chỉ cho biết học sinh đạt bao nhiêu điểm.
-
-Đằng sau mỗi con số có thể là những câu hỏi quan trọng:
-
-* Học sinh đang gặp khó khăn ở kỹ năng nào?
-* Khoảng cách giữa các nhóm học sinh đang gia tăng hay thu hẹp?
-* Chương trình học hiện tại có thực sự hiệu quả?
-* Hoạt động chuyên môn nào đang tạo ra tác động lớn nhất?
-* Đâu là dấu hiệu cảnh báo sớm về nguy cơ nghỉ học, giảm động lực hoặc suy giảm kết quả?
-
-Nhà quản lý giáo dục ngày nay không chỉ cần đọc báo cáo, mà cần biết đọc câu chuyện ẩn sau dữ liệu.
-
-⸻
-
-Khóa học này dành cho ai?
-
-Khóa học được thiết kế dành cho:
-
-* Hiệu trưởng, Phó Hiệu trưởng
-
-* Tổ trưởng chuyên môn
-
-* Điều phối học thuật
-
-* Giáo viên nòng cốt
-
-* Người quản lý trung tâm ngoại ngữ, kỹ năng, giáo dục tư nhân
-
-* Những ai muốn ứng dụng dữ liệu để nâng cao chất lượng giáo dục
-
-Đặc biệt, chương trình không yêu cầu nền tảng thống kê hay phân tích dữ liệu chuyên sâu.
-
-⸻
-
-Người học sẽ nhận được gì?
-
-1. Hiểu đúng về dữ liệu trong giáo dục
-
-* Dữ liệu nào thực sự quan trọng?
-
-* Những sai lầm phổ biến khi đọc số liệu.
-
-* Phân biệt dữ liệu, thông tin và bằng chứng.
-
-1. Biết cách đặt câu hỏi từ dữ liệu
-
-Thay vì chỉ nhìn vào con số, người học sẽ được hướng dẫn cách:
-
-* Nhận diện xu hướng.
-
-* Phát hiện bất thường.
-
-* Xác định nguyên nhân tiềm ẩn.
-
-* Chuyển dữ liệu thành các giả thuyết cần kiểm chứng.
-
-3. Ra quyết định dựa trên bằng chứng
-
-Ứng dụng dữ liệu vào:
-
-* Quản lý chất lượng dạy học.
-
-* Đánh giá hiệu quả chương trình.
-
-* Theo dõi tiến bộ học sinh.
-
-* Hoạch định chiến lược phát triển trường học.
-
-* Cải thiện trải nghiệm của học sinh và phụ huynh.
-
-4. Tiếp cận các mô hình quản trị hiện đại
-
-Khóa học giúp người tham dự hiểu cách các hệ thống giáo dục tiên tiến trên thế giới đang sử dụng dữ liệu để:
-
-* Nâng cao thành tích học tập.
-
-* Xây dựng văn hóa cải tiến liên tục.
-
-* Đánh giá chất lượng trường học toàn diện hơn điểm số.
-
-⸻
-
-Không chỉ là học về số liệu
-
-Điều giá trị nhất của khóa học không nằm ở biểu đồ hay bảng tính.
-
-Đó là khả năng chuyển đổi tư duy:
-
-Từ “Tôi nghĩ là…”
-
-sang
-
-“Dữ liệu cho thấy…”
-
-và từ
-
-“Chúng ta vẫn luôn làm như vậy”
-
-sang
-
-“Đâu là bằng chứng cho thấy đây là lựa chọn tốt nhất?”
-
-Đây chính là năng lực cốt lõi của nhà quản lý giáo dục trong thời đại AI và chuyển đổi số.
-
-⸻
-
-Thông tin chương trình
-
-
-Một quyết định tốt có thể thay đổi kết quả của một lớp học.
-
-Một hệ thống ra quyết định tốt có thể thay đổi cả một ngôi trường.
-
-Hãy tham gia để học cách biến dữ liệu thành những quyết định tạo ra khác biệt thực sự cho người học
-
-
+Trong vấn đề quản lý, tôi sẽ bổ sung thêm [Định luật Goodhart: "Khi một phép đo trở thành mục tiêu, nó thường mất đi sự hiệu quả của nó"](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/Khi%20m%E1%BB%99t%20ph%C3%A9p%20%C4%91o%20tr%E1%BB%9F%20th%C3%A0nh%20m%E1%BB%A5c%20ti%C3%AAu,%20n%C3%B3%20th%C6%B0%E1%BB%9Dng%20m%E1%BA%A5t%20%C4%91i%20s%E1%BB%B1%20hi%E1%BB%87u%20qu%E1%BA%A3%20c%E1%BB%A7a%20n%C3%B3.md). [Thứ nào được đo thì sẽ tốt lên, còn thứ nào khó đo thì sẽ tệ đi](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/Th%E1%BB%A9%20n%C3%A0o%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91o%20th%C3%AC%20s%E1%BA%BD%20t%E1%BB%91t%20l%C3%AAn,%20c%C3%B2n%20th%E1%BB%A9%20n%C3%A0o%20kh%C3%B3%20%C4%91o%20th%C3%AC%20s%E1%BA%BD%20t%E1%BB%87%20%C4%91i.md). 
+
+Sau khi hết buổi chuyên đề, tôi có hỏi anh Thiện là có biết nguồn tài liệu nào có trả lời câu hỏi "[Người làm dữ liệu nói gì về sự thiếu sót của dữ liệu?](./D%E1%BB%AF%20li%E1%BB%87u%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20s%E1%BB%B1%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng%20c%E1%BB%A7a%20con%20ng%C6%B0%E1%BB%9Di%20ch%E1%BB%89%20s%E1%BB%AD%20d%E1%BB%A5ng%20th%E1%BB%91ng%20k%C3%AA.%20D%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%AB%20s%E1%BB%B1%20%C4%91o%20l%C6%B0%E1%BB%9Dng%20c%C3%A1c%20%C4%91%E1%BA%A1i%20l%C6%B0%E1%BB%A3ng%20v%E1%BA%ADt%20l%C3%BD%20d%C3%B9ng%20c%E1%BA%A3%20c%C3%A1c%20lo%E1%BA%A1i%20to%C3%A1n%20kh%C3%A1c.md)", thì anh bảo là cứ lên trang [Brand Camp](https://www.brandcamp.asia/) se có bài về nó. Tuy nhiên tôi tìm thì không thấy nơi nào nói về điều đó. Tôi hỏi câu tương tự với chị Huyền, thì chị lại hiểu thành "Người làm giáo dục thiếu dữ liệu nào nhất". Nhưng sau đó chị cũng cho tôi thêm một số ý.
+
+Nói chung, tuy không có một phần riêng về hạn chế của dữ liệu, tôi thấy các diễn giả cũng có nói rải rác một số ý như sau:
+- Luôn xem dữ liệu chỉ mang tính tham khảo, cần dùng thêm nhiều đánh giá khác
+- Giáo viên, người quản lý có quan tâm đến học sinh, giáo viên sẽ phát hiện ra ngay vấn đề thông qua hành vi
+- Không dùng dữ liệu để xếp hạng, so sánh máy móc, tạo áp lực báo cáo, mà dùng để xác định nhu cầu, chia sẻ phương pháp hay, tìm hiểu nguyên nhân vấn đề, v.v.
+- Với những người lo lắng là việc minh bạch dữ liệu gây bất lợi cho họ, phải cho họ thấy mình quan tâm đến họ thật lòng
+
+Đây là một cách quản lý bằng dữ liệu khác, không giống với cách quản lý bằng KPI mà bộ phận bán hàng thường phải gặp.
+
+Nhưng nói chung, nếu mọi con số đều chỉ mang tính tham khảo, thì phải chăng nó vốn đã chẳng khách quan, không cảm tính như nó đang được tin tưởng là vậy? Phải chăng việc dùng số liệu là một cách để những người dùng nó tự đánh lừa bản thân là mình khách quan, không cảm tính?
+Mọi người vẫn nói là [Con số không nói dối, nhưng nó nói nửa sự thật, và người nói dối dùng con số](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/Con%20s%E1%BB%91%20kh%C3%B4ng%20n%C3%B3i%20d%E1%BB%91i,%20nh%C6%B0ng%20n%C3%B3%20n%C3%B3i%20n%E1%BB%ADa%20s%E1%BB%B1%20th%E1%BA%ADt,%20v%C3%A0%20ng%C6%B0%E1%BB%9Di%20n%C3%B3i%20d%E1%BB%91i%20d%C3%B9ng%20con%20s%E1%BB%91.md). Hay nói như câu thường được cho là của Mark Twain: "Có 3 loại nói dối: nói dối, nói dối khốn nạn, và thống kê." Tôi nghĩ những điều này cũng nên được nói trong một buổi nói về dữ liệu.
+
+### Các yêu cầu chức năng cho một hệ thống quản trị
+Từ những vấn đề được nêu lên ở trên, ta có thể thấy một hệ thống quản trị tốt không phải là để làm sổ sách, mà phải đáp ứng được các yêu cầu sau:
+- Giúp khám phá và quản lý được các giả định đang sử dụng
+- Dễ dàng cập nhật dữ liệu mới, truy vấn và tổng hợp dữ liệu đang có
+- Giảm các hạn chế của việc dùng dữ liệu:
+	- Nhắc nhở việc phải sử dụng nhiều chỉ số để đánh giá, về sự tồn tại những thứ quan trọng nhưng khó đo lường
+	- Không loại bỏ dữ liệu định tính khi tổng hợp
+	- Không gộp dữ liệu của các tiêu chí nhỏ vào một con số nếu mục đích không phải là để cạnh tranh
+- Ít tốn công khi cập nhật kế hoạch, thang đo
+- Ngăn chặn sai sót và sự lây lan của sai sót
+- Nếu nhà trường không triển khai thì giáo viên cũng có thể tự sử dụng mà không phải tốn quá nhiều chi phí để có được hệ thống cũng như thời gian để học 
+
+## Gây quỹ từ thiện
+> Toàn bộ chương trình được tổ chức với mục đích gây quỹ ủng hộ Trường Tiểu học Húc (Quảng Trị) và Mái ấm Thiên Thần (TP.HCM).
+
+Do buổi chuyên đề hướng tới tư duy sử dụng dữ liệu, để có thể chuyển đổi tư duy từ "Tôi nghĩ là..." sang "Đâu là bằng chứng cho thấy đây là lựa chọn tốt nhất?", tôi cũng tò mò xem các diễn giả đã ứng dụng dữ liệu cho việc từ thiện của mình chưa, và đã dùng nó thế nào.

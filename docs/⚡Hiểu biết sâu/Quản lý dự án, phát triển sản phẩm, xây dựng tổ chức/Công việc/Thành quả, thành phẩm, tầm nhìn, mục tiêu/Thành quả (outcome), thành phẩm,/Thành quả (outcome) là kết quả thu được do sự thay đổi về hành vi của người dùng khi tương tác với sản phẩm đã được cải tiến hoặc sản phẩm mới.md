@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2025-09-27T16:20
-updated: 2026-05-18T21:39
+updated: 2026-07-14T11:58
 ---
 Khái niệm:: [Thành quả](Th%C3%A0nh%20qu%E1%BA%A3.md)
+[An outcome is a change in human behavior that drives business results](../../../Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/An%20outcome%20is%20a%20change%20in%20human%20behavior%20that%20drives%20business%20results.md)
 Ví dụ: tăng retention rate, tăng giá trị đơn hàng mỗi lần mua, tăng frequency mua hàng
 Việc chia như vậy là quan trọng, vì:
 - Outcome mới là cái mình thực sự hướng đến
@@ -29,7 +30,7 @@ Tham khảo:: [Hoàng Đức Minh](../../../../%CE%9E%20Ngu%E1%BB%93n/Qu%E1%BA%A
 
 [Tiêu đề của thành quả mong muốn bắt đầu bằng người dùng](./Ti%C3%AAu%20%C4%91%E1%BB%81%20c%E1%BB%A7a%20th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20b%E1%BA%B1ng%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md) 
 [Đổi những câu hỏi chất vấn giả định của một thành quả về dạng khẳng định thì ta sẽ có những thành quả mong muốn thành phần](../%C4%90%E1%BB%95i%20nh%E1%BB%AFng%20c%C3%A2u%20h%E1%BB%8Fi%20ch%E1%BA%A5t%20v%E1%BA%A5n%20gi%E1%BA%A3%20%C4%91%E1%BB%8Bnh%20c%E1%BB%A7a%20m%E1%BB%99t%20th%C3%A0nh%20qu%E1%BA%A3%20v%E1%BB%81%20d%E1%BA%A1ng%20kh%E1%BA%B3ng%20%C4%91%E1%BB%8Bnh%20th%C3%AC%20ta%20s%E1%BA%BD%20c%C3%B3%20nh%E1%BB%AFng%20th%C3%A0nh%20qu%E1%BA%A3%20mong%20mu%E1%BB%91n%20th%C3%A0nh%20ph%E1%BA%A7n.md)
-[Chỉ số ta theo đuổi phải là chỉ số về giá trị của sản phẩm đối với người dùng](../../../Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/Ch%E1%BB%89%20s%E1%BB%91%20ta%20theo%20%C4%91u%E1%BB%95i%20ph%E1%BA%A3i%20l%C3%A0%20ch%E1%BB%89%20s%E1%BB%91%20v%E1%BB%81%20gi%C3%A1%20tr%E1%BB%8B%20c%E1%BB%A7a%20s%E1%BA%A3n%20ph%E1%BA%A9m%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md)
+[Chỉ số ta theo đuổi phải là chỉ số về giá trị của sản phẩm đối với người dùng, không phải là tăng trưởng](../../../Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Ch%E1%BB%89%20s%E1%BB%91/Ch%E1%BB%89%20s%E1%BB%91%20ta%20theo%20%C4%91u%E1%BB%95i%20ph%E1%BA%A3i%20l%C3%A0%20ch%E1%BB%89%20s%E1%BB%91%20v%E1%BB%81%20gi%C3%A1%20tr%E1%BB%8B%20c%E1%BB%A7a%20s%E1%BA%A3n%20ph%E1%BA%A9m%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng,%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20t%C4%83ng%20tr%C6%B0%E1%BB%9Fng.md)
 
 Outcomes have nothing to do with making stuff—though they sometimes are created by making the right stuff. Instead, outcomes are the changes in customer, user, employee behavior that lead to good things for your company, your organization, or whomever is the focus of your work.
 

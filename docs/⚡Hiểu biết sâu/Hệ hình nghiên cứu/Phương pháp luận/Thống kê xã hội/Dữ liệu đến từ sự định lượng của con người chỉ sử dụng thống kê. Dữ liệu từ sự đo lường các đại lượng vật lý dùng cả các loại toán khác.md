@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2026-01-16T12:53
-updated: 2026-07-13T14:10
+updated: 2026-07-14T15:26
 blog: working
 aliases:
-  - Người làm dữ liệu nói gì về sự thiếu sót của dữ liệu?
+  - Người làm dữ liệu nói gì về các hạn chế của dữ liệu?
 description: Dữ liệu đến từ sự định lượng của con người chỉ sử dụng thống kê. Dữ liệu từ sự đo lường các đại lượng vật lý dùng cả các loại toán khác. Người làm với loại dữ liệu đầu cần cẩn trọng
 ---
-# Người làm dữ liệu nói gì về sự thiếu sót của dữ liệu?
+# Người làm dữ liệu nói gì về các hạn chế của dữ liệu?
 Đa số chúng ta dùng các con số để đánh giá. Giáo viên chấm điểm học sinh, quản lý dùng kpi để xét lương. Cả người chấm điểm lẫn người bị chấm đều có cảm  giác đâu đó rằng các con số này không thể hiện hết thực tế
 Nhwngz nhà nghiên cứu xã hội  làm rõ các cảm giác này hơnBài viết [The Limits of Data](https://issues.org/limits-of-data-nguyen/):
 [Huyền thoại về dữ liệu khách quan](https://tiasang.com.vn/huyen-thoai-ve-du-lieu-khach-quan-5036912.html)
@@ -502,7 +502,7 @@ To be even more specific, my current interest is more on philosophy of math, sci
 
 
 ## Kết luận
-Khi thấy một con số thì phải nghĩ về việc người tạo ra nó chấp nhận sự thiếu sót trong mô hình
+Khi thấy một con số thì phải nghĩ về việc người tạo ra nó chấp nhận các hạn chế trong mô hình
 
 số liệu không sai, nhưng cách ta diễn giải để đạt được mục tiêu của ta thì không chắc đúng. Có thể dùng Baayess
 

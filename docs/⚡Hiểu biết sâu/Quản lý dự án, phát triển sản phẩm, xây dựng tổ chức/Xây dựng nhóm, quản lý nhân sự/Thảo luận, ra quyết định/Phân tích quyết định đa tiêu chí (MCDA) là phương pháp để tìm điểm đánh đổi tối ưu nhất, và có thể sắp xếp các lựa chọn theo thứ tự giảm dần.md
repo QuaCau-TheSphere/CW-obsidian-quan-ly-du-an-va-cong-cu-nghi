@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-07-13T12:51
-updated: 2026-07-13T13:07
+updated: 2026-07-16T13:30
 ---
 Về mặt toán học, phương pháp này là bài toán tính thể tích vật đa chiều. Nếu chỉ có 2 tiêu chí để đánh giá, thì nó là bài toán tính diện tích hình chữ nhật.
 

@@ -1,0 +1,12 @@
+---
+share: true
+created: 2023-05-26T14:51
+updated: 2026-07-16T00:58
+---
+Khái niệm:: [Vật thể](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/V%E1%BA%ADt%20th%E1%BB%83.md), [Trải nghiệm](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
+[Ta mô phỏng thế giới qua những vật thể](./Ta%20m%C3%B4%20ph%E1%BB%8Fng%20th%E1%BA%BF%20gi%E1%BB%9Bi%20qua%20nh%E1%BB%AFng%20v%E1%BA%ADt%20th%E1%BB%83.md)
+Con voi trong câu chuyện người mù sờ voi là một siêu vật
+[❓Mối quan hệ giữa hệ phức hợp và siêu vật là gì](../../../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/%E2%9D%93M%E1%BB%91i%20quan%20h%E1%BB%87%20gi%E1%BB%AFa%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p%20v%C3%A0%20si%C3%AAu%20v%E1%BA%ADt%20l%C3%A0%20g%C3%AC.md) 
+[Sử dụng nhiều ẩn dụ khác nhau sẽ cho ta thấy vật thể tốt hơn](./S%E1%BB%AD%20d%E1%BB%A5ng%20nhi%E1%BB%81u%20%E1%BA%A9n%20d%E1%BB%A5%20kh%C3%A1c%20nhau%20s%E1%BA%BD%20cho%20ta%20th%E1%BA%A5y%20v%E1%BA%ADt%20th%E1%BB%83%20t%E1%BB%91t%20h%C6%A1n.md)
+[Muốn nhìn thấy siêu vật thì cần có nhận thức phân tán và sự liên kết giữa các nhận thức đó](./Mu%E1%BB%91n%20nh%C3%ACn%20th%E1%BA%A5y%20si%C3%AAu%20v%E1%BA%ADt%20th%C3%AC%20c%E1%BA%A7n%20c%C3%B3%20nh%E1%BA%ADn%20th%E1%BB%A9c%20ph%C3%A2n%20t%C3%A1n%20v%C3%A0%20s%E1%BB%B1%20li%C3%AAn%20k%E1%BA%BFt%20gi%E1%BB%AFa%20c%C3%A1c%20nh%E1%BA%ADn%20th%E1%BB%A9c%20%C4%91%C3%B3.md). [Khả năng tạo ra được sự bền vững nằm ở việc có thấy được siêu vật hay không](../../../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/Kh%E1%BA%A3%20n%C4%83ng%20t%E1%BA%A1o%20ra%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%B1%20b%E1%BB%81n%20v%E1%BB%AFng%20n%E1%BA%B1m%20%E1%BB%9F%20vi%E1%BB%87c%20c%C3%B3%20th%E1%BA%A5y%20%C4%91%C6%B0%E1%BB%A3c%20si%C3%AAu%20v%E1%BA%ADt%20hay%20kh%C3%B4ng.md) 
+[Muốn thấy được những vấn đề lớn cần sự thong thả](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/Mu%E1%BB%91n%20th%E1%BA%A5y%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20l%E1%BB%9Bn%20c%E1%BA%A7n%20s%E1%BB%B1%20thong%20th%E1%BA%A3.md)

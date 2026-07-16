@@ -1,8 +1,11 @@
 ---
 share: true
 created: 2024-08-19T22:03
-updated: 2026-01-14T13:11
+updated: 2026-07-16T13:08
 ---
+- \-: 
+    - [Việc không nhận được sự phản hồi sẽ đem đến những hệ quả gì？](../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%A1c%20c%C3%A2u%20h%E1%BB%8Fi/Vi%E1%BB%87c%20kh%C3%B4ng%20nh%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%B1%20ph%E1%BA%A3n%20h%E1%BB%93i%20s%E1%BA%BD%20%C4%91em%20%C4%91%E1%BA%BFn%20nh%E1%BB%AFng%20h%E1%BB%87%20qu%E1%BA%A3%20g%C3%AC%EF%BC%9F.md)
+
 - Giúp đỡ nhau: 
     - [Phản hồi và sự giúp đỡ trả lại là những thứ xa xỉ với người được giúp](../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/Gi%C3%BAp%20%C4%91%E1%BB%A1%20nhau/Ph%E1%BA%A3n%20h%E1%BB%93i%20v%C3%A0%20s%E1%BB%B1%20gi%C3%BAp%20%C4%91%E1%BB%A1%20tr%E1%BA%A3%20l%E1%BA%A1i%20l%C3%A0%20nh%E1%BB%AFng%20th%E1%BB%A9%20xa%20x%E1%BB%89%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20%C4%91%C6%B0%E1%BB%A3c%20gi%C3%BAp.md)
 

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-05-12T23:39
+updated: 2026-07-16T00:27
 ---
 [Mỗi một thắc mắc đều làm tăng thêm khối lượng nhận thức mà chúng ta có trong tâm trí, qua đó làm phân tán sự tập trung của ta khỏi thứ mà ta định làm](./T%C3%ACm%20ki%E1%BA%BFm%20th%C3%B4ng%20tin/M%E1%BB%97i%20m%E1%BB%99t%20th%E1%BA%AFc%20m%E1%BA%AFc%20%C4%91%E1%BB%81u%20l%C3%A0m%20t%C4%83ng%20th%C3%AAm%20kh%E1%BB%91i%20l%C6%B0%E1%BB%A3ng%20nh%E1%BA%ADn%20th%E1%BB%A9c%20m%C3%A0%20ch%C3%BAng%20ta%20c%C3%B3%20trong%20t%C3%A2m%20tr%C3%AD,%20qua%20%C4%91%C3%B3%20l%C3%A0m%20ph%C3%A2n%20t%C3%A1n%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20c%E1%BB%A7a%20ta%20kh%E1%BB%8Fi%20th%E1%BB%A9%20m%C3%A0%20ta%20%C4%91%E1%BB%8Bnh%20l%C3%A0m.md)
 [Chúng ta không chọn phương án tối ưu khi chọn sai cũng chẳng hại gì](./Ch%C3%BAng%20ta%20kh%C3%B4ng%20ch%E1%BB%8Dn%20ph%C6%B0%C6%A1ng%20%C3%A1n%20t%E1%BB%91i%20%C6%B0u%20khi%20ch%E1%BB%8Dn%20sai%20c%C5%A9ng%20ch%E1%BA%B3ng%20h%E1%BA%A1i%20g%C3%AC.md) 
@@ -29,3 +29,7 @@ Nguồn:: [Đừng bắt tôi nghĩ](../../%CE%9E%20Ngu%E1%BB%93n/M%C3%B4i%20tr%
 [Con người sẽ theo đuổi kỹ năng mới với giá trị tiềm năng trong phạm vi dự đoán](Con%20ng%C6%B0%E1%BB%9Di%20se%CC%83%20theo%20%C4%91u%C3%B4%CC%89i%20k%E1%BB%B9%20n%C4%83ng%20m%E1%BB%9Bi%20v%E1%BB%9Bi%20gi%C3%A1%20tr%E1%BB%8B%20ti%E1%BB%81m%20n%C4%83ng%20trong%20ph%E1%BA%A1m%20vi%20d%E1%BB%B1%20%C4%91o%C3%A1n.md)
 
 Nhưng vì việc [Đọc lướt không giúp ta tiếp thu được gì cả](../M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Ghi%20ch%C3%BA%20th%C3%B4ng%20tin/%C4%90%E1%BB%8Dc%20l%C6%B0%E1%BB%9Bt%20kh%C3%B4ng%20gi%C3%BAp%20ta%20ti%E1%BA%BFp%20thu%20%C4%91%C6%B0%E1%BB%A3c%20g%C3%AC%20c%E1%BA%A3.md), nên ta sẽ thấy nhức đầu khi bật trang mới dù ta không cảm thấy áp lực gì cả. Dễ thấy nhất khi cần ngồi nghiên cứu và ta bật rất nhiều tab. [Vấn đề của việc đọc lướt không phải vì nó có khả năng thành công cao, mà là vì khi mình đã kết luận là khả năng thành công không cao rồi, thì sự chuyển trạng thái sang thực sự đọc cẩn thận không suôn sẻ và tự nhiên](./Ta%20d%C6%B0%E1%BB%9Dng%20nh%C6%B0%20kh%C3%B3%20c%C3%B3%20th%E1%BB%83%20chuy%E1%BB%83n%20tr%E1%BA%A1ng%20th%C3%A1i%20t%E1%BB%AB%20vi%E1%BB%87c%20%C4%91%E1%BB%8Dc%20l%C6%B0%E1%BB%9Bt%20sang%20vi%E1%BB%87c%20%C4%91%E1%BB%8Dc%20c%E1%BA%A9n%20th%E1%BA%ADn%20m%E1%BB%99t%20c%C3%A1ch%20su%C3%B4n%20s%E1%BA%BB%20v%C3%A0%20t%E1%BB%B1%20nhi%C3%AAn.md) 
+
+
+
+[Người muốn có giải pháp sẽ muốn đọc nội dung dài](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m/Quan%20ni%E1%BB%87m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20h%C3%A0nh%20vi%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng/Ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20c%C3%B3%20gi%E1%BA%A3i%20ph%C3%A1p%20s%E1%BA%BD%20mu%E1%BB%91n%20%C4%91%E1%BB%8Dc%20n%E1%BB%99i%20dung%20d%C3%A0i.md)

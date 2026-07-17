@@ -2,7 +2,7 @@
 share: true
 blog: true
 created: 2026-07-11T22:11
-updated: 2026-07-16T13:21
+updated: 2026-07-17T14:04
 description: Dữ liệu trong quản lý chất lượng giáo dục. Các bước sử dụng dữ liệu. Nhận thức và thái độ của người dùng dữ liệu đối với các hạn chế của nó. Các yêu cầu chức năng cho một hệ thống quản trị
 ---
 Hôm nay ngày 11/7/2026 tôi tham gia buổi chuyên đề "Kể chuyện bằng dữ liệu trong giáo dục" do [Lớp học đổi mới](https://www.facebook.com/lophocdoimoi) tổ chức. Tôi biết tới buổi này do một người chị trong nhóm ABG đã mua vé nhưng bị mệt đột xuất nên nhường lại cho ai có hứng thú. Tôi tham gia vì muốn biết thêm về những mối quan tâm của một người làm giáo dục, trong đó có việc sử dụng dữ liệu. Có thể xem đây là một phần trong nghiên cứu của tôi với chủ đề [Người làm dữ liệu nói gì về hạn chế của dữ liệu?](./D%E1%BB%AF%20li%E1%BB%87u%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20s%E1%BB%B1%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng%20c%E1%BB%A7a%20con%20ng%C6%B0%E1%BB%9Di%20ch%E1%BB%89%20s%E1%BB%AD%20d%E1%BB%A5ng%20th%E1%BB%91ng%20k%C3%AA.%20D%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%AB%20s%E1%BB%B1%20%C4%91o%20l%C6%B0%E1%BB%9Dng%20c%C3%A1c%20%C4%91%E1%BA%A1i%20l%C6%B0%E1%BB%A3ng%20v%E1%BA%ADt%20l%C3%BD%20d%C3%B9ng%20c%E1%BA%A3%20c%C3%A1c%20lo%E1%BA%A1i%20to%C3%A1n%20kh%C3%A1c.md) (Dữ liệu ở đây là nói tắt của dữ liệu định lượng.) 
@@ -58,7 +58,7 @@ Ví dụ, trong môn tiếng Anh ta có 4 kỹ năng nghe, nói, đọc, viết.
 
 Tôi nghĩ giải pháp cũng đơn giản thôi: giữ nguyên cả bộ số, không gộp lại thành một con số. Nếu việc chấm điểm mỗi kỹ năng đòi hỏi phải chấm điểm các tiêu chí nhỏ hơn, thì cũng chỉ ghi điểm của các tiêu chí thành phần chứ không gộp lại thành điểm của một kỹ năng. Nhưng điều này có một nhược điểm là thay vì chỉ cần ghi nhớ, lưu trữ, sử dụng một con số, nay ta phải làm vậy với cả một bộ số. Giả sử mỗi kỹ năng trong môn tiếng Anh lại có 4 tiêu chí để đánh giá, thì mỗi lần chấm điểm kết quả sẽ là nguyên một ma trận 4×4. Không chỉ số lượng con số tăng lên gấp 16 lần, mà các thao tác xử lý dữ liệu tiếp theo cũng phải trên ma trận chứ không phải trên số. Tôi đoán đây là lý do chủ yếu khiến cho cách đánh giá bằng con số lại được phổ biến đến như vậy. [Sự sẵn sàng và tiện lợi luôn áp đảo hơn sự chính xác](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/G%C3%A1nh%20n%E1%BA%B7ng%20nh%E1%BA%ADn%20th%E1%BB%A9c.%20Thi%E1%BA%BFt%20k%E1%BA%BF/T%C3%ACm%20ki%E1%BA%BFm%20th%C3%B4ng%20tin/S%E1%BB%B1%20s%E1%BA%B5n%20s%C3%A0ng%20v%C3%A0%20ti%E1%BB%87n%20l%E1%BB%A3i%20lu%C3%B4n%20%C3%A1p%20%C4%91%E1%BA%A3o%20h%C6%A1n%20s%E1%BB%B1%20ch%C3%ADnh%20x%C3%A1c.md).
 
-Tôi không biết liệu việc lưu trữ dữ liệu trên máy tính thay vì trên giấy sẽ giải quyết được tình trạng này hay không? Ví dụ như đa phần mọi người sẽ ngần ngại khi nghe về ma trận, nhưng bảng tính cũng là ma trận; nếu đã biết làm Excel rồi thì cũng không có gì phải sợ. Phần về hệ thống thông tin sẽ trình bày rõ hơn.
+Đa phần mọi người sẽ ngần ngại khi nghe về ma trận, nhưng bảng tính cũng là ma trận; bản thân việc bảng điểm của các học sinh trong một lớp cũng đã là một ma trận rồi. Nếu đã biết làm Excel rồi thì cũng không có gì phải sợ. Tôi nghĩ rằng việc lưu trữ dữ liệu trên máy tính thay vì trên giấy sẽ giải quyết được tình trạng ngộp số liệu này. Phần về hệ thống thông tin sẽ trình bày rõ hơn.
 
 Ở trên chỉ mới nói về vấn đề điểm đánh giá có được thiết kế đúng cho mục đích của nó hay không. Nhưng đó không phải là vấn đề duy nhất của nó. Các con số này còn chịu nhiều sức ép khiến cho chúng dễ bị sai lệch. Ví dụ như ở học sinh:
 - Điểm không tốt làm học sinh thấy tự ti, đặc biệt là ở tiểu học. Với các trẻ gặp khó khăn trong việc học tập (VD: gặp chứng khó đọc chữ), thì ở các trường công trẻ còn được cộng thêm điểm
@@ -89,6 +89,8 @@ Theo tôi hiểu, thống kê giáo dục về cơ bản cũng là một mảng 
 Thông thường, khi làm việc với một bộ số liệu ta hay tìm giá trị trung bình của chúng. Nhưng khi làm vậy, ta sẽ bị mất thông tin về *độ phân tán* của chúng. Ví dụ, một lớp 30 học sinh, nhưng một lớp có tất cả học sinh đều đạt điểm 7 khác với một lớp có 10 học sinh đạt điểm 6, 10 học sinh đạt điểm 7, 10 học sinh đạt điểm 8. Nếu chỉ ghi điểm trung bình của lớp thì chưa mô tả được hết các thông tin của mẫu. Hoặc ví dụ về việc chấm điểm môn tiếng Anh ở trên cũng tương tự.
 
 Nên nếu nhất thiết việc cho điểm chỉ đưa ra một con số làm đại diện, thì có lẽ việc có thêm một con số phụ cho biết độ phân tán của các tiêu chí thành phần sẽ là hữu ích. Trong thống kê, con số này gọi là *độ lệch chuẩn*. Có thể sự khác biệt này giáo viên cũng dễ dàng phát hiện ra thôi, nên ta có thể cảm thấy là việc ghi thêm độ lệch chuẩn là không cần thiết. Nhưng nếu giáo viên có thể dễ dàng nắm được năng lực của học sinh, thì ngay cả việc cho điểm cũng đã là không cần thiết rồi. Nên mục đích ghi ra không phải là để cho người làm việc trực tiếp với học sinh, mà là cho những người không làm việc trực tiếp, những người không có cùng trải nghiệm với giáo viên có sự nắm bắt sát hơn.
+
+Tại sao ở phần trên tôi thấy việc tổng hợp một bộ số thành một con số không có ý nghĩa, nhưng ở đây thì lại không có vấn đề gì? Bởi vì trong việc chấm điểm, mỗi tiêu chí là đánh giá một thứ khác nhau. Tức là chúng khác đơn vị đo. Nó giống như việc tính `1 m + 1 kg` vậy; nó là một phép tính không có nghĩa. (Việc dùng phương pháp MCDA thì lại được, vì phép tính là phép nhân. `1 m × 1 kg = 1 m.kg` là một phép tính có nghĩa.) Còn ở phần này điểm số của mỗi học sinh lại là cùng một đơn vị đo, nên có thể lấy trung bình được.
 
 Các diễn giả nhấn mạnh là các con số tự thân nó không có ý nghĩa, mà phải đem so sánh với các con số khác. Có thể là với chính con số đó của học sinh/giáo viên/trường trong quá khứ, hoặc với những học sinh/giáo viên/trường khác. Có thể hiểu việc so sánh này cũng là so sánh độ lệch chuẩn của chúng.
 
@@ -157,7 +159,10 @@ Từ những vấn đề được nêu lên ở trên, ta có thể thấy một
 	- Nhắc nhở việc phải sử dụng nhiều chỉ số để đánh giá, về sự tồn tại những thứ quan trọng nhưng khó đo lường
 	- Không loại bỏ dữ liệu định tính khi tổng hợp
 	- Không gộp dữ liệu của các tiêu chí nhỏ vào một con số nếu mục đích không phải là để cạnh tranh
-- Ít tốn công khi cập nhật kế hoạch, thang đo
+- Tạo điều kiện để việc thống kê và diễn giải thống kê chính xác và dễ dàng hơn:
+	- Năng lực của cá nhân được biểu diễn dưới dạng ma trận, thay vì số
+	- Cung cấp thêm độ lệch chuẩn bên cạnh trung bình cộng
+- Mỗi khi kế hoạch, thang đo được cập nhật mới thì mọi số liệu sẽ được tính toán lại
 - Ngăn chặn sai sót và sự lây lan của sai sót
 - Nếu nhà trường không triển khai thì giáo viên cũng có thể tự sử dụng mà không phải tốn quá nhiều chi phí để có được hệ thống cũng như thời gian để học 
 

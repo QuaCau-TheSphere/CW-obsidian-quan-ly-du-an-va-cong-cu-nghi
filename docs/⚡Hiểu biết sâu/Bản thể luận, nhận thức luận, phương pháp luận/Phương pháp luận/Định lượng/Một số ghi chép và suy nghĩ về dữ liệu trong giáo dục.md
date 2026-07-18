@@ -1,8 +1,8 @@
 ---
 share: true
-blog: true
+blog: done
 created: 2026-07-11T22:11
-updated: 2026-07-17T22:37
+updated: 2026-07-18T17:59
 description: Dữ liệu trong quản lý chất lượng giáo dục. Các bước sử dụng dữ liệu. Nhận thức và thái độ của người dùng dữ liệu đối với các hạn chế của nó. Các yêu cầu chức năng cho một hệ thống quản trị
 ---
 Hôm nay ngày 11/7/2026 tôi tham gia buổi chuyên đề "Kể chuyện bằng dữ liệu trong giáo dục" do [Lớp học đổi mới](https://www.facebook.com/lophocdoimoi) tổ chức. Tôi biết tới buổi này do một người chị trong nhóm ABG đã mua vé nhưng bị mệt đột xuất nên nhường lại cho ai có hứng thú. Tôi tham gia vì muốn biết thêm về những mối quan tâm của một người làm giáo dục, trong đó có việc sử dụng dữ liệu. Có thể xem đây là một phần trong nghiên cứu của tôi với chủ đề [Người làm dữ liệu nói gì về hạn chế của dữ liệu?](./D%E1%BB%AF%20li%E1%BB%87u%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20s%E1%BB%B1%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng%20c%E1%BB%A7a%20con%20ng%C6%B0%E1%BB%9Di%20ch%E1%BB%89%20s%E1%BB%AD%20d%E1%BB%A5ng%20th%E1%BB%91ng%20k%C3%AA.%20D%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%AB%20s%E1%BB%B1%20%C4%91o%20l%C6%B0%E1%BB%9Dng%20c%C3%A1c%20%C4%91%E1%BA%A1i%20l%C6%B0%E1%BB%A3ng%20v%E1%BA%ADt%20l%C3%BD%20d%C3%B9ng%20c%E1%BA%A3%20c%C3%A1c%20lo%E1%BA%A1i%20to%C3%A1n%20kh%C3%A1c.md) (Dữ liệu ở đây là nói tắt của dữ liệu định lượng.) 
@@ -50,7 +50,7 @@ Tôi thấy có 3 dạng sử dụng dữ liệu được sử dụng:
 - Có tiềm năng nhưng thiếu động lực
 - Có thể được thử thách ở mức cao hơn
 
-Với giáo viên thì cũng tương tự vậy. Chính vì như vậy, nên dù các con số trông như có vẻ tuyến tính, nhưng khoảng cách từ điểm 7 lên điểm 8 có thể rất khác với khoảng cách từ điểm 8 lên điểm 9. Nói theo ngôn ngữ thống kê, điểm số là thang đo khoảng, nhưng nó được dùng như một thang đo danh nghĩa. Tức là râu ông này cắm cằm bà kia. Tôi thấy rằng việc làm này sẽ tạo ra nhiều ảo tưởng thống kê, không chỉ ở điểm số mà còn ở bất kỳ các thống kê nào dựa trên nó.
+Với giáo viên thì cũng tương tự vậy. Chính vì như vậy, nên dù các con số trông như có vẻ tuyến tính, nhưng khoảng cách từ điểm 7 lên điểm 8 có thể rất khác với khoảng cách từ điểm 8 lên điểm 9. Nói theo ngôn ngữ thống kê, điểm số là thang đo khoảng, nhưng nó lại được dùng như một thang đo danh nghĩa. Tức là râu ông này cắm cằm bà kia. Tôi thấy rằng việc làm này sẽ tạo ra nhiều ảo tưởng thống kê, không chỉ ở điểm số mà còn ở bất kỳ các thống kê nào dựa trên nó.
 
 Đánh giá giáo dục ([educational assessment](https://en.wikipedia.org/wiki/Educational_assessment)) là một mảng rộng mà tôi chưa tìm hiểu gì cả, nhưng nhìn thoáng qua một số barem hoặc [rubric](https://en.wikipedia.org/wiki/Rubric_(academic)) chấm điểm, tôi cảm giác chúng là một dạng của phương pháp phân tích quyết định đa tiêu chí (Multicriteria Decision Analysis – MCDA). Cách làm của nó là chấm điểm từng tiêu chí nhỏ, rồi gộp các con số đó lại thành một con số cuối cùng. [Phương pháp này có tác dụng tốt trong việc tìm lựa chọn tối ưu (cân bằng được các đánh đổi) và có thể sắp xếp các lựa chọn đó theo thứ tự từ trên xuống dưới.](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/X%C3%A2y%20d%E1%BB%B1ng%20nh%C3%B3m,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A2n%20s%E1%BB%B1/Th%E1%BA%A3o%20lu%E1%BA%ADn,%20ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh/Ph%C3%A2n%20t%C3%ADch%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20%C4%91a%20ti%C3%AAu%20ch%C3%AD%20(MCDA)%20l%C3%A0%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20%C4%91%E1%BB%83%20t%C3%ACm%20%C4%91i%E1%BB%83m%20%C4%91%C3%A1nh%20%C4%91%E1%BB%95i%20t%E1%BB%91i%20%C6%B0u%20nh%E1%BA%A5t,%20v%C3%A0%20c%C3%B3%20th%E1%BB%83%20s%E1%BA%AFp%20x%E1%BA%BFp%20c%C3%A1c%20l%E1%BB%B1a%20ch%E1%BB%8Dn%20theo%20th%E1%BB%A9%20t%E1%BB%B1%20gi%E1%BA%A3m%20d%E1%BA%A7n.md) Nó rất phù hợp với các mục đích mang tính tuyển chọn như thi đại học hay phỏng vấn nhận việc. Nhưng tôi thấy mục đích của việc cho điểm học sinh hay giáo viên không phải là để chọn ai loại ai, mà là để có cách hỗ trợ họ phù hợp. Có vẻ như phương pháp này không được thiết kế cho mục đích như vậy.
 
@@ -61,7 +61,7 @@ Tôi nghĩ giải pháp cũng đơn giản thôi: giữ nguyên cả bộ số, 
 Đa phần mọi người sẽ ngần ngại khi nghe về ma trận, nhưng bảng tính cũng là ma trận; bản thân việc bảng điểm của các học sinh trong một lớp cũng đã là một ma trận rồi. Nếu đã biết làm Excel rồi thì cũng không có gì phải sợ. Tôi nghĩ rằng việc lưu trữ dữ liệu trên máy tính thay vì trên giấy sẽ giải quyết được tình trạng ngộp số liệu này. Phần về hệ thống thông tin sẽ trình bày rõ hơn.
 
 Ở trên chỉ mới nói về vấn đề điểm đánh giá có được thiết kế đúng cho mục đích của nó hay không. Nhưng đó không phải là vấn đề duy nhất của nó. Các con số này còn chịu nhiều sức ép khiến cho chúng dễ bị sai lệch. Ví dụ như ở học sinh:
-- Điểm không tốt làm học sinh thấy tự ti, đặc biệt là ở tiểu học. Với các trẻ gặp khó khăn trong việc học tập (VD: gặp chứng khó đọc chữ), thì ở các trường công trẻ còn được cộng thêm điểm
+- Điểm không tốt làm học sinh thấy tự ti, đặc biệt là ở tiểu học. Với các trẻ gặp khó khăn trong việc học tập (VD: gặp chứng khó đọc chữ), thì ở các trường công trẻ còn được cộng thêm điểm. Đây là vấn đề về hòa nhập, tránh gây phân biệt đối xử
 - Con cái buồn rầu thì cha mẹ cũng không vui. Mà cha mẹ phụ huynh thì  là khách hàng. Làm khách không vui thì có khi... mất khách
 - Điểm đẹp giúp việc chuyển cấp của học sinh thuận lợi hơn
 
@@ -77,9 +77,9 @@ Bởi vì tôi thấy việc tổng hợp các đánh giá từ nhiều tiêu ch
 - Chỉ số sáng tạo trung bình của giáo viên của trường
 
 Còn những thống kê về hành vi, hoặc từ các điểm số được dùng để cạnh tranh thì có lẽ là hợp lý hơn. Ví dụ:
-- Tỉ lệ học sinh đạt điểm thấp kỹ năng nói môn tiếng Anh
 - Tỉ lệ học sinh có điểm thấp trong kỳ thi vào lớp 10
-- Trung bình học sinh đi trễ vào sáng thứ Hai
+- Số giáo viên có điểm thấp ở một kỹ năng hoặc tiêu chí cụ thể
+- Trung bình học sinh đi trễ vào sáng thứ Hai trong tháng vừa rồi
 
 Nhưng thôi, cứ tạm bỏ qua chuyện đó và giả sử là tất cả các loại thống kê đều dùng được. Dù sao thì tôi cũng chưa tìm hiểu về giáo dục học nói chung, và thống kê giáo dục nói riêng. Nói chung, tôi đồng ý là có được số liệu thì hữu ích, giúp ta phát hiện được những vấn đề mà nếu không có thì khó mà thấy được. Ví dụ, nhờ phân tích dữ liệu mà ta phát hiện được gian lận điểm thi:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CQJ_SxZ0rIE?si=2zq0m7Zv3cIgjAfh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -88,7 +88,7 @@ Theo tôi hiểu, thống kê giáo dục về cơ bản cũng là một mảng 
 
 Thông thường, khi làm việc với một bộ số liệu ta hay tìm giá trị trung bình của chúng. Nhưng khi làm vậy, ta sẽ bị mất thông tin về *độ phân tán* của chúng. Ví dụ, một lớp 30 học sinh, nhưng một lớp có tất cả học sinh đều đạt điểm 7 khác với một lớp có 10 học sinh đạt điểm 6, 10 học sinh đạt điểm 7, 10 học sinh đạt điểm 8. Nếu chỉ ghi điểm trung bình của lớp thì chưa mô tả được hết các thông tin của mẫu. Hoặc ví dụ về việc chấm điểm môn tiếng Anh ở trên cũng tương tự.
 
-Nên nếu nhất thiết việc cho điểm chỉ đưa ra một con số làm đại diện, thì có lẽ việc có thêm một con số phụ cho biết độ phân tán của các tiêu chí thành phần sẽ là hữu ích. Trong thống kê, con số này gọi là *độ lệch chuẩn*. Có thể sự khác biệt này giáo viên cũng dễ dàng phát hiện ra thôi, nên ta có thể cảm thấy là việc ghi thêm độ lệch chuẩn là không cần thiết. Nhưng nếu giáo viên có thể dễ dàng nắm được năng lực của học sinh, thì ngay cả việc cho điểm cũng đã là không cần thiết rồi. Nên mục đích ghi ra không phải là để cho người làm việc trực tiếp với học sinh, mà là cho những người không làm việc trực tiếp, những người không có cùng trải nghiệm với giáo viên có sự nắm bắt sát hơn.
+Nên nếu nhất thiết việc cho điểm chỉ đưa ra một con số làm đại diện, thì có lẽ việc có thêm một con số phụ cho biết độ phân tán của các tiêu chí thành phần sẽ là hữu ích. Trong thống kê, con số này gọi là *độ lệch chuẩn*. Có thể giáo viên cũng dễ dàng phát hiện ra sự khác biệt về năng lực giữa các học sinh, hoặc giữa các kỹ năng của một học sinh, nên ta có thể cảm thấy là việc ghi thêm độ lệch chuẩn là không cần thiết. Nhưng nếu vậy thì ngay cả việc cho điểm cũng đã là không cần thiết rồi. Nên mục đích ghi ra không phải là để cho người làm việc trực tiếp với học sinh, mà là cho những người không làm việc trực tiếp, những người không có cùng trải nghiệm với giáo viên có sự nắm bắt sát hơn.
 
 Tại sao ở phần trên tôi thấy việc tổng hợp một bộ số thành một con số không có ý nghĩa, nhưng ở đây thì lại không có vấn đề gì? Bởi vì trong việc chấm điểm, mỗi tiêu chí là đánh giá một thứ khác nhau. Tức là chúng khác đơn vị đo. Nó giống như việc tính `1 m + 1 kg` vậy; nó là một phép tính không có nghĩa. (Việc dùng phương pháp MCDA thì lại được, vì phép tính là phép nhân. `1 m × 1 kg = 1 m.kg` là một phép tính có nghĩa.) Còn ở phần này điểm số của mỗi học sinh lại là cùng một đơn vị đo, nên có thể lấy trung bình được.
 
@@ -120,10 +120,10 @@ flowchart LR
 c["Quan sát dữ liệu"]-->d["Khám phá mới"]-->e["Xác định nguyên nhân"]-->f["Hành động"]-->g["Tác động"]
 ```
 
-Tôi đề xuất bổ sung thêm 2 giai đoạn trước đó
+Tôi đề xuất bổ sung thêm 3 giai đoạn vào phía trước:
 ```mermaid
 flowchart LR
-a["Phản tư<br>Khám phá các giả định"]-->b["Chọn giả định quan trọng để kiểm tra"]-->c["Quan sát dữ liệu"]-->d["..."]
+â["Xác định các mục tiêu cần theo đuổi" ]-->a["Khám phá các giả định<br>(Phản tư)"]-->b["Chọn giả định quan trọng để kiểm tra"]-->c["Quan sát dữ liệu"]-->d["..."]
 ```
 
 Với các giả định thông dụng, buổi chuyên đề có thể cung cấp thêm các bộ chỉ số để việc quan sát dữ liệu được dễ dàng hơn. Các khung đánh giá năng lực mà Bộ Giáo dục và Đào tạo hay UNESCO cung cấp là một ví dụ. Các hội, tổ chức làm về giáo dục cũng có thể nghiên cứu ra các thang đo để phổ biến cho nhà trường, giáo viên sử dụng.

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-07-01T12:03
-updated: 2026-07-08T22:37
+updated: 2026-07-18T13:25
 description: Khai vấn (mentor) là để giúp hiểu rõ nhu cầu bản thân. Tư vấn (consult) là đưa ý kiến của mình. Đào tạo (teach, train) là để lấy kiến thức, quy trình, thành thạo kỹ năng. Huấn luyện (coach) là để ra sản phẩm
 aliases:
   - Khai vấn (mentor) là để giúp hiểu rõ nhu cầu bản thân
@@ -30,5 +30,4 @@ Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../%CE%9E%20Ngu%E1%BB%93n/T
 Dự án:: [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
 [Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của mình một cách nhanh nhất?](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%8Dc%20t%E1%BA%ADp/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20th%E1%BB%83%20t%C3%ACm%20%C4%91%E1%BA%BFn%20t%C3%A0i%20nguy%C3%AAn%20t%E1%BB%91t%20nh%E1%BA%A5t%20cho%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20m%C3%ACnh%20m%E1%BB%99t%20c%C3%A1ch%20nhanh%20nh%E1%BA%A5t.md)
 [Nguyễn Cảnh Bình](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/Truy%E1%BB%81n%20th%C3%B4ng/Email/Nguy%E1%BB%85n%20C%E1%BA%A3nh%20B%C3%ACnh.md)
-Khái niệm:: [Khai vấn](Khai%20v%E1%BA%A5n.md) 
 [Làm sao để có một buổi khai vấn (mentor) tốt?](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%8Dc%20t%E1%BA%ADp/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20c%C3%B3%20m%E1%BB%99t%20bu%E1%BB%95i%20khai%20v%E1%BA%A5n%20(mentor)%20t%E1%BB%91t.md)

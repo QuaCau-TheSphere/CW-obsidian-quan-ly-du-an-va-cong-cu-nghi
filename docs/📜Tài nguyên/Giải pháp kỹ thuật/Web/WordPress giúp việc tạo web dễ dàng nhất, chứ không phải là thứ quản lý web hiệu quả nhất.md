@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2024-02-27T15:45
-updated: 2026-07-08T12:14
+updated: 2026-07-18T18:01
 description: WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ tạo web hiệu quả nhất
-blog: finished
+blog: done
 aliases:
   - Người dùng cá nhân hoặc dự án nhỏ có nên dùng WordPress hay không?
 ---

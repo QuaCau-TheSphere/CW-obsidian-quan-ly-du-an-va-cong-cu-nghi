@@ -1,6 +1,6 @@
 ---
 created: 2025-09-27T16:20
-updated: 2026-03-11T13:56
+updated: 2026-07-26T23:41
 share: true
 ---
 Khái niệm:: [Tiềm năng](Ti%E1%BB%81m%20n%C4%83ng.md), [Ưu tiên](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/%C6%AFu%20ti%C3%AAn.md)

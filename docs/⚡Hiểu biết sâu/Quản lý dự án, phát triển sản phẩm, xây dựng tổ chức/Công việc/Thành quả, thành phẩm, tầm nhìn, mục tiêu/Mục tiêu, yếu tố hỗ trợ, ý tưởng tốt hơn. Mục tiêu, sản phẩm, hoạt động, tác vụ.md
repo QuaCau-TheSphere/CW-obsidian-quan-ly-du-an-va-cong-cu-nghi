@@ -4,7 +4,7 @@ updated: 2026-05-12T23:39
 share: true
 ---
 Khái niệm:: [Mục tiêu](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/M%E1%BB%A5c%20ti%C3%AAu.md)
-Xem thêm:: [Tò mò thử, hứng thú, mong muốn, ý định, động lực nội sinh, đam mê, ưu tiên, sẵn sàng, cam kết, gắn bó, trách nhiệm](../../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%C3%B2%20m%C3%B2%20th%E1%BB%AD,%20h%E1%BB%A9ng%20th%C3%BA,%20mong%20mu%E1%BB%91n,%20%C3%BD%20%C4%91%E1%BB%8Bnh,%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20n%E1%BB%99i%20sinh,%20%C4%91am%20m%C3%AA,%20%C6%B0u%20ti%C3%AAn,%20s%E1%BA%B5n%20s%C3%A0ng,%20cam%20k%E1%BA%BFt,%20g%E1%BA%AFn%20b%C3%B3,%20tr%C3%A1ch%20nhi%E1%BB%87m.md)
+Xem thêm:: [Tò mò thử, hứng thú, mong muốn, ý định, động lực nội sinh, đam mê, ưu tiên, sẵn sàng, cam kết, gắn bó, trách nhiệm](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Hi%E1%BB%83u%20bi%E1%BA%BFt/H%E1%BB%8Dc%20t%E1%BA%ADp/K%E1%BB%B9%20n%C4%83ng,%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c/T%C3%B2%20m%C3%B2%20th%E1%BB%AD,%20h%E1%BB%A9ng%20th%C3%BA,%20mong%20mu%E1%BB%91n,%20%C3%BD%20%C4%91%E1%BB%8Bnh,%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c%20n%E1%BB%99i%20sinh,%20%C4%91am%20m%C3%AA,%20%C6%B0u%20ti%C3%AAn,%20s%E1%BA%B5n%20s%C3%A0ng,%20cam%20k%E1%BA%BFt,%20g%E1%BA%AFn%20b%C3%B3,%20tr%C3%A1ch%20nhi%E1%BB%87m.md)
 # mục tiêu, giải pháp, yêu cầu, điều kiện
 Một mục tiêu A có thể được phân ra thành những thành phần B nhỏ hơn. Tuỳ vào cách đặt câu hỏi mà B sẽ có những tên gọi khác nhau:
 

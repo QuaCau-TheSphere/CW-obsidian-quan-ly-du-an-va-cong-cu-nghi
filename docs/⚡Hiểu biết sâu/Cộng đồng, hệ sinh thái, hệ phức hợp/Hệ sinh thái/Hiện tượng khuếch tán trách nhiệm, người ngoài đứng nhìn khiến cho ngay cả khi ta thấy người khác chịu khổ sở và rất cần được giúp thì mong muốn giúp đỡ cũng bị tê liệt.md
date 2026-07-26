@@ -1,6 +1,6 @@
 ---
 created: 2025-05-26T19:55
-updated: 2026-05-12T23:39
+updated: 2026-07-26T23:35
 share: true
 ---
 Khái niệm:: [Động lực](%C4%90%E1%BB%99ng%20l%E1%BB%B1c.md)
@@ -52,3 +52,4 @@ Bạn có thể đọc thêm nghiên cứu tại: https://greatergood.berkele
 [❓Động lực làm việc không liên quan đến sự khuếch tán trách nhiệm](./%E2%9D%93%C4%90%E1%BB%99ng%20l%E1%BB%B1c%20l%C3%A0m%20vi%E1%BB%87c%20kh%C3%B4ng%20li%C3%AAn%20quan%20%C4%91%E1%BA%BFn%20s%E1%BB%B1%20khu%E1%BA%BFch%20t%C3%A1n%20tr%C3%A1ch%20nhi%E1%BB%87m.md)
 ![Whose job is it? or The Responsibility Poem illustration: four people named Everybody, Somebody, Anybody and Nobody. Everybody is given a job but in the end Nobody takes responsibility for it](https://sketchplanations.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fsketchplanations%2Faa428cb0-d1e7-414b-9159-e1bc74108fa2_SP%2B846%2B-%2BWhose%2Bjob%2Bis%2Bit.png%3Fauto%3Dcompress%2Cformat&w=3840&q=75)
 [Người viết code thường làm một mình, không được hỗ trợ, không được trả tiền, chỉ làm vì sự đam mê. Họ cần xây dựng rất nhiều mối quan hệ tin tưởng được nhau](../../C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/Nh%C3%A2n%20h%E1%BB%8Dc/L%E1%BA%ADp%20tr%C3%ACnh/Ng%C6%B0%E1%BB%9Di%20vi%E1%BA%BFt%20code%20th%C6%B0%E1%BB%9Dng%20l%C3%A0m%20m%E1%BB%99t%20m%C3%ACnh,%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20h%E1%BB%97%20tr%E1%BB%A3,%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20tr%E1%BA%A3%20ti%E1%BB%81n,%20ch%E1%BB%89%20l%C3%A0m%20v%C3%AC%20s%E1%BB%B1%20%C4%91am%20m%C3%AA.%20H%E1%BB%8D%20c%E1%BA%A7n%20x%C3%A2y%20d%E1%BB%B1ng%20r%E1%BA%A5t%20nhi%E1%BB%81u%20m%E1%BB%91i%20quan%20h%E1%BB%87%20tin%20t%C6%B0%E1%BB%9Fng%20%C4%91%C6%B0%E1%BB%A3c%20nhau.md)
+[❓Khi nào thì một người thấy được mình có thể giúp người khác nhưng lại không có hứng thú giúp](./Gi%C3%BAp%20%C4%91%E1%BB%A1%20nhau/%E2%9D%93Khi%20n%C3%A0o%20th%C3%AC%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%A5y%20%C4%91%C6%B0%E1%BB%A3c%20m%C3%ACnh%20c%C3%B3%20th%E1%BB%83%20gi%C3%BAp%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20nh%C6%B0ng%20l%E1%BA%A1i%20kh%C3%B4ng%20c%C3%B3%20h%E1%BB%A9ng%20th%C3%BA%20gi%C3%BAp.md)

@@ -1,16 +1,16 @@
 ---
 share: true
-created: 2024-02-27T15:45
-updated: 2026-07-18T18:01
-description: WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ tạo web hiệu quả nhất
 blog: done
+created: 2024-02-27T15:45
+updated: 2026-07-24T17:39
+description: WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ tạo web hiệu quả nhất
 aliases:
   - Người dùng cá nhân hoặc dự án nhỏ có nên dùng WordPress hay không?
 ---
 # Người dùng cá nhân hoặc dự án nhỏ có nên dùng WordPress hay không?
 Nếu bạn chỉ cần một nơi lưu lại những gì mình ghi viết bài chia sẻ cho mọi người đọc, các mạng xã hội như Facebook là đủ. Nếu như Facebook đại trà quá và bạn muốn tạo một thương hiệu rõ hơn, Substack, Medium, Spiderum, LinkedIn Page, Notion sẽ là những trang sẽ cho khách ghé thăm ấn tượng sơ về phong cách và nội dung của bạn. Nếu bạn muốn tạo một góc thầm lặng, không quá xô bồ, hoặc ngược lại muốn xây dựng một không gian làm cho khách ghé thăm phải cảm thấy ấn tượng, trầm trồ với giao diện độc đáo, thì Weebly, Wix, Squarespace, Shopify, Blogger, Webflow, WordPress.com sẽ giúp bạn đạt được điều đó. Chỉ khi nào bạn muốn có sự kiểm soát tối đa toàn bộ trang web của bạn với chi phí thấp, thì lúc đó bạn mới cần có một website riêng.
 
-Xem thêm:: [Sự khác biệt giữa các nền tảng viết trên mạng](./S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20c%C3%A1c%20n%E1%BB%81n%20t%E1%BA%A3ng%20vi%E1%BA%BFt%20tr%C3%AAn%20m%E1%BA%A1ng.md)
+Xem thêm:: [Sự khác biệt giữa các nền tảng viết trên mạng](../H%E1%BB%8Dc%20t%E1%BA%ADp/S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20c%C3%A1c%20n%E1%BB%81n%20t%E1%BA%A3ng%20vi%E1%BA%BFt%20tr%C3%AAn%20m%E1%BA%A1ng.md)
 
 Nhiều người khi có nhu cầu tạo web thường được bạn bè giới thiệu WordPress. WordPress được xếp vào nhóm web động. Ngoài web động ra thì còn có web tĩnh. Web động với web tĩnh bản chất thế nào thì mình nghĩ đợi đến khi bạn đã quen thuộc với web rồi thì giải thích sẽ dễ hiểu hơn, còn giờ nói sớm quá thì bạn lại rối. Quan trọng là chúng sẽ đáp ứng nhu cầu của bạn thế nào thôi. Mình nghĩ rằng đây là những tiêu chí mà một người dùng cá nhân hoặc cho tổ chức nhỏ sẽ cần để ý đến:
 

@@ -1,10 +1,10 @@
 ---
 share: true
+blog: working
 created: 2026-05-31T17:01
-updated: 2026-07-16T00:40
+updated: 2026-07-22T20:46
 description: "Có 2 lý do chính: (1) Việc viết giúp diễn đạt được ý tốt hơn là nói. (2) Việc đưa liên kết không phải chỉ là để đọc bài viết, mà còn là để khám phá một sân chơi"
 title: Vì sao tôi hay chia sẻ bài viết của mình hơn là tự nói?
-blog: working
 ---
 Có bạn nhắn với tôi là bạn thấy một [Mẫu hình (pattern)](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/M%E1%BA%ABu%20h%C3%ACnh%20(pattern).md) của tôi là luôn đưa luôn web của mình cho mọi người đọc thay vì trả lời. Bạn nghĩ rằng cách nghĩ này nó tiện cho việc tối ưu hóa tác vụ hoặc code dạng snippet. Nhưng mà giao tiếp thì em nghĩ nó khác nguyên tắc á, tại người ta có thể lười đọc và muốn anh trình bày gãy gọn, có câu chuyện, điểm hút đồ.
 
@@ -57,7 +57,7 @@ Có cập nhật gì thì họ cũng luôn được biết mà không cần ph�
 [Khu vườn số luôn phát triển và thay đổi. Nó không bao giờ có trạng thái hoàn thành](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Ghi%20ch%C3%BA%20th%C3%B4ng%20tin/Khu%20v%C6%B0%E1%BB%9Dn%20s%E1%BB%91%20lu%C3%B4n%20ph%C3%A1t%20tri%E1%BB%83n%20v%C3%A0%20thay%20%C4%91%E1%BB%95i.%20N%C3%B3%20kh%C3%B4ng%20bao%20gi%E1%BB%9D%20c%C3%B3%20tr%E1%BA%A1ng%20th%C3%A1i%20ho%C3%A0n%20th%C3%A0nh.md)
 [Living document](https://en.wikipedia.org/wiki/Living_document)
 
-[Sự khác biệt giữa các nền tảng viết trên mạng](../Web/S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20c%C3%A1c%20n%E1%BB%81n%20t%E1%BA%A3ng%20vi%E1%BA%BFt%20tr%C3%AAn%20m%E1%BA%A1ng.md)
+[Sự khác biệt giữa các nền tảng viết trên mạng](./S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20c%C3%A1c%20n%E1%BB%81n%20t%E1%BA%A3ng%20vi%E1%BA%BFt%20tr%C3%AAn%20m%E1%BA%A1ng.md)
 ## Các lý do khác
 Nguồn sự thật duy nhất [Single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth)
 [Don't repeat yourself](https://en.wikipedia.org/wiki/Don't_repeat_yourself)

@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-14T11:58
+updated: 2026-07-26T23:23
 title: 'Định luật Goodhart: "Khi một phép đo trở thành mục tiêu, nó thường mất đi sự hiệu quả của nó"'
 ---
 Khái niệm:: [Thước đo, đo lường, chỉ số, KPI](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/Th%C6%B0%E1%BB%9Bc%20%C4%91o,%20%C4%91o%20l%C6%B0%E1%BB%9Dng,%20ch%E1%BB%89%20s%E1%BB%91,%20KPI.md)
 
 ![Goodhart's law illustration showing a manager frustrated by 1000's of tiny nails when measuring on number of nails made, and pulling their hair out when presented with giant nails when measuring on weight](https://sketchplanations.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fsketchplanations%2F68405664-64fc-4f4d-841b-fa27305c38bf_SP%2B535%2B-%2BGoodhart%2527s%2Blaw%2B-%2Brevised%2B-%2Blarge.png%3Fauto%3Dformat%2Ccompress&w=3840&q=75)
-Lý do:: [Động lực ngoại sinh làm tăng sự tập trung vào đích đến và giảm sự quan sát tới những thứ khác](../../../Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/K%E1%BB%B9%20n%C4%83ng,%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c/%C4%90%E1%BB%99ng%20l%E1%BB%B1c%20ngo%E1%BA%A1i%20sinh%20l%C3%A0m%20t%C4%83ng%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20v%C3%A0o%20%C4%91%C3%ADch%20%C4%91%E1%BA%BFn%20v%C3%A0%20gi%E1%BA%A3m%20s%E1%BB%B1%20quan%20s%C3%A1t%20t%E1%BB%9Bi%20nh%E1%BB%AFng%20th%E1%BB%A9%20kh%C3%A1c.md)
+Lý do:: [Phần thưởng ngoại sinh làm tăng sự tập trung vào đích đến và giảm sự quan sát tới những thứ khác](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Hi%E1%BB%83u%20bi%E1%BA%BFt/H%E1%BB%8Dc%20t%E1%BA%ADp/K%E1%BB%B9%20n%C4%83ng,%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c/Ph%E1%BA%A7n%20th%C6%B0%E1%BB%9Fng%20ngo%E1%BA%A1i%20sinh%20l%C3%A0m%20t%C4%83ng%20s%E1%BB%B1%20t%E1%BA%ADp%20trung%20v%C3%A0o%20%C4%91%C3%ADch%20%C4%91%E1%BA%BFn%20v%C3%A0%20gi%E1%BA%A3m%20s%E1%BB%B1%20quan%20s%C3%A1t%20t%E1%BB%9Bi%20nh%E1%BB%AFng%20th%E1%BB%A9%20kh%C3%A1c.md)
 
 > In environments with high psychological safety, trust, and an appreciation for complex sociotechnical systems, when a measure becomes a target, it can remain a good measure because missing the target is treated as a valuable signal for continuous improvement rather than failure.
 

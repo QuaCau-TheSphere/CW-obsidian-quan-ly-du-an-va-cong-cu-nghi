@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-07-14T15:00
-updated: 2026-01-14T13:11
+updated: 2026-08-02T20:57
 ---
 Lĩnh vực:: [Thiết kế bao trùm](../../L%C4%A9nh%20v%E1%BB%B1c/Thi%E1%BA%BFt%20k%E1%BA%BF%20bao%20tr%C3%B9m.md)
 Nhu cầu công nghệ:: 
@@ -11,3 +11,4 @@ Heydon Pickering là một người chuyên về [Thiết kế bao trùm](../../
 
 [Inclusive Components](https://inclusive-components.design/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6BVNAWVjK1s?si=AwYnIANVhZtIHyLO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=y6jrL8UCw7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

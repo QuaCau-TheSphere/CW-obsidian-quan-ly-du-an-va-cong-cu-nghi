@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-07T16:24
-updated: 2026-06-01T19:38
+updated: 2026-08-22T11:39
 ---
 [Hiểu biết không chỉ để mình làm một cái gì đó, mà còn để mình không làm một cái gì đó](./Hi%E1%BB%83u%20bi%E1%BA%BFt%20kh%C3%B4ng%20ch%E1%BB%89%20%C4%91%E1%BB%83%20m%C3%ACnh%20l%C3%A0m%20m%E1%BB%99t%20c%C3%A1i%20g%C3%AC%20%C4%91%C3%B3,%20m%C3%A0%20c%C3%B2n%20%C4%91%E1%BB%83%20m%C3%ACnh%20kh%C3%B4ng%20l%C3%A0m%20m%E1%BB%99t%20c%C3%A1i%20g%C3%AC%20%C4%91%C3%B3.md)
 [Hiểu biết sâu làm ta thấy khoái cảm](../Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u%20l%C3%A0m%20ta%20th%E1%BA%A5y%20kho%C3%A1i%20c%E1%BA%A3m.md)
@@ -20,6 +20,5 @@ Some tendencies in the behaviour of web users are easily understood from the inf
 
 Attempts have been made to develop computational cognitive models to characterize information foraging behavior on the Web.[3](3.md)(https://en.wikipedia.org/wiki/Information_foraging#cite_note-3)[4](4.md)(https://en.wikipedia.org/wiki/Information_foraging#cite_note-4)[5](5.md)(https://en.wikipedia.org/wiki/Information_foraging#cite_note-5) These models assume that users perceive relevance of information based on some measures of information scent, which are usually derived based on statistical techniques that extract semantic relatedness of words from large text databases. Recently these information foraging models have been extended to explain social information behavior.[6](6.md)(https://en.wikipedia.org/wiki/Information_foraging#cite_note-6)[7](7.md)(https://en.wikipedia.org/wiki/Information_foraging#cite_note-7)[8](8.md)(https://en.wikipedia.org/wiki/Information_foraging#cite_note-8) See also [models of collaborative tagging](https://en.wikipedia.org/wiki/Models_of_collaborative_tagging "Models of collaborative tagging").
 
-	
 Nguồn:: [Information foraging - Wikipedia](https://en.wikipedia.org/wiki/Information_foraging)
 [Informavore - Wikipedia](https://en.wikipedia.org/wiki/Informavore)

@@ -2,7 +2,7 @@
 share: true
 blog: working
 created: 2026-05-31T17:01
-updated: 2026-07-22T20:46
+updated: 2026-08-19T15:40
 description: "Có 2 lý do chính: (1) Việc viết giúp diễn đạt được ý tốt hơn là nói. (2) Việc đưa liên kết không phải chỉ là để đọc bài viết, mà còn là để khám phá một sân chơi"
 title: Vì sao tôi hay chia sẻ bài viết của mình hơn là tự nói?
 ---
@@ -41,6 +41,7 @@ Có bạn nói với tôi là tôi thử đi học public speaking. Nhưng có v
 
 [Viết làm suy nghĩ không còn là vô hình](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Vi%E1%BA%BFt%20l%C3%A0m%20suy%20ngh%C4%A9%20kh%C3%B4ng%20c%C3%B2n%20l%C3%A0%20v%C3%B4%20h%C3%ACnh.md). [nó cho phép ta nghĩ về sự nghĩ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Vi%E1%BA%BFt%20cho%20ph%C3%A9p%20ta%20ngh%C4%A9%20v%E1%BB%81%20s%E1%BB%B1%20ngh%C4%A9.md). Có thể nói [sự phát minh ra việc viết phát minh ra việc lập luận](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/S%E1%BB%B1%20ph%C3%A1t%20minh%20ra%20vi%E1%BB%87c%20vi%E1%BA%BFt%20ph%C3%A1t%20minh%20ra%20vi%E1%BB%87c%20l%E1%BA%ADp%20lu%E1%BA%ADn.md).
 
+Việc quan trọng nhất thì sẽ luôn ở đằng sau đầu, nên những vấn đề còn lại thường không dành tài nguyên nhận thức nhiều
 ## Việc đưa liên kết không phải chỉ là để đọc bài viết, mà còn là để khám phá một sân chơi
 Việc toàn bộ câu trả lời được thu gọn lại chỉ còn bằng một liên kết làm đoạn chat gọn hơn, nhưng lại cho tôi nhiều không gian để triển khai lập luận cũng như có nhiều phương thức định dạng văn bản 
 

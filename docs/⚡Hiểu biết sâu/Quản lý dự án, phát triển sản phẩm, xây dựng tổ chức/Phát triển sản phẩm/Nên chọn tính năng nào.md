@@ -1,8 +1,9 @@
 ---
 created: 2025-09-27T16:20
-updated: 2026-07-12T19:51
+updated: 2026-08-12T01:49
 share: true
 ---
+Khái niệm:: [Tính năng](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/T%C3%ADnh%20n%C4%83ng.md)
 ## Chúng ta đang quá coi trọng product delivery
 - Quá chú trọng ra mắt tính năng
 - Nghiên cứu mang tính chất one off

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-06-01T15:34
+updated: 2026-08-14T21:02
 ---
 Khái niệm:: [Dữ liệu](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md)
 Hơn 11 giờ đêm, màn hình điện thoại của Hồng Vy vẫn sáng bởi thông báo từ gần 20 nhóm chat công việc và trò chuyện cá nhân đang đổ về.

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-03-17T14:50
-updated: 2026-06-27T16:59
+updated: 2026-08-22T11:43
 ---
 Khái niệm:: [Sự không biết](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%B1%20kh%C3%B4ng%20bi%E1%BA%BFt.md)
 [Xây dựng chiến lược, nghiên cứu, quản lý tri thức, thiết kế hệ thống là các công việc khai phá](../B%E1%BA%A5t%20%C4%91%E1%BB%8Bnh%20v%C3%A0%20kh%C3%A1m%20ph%C3%A1/X%C3%A2y%20d%E1%BB%B1ng%20chi%E1%BA%BFn%20l%C6%B0%E1%BB%A3c,%20nghi%C3%AAn%20c%E1%BB%A9u,%20qu%E1%BA%A3n%20l%C3%BD%20tri%20th%E1%BB%A9c,%20thi%E1%BA%BFt%20k%E1%BA%BF%20h%E1%BB%87%20th%E1%BB%91ng%20l%C3%A0%20c%C3%A1c%20c%C3%B4ng%20vi%E1%BB%87c%20khai%20ph%C3%A1.md)

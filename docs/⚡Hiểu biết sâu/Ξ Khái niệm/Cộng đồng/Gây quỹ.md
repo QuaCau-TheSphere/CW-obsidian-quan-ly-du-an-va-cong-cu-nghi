@@ -4,8 +4,8 @@ created: 2023-06-12T00:57
 updated: 2026-05-12T23:39
 ---
 Xem thêm:: [Quỹ](../Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/Qu%E1%BB%B9.md), [Quỹ, gọi vốn](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BB%B9,%20g%E1%BB%8Di%20v%E1%BB%91n/index.md)
-- [Quỹ, gọi vốn](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BB%B9,%20g%E1%BB%8Di%20v%E1%BB%91n/index.md)
 - [Cộng đồng](./index.md)
+- [Quỹ, gọi vốn](../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/Qu%E1%BB%B9,%20g%E1%BB%8Di%20v%E1%BB%91n/index.md)
 
 ![Tìm kiếm và tiếp cận nhà tài trợ tiềm năng.pdf](../../../attachments/T%C3%ACm%20ki%E1%BA%BFm%20v%C3%A0%20ti%E1%BA%BFp%20c%E1%BA%ADn%20nh%C3%A0%20t%C3%A0i%20tr%E1%BB%A3%20ti%E1%BB%81m%20n%C4%83ng.pdf)
 # Chuẩn bị

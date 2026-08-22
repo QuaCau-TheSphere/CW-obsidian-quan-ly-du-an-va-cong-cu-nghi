@@ -1,7 +1,8 @@
 ---
 share: true
+blog: working
 created: 2026-07-01T12:07
-updated: 2026-07-18T13:57
+updated: 2026-08-16T14:52
 title: Làm sao để có một buổi khai vấn (mentor) tốt?
 description: Làm sao để biết được điều mình cần biết mà không biết?
 ---
@@ -96,13 +97,13 @@ Cơ bản cũng tương tự như câu hỏi [Tôi thấy mông lung, không bi�
 - [Có cố vấn, huấn luyện viên](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/C%C3%B3%20c%E1%BB%91%20v%E1%BA%A5n,%20hu%E1%BA%A5n%20luy%E1%BB%87n%20vi%C3%AAn.md)
 - [Canvas và mạng lưới liên kết các khái niệm, bài viết, ghi chú](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Canvas%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20li%C3%AAn%20k%E1%BA%BFt%20c%C3%A1c%20kh%C3%A1i%20ni%E1%BB%87m,%20b%C3%A0i%20vi%E1%BA%BFt,%20ghi%20ch%C3%BA.md)
 - [Đồ họa thông tin, sơ đồ](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/%C4%90%E1%BB%93%20h%E1%BB%8Da%20th%C3%B4ng%20tin,%20s%C6%A1%20%C4%91%E1%BB%93.md)
-- [Danh sách tổng hợp không sắp thứ tự](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Danh%20s%C3%A1ch%20t%E1%BB%95ng%20h%E1%BB%A3p%20kh%C3%B4ng%20s%E1%BA%AFp%20th%E1%BB%A9%20t%E1%BB%B1.md)
-- [Cú pháp, kiểu dữ liệu](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/C%C3%BA%20ph%C3%A1p,%20ki%E1%BB%83u%20d%E1%BB%AF%20li%E1%BB%87u.md)
-- [Danh sách từ bình chọn tập thể](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Danh%20s%C3%A1ch%20t%E1%BB%AB%20b%C3%ACnh%20ch%E1%BB%8Dn%20t%E1%BA%ADp%20th%E1%BB%83.md)
 - [Danh sách tổng hợp sắp theo tiêu chí](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Danh%20s%C3%A1ch%20t%E1%BB%95ng%20h%E1%BB%A3p%20s%E1%BA%AFp%20theo%20ti%C3%AAu%20ch%C3%AD.md)
+- [Danh sách từ bình chọn tập thể](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Danh%20s%C3%A1ch%20t%E1%BB%AB%20b%C3%ACnh%20ch%E1%BB%8Dn%20t%E1%BA%ADp%20th%E1%BB%83.md)
 - [Hệ thống quản lý nội dung](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/H%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung.md)
-- [Môi trường tạo khả năng](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20t%E1%BA%A1o%20kh%E1%BA%A3%20n%C4%83ng.md)
+- [Danh sách tổng hợp không sắp thứ tự](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Danh%20s%C3%A1ch%20t%E1%BB%95ng%20h%E1%BB%A3p%20kh%C3%B4ng%20s%E1%BA%AFp%20th%E1%BB%A9%20t%E1%BB%B1.md)
 - [Tiếp thị](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Ti%E1%BA%BFp%20th%E1%BB%8B.md)
+- [Cú pháp, kiểu dữ liệu](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/C%C3%BA%20ph%C3%A1p,%20ki%E1%BB%83u%20d%E1%BB%AF%20li%E1%BB%87u.md)
+- [Môi trường tạo khả năng](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20t%E1%BA%A1o%20kh%E1%BA%A3%20n%C4%83ng.md)
 
 
 Dự án:: [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)

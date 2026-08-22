@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-01-14T13:11
+updated: 2026-08-14T21:06
 ---
-Nhu cầu công việc:: [Nắm bắt hoạt động của nhau](../V%E1%BA%ADn%20h%C3%A0nh/N%E1%BA%AFm%20b%E1%BA%AFt%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20nhau.md), [Quản lý đối tác, các bên liên quan](./Qu%E1%BA%A3n%20l%C3%BD%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.md), [Xây dựng mạng lưới, hệ sinh thái](../../L%C4%A9nh%20v%E1%BB%B1c/X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi,%20h%E1%BB%87%20sinh%20th%C3%A1i.md)
+Nhu cầu công việc:: [Nắm bắt hoạt động của nhau](../V%E1%BA%ADn%20h%C3%A0nh/N%E1%BA%AFm%20b%E1%BA%AFt%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20nhau.md), [Quản lý đối tác, các bên liên quan](./Qu%E1%BA%A3n%20l%C3%BD%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.md), [Xây dựng mạng lưới, hệ sinh thái](../../L%C4%A9nh%20v%E1%BB%B1c/X%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi,%20h%E1%BB%87%20sinh%20th%C3%A1i.md), [Quản lý việc chat](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Qu%E1%BA%A3n%20l%C3%BD%20vi%E1%BB%87c%20chat.md)
 
-# 3 cấp độ
+## 3 cấp độ
 | Cấp độ | Giúp mọi người hiểu về nhau hơn | Hệ thống hóa các nhu cầu, tài nguyên | Đảm bảo sự tự trị dữ liệu các thành viên | Hoạt động                     |
 | ------ | ------------------------------- | ------------------------------------ | ---------------------------------------- | ----------------------------- |
 | 1      | ✔                               |                                      |                                          | Tạo danh bạ                   |

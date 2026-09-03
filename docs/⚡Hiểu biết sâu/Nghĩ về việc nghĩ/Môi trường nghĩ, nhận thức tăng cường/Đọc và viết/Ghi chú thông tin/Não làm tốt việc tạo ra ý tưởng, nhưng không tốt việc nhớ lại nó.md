@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-07-03T21:43
-updated: 2026-07-03T22:09
+updated: 2026-09-02T16:02
 ---
 Khái niệm:: [Ý tưởng](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/%C3%9D%20t%C6%B0%E1%BB%9Fng.md), [Trí nhớ, ký ức](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%C3%AD%20nh%E1%BB%9B,%20k%C3%BD%20%E1%BB%A9c.md)
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=BTuGvfQGOrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

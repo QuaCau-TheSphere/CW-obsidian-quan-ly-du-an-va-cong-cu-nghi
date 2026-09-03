@@ -2,7 +2,7 @@
 share: true
 blog: done
 created: 2024-08-17T11:00
-updated: 2026-07-24T17:41
+updated: 2026-09-03T13:13
 description: Plugin Digital Garden sử dụng 11ty làm chương trình tạo website, và Vercel làm dịch vụ hosting. Chúng có những nhược điểm gì?
 ---
 Nếu bạn không muốn mua gói Publish nhưng vẫn muốn tạo một website từ kho của bạn thì bạn cần 3 thứ sau:
@@ -32,40 +32,4 @@ Nếu mục đích là làm sao để tạo website cho nhanh để mà còn là
 Để tạo ra website từ các tập tin markdown, bạn cần dùng một chương trình tạo website tĩnh (static site generator):
 ![Fetching Title#vu93](https://cdn-media-1.freecodecamp.org/images/0*CCMaHN9JpmvIFNdi)
 
-11ty là chương trình tạo website tĩnh được tích hợp với Digital Garden. Nó dùng một môi trường thực thi tên là Node và nhập plugin bằng CommonJS. CommonJS thì lạc hậu, Node thì bất tiện với người dùng mới. Thay vì dùng 11ty thì mình giới thiệu 3 chương trình tạo web tĩnh mà mình nghĩ là tốt hơn:
-
-> [!Attention] Ý đồ trình bày 
-> Với mỗi một chương trình sẽ có một phần giới thiệu chung, và phần nói về ưu điểm và nhược điểm. Phần ưu điểm và nhược điểm **chỉ liên quan đến nhu cầu tạo web cá nhân từ kho**. Những ưu điểm và nhược điểm đối với các nhu cầu khác sẽ được để vào phần giới thiệu.
-
-### Mkdocs
-Mkdocs được viết bằng Python, một ngôn ngữ đề cao việc dễ đọc, dễ viết, và được dùng nhiều cho những bạn làm về dữ liệu. Đặc biệt, theme Material của nó dùng thiết kế Material của Google, là một kiểu thiết kế phẳng theo nhiều lớp để tạo độ sâu. Theme này phù hợp khi bạn cần một trang web có một thanh điều hướng với nhiều nút, đủ đơn giản để không làm rối, nhưng lại không quá đơn giản để tạo ra được một giao diện ấn tượng với người dùng. 
-
-Ưu điểm:
-- Tập tin cấu hình `mkdocs.yml` là một tập tin YAML quen thuộc, không phải code gì cả
-- Số lượng tính năng phong phú, đặc biệt là có nhiều kiểu markdown cho các nhu cầu đặc thù
-
-Nhược điểm:
-- Cài Python trên Windows có thể gặp trục trặc về đường dẫn. Cái này thì có người bị có người không. Nếu bị thì thêm `py -m` trước mọi dòng lệnh. Ví dụ `mkdocs serve` → `py -m mkdocs serve`
-
-### Lume
-Lume viết bằng JavaScript, Obsidian cũng viết bằng JavaScript, nên với Lume bạn chỉ cần học một ngôn ngữ để là đã có thể thao tác với Obsidian tốt hơn, ví dụ như viết DataviewJS, TemplaterJS. Nó phù hợp cho các trang blog hoặc wiki đơn giản.
-
-Ưu điểm:
-- Với mỗi thư mục bạn có thể đặt một tập tin cấu hình `_data.yaml` để cấu hình cho toàn bộ thư mục. Nếu bạn muốn một thư mục con có cấu hình khác thì chỉ cần tạo một tập tin `_data.yaml` khác vào trong thư mục con đó
-- Trong trường hợp bạn phải chỉnh code, thì Lume dùng Deno, một môi trường thực thi tích hợp sẵn những tiến bộ mới nhất của JavaScript, tiện lợi hơn Node nhiều
-
-Nhược điểm:
-- Số theme còn ít
-- Không có đồ thị liên kết các nút cho người dùng
-
-### Quartz
-Đây là một chương trình tạo web tĩnh được viết đặc biệt dành cho người dùng Obsidian. Tác giả của nó muốn thúc đẩy *sự giải trung tâm hoá ở web*, hay còn gọi là *dweb* hoặc *web 3.0*. Mình đoán là cái gọi là khu vườn số cũng nằm trong dòng chảy này. Bạn có thể xem video phỏng vấn tác giả ở [đây](https://www.youtube.com/watch?v=YCvV7Izqggc). Quartz phù hợp cho người cần có đồ thị mạng lưới mối quan hệ giữa các ghi chú trên web.
-
-Ưu điểm:
-- Có sẵn đồ thị và backlink
-
-Nhược điểm: 
-- Tập tin cấu hình là `quartz.config.ts` hoặc `quartz.layout.ts`, nghĩa là để cấu hình là bạn phải dùng TypeScript để chỉnh
-- Dùng Node
-
-Nếu bạn muốn tìm hiểu thêm về môi trường thực thi Node và Deno thì có thể đọc bài này: [Code giống như các nốt nhạc, engine giống như nhạc công, còn runtime giống như nhạc cụ ](https://doi-thoai.deno.dev/We.48.1)
+11ty là chương trình tạo website tĩnh được tích hợp với Digital Garden. Nó dùng một môi trường thực thi tên là Node và nhập plugin bằng CommonJS. CommonJS thì lạc hậu, Node thì bất tiện với người dùng mới. Bài viết [Tạo website từ kho ghi chú của bạn](./T%E1%BA%A1o%20website%20t%E1%BB%AB%20kho%20ghi%20ch%C3%BA%20c%E1%BB%A7a%20b%E1%BA%A1n.md) sẽ giới thiệu 3 chương trình tạo web tĩnh mà mình nghĩ là tốt hơn 11ty.

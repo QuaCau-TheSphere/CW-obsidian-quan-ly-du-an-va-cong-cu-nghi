@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-07-05T13:39
+updated: 2026-08-27T20:25
 title: 💎 Giới thiệu về Obsidian
 ---
 ![](https://obsidian.md/images/screenshot-1.0-hero-combo.png) 

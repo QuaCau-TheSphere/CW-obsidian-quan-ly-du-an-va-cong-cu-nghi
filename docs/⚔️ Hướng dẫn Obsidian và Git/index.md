@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-07-05T13:39
+updated: 2026-08-27T20:16
 title: ⚔️ Hướng dẫn Obsidian và Git
 ---
-# Bài học chính
+## Bài học chính
 - [1 Làm quen với Obsidian](./1%20L%C3%A0m%20quen%20v%E1%BB%9Bi%20Obsidian/index.md)
 - [2 Xây dựng dự án với plugin](./2%20X%C3%A2y%20d%E1%BB%B1ng%20d%E1%BB%B1%20%C3%A1n%20v%E1%BB%9Bi%20plugin/index.md)
 - [4 Du hành thời gian với Git](./4%20Du%20h%C3%A0nh%20th%E1%BB%9Di%20gian%20v%E1%BB%9Bi%20Git/index.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-07-12T16:24
-updated: 2026-07-16T13:30
+updated: 2026-09-05T20:14
 ---
 Khái niệm:: [Minh bạch](Minh%20b%E1%BA%A1ch.md), [Định lượng](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/%C4%90%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng.md)
 Sự công bằng đòi hỏi sự minh bạch

@@ -2,7 +2,7 @@
 share: true
 blog: working
 created: 2026-05-31T17:01
-updated: 2026-08-19T15:40
+updated: 2026-09-03T13:31
 description: "Có 2 lý do chính: (1) Việc viết giúp diễn đạt được ý tốt hơn là nói. (2) Việc đưa liên kết không phải chỉ là để đọc bài viết, mà còn là để khám phá một sân chơi"
 title: Vì sao tôi hay chia sẻ bài viết của mình hơn là tự nói?
 ---
@@ -58,7 +58,7 @@ Có cập nhật gì thì họ cũng luôn được biết mà không cần ph�
 [Khu vườn số luôn phát triển và thay đổi. Nó không bao giờ có trạng thái hoàn thành](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Ghi%20ch%C3%BA%20th%C3%B4ng%20tin/Khu%20v%C6%B0%E1%BB%9Dn%20s%E1%BB%91%20lu%C3%B4n%20ph%C3%A1t%20tri%E1%BB%83n%20v%C3%A0%20thay%20%C4%91%E1%BB%95i.%20N%C3%B3%20kh%C3%B4ng%20bao%20gi%E1%BB%9D%20c%C3%B3%20tr%E1%BA%A1ng%20th%C3%A1i%20ho%C3%A0n%20th%C3%A0nh.md)
 [Living document](https://en.wikipedia.org/wiki/Living_document)
 
-[Sự khác biệt giữa các nền tảng viết trên mạng](./S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20c%C3%A1c%20n%E1%BB%81n%20t%E1%BA%A3ng%20vi%E1%BA%BFt%20tr%C3%AAn%20m%E1%BA%A1ng.md)
+[Facebook cho cảm giác rằng điều ta sắp nói ra đã lỗi thời. Substack cho cảm giác rằng ta là người đầu tiên truyền tải đến người theo dõi](../Ti%E1%BA%BFp%20th%E1%BB%8B%20s%E1%BB%91/Facebook%20cho%20c%E1%BA%A3m%20gi%C3%A1c%20r%E1%BA%B1ng%20%C4%91i%E1%BB%81u%20ta%20s%E1%BA%AFp%20n%C3%B3i%20ra%20%C4%91%C3%A3%20l%E1%BB%97i%20th%E1%BB%9Di.%20Substack%20cho%20c%E1%BA%A3m%20gi%C3%A1c%20r%E1%BA%B1ng%20ta%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BA%A7u%20ti%C3%AAn%20truy%E1%BB%81n%20t%E1%BA%A3i%20%C4%91%E1%BA%BFn%20ng%C6%B0%E1%BB%9Di%20theo%20d%C3%B5i.md)
 ## Các lý do khác
 Nguồn sự thật duy nhất [Single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth)
 [Don't repeat yourself](https://en.wikipedia.org/wiki/Don't_repeat_yourself)

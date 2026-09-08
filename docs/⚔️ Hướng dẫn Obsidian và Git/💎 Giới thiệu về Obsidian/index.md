@@ -1,13 +1,14 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-08-27T20:25
+updated: 2026-09-03T15:06
 title: 💎 Giới thiệu về Obsidian
 ---
 ![](https://obsidian.md/images/screenshot-1.0-hero-combo.png) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=BTuGvfQGOrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Mục đích xây vault của bạn là gì?
+
 
 ## Điểm mạnh và điểm yếu của Obsidian là gì?
 - \-: 

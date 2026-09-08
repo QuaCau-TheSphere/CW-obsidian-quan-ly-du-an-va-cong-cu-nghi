@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-09-02T15:57
-updated: 2026-09-03T13:29
+updated: 2026-09-03T15:08
 aliases:
   - mkdocs, lume, quartz
 ---
@@ -46,6 +46,7 @@ Nếu bạn muốn tìm hiểu thêm về môi trường thực thi Node và Den
 ## Xem thêm
 - [Người dùng cá nhân hoặc dự án nhỏ có nên dùng WordPress hay không?](./WordPress%20gi%C3%BAp%20vi%E1%BB%87c%20t%E1%BA%A1o%20web%20d%E1%BB%85%20d%C3%A0ng%20nh%E1%BA%A5t,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20th%E1%BB%A9%20qu%E1%BA%A3n%20l%C3%BD%20web%20hi%E1%BB%87u%20qu%E1%BA%A3%20nh%E1%BA%A5t.md)
 - [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
+- [Các vấn đề của plugin Digital Garden trong việc tạo trang web từ kho](./C%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20c%E1%BB%A7a%20plugin%20Digital%20Garden%20trong%20vi%E1%BB%87c%20t%E1%BA%A1o%20trang%20web%20t%E1%BB%AB%20kho.md)
 
 ## Nơi thảo luận
 ![](https://i.imgur.com/4fq665i.png)

@@ -2,7 +2,7 @@
 share: true
 blog: working
 created: 2026-07-01T12:07
-updated: 2026-08-16T14:52
+updated: 2026-09-03T21:58
 title: Làm sao để có một buổi khai vấn (mentor) tốt?
 description: Làm sao để biết được điều mình cần biết mà không biết?
 ---
@@ -97,13 +97,13 @@ Cơ bản cũng tương tự như câu hỏi [Tôi thấy mông lung, không bi�
 - [Có cố vấn, huấn luyện viên](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/C%C3%B3%20c%E1%BB%91%20v%E1%BA%A5n,%20hu%E1%BA%A5n%20luy%E1%BB%87n%20vi%C3%AAn.md)
 - [Canvas và mạng lưới liên kết các khái niệm, bài viết, ghi chú](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Canvas%20v%C3%A0%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20li%C3%AAn%20k%E1%BA%BFt%20c%C3%A1c%20kh%C3%A1i%20ni%E1%BB%87m,%20b%C3%A0i%20vi%E1%BA%BFt,%20ghi%20ch%C3%BA.md)
 - [Đồ họa thông tin, sơ đồ](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/%C4%90%E1%BB%93%20h%E1%BB%8Da%20th%C3%B4ng%20tin,%20s%C6%A1%20%C4%91%E1%BB%93.md)
+- [Cú pháp, kiểu dữ liệu](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/C%C3%BA%20ph%C3%A1p,%20ki%E1%BB%83u%20d%E1%BB%AF%20li%E1%BB%87u.md)
+- [Danh sách tổng hợp không sắp thứ tự](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Danh%20s%C3%A1ch%20t%E1%BB%95ng%20h%E1%BB%A3p%20kh%C3%B4ng%20s%E1%BA%AFp%20th%E1%BB%A9%20t%E1%BB%B1.md)
 - [Danh sách tổng hợp sắp theo tiêu chí](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Danh%20s%C3%A1ch%20t%E1%BB%95ng%20h%E1%BB%A3p%20s%E1%BA%AFp%20theo%20ti%C3%AAu%20ch%C3%AD.md)
 - [Danh sách từ bình chọn tập thể](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Danh%20s%C3%A1ch%20t%E1%BB%AB%20b%C3%ACnh%20ch%E1%BB%8Dn%20t%E1%BA%ADp%20th%E1%BB%83.md)
 - [Hệ thống quản lý nội dung](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/H%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung.md)
-- [Danh sách tổng hợp không sắp thứ tự](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Danh%20s%C3%A1ch%20t%E1%BB%95ng%20h%E1%BB%A3p%20kh%C3%B4ng%20s%E1%BA%AFp%20th%E1%BB%A9%20t%E1%BB%B1.md)
-- [Tiếp thị](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Ti%E1%BA%BFp%20th%E1%BB%8B.md)
-- [Cú pháp, kiểu dữ liệu](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/C%C3%BA%20ph%C3%A1p,%20ki%E1%BB%83u%20d%E1%BB%AF%20li%E1%BB%87u.md)
 - [Môi trường tạo khả năng](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20t%E1%BA%A1o%20kh%E1%BA%A3%20n%C4%83ng.md)
+- [Tiếp thị](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Ti%E1%BA%BFp%20th%E1%BB%8B.md)
 
 
 Dự án:: [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
@@ -125,3 +125,8 @@ Còn không thì với nhu cầu nhỏ thì dùng web tĩnh có lợi về lâu 
 WordPress ra đời năm 2003. 21 năm đã trôi qua, và công nghệ web cũng đã có nhiều thứ mới. Thời điểm đó không có Git, Node, Stack Overflow, VS Code, Astro, Obsidian, LLM. Những cái tên mình liệt kê ra ở đây có thể bạn không hiểu nó là gì, nhưng chúng đã làm cho việc sử dụng web tĩnh trở nên nhẹ nhàng hơn, hoặc có nhiều lợi ích hơn. Nhưng kể cả là ngay bây giờ, khi đã có những công cụ đó, thì mình vẫn phải thừa nhận là với người không biết gì thì đi bước đầu tiên bằng WordPress vẫn dễ hơn đi bước đầu tiên bằng web tĩnh. 
 
 Điều mình muốn nhấn mạnh, với tư cách là một người đã có một lượng trải nghiệm không tí trong lĩnh vực lập trình web, là WordPress sẽ làm những bước đi tiếp theo của bạn kém thoải mái hơn nhiều. Tương tự việc [các ERP được dựng sẵn không đủ khả năng đáp ứng những luồng làm việc và suy nghĩ đặc thù](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/No%20code,%20low%20code/C%C3%A1c%20ERP%20%C4%91%C6%B0%E1%BB%A3c%20d%E1%BB%B1ng%20s%E1%BA%B5n%20kh%C3%B4ng%20%C4%91%E1%BB%A7%20kh%E1%BA%A3%20n%C4%83ng%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nh%E1%BB%AFng%20lu%E1%BB%93ng%20l%C3%A0m%20vi%E1%BB%87c%20v%C3%A0%20suy%20ngh%C4%A9%20%C4%91%E1%BA%B7c%20th%C3%B9.md), [có rất nhiều đánh đổi trong cái ngành công nghệ thông tin này](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/%C4%90%C3%A1nh%20%C4%91%E1%BB%95i/Vi%E1%BB%87c%20l%E1%BA%ADp%20tr%C3%ACnh%20%C3%ADt%20tr%E1%BB%B1c%20gi%C3%A1c%20h%C6%A1n%20nh%C6%B0ng%20l%E1%BA%A1i%20c%C3%B3%20nhi%E1%BB%81u%20%C4%91%C3%A1nh%20%C4%91%E1%BB%95i%20h%C6%A1n%20c%C3%A1c%20ng%C3%A0nh%20kh%C3%A1c.md). Hãy chọn loại đánh đổi nào đem lại hiệu quả nhất cho bạn.
+
+
+
+[Mentor - iMentor](https://imentor.vn/mentor/)
+[ABG Leadership Mentoring Lab](https://register.abg.edu.vn/abgmentoringlab)

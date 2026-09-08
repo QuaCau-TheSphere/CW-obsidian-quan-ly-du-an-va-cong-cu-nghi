@@ -2,16 +2,18 @@
 share: true
 blog: working
 created: 2026-07-22T20:41
-updated: 2026-08-28T14:57
+updated: 2026-09-05T21:20
 title: Học ngôn ngữ lập trình nào để giải quyết nhu cầu công việc?
 aliases:
   - gleam
+  - dx
+  - Dự án phi lợi nhuận cần gì khi cần lập trình
 ---
 [Ngành lập trình có rất nhiều đánh đổi](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/%C4%90%C3%A1nh%20%C4%91%E1%BB%95i/Vi%E1%BB%87c%20l%E1%BA%ADp%20tr%C3%ACnh%20%C3%ADt%20tr%E1%BB%B1c%20gi%C3%A1c%20h%C6%A1n%20nh%C6%B0ng%20l%E1%BA%A1i%20c%C3%B3%20nhi%E1%BB%81u%20%C4%91%C3%A1nh%20%C4%91%E1%BB%95i%20h%C6%A1n%20c%C3%A1c%20ng%C3%A0nh%20kh%C3%A1c.md). [Con người bị giới hạn ở thời gian và sự chú ý. Máy tính bị giới hạn ở khả năng tính toán và bộ lưu trữ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/%C4%90%C3%A1nh%20%C4%91%E1%BB%95i/Con%20ng%C6%B0%E1%BB%9Di%20b%E1%BB%8B%20gi%E1%BB%9Bi%20h%E1%BA%A1n%20%E1%BB%9F%20th%E1%BB%9Di%20gian%20v%C3%A0%20s%E1%BB%B1%20ch%C3%BA%20%C3%BD.%20M%C3%A1y%20t%C3%ADnh%20b%E1%BB%8B%20gi%E1%BB%9Bi%20h%E1%BA%A1n%20%E1%BB%9F%20kh%E1%BA%A3%20n%C4%83ng%20t%C3%ADnh%20to%C3%A1n%20v%C3%A0%20b%E1%BB%99%20l%C6%B0u%20tr%E1%BB%AF.md). [Các ngôn ngữ lập trình là sự thỏa hiệp giữa con người và máy móc](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/%C4%90%C3%A1nh%20%C4%91%E1%BB%95i/C%C3%A1c%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BA%ADp%20tr%C3%ACnh%20l%C3%A0%20s%E1%BB%B1%20th%E1%BB%8Fa%20hi%E1%BB%87p%20gi%E1%BB%AFa%20con%20ng%C6%B0%E1%BB%9Di%20v%C3%A0%20m%C3%A1y%20m%C3%B3c.md).
 
-Nên nếu bạn đến với lập trình với mong muốn thuần túy để giải quyết [Nhu cầu công việc](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/index.md), thì trừ phi công việc đó đòi hỏi phải khắc phục được các giới hạn kỹ thuật đặc thù, thì thứ bạn cần là một ngôn ngữ xem trải nghiệm lập trình viên là tiêu chí cao nhất, và tự xử lý những thứ khác. Máy móc cần được hy sinh cho con người, chứ không phải con người hy sinh cho máy móc. Trải nghiệm lập trình viên, tiếng Anh là developer experience, viết tắt là DX. Nếu bạn từng nghe qua trải nghiệm người dùng (user experience, UX) thì nó cũng là tương tự. Lập trình viên chẳng qua cũng là một người dùng ngôn ngữ mà thôi.
+Nên nếu bạn đến với lập trình với mong muốn thuần túy để giải quyết [Nhu cầu công việc](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/index.md), thì trừ phi công việc đó đòi hỏi phải khắc phục được các giới hạn kỹ thuật đặc thù, thì thứ bạn cần là một ngôn ngữ xem trải nghiệm lập trình viên là tiêu chí cao nhất, và tự xử lý những thứ khác. Máy móc cần được hy sinh cho con người, chứ không phải con người hy sinh cho máy móc. Trải nghiệm lập trình viên, tiếng Anh là developer experience, viết tắt là DX. Nếu bạn từng nghe qua trải nghiệm người dùng c(user experience, UX) thì nó cũng là tương tự. Lập trình viên chẳng qua cũng là một người dùng ngôn ngữ mà thôi.
 Những ngôn ngữ bậc cao, xem cái máy là một thứ hoàn hảo không có lỗi
-
+Sẵn sàng đánh đổi những giá trị khác
 Những tiêu chí đánh giá:
 - Dễ học
 - Chống sai

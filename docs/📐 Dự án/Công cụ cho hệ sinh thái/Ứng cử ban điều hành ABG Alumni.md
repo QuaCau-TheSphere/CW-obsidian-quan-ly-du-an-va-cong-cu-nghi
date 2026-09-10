@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-08-09T12:43
-updated: 2026-09-09T17:40
+updated: 2026-09-10T13:39
 ---
 ## Chương trình hành động, hoạt động đề xuất 
 ### Tổ chức các buổi cùng nhìn về các nhu cầu và nguồn lực của nhau
@@ -14,21 +14,22 @@ Từ dữ liệu về các nhu cầu và nguồn lực được ghi nhận, ta c
 
 Đây là một ví dụ về các buổi chuyên đề như vậy: [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
 
+### Kết nối ABG Alumni với các mạng lưới khác 
+Mỗi người đều là thành viên của nhiều mạng lưới khác nhau. Đó có thể là mạng lưới người thân, bạn bè, thú vui, nghề nghiệp, v.v. ABG Alumni chỉ là một trong những mạng lưới đó. Nếu bạn cũng đang muốn phát triển một mạng lưới khác, không có lý do gì ABG Alumni không cùng tham gia được với bạn.
+
+Việc kết nối không nên chỉ là trong nội bộ với nhau mà còn là với các mạng lưới khác. Cùng với nhau, ABG Alumni sẽ không chỉ là một mạng lưới, mà sẽ trở thành một mạng lưới các mạng lưới, từ đó sẽ dễ dàng [đưa tài nguyên tốt nhất cho nhu cầu của thành viên một cách nhanh nhất](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%8Dc%20t%E1%BA%ADp/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20th%E1%BB%83%20t%C3%ACm%20%C4%91%E1%BA%BFn%20t%C3%A0i%20nguy%C3%AAn%20t%E1%BB%91t%20nh%E1%BA%A5t%20cho%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20m%C3%ACnh%20m%E1%BB%99t%20c%C3%A1ch%20nhanh%20nh%E1%BA%A5t.md).
+
 ### Tổ chức các buổi tập huấn cho các cá nhân, tổ chức muốn có sự tự trị dữ liệu hoặc khả năng liên thông dữ liệu với các cá nhân, tổ chức khác
-Mỗi người chúng ta nằm trong một mạng lưới các mối quan hệ khác biệt. Chính vì như vậy, một mạng lưới liên kết các cá nhân là một mạng lưới các mạng lưới. Hệ thống quản lý dữ liệu của mỗi người không chỉ phải có khả năng quản lý các mối quan hệ xung quanh ta, mà còn phải giúp ta sử dụng và đóng góp dữ liệu vào các mạng lưới khác một cách dễ dàng. Nếu có thể làm việc đó tự động thì càng tốt.
+Bởi vì mỗi cá nhân đều là thành viên của nhiều mạng lưới khác nhau, nên các mối quan hệ cá nhân là một mạng lưới các mạng lưới ở dạng thô sơ. Với mạng lưới các cá nhân, tổ chức cũng tương tự như vậy. Để các mạng lưới các mạng lưới này hoạt động hiệu quả hơn, hệ thống quản lý dữ liệu của từng người phải giúp ta sử dụng và đóng góp dữ liệu vào các mạng lưới một cách dễ dàng. Nếu có thể làm việc đó tự động thì càng tốt.
 
 Đã có những công cụ quản lý dữ liệu được sinh ra để đáp ứng nhu cầu này, nhưng chưa được phổ biến vì chúng đòi hỏi người dùng phải biết cách sử dụng. Dù sao thì kiến thức là sức mạnh; muốn dùng được những công cụ mạnh mẽ thì cần phải bỏ thời gian và sự chú tâm để học. Các buổi như thế này sẽ làm các rào cản đó xuống thấp nhất có thể.
 
-### Kết nối ABG Alumni với các mạng lưới khác 
-Mỗi người đều là thành viên của nhiều mạng lưới khác nhau. Việc kết nối không chỉ là trong nội bộ với nhau mà còn là với các mạng lưới khác.
-
 ### Lập một quỹ tín dụng vi mô
-Không để ai bị bỏ lại phía sau
-Có thể tham khảo mô hình [Quỹ Đồng Hành](https://docs.google.com/document/u/0/d/1A5eW3CkKm55YSxaODh50mr_DDLG0ssM9DTOt3emef5I)
+Các dự án cá nhân luôn có nguy cơ bị gác lại để ưu tiên việc mưu sinh. Để hỗ trợ các thành viên tiếp cận nguồn vốn, xây dựng thói quen tiết kiệm và tăng cường khả năng tự chủ tài chính được tốt hơn, ABG Alumni có thể lập một quỹ tín dụng vi mô. Có thể tham khảo mô hình từ [Quỹ Đồng Hành](https://docs.google.com/document/u/0/d/1A5eW3CkKm55YSxaODh50mr_DDLG0ssM9DTOt3emef5I).
 
 ## Các công việc cần làm
-- Làm việc với các bên liên quan để hiểu hơn về landscape hiện tại
-- Tìm nhân sự làm phỏng vấn, truyền thông, hậu cần
+- Làm việc với các bên liên quan để có cái nhìn toàn cảnh 
+- Tìm nhân sự cùng làm, đặc biệt là ở mảng phỏng vấn, truyền thông, hậu cần
 - Tổ chức các buổi thảo luận chung 
 - Với những người không tham gia thì liên hệ riêng với họ để phỏng vấn nhu cầu của họ
 - Cố gắng mỗi quý có một buổi tổng kết hoạt động
@@ -40,8 +41,9 @@ Có thể tham khảo mô hình [Quỹ Đồng Hành](https://docs.google.com/do
 
 ### Quan điểm, triết lý, cách nhìn, cách tiếp cận
 Về việc kết nối:
-- Nguồn lực hữu ích luôn ở quanh ta
+- Nguồn lực hữu ích luôn ở quanh ta. Điều cần làm là làm cho chúng hiển lộ
 - Việc kết nối không chỉ là trong nội bộ với nhau mà còn là với các mạng lưới khác
+- [Giá trị của việc kết nối nằm ở việc đưa tài nguyên tốt nhất cho người cần nó một cách nhanh nhất](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%8Dc%20t%E1%BA%ADp/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20th%E1%BB%83%20t%C3%ACm%20%C4%91%E1%BA%BFn%20t%C3%A0i%20nguy%C3%AAn%20t%E1%BB%91t%20nh%E1%BA%A5t%20cho%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20m%C3%ACnh%20m%E1%BB%99t%20c%C3%A1ch%20nhanh%20nh%E1%BA%A5t.md)
 - Hướng tới nền kinh tế quà tặng
 
 Về dữ liệu và hệ thống thông tin:

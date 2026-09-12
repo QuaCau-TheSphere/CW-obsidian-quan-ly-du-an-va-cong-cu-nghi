@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-08-09T12:43
-updated: 2026-09-10T13:39
+updated: 2026-09-12T23:47
 ---
 ## Chương trình hành động, hoạt động đề xuất 
 ### Tổ chức các buổi cùng nhìn về các nhu cầu và nguồn lực của nhau
@@ -19,12 +19,12 @@ Mỗi người đều là thành viên của nhiều mạng lưới khác nhau. 
 
 Việc kết nối không nên chỉ là trong nội bộ với nhau mà còn là với các mạng lưới khác. Cùng với nhau, ABG Alumni sẽ không chỉ là một mạng lưới, mà sẽ trở thành một mạng lưới các mạng lưới, từ đó sẽ dễ dàng [đưa tài nguyên tốt nhất cho nhu cầu của thành viên một cách nhanh nhất](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%8Dc%20t%E1%BA%ADp/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20th%E1%BB%83%20t%C3%ACm%20%C4%91%E1%BA%BFn%20t%C3%A0i%20nguy%C3%AAn%20t%E1%BB%91t%20nh%E1%BA%A5t%20cho%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20m%C3%ACnh%20m%E1%BB%99t%20c%C3%A1ch%20nhanh%20nh%E1%BA%A5t.md).
 
-### Tổ chức các buổi tập huấn cho các cá nhân, tổ chức muốn có sự tự trị dữ liệu hoặc khả năng liên thông dữ liệu với các cá nhân, tổ chức khác
+### Tập huấn cho các cá nhân, tổ chức muốn việc kết nối nhu cầu, nguồn lực trong mạng lưới quan hệ của mình được diễn ra hiệu quả nhất
 Bởi vì mỗi cá nhân đều là thành viên của nhiều mạng lưới khác nhau, nên các mối quan hệ cá nhân là một mạng lưới các mạng lưới ở dạng thô sơ. Với mạng lưới các cá nhân, tổ chức cũng tương tự như vậy. Để các mạng lưới các mạng lưới này hoạt động hiệu quả hơn, hệ thống quản lý dữ liệu của từng người phải giúp ta sử dụng và đóng góp dữ liệu vào các mạng lưới một cách dễ dàng. Nếu có thể làm việc đó tự động thì càng tốt.
 
-Đã có những công cụ quản lý dữ liệu được sinh ra để đáp ứng nhu cầu này, nhưng chưa được phổ biến vì chúng đòi hỏi người dùng phải biết cách sử dụng. Dù sao thì kiến thức là sức mạnh; muốn dùng được những công cụ mạnh mẽ thì cần phải bỏ thời gian và sự chú tâm để học. Các buổi như thế này sẽ làm các rào cản đó xuống thấp nhất có thể.
+Để đạt được điều đó, việc liên thông dữ liệu giữa các cá nhân, tổ chức với nhau phải được diễn ra dễ dàng nhất. Đã có những công cụ quản lý dữ liệu được sinh ra để đáp ứng nhu cầu này, nhưng chưa được phổ biến vì chúng đòi hỏi người dùng phải biết cách sử dụng. Dù sao thì kiến thức là sức mạnh; muốn dùng được những công cụ mạnh mẽ thì cần phải bỏ thời gian và sự chú tâm để học. Các buổi như thế này sẽ làm các rào cản đó xuống thấp nhất có thể.
 
-### Lập một quỹ tín dụng vi mô
+### Lập một quỹ chung cho nhau
 Các dự án cá nhân luôn có nguy cơ bị gác lại để ưu tiên việc mưu sinh. Để hỗ trợ các thành viên tiếp cận nguồn vốn, xây dựng thói quen tiết kiệm và tăng cường khả năng tự chủ tài chính được tốt hơn, ABG Alumni có thể lập một quỹ tín dụng vi mô. Có thể tham khảo mô hình từ [Quỹ Đồng Hành](https://docs.google.com/document/u/0/d/1A5eW3CkKm55YSxaODh50mr_DDLG0ssM9DTOt3emef5I).
 
 ## Các công việc cần làm
@@ -59,3 +59,4 @@ Về cách làm việc:
 - [Muốn thấy điều không biết là mình không biết thì cần phải ở trạng thái khám phá](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/Mu%E1%BB%91n%20th%E1%BA%A5y%20%C4%91i%E1%BB%81u%20kh%C3%B4ng%20bi%E1%BA%BFt%20l%C3%A0%20m%C3%ACnh%20kh%C3%B4ng%20bi%E1%BA%BFt%20th%C3%AC%20c%E1%BA%A7n%20ph%E1%BA%A3i%20%E1%BB%9F%20tr%E1%BA%A1ng%20th%C3%A1i%20kh%C3%A1m%20ph%C3%A1.md)
 - [Áp lực giết chết sự sáng tạo](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/%C3%81p%20l%E1%BB%B1c%20gi%E1%BA%BFt%20ch%E1%BA%BFt%20s%E1%BB%B1%20s%C3%A1ng%20t%E1%BA%A1o.md)
 - [Định luật Hofstadter: Mọi thứ sẽ luôn tốn thời gian hơn bạn nghĩ, kể cả khi bạn đã tính đến định luật Hofstadter](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/Th%E1%BB%9Di%20gian%20l%C3%A0m%20vi%E1%BB%87c/M%E1%BB%8Di%20th%E1%BB%A9%20s%E1%BA%BD%20lu%C3%B4n%20t%E1%BB%91n%20th%E1%BB%9Di%20gian%20h%C6%A1n%20b%E1%BA%A1n%20ngh%C4%A9.md)
+- [Khi một người dành thời gian để làm một điều đúng ở hiện tại, họ là một người cầu toàn không có khả năng ưu tiên. Còn khi một người dành thời gian làm một điều đúng trong quá khứ, họ là nghệ nhân bậc thầy với tầm nhìn xa trông rộng](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/Khi%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20d%C3%A0nh%20th%E1%BB%9Di%20gian%20l%C3%A0m%20m%E1%BB%99t%20%C4%91i%E1%BB%81u%20%C4%91%C3%BAng%20trong%20qu%C3%A1%20kh%E1%BB%A9,%20h%E1%BB%8D%20l%C3%A0%20ngh%E1%BB%87%20nh%C3%A2n%20b%E1%BA%ADc%20th%E1%BA%A7y%20v%E1%BB%9Bi%20t%E1%BA%A7m%20nh%C3%ACn%20xa%20tr%C3%B4ng%20r%E1%BB%99ng.md)

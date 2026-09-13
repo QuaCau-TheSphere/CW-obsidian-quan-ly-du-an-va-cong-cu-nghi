@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-06-28T21:12
-updated: 2026-09-05T20:18
+updated: 2026-09-12T23:52
 ---
 Nguồn::
 [Con người chuyển từ kỹ năng này sang kỹ năng khác ngay cả khi họ chỉ có một khái niệm mơ hồ về đích đến cuối cùng](../Hi%E1%BB%83u%20bi%E1%BA%BFt/H%E1%BB%8Dc%20t%E1%BA%ADp/K%E1%BB%B9%20n%C4%83ng,%20%C4%91%E1%BB%99ng%20l%E1%BB%B1c/Con%20ng%C6%B0%E1%BB%9Di%20chuy%E1%BB%83n%20t%E1%BB%AB%20k%E1%BB%B9%20n%C4%83ng%20n%C3%A0y%20sang%20k%E1%BB%B9%20n%C4%83ng%20kh%C3%A1c%20ngay%20c%E1%BA%A3%20khi%20h%E1%BB%8D%20ch%E1%BB%89%20c%C3%B3%20m%E1%BB%99t%20kh%C3%A1i%20ni%E1%BB%87m%20m%C6%A1%20h%E1%BB%93%20v%E1%BB%81%20%C4%91%C3%ADch%20%C4%91%E1%BA%BFn%20cu%E1%BB%91i%20c%C3%B9ng.md)
@@ -12,4 +12,5 @@ Nguồn::
 
 [Chúng ta săn tìm và tích trữ thông tin giống như săn tìm và tích trữ lương thực](../Hi%E1%BB%83u%20bi%E1%BA%BFt/Ch%C3%BAng%20ta%20s%C4%83n%20t%C3%ACm%20v%C3%A0%20t%C3%ADch%20tr%E1%BB%AF%20th%C3%B4ng%20tin%20gi%E1%BB%91ng%20nh%C6%B0%20s%C4%83n%20t%C3%ACm%20v%C3%A0%20t%C3%ADch%20tr%E1%BB%AF%20l%C6%B0%C6%A1ng%20th%E1%BB%B1c.md)
 [Việc thu thập tài nguyên tạo cảm giác hữu ích hơn là sự hữu ích thực sự của tài nguyên](../M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Ghi%20ch%C3%BA%20th%C3%B4ng%20tin/Vi%E1%BB%87c%20thu%20th%E1%BA%ADp%20t%C3%A0i%20nguy%C3%AAn%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20h%E1%BB%AFu%20%C3%ADch%20h%C6%A1n%20l%C3%A0%20s%E1%BB%B1%20h%E1%BB%AFu%20%C3%ADch%20th%E1%BB%B1c%20s%E1%BB%B1%20c%E1%BB%A7a%20t%C3%A0i%20nguy%C3%AAn.md)
+[Khác với những email chưa trả lời hay công việc còn dang dở, sách chưa đọc thường không tạo cảm giác áp lực](../M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Kh%C3%A1c%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20email%20ch%C6%B0a%20tr%E1%BA%A3%20l%E1%BB%9Di%20hay%20c%C3%B4ng%20vi%E1%BB%87c%20c%C3%B2n%20dang%20d%E1%BB%9F,%20s%C3%A1ch%20ch%C6%B0a%20%C4%91%E1%BB%8Dc%20th%C6%B0%E1%BB%9Dng%20kh%C3%B4ng%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20%C3%A1p%20l%E1%BB%B1c.md)
 ![What is Tsundoku meaning and example: the act of collecting books without reading them shown by a person snoozing happily on their bed surrounded by books, books and books](https://images.prismic.io/sketchplanations/aWpTGAIvOtkhBp0E_SP606-Tsundoku-revised.png?auto=format%2Ccompress&fit=max&w=3840)

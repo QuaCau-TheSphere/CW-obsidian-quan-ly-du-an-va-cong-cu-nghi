@@ -10,4 +10,4 @@ Mẫu tạo mới (template) sẽ liệt kê hết tất cả điểm cộng và
 
 Cũng chính vì như vậy, nên sẽ có những điểm cộng, điểm trừ không chính xác, khi người tạo không có thời gian để tìm hiểu kỹ. Nhược điểm của hướng tiếp cận thà giết nhầm còn hơn bỏ sót, tất nhiên, là sẽ có lúc giết nhầm. Trong tương lai khi viết được language server cho việc này thì sẽ không cần phải làm vậy nữa.
 
-Để có thể điều chỉnh bảng so sánh, bạn cần [tải kho về máy](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/9%20Blog/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%E1%BA%A3i%20kho.md).
+Để có thể điều chỉnh bảng so sánh, bạn cần [tải kho về máy](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/Kho%20tri%20th%E1%BB%A9c%20v%E1%BB%81%20Obsidian,%20qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/9%20Blog/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%E1%BA%A3i%20kho.md).

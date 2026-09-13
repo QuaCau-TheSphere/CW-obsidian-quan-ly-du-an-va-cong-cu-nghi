@@ -98,7 +98,7 @@ Làm suốt, dùng R, tạo một nhóm từ theo list phân loại sẵn để 
 [16-10-24](16-10-24.md) 13:15 duyệt https://www.facebook.com/groups/mangluoisnpo/posts/1589179501944484/
 [17-10-24](17-10-24.md) 00:39 23 vote, 2 react, 1 comment
 
-# [Kho địa điểm để chọn nơi gặp mặt](../../../../C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/Truy%E1%BB%81n%20th%C3%B4ng/Kho%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20%C4%91%E1%BB%83%20ch%E1%BB%8Dn%20n%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t.md)
+# [Kho địa điểm để chọn nơi gặp mặt](../../../../K%E1%BA%BFt%20n%E1%BB%91i%20ngu%E1%BB%93n%20l%E1%BB%B1c/Truy%E1%BB%81n%20th%C3%B4ng/Kho%20%C4%91%E1%BB%8Ba%20%C4%91i%E1%BB%83m%20%C4%91%E1%BB%83%20ch%E1%BB%8Dn%20n%C6%A1i%20g%E1%BA%B7p%20m%E1%BA%B7t.md)
 ## Project Community
 https://www.facebook.com/groups/1027036950828309/pending_posts/2496992517166071/
 ## SNPO
@@ -108,4 +108,4 @@ https://www.facebook.com/groups/1027036950828309/pending_posts/2496992517166071/
 ## ABG 
 [08-10-24](08-10-24.md) 20:44 Đăng
 [09-10-24](09-10-24.md) 14:34 Được duyệt https://www.facebook.com/groups/abgnetworkofficial/posts/2900536680100579/
-[Buổi thảo luận về việc xây dựng mạng lưới đối tác, các bên liên quan](../../../../C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/Truy%E1%BB%81n%20th%C3%B4ng/Bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20vi%E1%BB%87c%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.md)
+[Buổi thảo luận về việc xây dựng mạng lưới đối tác, các bên liên quan](../../../../K%E1%BA%BFt%20n%E1%BB%91i%20ngu%E1%BB%93n%20l%E1%BB%B1c/Truy%E1%BB%81n%20th%C3%B4ng/Bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn%20v%E1%BB%81%20vi%E1%BB%87c%20x%C3%A2y%20d%E1%BB%B1ng%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi%20%C4%91%E1%BB%91i%20t%C3%A1c,%20c%C3%A1c%20b%C3%AAn%20li%C3%AAn%20quan.md)

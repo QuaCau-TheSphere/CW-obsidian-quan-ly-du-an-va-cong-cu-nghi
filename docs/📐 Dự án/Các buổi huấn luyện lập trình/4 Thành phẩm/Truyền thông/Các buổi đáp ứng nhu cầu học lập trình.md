@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-07-26T15:55
-updated: 2026-01-14T13:11
+updated: 2026-09-18T18:04
 aliases:
   - Kế hoạch tiếp thị các buổi đáp ứng nhu cầu học lập trình
 ---
@@ -55,5 +55,5 @@ Mục tiêu: Mỗi ngày có 4 người đọc hơn 50% bài
 [09-11](09-11.md) [Facebook page QC](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Qu%E1%BA%A3%20C%E1%BA%A7u/Facebook%20page%20QC.md), [Discord QC](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Qu%E1%BA%A3%20C%E1%BA%A7u/Discord%20QC/index.md)
 [16-11](16-11.md) [Profile QC](Profile%20QC.md) 
 [06-02](06-02.md) [Dự án xã hội, NPO, nghiên cứu khoa học, nghệ thuật, hội hoạ](../../../%CE%9E%20K%E1%BA%BFt%20qu%E1%BA%A3%20truy%E1%BB%81n%20th%C3%B4ng/N%C6%A1i%20%C4%91%C4%83ng/Nh%C3%B3m%20Facebook/H%E1%BB%97%20tr%E1%BB%A3%20t%E1%BB%95%20ch%E1%BB%A9c/D%E1%BB%B1%20%C3%A1n%20x%C3%A3%20h%E1%BB%99i,%20NPO,%20nghi%C3%AAn%20c%E1%BB%A9u%20khoa%20h%E1%BB%8Dc,%20ngh%E1%BB%87%20thu%E1%BA%ADt,%20h%E1%BB%99i%20ho%E1%BA%A1.md)
-[Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../../9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
+[Các buổi chia sẻ tư duy dữ liệu, công cụ, hệ thống cho nhu cầu công việc](../../9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20chia%20s%E1%BA%BB%20t%C6%B0%20duy%20d%E1%BB%AF%20li%E1%BB%87u,%20c%C3%B4ng%20c%E1%BB%A5,%20h%E1%BB%87%20th%E1%BB%91ng%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
 [Giả thiết về đối tượng cần học cách lập trình](../../2%20Gi%E1%BA%A3%20thuy%E1%BA%BFt/Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20c%E1%BA%A7n%20h%E1%BB%8Dc%20c%C3%A1ch%20l%E1%BA%ADp%20tr%C3%ACnh.md)

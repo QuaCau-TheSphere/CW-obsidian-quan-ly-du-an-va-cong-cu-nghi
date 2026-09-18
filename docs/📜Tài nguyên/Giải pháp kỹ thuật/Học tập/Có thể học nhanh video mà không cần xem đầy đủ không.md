@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-05-22T16:15
-updated: 2026-06-22T09:56
+updated: 2026-09-18T16:48
 title: Có thể học nhanh video mà không cần xem đầy đủ không?
 aliases:
   - youtube

@@ -1,14 +1,14 @@
 ---
 share: true
 created: 2026-07-08T23:56
-updated: 2026-07-08T23:58
+updated: 2026-09-18T18:03
 ---
-Tiêu đề của bài viết [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](./C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md) gồm có 3 phần:
+Tiêu đề của bài viết [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](./C%C3%A1c%20bu%E1%BB%95i%20chia%20s%E1%BA%BB%20t%C6%B0%20duy%20d%E1%BB%AF%20li%E1%BB%87u,%20c%C3%B4ng%20c%E1%BB%A5,%20h%E1%BB%87%20th%E1%BB%91ng%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md) gồm có 3 phần:
 - Các buổi đáp ứng nhu cầu học
 - cách sử dụng công cụ và tư duy lập trình
 - cho nhu cầu công việc
 
-Chúng ta hãy nói thêm về những ý này.
+Chúng ta hãy nói thêm về từng ý này.
 
 ### Đáp ứng nhu cầu học không đồng nhất với giảng bài
 Bởi vì những buổi này để đáp ứng nhu cầu của người tham gia, nên tất cả sẽ cùng thảo luận với nhau để đạt mục tiêu của mình. Trong những cuộc thảo luận mở như vậy, bất kỳ ai cũng có thể hỏi, và ai trả lời được thì trả lời. Có thể sẽ có một ai đó biết nhiều câu trả lời hơn những người còn lại, nhưng điều đó là không quan trọng. Việc được hỏi cũng sẽ đảm bảo rằng ai cũng hiểu được vấn đề, và họ có đủ thời gian để tiếp thu và nghiền ngẫm trước khi tiếp tục nội dung khác. Những người khác khi giải thích cho họ thì cũng sẽ hiểu sâu hơn, vì cách học tốt nhất là dạy.
@@ -34,4 +34,4 @@ Có lẽ là giảm căng thẳng trong việc ổn định cuộc sống. Còn
 [Làm sao để có một buổi khai vấn (mentor) tốt?](../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%8Dc%20t%E1%BA%ADp/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20c%C3%B3%20m%E1%BB%99t%20bu%E1%BB%95i%20khai%20v%E1%BA%A5n%20(mentor)%20t%E1%BB%91t.md)
 
 Không cho thời gian để tự học, hoặc có cho thì thấy bao nhiêu cũng không đủ, vì thấy quá rộng lớn
-[Nỗi ám ảnh với sự hiệu quả có thể đến từ nỗi sợ chết](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Kinh%20t%E1%BA%BF.%20T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc%20qu%E1%BA%A3n%20l%C3%BD%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/T%E1%BB%91i%20%C6%B0u%20ho%C3%A1/N%E1%BB%97i%20%C3%A1m%20%E1%BA%A3nh%20v%E1%BB%9Bi%20s%E1%BB%B1%20hi%E1%BB%87u%20qu%E1%BA%A3%20c%C3%B3%20th%E1%BB%83%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20n%E1%BB%97i%20s%E1%BB%A3%20ch%E1%BA%BFt.md)
+[Nỗi ám ảnh với sự hiệu quả có thể đến từ nỗi sợ chết](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/T%E1%BB%91i%20%C6%B0u%20ho%C3%A1/N%E1%BB%97i%20%C3%A1m%20%E1%BA%A3nh%20v%E1%BB%9Bi%20s%E1%BB%B1%20hi%E1%BB%87u%20qu%E1%BA%A3%20c%C3%B3%20th%E1%BB%83%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20n%E1%BB%97i%20s%E1%BB%A3%20ch%E1%BA%BFt.md)

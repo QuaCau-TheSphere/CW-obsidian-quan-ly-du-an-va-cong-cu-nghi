@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2024-08-23T15:06
-updated: 2026-07-17T13:28
+updated: 2026-09-16T15:41
 aliases:
   - Kho địa điểm để chọn nơi gặp mặt
   - Hướng dẫn sử dụng kho địa điểm để chọn nơi gặp mặt
   - Tìm nơi gặp mặt trực tiếp
-description: Làm sao có thể tìm được địa điểm gặp mặt phù hợp với nhu cầu riêng biệt của mình một cách nhanh nhất?
+description: Làm sao có thể tìm được địa điểm phù hợp với nhu cầu riêng biệt của hoạt động gặp mặt của mình một cách nhanh nhất?
 title: Kho địa điểm để chọn nơi gặp mặt
 ---
 ![](https://i.imgur.com/CXHXI7y.png)

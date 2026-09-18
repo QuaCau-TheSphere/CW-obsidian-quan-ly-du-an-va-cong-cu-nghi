@@ -2,7 +2,7 @@
 share: true
 blog: working
 created: 2026-07-01T12:07
-updated: 2026-09-03T21:58
+updated: 2026-09-18T18:04
 title: Làm sao để có một buổi khai vấn (mentor) tốt?
 description: Làm sao để biết được điều mình cần biết mà không biết?
 ---
@@ -37,7 +37,7 @@ Liệt kê sẵn những nguồn tài nguyên mình có thể chia sẻ cũng nh
 
 Trong trường hợp khai vấn nhóm kết hợp giao lưu (networking) 
 [Xây dựng hệ thống tri thức, kho tài nguyên cộng đồng](./L%C3%A0m%20sao%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20th%E1%BB%83%20t%C3%ACm%20%C4%91%E1%BA%BFn%20t%C3%A0i%20nguy%C3%AAn%20t%E1%BB%91t%20nh%E1%BA%A5t%20cho%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20m%C3%ACnh%20m%E1%BB%99t%20c%C3%A1ch%20nhanh%20nh%E1%BA%A5t.md)
-[Nguyễn Cảnh Bình](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%B4ng%20c%E1%BB%A5%20cho%20h%E1%BB%87%20sinh%20th%C3%A1i/Truy%E1%BB%81n%20th%C3%B4ng/Email/Nguy%E1%BB%85n%20C%E1%BA%A3nh%20B%C3%ACnh.md)
+[Nguyễn Cảnh Bình](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/K%E1%BA%BFt%20n%E1%BB%91i%20ngu%E1%BB%93n%20l%E1%BB%B1c/Truy%E1%BB%81n%20th%C3%B4ng/Email/Nguy%E1%BB%85n%20C%E1%BA%A3nh%20B%C3%ACnh.md)
 [Sự khác biệt giữa khai vấn, tư vấn, đào tạo, huấn luyện](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Hi%E1%BB%83u%20bi%E1%BA%BFt/H%E1%BB%8Dc%20t%E1%BA%ADp/S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20khai%20v%E1%BA%A5n,%20t%C6%B0%20v%E1%BA%A5n,%20%C4%91%C3%A0o%20t%E1%BA%A1o,%20hu%E1%BA%A5n%20luy%E1%BB%87n.md)
 
 Em thấy các buổi khai vấn này có thể làm tốt hơn, để tránh tình trạng mọi người quá phụ thuộc vào anh, và để có thể đưa tài nguyên tốt nhất cho nhu cầu của người cần khai vấn một cách nhanh nhất. Em nghĩ nếu có thể biến buổi khai vấn nhóm của anh thành nơi mọi người hỗ trợ lẫn nhau thì sẽ tốt hơn. Để hiệu quả hơn về mặt thời gian thì người tham gia nên viết sẵn đề án của mình, đồng thời liệt kê các nhu cầu khác mình cần được đáp ứng, cũng như các nguồn lực họ có thể chia sẻ. Họ có thể gửi trước cho nhau hoặc đến buổi đó thì cùng chia sẻ. 
@@ -106,7 +106,7 @@ Cơ bản cũng tương tự như câu hỏi [Tôi thấy mông lung, không bi�
 - [Tiếp thị](../H%E1%BB%87%20th%E1%BB%91ng%20tri%20th%E1%BB%A9c%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Ti%E1%BA%BFp%20th%E1%BB%8B.md)
 
 
-Dự án:: [Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
+Dự án:: [Các buổi chia sẻ tư duy dữ liệu, công cụ, hệ thống cho nhu cầu công việc](../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20chia%20s%E1%BA%BB%20t%C6%B0%20duy%20d%E1%BB%AF%20li%E1%BB%87u,%20c%C3%B4ng%20c%E1%BB%A5,%20h%E1%BB%87%20th%E1%BB%91ng%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
 
 ### Tôi không biết phải tìm các nguồn lực hỗ trợ ở đâu
 [Xây dựng kho tài nguyên cộng đồng](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/X%C3%A2y%20d%E1%BB%B1ng%20kho%20t%C3%A0i%20nguy%C3%AAn%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng.md)

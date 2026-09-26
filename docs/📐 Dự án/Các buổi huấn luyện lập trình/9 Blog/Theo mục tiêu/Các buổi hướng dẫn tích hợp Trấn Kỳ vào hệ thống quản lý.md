@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-09-18T18:04
+updated: 2026-09-21T22:44
 description: Nhập dữ liệu và tạo bảng phân loại ngay trên hệ thống bạn đang dùng
 aliases:
   - Tích hợp Trấn Kỳ vào hệ thống của bạn
@@ -115,7 +115,7 @@ Sau khi xem xét các đăng ký, Quả Cầu sẽ lựa chọn để trao đổ
 
 Đọc thêm các bài sau đây để hiểu hơn về ý tưởng này:
 - [Khi nào thì chiến lược định giá "trả tuỳ tâm" đạt được sự bền vững?](M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20c%E1%BB%A7a%20c%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh.md)
-- [Các buổi chia sẻ tư duy dữ liệu, công cụ, hệ thống cho nhu cầu công việc](../C%C3%A1c%20bu%E1%BB%95i%20chia%20s%E1%BA%BB%20t%C6%B0%20duy%20d%E1%BB%AF%20li%E1%BB%87u,%20c%C3%B4ng%20c%E1%BB%A5,%20h%E1%BB%87%20th%E1%BB%91ng%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
+- [Các buổi thảo luận, đáp ứng nhu cầu công việc, nhu cầu công nghệ](../C%C3%A1c%20bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn,%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c,%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87.md)
 - [Lý do viết Trấn Kỳ](L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 
 Thông tin liên hệ:

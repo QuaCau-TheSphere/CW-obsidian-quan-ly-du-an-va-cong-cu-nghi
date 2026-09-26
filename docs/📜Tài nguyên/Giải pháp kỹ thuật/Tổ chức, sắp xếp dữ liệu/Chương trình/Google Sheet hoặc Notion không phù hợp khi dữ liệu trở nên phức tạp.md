@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-12-31T11:01
-updated: 2026-09-18T18:04
+updated: 2026-09-21T22:44
 ---
 # Khi nào thì Google Sheet hoặc Notion không phù hợp để dùng?
 Theo dõi protocol quan trọng
@@ -75,5 +75,5 @@ Nhưng vấn đề là bạn khó mà chuyển đổi từ SaaS sang giải phá
 - [Từ việc phá vỡ silo thông tin và sử dụng hiệu quả các nguồn lực cộng đồng, đến hệ thống quản lý niềm tin và nền kinh tế không dùng tiền: vai trò của các phần mềm ghi chú động lưu dữ liệu tại máy người dùng và ở định dạng đơn giản](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/M%C3%B4%20t%E1%BA%A3%20d%E1%BB%B1%20%C3%A1n.md) 
 - [WordPress giúp việc tạo web dễ dàng nhất, chứ không phải là thứ quản lý web hiệu quả nhất](../../Ti%E1%BA%BFp%20th%E1%BB%8B%20s%E1%BB%91/WordPress%20gi%C3%BAp%20vi%E1%BB%87c%20t%E1%BA%A1o%20web%20d%E1%BB%85%20d%C3%A0ng%20nh%E1%BA%A5t,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20th%E1%BB%A9%20qu%E1%BA%A3n%20l%C3%BD%20web%20hi%E1%BB%87u%20qu%E1%BA%A3%20nh%E1%BA%A5t.md)
 - [Văn bản thuần là dạng tổ chức dữ liệu đơn giản nhất](../../../L%C4%A9nh%20v%E1%BB%B1c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/V%C4%83n%20b%E1%BA%A3n%20thu%E1%BA%A7n%20l%C3%A0%20d%E1%BA%A1ng%20t%E1%BB%95%20ch%E1%BB%A9c%20d%E1%BB%AF%20li%E1%BB%87u%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20nh%E1%BA%A5t.md)
-- [Các buổi chia sẻ tư duy dữ liệu, công cụ, hệ thống cho nhu cầu công việc](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20chia%20s%E1%BA%BB%20t%C6%B0%20duy%20d%E1%BB%AF%20li%E1%BB%87u,%20c%C3%B4ng%20c%E1%BB%A5,%20h%E1%BB%87%20th%E1%BB%91ng%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
+- [Các buổi thảo luận, đáp ứng nhu cầu công việc, nhu cầu công nghệ](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn,%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c,%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87.md)
 [Notion](./Notion.md)

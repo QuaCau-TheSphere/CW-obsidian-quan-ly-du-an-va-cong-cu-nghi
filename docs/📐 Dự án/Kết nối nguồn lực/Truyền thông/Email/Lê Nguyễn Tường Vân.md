@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-10T15:07
-updated: 2026-09-18T18:04
+updated: 2026-09-21T22:44
 ---
 Xin chào bạn Lê Nguyễn Tường Vân,
 
@@ -12,7 +12,7 @@ Mình tên là Lý Minh Nhật, là người sáng lập ra dự án Quả Cầu
 - Xã hội học số: Đồ thị mạng lưới 100+ niềm tin
 - Văn hoá số: Các cuộc đối thoại đang được chia sẻ như thế nào? 
 
-Bạn cũng có thể đọc thêm các ghi chú của bọn mình về [Các dự án, công cụ, tài nguyên cho nhân văn số](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A2n%20v%C4%83n%20s%E1%BB%91.md). Ngoài ra bọn mình cũng tổ chức [Các buổi chia sẻ tư duy dữ liệu, công cụ, hệ thống cho nhu cầu công việc](../../../C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20chia%20s%E1%BA%BB%20t%C6%B0%20duy%20d%E1%BB%AF%20li%E1%BB%87u,%20c%C3%B4ng%20c%E1%BB%A5,%20h%E1%BB%87%20th%E1%BB%91ng%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md).
+Bạn cũng có thể đọc thêm các ghi chú của bọn mình về [Các dự án, công cụ, tài nguyên cho nhân văn số](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A2n%20v%C4%83n%20s%E1%BB%91.md). Ngoài ra bọn mình cũng tổ chức [Các buổi thảo luận, đáp ứng nhu cầu công việc, nhu cầu công nghệ](../../../C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn,%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c,%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87.md).
 
 Một quan sát của mình: [Ngoài việc sử dụng mô hình chủ đề và tạo cơ sở dữ liệu, các dự án nhân văn số dường như không sử dụng các lĩnh vực khác của công nghệ thông tin](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/B%E1%BA%A3n%20th%E1%BB%83%20lu%E1%BA%ADn,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20lu%E1%BA%ADn,%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20lu%E1%BA%ADn/Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20lu%E1%BA%ADn/%C4%90%E1%BB%8Bnh%20t%C3%ADnh/X%E1%BB%AD%20l%C3%BD%20ng%C3%B4n%20ng%E1%BB%AF%20t%E1%BB%B1%20nhi%C3%AAn%20(NLP)/M%C3%B4%20h%C3%ACnh%20ch%E1%BB%A7%20%C4%91%E1%BB%81/Ngo%C3%A0i%20vi%E1%BB%87c%20s%E1%BB%AD%20d%E1%BB%A5ng%20m%C3%B4%20h%C3%ACnh%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20v%C3%A0%20t%E1%BA%A1o%20c%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u,%20c%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20nh%C3%A2n%20v%C4%83n%20s%E1%BB%91%20d%C6%B0%E1%BB%9Dng%20nh%C6%B0%20kh%C3%B4ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%A1c%20l%C4%A9nh%20v%E1%BB%B1c%20kh%C3%A1c%20c%E1%BB%A7a%20c%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin.md). Điều này dẫn đến câu hỏi là liệu [❓Nhân văn chỉ quan tâm đến việc lưu trữ, hiểu dữ liệu và tạo ra câu chuyện hay](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/B%E1%BA%A3n%20th%E1%BB%83%20lu%E1%BA%ADn,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20lu%E1%BA%ADn,%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20lu%E1%BA%ADn/Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20lu%E1%BA%ADn/%C4%90%E1%BB%8Bnh%20t%C3%ADnh/Nh%C3%A2n%20h%E1%BB%8Dc/%E2%9D%93Nh%C3%A2n%20v%C4%83n%20ch%E1%BB%89%20quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20vi%E1%BB%87c%20l%C6%B0u%20tr%E1%BB%AF,%20hi%E1%BB%83u%20d%E1%BB%AF%20li%E1%BB%87u%20v%C3%A0%20t%E1%BA%A1o%20ra%20c%C3%A2u%20chuy%E1%BB%87n%20hay.md) hay không, hay nó còn có những mục tiêu khác? Ví dụ, việc thúc đẩy sự đối thoại có được xem là một mục tiêu của ngành này, và như vậy, việc xây dựng một hệ thống để thúc đẩy sự đối thoại có được xem là một dự án nhân văn số?
 

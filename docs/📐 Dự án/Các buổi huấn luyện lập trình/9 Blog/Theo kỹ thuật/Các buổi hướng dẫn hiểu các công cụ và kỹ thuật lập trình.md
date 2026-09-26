@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-09-18T18:04
+updated: 2026-09-21T22:44
 ---
 ## Kết quả đầu ra
 - Biết được người ta nói cái gì khi google 
@@ -25,4 +25,4 @@ updated: 2026-09-18T18:04
 - **IDE:** VS Code
 - **Web builder:** Lume (TypeScript)
 
-[Các buổi chia sẻ tư duy dữ liệu, công cụ, hệ thống cho nhu cầu công việc](../C%C3%A1c%20bu%E1%BB%95i%20chia%20s%E1%BA%BB%20t%C6%B0%20duy%20d%E1%BB%AF%20li%E1%BB%87u,%20c%C3%B4ng%20c%E1%BB%A5,%20h%E1%BB%87%20th%E1%BB%91ng%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md){ .md-button .md-button--primary }
+[Các buổi thảo luận, đáp ứng nhu cầu công việc, nhu cầu công nghệ](../C%C3%A1c%20bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn,%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c,%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87.md){ .md-button .md-button--primary }

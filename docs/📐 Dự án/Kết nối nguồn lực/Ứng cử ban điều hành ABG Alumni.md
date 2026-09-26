@@ -1,18 +1,18 @@
 ---
 share: true
 created: 2026-08-09T12:43
-updated: 2026-09-18T18:04
+updated: 2026-09-26T14:28
 ---
 ## Chương trình hành động, hoạt động đề xuất 
 ### Tổ chức các buổi cùng nhìn về các nhu cầu và nguồn lực của nhau
-Xung quanh mỗi người luôn có những nguồn lực tiềm tàng mà một người nào đó sẽ cần. Nguồn lực đó không chỉ là từ mỗi cá nhân, mà còn là từ những người xung quanh họ. Nếu có thể tạo điều kiện để mỗi người quan sát và ghi chú các nguồn lực đang có, dù cho mình có đang cần hay không, thì ta sẽ thấy bản thân mình thật ra rất giàu có.
+Xung quanh mỗi người luôn có những nguồn lực tiềm tàng mà một người nào đó sẽ cần. Nguồn lực đó không chỉ là từ mỗi cá nhân, mà còn là từ những người xung quanh họ. Nếu có thể tạo điều kiện để mỗi người quan sát và ghi chú các nguồn lực đang có, dù cho mình có đang cần hay không, thì ta sẽ thấy bản thân mình thật ra rất giàu có. Nguồn lực trong ABG Alumni giàu có là bởi nguồn lực của mỗi thành viên giàu có.
 
 Bạn có thể xem sản phẩm mẫu về mạng kết nối nhu cầu - nguồn lực mình đang xây dựng: https://doi-thoai.fly.dev/1hj.7S.1
 
 ### Tổ chức các buổi học tập lẫn nhau
 Từ dữ liệu về các nhu cầu và nguồn lực được ghi nhận, ta có thể tổ chức các buổi thảo luận chung về một chuyên đề nào đó. Số lượng tham gia không cần nhiều. Trong ABG Alumni mình thấy có rất nhiều người sẵn sàng chia sẻ hiểu biết của mình; chúng ta phải sử dụng chúng một cách hiệu quả.
 
-Đây là một ví dụ về các buổi chuyên đề như vậy: [Các buổi chia sẻ tư duy dữ liệu, công cụ, hệ thống cho nhu cầu công việc](../C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20chia%20s%E1%BA%BB%20t%C6%B0%20duy%20d%E1%BB%AF%20li%E1%BB%87u,%20c%C3%B4ng%20c%E1%BB%A5,%20h%E1%BB%87%20th%E1%BB%91ng%20cho%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
+Đây là một ví dụ về các buổi chuyên đề như vậy: [Các buổi thảo luận, đáp ứng nhu cầu công việc, nhu cầu công nghệ](../C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn,%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c,%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87.md)
 
 ### Kết nối ABG Alumni với các mạng lưới khác 
 Mỗi người đều là thành viên của nhiều mạng lưới khác nhau. Đó có thể là mạng lưới người thân, bạn bè, thú vui, nghề nghiệp, v.v. ABG Alumni chỉ là một trong những mạng lưới đó. Nếu bạn cũng đang muốn phát triển một mạng lưới khác, không có lý do gì ABG Alumni không cùng tham gia được với bạn.

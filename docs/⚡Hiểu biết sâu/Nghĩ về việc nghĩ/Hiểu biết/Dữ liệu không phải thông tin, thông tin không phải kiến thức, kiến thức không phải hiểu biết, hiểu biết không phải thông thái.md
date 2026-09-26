@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-22T21:45
-updated: 2026-06-01T19:37
+updated: 2026-09-21T13:07
 ---
 Khái niệm:: [Kiến thức](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFn%20th%E1%BB%A9c.md), [Dữ liệu](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md)
 > Data is not information, information is not knowledge, knowledge is not understanding, understanding is not wisdom.
@@ -15,3 +15,5 @@ Khái niệm:: [Kiến thức](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%
 — Brian O'Driscoll
 
 [Knowledge forms when we accumulate, mix, connect and visualize information](./Knowledge%20forms%20when%20we%20accumulate,%20mix,%20connect%20and%20visualize%20information.md)
+
+[DIKW pyramid - Wikipedia](https://en.wikipedia.org/wiki/DIKW_pyramid)

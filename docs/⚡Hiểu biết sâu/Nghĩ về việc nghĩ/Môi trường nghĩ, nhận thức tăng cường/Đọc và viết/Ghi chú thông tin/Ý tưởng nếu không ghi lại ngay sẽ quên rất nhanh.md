@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-07-03T22:11
+updated: 2026-09-29T14:46
 ---
 Khái niệm:: [Ý tưởng](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/%C3%9D%20t%C6%B0%E1%BB%9Fng.md), [Trí nhớ, ký ức](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%C3%AD%20nh%E1%BB%9B,%20k%C3%BD%20%E1%BB%A9c.md), [Viết lách, ghi chép](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Vi%E1%BA%BFt%20l%C3%A1ch,%20ghi%20ch%C3%A9p.md)
 [Não làm tốt việc tạo ra ý tưởng, nhưng không tốt việc nhớ lại nó](./N%C3%A3o%20l%C3%A0m%20t%E1%BB%91t%20vi%E1%BB%87c%20t%E1%BA%A1o%20ra%20%C3%BD%20t%C6%B0%E1%BB%9Fng,%20nh%C6%B0ng%20kh%C3%B4ng%20t%E1%BB%91t%20vi%E1%BB%87c%20nh%E1%BB%9B%20l%E1%BA%A1i%20n%C3%B3.md)
@@ -11,4 +11,6 @@ Khái niệm:: [Ý tưởng](../../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1
 [Nhiều khi ta nhớ nơi lưu trữ thông tin hơn là chính thông tin đó](../../../Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%C3%AD%20nh%E1%BB%9B/Nhi%E1%BB%81u%20khi%20ta%20nh%E1%BB%9B%20n%C6%A1i%20l%C6%B0u%20tr%E1%BB%AF%20th%C3%B4ng%20tin%20h%C6%A1n%20l%C3%A0%20ch%C3%ADnh%20th%C3%B4ng%20tin%20%C4%91%C3%B3.md)
 [Viết làm suy nghĩ không còn là vô hình](../Vi%E1%BA%BFt%20l%C3%A0m%20suy%20ngh%C4%A9%20kh%C3%B4ng%20c%C3%B2n%20l%C3%A0%20v%C3%B4%20h%C3%ACnh.md). [nó cho phép ta nghĩ về sự nghĩ](../Vi%E1%BA%BFt%20cho%20ph%C3%A9p%20ta%20ngh%C4%A9%20v%E1%BB%81%20s%E1%BB%B1%20ngh%C4%A9.md). Có thể nói [sự phát minh ra việc viết phát minh ra việc lập luận](../S%E1%BB%B1%20ph%C3%A1t%20minh%20ra%20vi%E1%BB%87c%20vi%E1%BA%BFt%20ph%C3%A1t%20minh%20ra%20vi%E1%BB%87c%20l%E1%BA%ADp%20lu%E1%BA%ADn.md).
 [Ý tưởng sinh ra không theo độ khẩn cấp](../../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/S%E1%BA%AFp%20x%E1%BA%BFp%20%C4%91%E1%BB%99%20%C6%B0u%20ti%C3%AAn/%C3%9D%20t%C6%B0%E1%BB%9Fng%20sinh%20ra%20kh%C3%B4ng%20theo%20%C4%91%E1%BB%99%20kh%E1%BA%A9n%20c%E1%BA%A5p.md)
+[Ghi chép thứ mình nhớ kém](./Ghi%20ch%C3%A9p%20th%E1%BB%A9%20m%C3%ACnh%20nh%E1%BB%9B%20k%C3%A9m.md)
+[Ghi chép tay creates a tactile information recall](./Ghi%20ch%C3%A9p%20tay%20creates%20a%20tactile%20information%20recall.md)
 Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../../%CE%9E%20Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)

@@ -1,11 +1,13 @@
 ---
 share: true
 created: 2026-08-09T12:43
-updated: 2026-09-26T14:28
+updated: 2026-09-28T13:45
 ---
 ## Chương trình hành động, hoạt động đề xuất 
 ### Tổ chức các buổi cùng nhìn về các nhu cầu và nguồn lực của nhau
-Xung quanh mỗi người luôn có những nguồn lực tiềm tàng mà một người nào đó sẽ cần. Nguồn lực đó không chỉ là từ mỗi cá nhân, mà còn là từ những người xung quanh họ. Nếu có thể tạo điều kiện để mỗi người quan sát và ghi chú các nguồn lực đang có, dù cho mình có đang cần hay không, thì ta sẽ thấy bản thân mình thật ra rất giàu có. Nguồn lực trong ABG Alumni giàu có là bởi nguồn lực của mỗi thành viên giàu có.
+Xung quanh mỗi người luôn có những nguồn lực tiềm tàng mà một người nào đó sẽ cần. Nguồn lực đó không chỉ là từ mỗi cá nhân, mà còn là từ những người xung quanh họ. Nếu có thể tạo điều kiện để mỗi người quan sát và ghi chú các nguồn lực đang có, dù cho mình có đang cần hay không, thì ta sẽ thấy bản thân mình thật ra rất giàu có. 
+
+Nguồn lực của một người có sự góp mặt của nguồn lực của những người xung quanh họ. Nguồn lực trong ABG Alumni giàu có là bởi nguồn lực của mỗi thành viên giàu có.
 
 Bạn có thể xem sản phẩm mẫu về mạng kết nối nhu cầu - nguồn lực mình đang xây dựng: https://doi-thoai.fly.dev/1hj.7S.1
 
@@ -33,6 +35,7 @@ Các dự án cá nhân luôn có nguy cơ bị gác lại để ưu tiên việ
 - Tổ chức các buổi thảo luận chung 
 - Với những người không tham gia thì liên hệ riêng với họ để phỏng vấn nhu cầu của họ
 - Cố gắng mỗi quý có một buổi tổng kết hoạt động
+- Lên kế hoạch cụ thể, liệt kê các giả định
 
 ## Thông tin khác
 Đây là những hoạt động đằng nào mình cũng sẽ làm, dù có được chọn vào ban điều hành ABG Alumni hay không. Bạn có thể đọc chi tiết về chúng ở bài [Phá vỡ silo thông tin, nắm bắt nhu cầu các bên và sử dụng các nguồn tài nguyên cộng đồng hiệu quả (nháp)](../M%C3%B4%20t%E1%BA%A3%20d%E1%BB%B1%20%C3%A1n.md). Nếu được tham gia vào ban điều hành thì mình có thể làm chúng dưới danh nghĩa ABG Alumni, từ đó dễ tiếp cận được các nguồn lực hơn cũng như phục vụ cho ABG Alumni được tốt hơn. Mình muốn được tập trung làm chúng với nhịp độ của riêng mình, với cách tiếp cận của mình. Mình hiểu là ban điều hành ABG Alumni còn cần làm nhiều công việc khác; mình nghĩ để những người khác gánh vác chúng sẽ hiệu quả hơn. Còn nếu không được tham gia, thì những ứng cử viên nào có chương trình hành động gần với những hoạt động này sẽ có được lá phiếu của mình.
@@ -43,6 +46,7 @@ Các dự án cá nhân luôn có nguy cơ bị gác lại để ưu tiên việ
 Về việc kết nối:
 - Nguồn lực hữu ích luôn ở quanh ta. Điều cần làm là làm cho chúng hiển lộ
 - Việc kết nối không chỉ là trong nội bộ với nhau mà còn là với các mạng lưới khác
+- Nguồn lực của một người có sự góp mặt của nguồn lực của những người xung quanh họ
 - [Giá trị của việc kết nối nằm ở việc đưa tài nguyên tốt nhất cho người cần nó một cách nhanh nhất](../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%8Dc%20t%E1%BA%ADp/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20th%E1%BB%83%20t%C3%ACm%20%C4%91%E1%BA%BFn%20t%C3%A0i%20nguy%C3%AAn%20t%E1%BB%91t%20nh%E1%BA%A5t%20cho%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20m%C3%ACnh%20m%E1%BB%99t%20c%C3%A1ch%20nhanh%20nh%E1%BA%A5t.md)
 - Hướng tới nền kinh tế quà tặng
 

@@ -1,10 +1,15 @@
 ---
 share: true
 created: 2023-06-09T11:16
-updated: 2026-07-16T00:58
+updated: 2026-09-28T18:21
 title: Xử lý ngôn ngữ tự nhiên (NLP)
 ---
-Giải pháp kỹ thuật:: [Python](Python.md)
+- [Các dự án, công cụ, tài nguyên cho nhân văn số](./C%C3%A1c%20d%E1%BB%B1%20%C3%A1n,%20c%C3%B4ng%20c%E1%BB%A5,%20t%C3%A0i%20nguy%C3%AAn%20cho%20nh%C3%A2n%20v%C4%83n%20s%E1%BB%91.md)
+- [Bản chất của mô hình chủ đề là tô màu cho văn bản và từ](./M%C3%B4%20h%C3%ACnh%20ch%E1%BB%A7%20%C4%91%E1%BB%81/B%E1%BA%A3n%20ch%E1%BA%A5t%20c%E1%BB%A7a%20m%C3%B4%20h%C3%ACnh%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20l%C3%A0%20t%C3%B4%20m%C3%A0u%20cho%20v%C4%83n%20b%E1%BA%A3n%20v%C3%A0%20t%E1%BB%AB.md)
+- [Mô hình chủ đề rất hữu dụng cho việc diễn giải](./M%C3%B4%20h%C3%ACnh%20ch%E1%BB%A7%20%C4%91%E1%BB%81/M%C3%B4%20h%C3%ACnh%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20r%E1%BA%A5t%20h%E1%BB%AFu%20d%E1%BB%A5ng%20cho%20vi%E1%BB%87c%20di%E1%BB%85n%20gi%E1%BA%A3i.md)
+- [Ngoài việc sử dụng mô hình chủ đề và tạo cơ sở dữ liệu, các dự án nhân văn số dường như không sử dụng các lĩnh vực khác của công nghệ thông tin](./M%C3%B4%20h%C3%ACnh%20ch%E1%BB%A7%20%C4%91%E1%BB%81/Ngo%C3%A0i%20vi%E1%BB%87c%20s%E1%BB%AD%20d%E1%BB%A5ng%20m%C3%B4%20h%C3%ACnh%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20v%C3%A0%20t%E1%BA%A1o%20c%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u,%20c%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20nh%C3%A2n%20v%C4%83n%20s%E1%BB%91%20d%C6%B0%E1%BB%9Dng%20nh%C6%B0%20kh%C3%B4ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%A1c%20l%C4%A9nh%20v%E1%BB%B1c%20kh%C3%A1c%20c%E1%BB%A7a%20c%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin.md)
+- [Nhân văn số sử dụng mô hình chủ đề rất nhiều](./M%C3%B4%20h%C3%ACnh%20ch%E1%BB%A7%20%C4%91%E1%BB%81/Nh%C3%A2n%20v%C4%83n%20s%E1%BB%91%20s%E1%BB%AD%20d%E1%BB%A5ng%20m%C3%B4%20h%C3%ACnh%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20r%E1%BA%A5t%20nhi%E1%BB%81u.md)
+- [Mạng từ](./M%E1%BA%A1ng%20t%E1%BB%AB.md)
 
 Danh sách các repo trên GitHub có tag `nlp` và `vietnamese`
 - [undertheseanlp/underthesea](https://github.com/undertheseanlp/underthesea.git)

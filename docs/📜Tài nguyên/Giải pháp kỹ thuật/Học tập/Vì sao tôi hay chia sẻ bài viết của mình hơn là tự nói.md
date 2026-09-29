@@ -2,7 +2,7 @@
 share: true
 blog: working
 created: 2026-05-31T17:01
-updated: 2026-09-23T13:05
+updated: 2026-09-29T14:43
 description: "Có 2 lý do chính: (1) Việc viết giúp diễn đạt được ý tốt hơn là nói. (2) Việc đưa liên kết không phải chỉ là để đọc bài viết, mà còn là để khám phá một sân chơi"
 title: Vì sao tôi hay chia sẻ bài viết của mình hơn là tự nói?
 ---

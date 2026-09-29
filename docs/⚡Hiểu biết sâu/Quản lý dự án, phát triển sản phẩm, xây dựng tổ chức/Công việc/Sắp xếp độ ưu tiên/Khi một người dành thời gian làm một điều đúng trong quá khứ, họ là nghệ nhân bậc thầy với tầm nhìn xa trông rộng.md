@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-06-13T00:06
-updated: 2026-07-26T23:46
+updated: 2026-09-28T15:44
 title: Khi một người dành thời gian để làm một điều đúng ở hiện tại, họ là một người cầu toàn không có khả năng ưu tiên. Còn khi một người dành thời gian làm một điều đúng trong quá khứ, họ là nghệ nhân bậc thầy với tầm nhìn xa trông rộng
 ---
-Khái niệm:: [Ưu tiên](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/%C6%AFu%20ti%C3%AAn.md)
+Khái niệm:: [Ưu tiên](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/%C6%AFu%20ti%C3%AAn.md), [Hoàn hảo](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ho%C3%A0n%20h%E1%BA%A3o.md)
 ![](https://www.explainxkcd.com/wiki/images/f/f3/the_general_problem.png) 
 > When someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight
 Nguồn:: [974: The General Problem - explain xkcd](https://www.explainxkcd.com/wiki/index.php/974:_The_General_Problem)

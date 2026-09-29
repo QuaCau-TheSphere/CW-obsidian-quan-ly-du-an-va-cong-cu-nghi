@@ -6,7 +6,7 @@ aliases:
   - Homepage
   - Trang chủ
 created: 2023-06-25T19:58
-updated: 2026-09-13T14:07
+updated: 2026-09-28T18:40
 title: 🌟 Mở đầu
 ---
 ![200](./attachments/logo.svg)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-18T12:02
-updated: 2026-03-07T00:31
+updated: 2026-09-29T23:53
 aliases:
   - Biểu đồ dữ liệu
 ---
@@ -10,9 +10,11 @@ Nhu cầu công nghệ:: [Tài liệu động](../Vi%E1%BA%BFt%20v%C3%A0%20qu%E1
 
 ## Lý thuyết
 - [Scientific visualization](https://en.wikipedia.org/wiki/Scientific_visualization)
-- [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization) 
+- [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization), [Statistical graphics - Wikipedia](https://en.wikipedia.org/wiki/Statistical_graphics)
 - [Data visualization: A view of every Points of View column : Methagora](https://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/67076984?h=f57f26cc02" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 ## Chọn loại biểu đồ
 - [From data to Viz \| Find the graphic you need](https://www.data-to-viz.com/)
@@ -23,6 +25,7 @@ Nhu cầu công nghệ:: [Tài liệu động](../Vi%E1%BA%BFt%20v%C3%A0%20qu%E1
 [Misleading graph - Wikipedia](https://en.wikipedia.org/wiki/Misleading_graph), [WTF Visualizations](https://viz.wtf/)
 ![](https://www.data-to-viz.com/img/poster/poster_small.png) 
 [A Periodic Table of Visualization Methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
+
 ## Công cụ
 [Datawrapper: Create charts, maps, and tables](https://www.datawrapper.de/)
 

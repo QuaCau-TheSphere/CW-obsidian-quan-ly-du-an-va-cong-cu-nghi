@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-09-28T13:47
-updated: 2026-09-29T15:58
+updated: 2026-09-30T13:45
 ---
 Đây là một số suy nghĩ của tôi sau khi nghe xong bài nói chuyện *Thổi hồn vào ý tưởng: Hành trình tư duy, sáng tạo và định hình phía sau bộ nhận diện của VFCD* do Nguyễn Thị Thảo Nhi (DirtyPaws) trình bày ngày 27/9/2026. 
 
@@ -15,17 +15,17 @@ Do tôi chỉ muốn viết nhanh, nên tôi sẽ không tóm tắt lại nhữn
 
 Điểm khác biệt là ở bài nói chuyện, việc vào rừng tìm ý tưởng còn ngụ ý là chỉ dùng logic thì không đủ để ra ý tưởng mới, mà còn phải dùng bản năng, trực giác, trí tưởng tượng, v.v. Còn với ý của CPG Grey thì có lẽ chỉ đơn giản là chịu khó dấn thân vào những thứ mình không biết, đi theo sự tò mò của mình.
 
-Một số ý khác cũng có thể mở rộng thêm: [Ý tưởng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/%C3%9D%20t%C6%B0%E1%BB%9Fng.md), [Trực giác](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%E1%BB%B1c%20gi%C3%A1c.md), [Sự không biết](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%B1%20kh%C3%B4ng%20bi%E1%BA%BFt.md)
+Một số ý khác cũng có thể mở rộng thêm: [Ý tưởng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/%C3%9D%20t%C6%B0%E1%BB%9Fng.md), [Trực giác](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%E1%BB%B1c%20gi%C3%A1c.md), [Điều mình không biết là mình không biết](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%B1%20kh%C3%B4ng%20bi%E1%BA%BFt.md)
 
 ## Lịch sử của loài người là sự mở rộng nhận thức 
-Ý này có lẽ được triển khai tốt nhất ở các thảo luận về *công cụ nghĩ*. Video này có lẽ là một dẫn nhập tốt:
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/67076984?h=f57f26cc02" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+Ý này có lẽ được triển khai tốt nhất ở các thảo luận về *công cụ nghĩ*. Lập luận của nó có thể bắt đầu bằng nhận định sau:
 
-Xem thêm:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=t6uhvFGPUE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=HLrCaRzoxMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=ZtcgVGU95mw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Làm thông điệp trở nên hấp dẫn và trải nghiệm được](../../L%C4%A9nh%20v%E1%BB%B1c/Thi%E1%BA%BFt%20k%E1%BA%BF%20th%C3%B4ng%20tin/L%C3%A0m%20th%C3%B4ng%20%C4%91i%E1%BB%87p%20tr%E1%BB%9F%20n%C3%AAn%20h%E1%BA%A5p%20d%E1%BA%ABn%20v%C3%A0%20tr%E1%BA%A3i%20nghi%E1%BB%87m%20%C4%91%C6%B0%E1%BB%A3c.md)
+> Cũng giống như có những mùi mà chó có thể ngửi được còn chúng ta thì không, và cũng giống như có những âm thanh chó có thể nghe được còn chúng ta thì không, có những bước sóng ánh sáng chúng ta không thể  thấy được và vị chúng ta không thể nếm được. Vậy thì, với cách mà bộ não của chúng ta được định hình sẵn như hiện tại, tại sao nhận định 'Có lẽ có những suy nghĩ mà chúng ta không thể nghĩ' lại khiến bạn ngạc nhiên? Tiến hóa, cho đến nay, rất có thể đã ngăn cản chúng ta tư duy theo một số hướng nhất định. Hoàn toàn có thể tồn tại những suy nghĩ mà ta không thể nghĩ.
+> ― Richard Hamming, The Unreasonable Effectiveness of Mathematics
+
+Và cũng giống như những công cụ quang học giúp ta thấy được những thứ khó thấy hoặc thậm chí không thể thấy được, thì những công cụ nghĩ sẽ giúp ta nghĩ được những thứ khó nghĩ hoặc không thể nghĩ được. 
+
+Đọc thêm ở bài [Công cụ nghĩ giúp ta có thể nghĩ tới những suy nghĩ khó nghĩ hoặc bất khả nghĩ](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/C%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/C%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9%20gi%C3%BAp%20ta%20c%C3%B3%20th%E1%BB%83%20ngh%C4%A9%20t%E1%BB%9Bi%20nh%E1%BB%AFng%20suy%20ngh%C4%A9%20kh%C3%B3%20ngh%C4%A9%20ho%E1%BA%B7c%20b%E1%BA%A5t%20kh%E1%BA%A3%20ngh%C4%A9.md). Việc [Làm thông điệp trở nên hấp dẫn và trải nghiệm được](../../L%C4%A9nh%20v%E1%BB%B1c/Thi%E1%BA%BFt%20k%E1%BA%BF%20th%C3%B4ng%20tin/L%C3%A0m%20th%C3%B4ng%20%C4%91i%E1%BB%87p%20tr%E1%BB%9F%20n%C3%AAn%20h%E1%BA%A5p%20d%E1%BA%ABn%20v%C3%A0%20tr%E1%BA%A3i%20nghi%E1%BB%87m%20%C4%91%C6%B0%E1%BB%A3c.md) có lẽ cũng là một hình thức tạo ra môi trường nghĩ.
 
 ## Xử lý đề bài
 Slide liệt kê các khái niệm dùng để mô tả VFCD làm tôi nghĩ là có thể thử dùng [Xử lý ngôn ngữ tự nhiên (NLP)](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/B%E1%BA%A3n%20th%E1%BB%83%20lu%E1%BA%ADn,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20lu%E1%BA%ADn,%20ph%C6%B0%C6%A1ng%20ph%C3%A1p%20lu%E1%BA%ADn/Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20lu%E1%BA%ADn/%C4%90%E1%BB%8Bnh%20t%C3%ADnh/X%E1%BB%AD%20l%C3%BD%20ng%C3%B4n%20ng%E1%BB%AF%20t%E1%BB%B1%20nhi%C3%AAn%20(NLP)/index.md) để xem có gì hay ho. Tuy vậy tôi cũng cảm thấy là nó cũng lại chỉ đưa cho ta thêm một con chữ mới vào đống con chữ đang có; nếu không tự mình tư duy thì cũng không có nhiều ý nghĩa lắm. Mà nếu tự tư duy ngay từ đầu thì cũng không chắc là thứ mới này hữu ích lắm so với công sức bỏ ra để có nó. Nếu có nghiên cứu [Nhân văn số](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%C3%A2n%20v%C4%83n%20s%E1%BB%91.md) nào thì chắc sẽ hợp hơn là nghĩ ý tưởng cho bộ nhận diện.

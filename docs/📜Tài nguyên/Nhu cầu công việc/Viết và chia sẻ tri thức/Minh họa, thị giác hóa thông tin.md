@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-09-26T10:25
-updated: 2026-09-28T22:29
+updated: 2026-09-30T13:37
 ---
 Đọc tổng quan trên Wikipedia: [Visualization (graphics)](https://en.wikipedia.org/wiki/Visualization_(graphics))
 
@@ -20,6 +20,8 @@ updated: 2026-09-28T22:29
 ![Mối liên hệ giữa sơ đồ, biểu đồ, bản đồ, đồ thị mạng lưới.excalidraw](../../../attachments/M%E1%BB%91i%20li%C3%AAn%20h%E1%BB%87%20gi%E1%BB%AFa%20s%C6%A1%20%C4%91%E1%BB%93,%20bi%E1%BB%83u%20%C4%91%E1%BB%93,%20b%E1%BA%A3n%20%C4%91%E1%BB%93,%20%C4%91%E1%BB%93%20th%E1%BB%8B%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi.svg)
 
 Xem thêm:: [Làm sao để một người có thể tìm đến tài nguyên tốt nhất cho nhu cầu của mình một cách nhanh nhất](../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%8Dc%20t%E1%BA%ADp/L%C3%A0m%20sao%20%C4%91%E1%BB%83%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20th%E1%BB%83%20t%C3%ACm%20%C4%91%E1%BA%BFn%20t%C3%A0i%20nguy%C3%AAn%20t%E1%BB%91t%20nh%E1%BA%A5t%20cho%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20m%C3%ACnh%20m%E1%BB%99t%20c%C3%A1ch%20nhanh%20nh%E1%BA%A5t.md)
+
+Việc [Minh họa, thị giác hóa thông tin](Minh%20h%E1%BB%8Da,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin.md) có lẽ là một hình thức tạo ra [Môi trường nghĩ, nhận thức tăng cường](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/index.md).
 
 ## Nơi thảo luận
 [![](https://imagizer.imageshack.com/a/img924/9471/eQpmWA.png)](https://discord.com/channels/898550123007709204/1296474612716146719)

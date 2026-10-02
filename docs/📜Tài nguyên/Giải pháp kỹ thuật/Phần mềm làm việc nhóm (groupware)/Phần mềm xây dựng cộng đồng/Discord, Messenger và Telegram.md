@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-03-17T13:58
+updated: 2026-10-02T15:43
 ---
 
 | Discord                    | Messenger      | Telegram |
@@ -13,13 +13,4 @@ updated: 2026-03-17T13:58
 Sidechat của cộng đồng Messenger tương đương với channel thread hoặc forum post trên Discord, nhưng có tính tạm thời hơn
 [Server Discord](../../K%E1%BA%BFt%20n%E1%BB%91i%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Server%20Discord.md)
 
-Cách xài telegram ko cần bật VPN : 
-B1 vào @ProxyMTProto , connect là kết nối với proxy .,
-B2 kiểm tra proxy trong tele : vào Data and Storage , kéo xuống Proxy , vào đó xem bật proxy chưa . lâu lâu connect lại proxy mới !
-
-vào bằng chrome windows, mở regedit:
-HKEY_LOCAL_MACHINE\SOFTWARE\Policies  ->  xóa file Chrome   ->  vào dns  -> cloudflare là xong
-
-em đoán họ dùng dns poisoning, vì đã dùng google dns nhưng vẫn ko vào được. nếu bật DoH hay DoT có thể vẫn được.
-
-[Tình hình Telegram bị Chính Phủ chặn... - Hong Phuc Nguyen](https://www.facebook.com/xnohat/posts/pfbid03us2L5JfTMHPpZC38UtjHe2C9YXvg9t6MpZt6SB92j25UvijVz63kFJ9dS2c3qovl)
+Nhu cầu công nghệ:: [Trích xuất và lọc thông tin từ các nền tảng nhắn tin](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Tr%C3%ADch%20xu%E1%BA%A5t%20v%C3%A0%20l%E1%BB%8Dc%20th%C3%B4ng%20tin%20t%E1%BB%AB%20c%C3%A1c%20n%E1%BB%81n%20t%E1%BA%A3ng%20nh%E1%BA%AFn%20tin.md)

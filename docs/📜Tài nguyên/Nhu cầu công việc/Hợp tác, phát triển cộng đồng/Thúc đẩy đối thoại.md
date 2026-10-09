@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-06T18:09
-updated: 2026-08-14T21:06
+updated: 2026-10-02T15:41
 ---
 Lĩnh vực:: 
-Nhu cầu công nghệ:: [Quản lý việc chat](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Qu%E1%BA%A3n%20l%C3%BD%20vi%E1%BB%87c%20chat.md)
+Nhu cầu công nghệ:: [Trích xuất và lọc thông tin từ các nền tảng nhắn tin](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Tr%C3%ADch%20xu%E1%BA%A5t%20v%C3%A0%20l%E1%BB%8Dc%20th%C3%B4ng%20tin%20t%E1%BB%AB%20c%C3%A1c%20n%E1%BB%81n%20t%E1%BA%A3ng%20nh%E1%BA%AFn%20tin.md)

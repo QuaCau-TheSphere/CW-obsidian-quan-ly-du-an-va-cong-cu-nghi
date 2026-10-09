@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-07-03T22:17
+updated: 2026-10-07T20:20
 ---
 Khái niệm:: [Công cụ, công nghệ](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/C%C3%B4ng%20c%E1%BB%A5,%20c%C3%B4ng%20ngh%E1%BB%87.md)
 Khi dùng búa để đập đinh, ta nghĩ là chỉ có đinh và gỗ bị biến dạng, chứ ta không nghĩ rằng búa có thể thay đổi bản thân ta. Nếu như búa đập vào tay thì ta chỉ nghĩ đó là tai nạn, chứ không trông đợi sự thay đổi đó. Trong khi đó, khi nói chuyện với con người, ta có nghĩ rằng sự nói chuyện đó sẽ thay đổi con người ta. 
@@ -13,3 +13,4 @@ Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/li
 [Công cụ không chỉ là cách để đạt mục tiêu nhanh hơn, mà còn thay đổi tư duy của chúng ta](../M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/C%C3%B4ng%20c%E1%BB%A5%20ngh%C4%A9/C%C3%B4ng%20c%E1%BB%A5%20kh%C3%B4ng%20ch%E1%BB%89%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20%C4%91%E1%BA%A1t%20m%E1%BB%A5c%20ti%C3%AAu%20nhanh%20h%C6%A1n,%20m%C3%A0%20c%C3%B2n%20thay%20%C4%91%E1%BB%95i%20t%C6%B0%20duy%20c%E1%BB%A7a%20ch%C3%BAng%20ta.md)
 [Ý tưởng logo là cục đá đang được đẽo gọt, hàm ý ❝You shape your tools, and they shape you❞](../../../%E2%9A%94%EF%B8%8F%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20Obsidian%20v%C3%A0%20Git/%F0%9F%92%8E%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Obsidian/M%C3%B4%20t%E1%BA%A3%20v%E1%BB%81%20Obsidian/%C4%90i%E1%BB%83m%20m%E1%BA%A1nh%20c%E1%BB%A7a%20Obsidian/%C3%9D%20t%C6%B0%E1%BB%9Fng%20logo%20l%C3%A0%20c%E1%BB%A5c%20%C4%91%C3%A1%20%C4%91ang%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BA%BDo%20g%E1%BB%8Dt,%20h%C3%A0m%20%C3%BD%20%E2%9D%9DYou%20shape%20your%20tools,%20and%20they%20shape%20you%E2%9D%9E.md)
 [Mọi công nghệ đều bắt đầu từ sự phản tư của con người](./M%E1%BB%8Di%20c%C3%B4ng%20ngh%E1%BB%87%20%C4%91%E1%BB%81u%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20t%E1%BB%AB%20s%E1%BB%B1%20ph%E1%BA%A3n%20t%C6%B0%20c%E1%BB%A7a%20con%20ng%C6%B0%E1%BB%9Di.md)
+[Não con người thay đổi rất chậm](../Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/N%C3%A3o%20con%20ng%C6%B0%E1%BB%9Di%20thay%20%C4%91%E1%BB%95i%20r%E1%BA%A5t%20ch%E1%BA%ADm.md)

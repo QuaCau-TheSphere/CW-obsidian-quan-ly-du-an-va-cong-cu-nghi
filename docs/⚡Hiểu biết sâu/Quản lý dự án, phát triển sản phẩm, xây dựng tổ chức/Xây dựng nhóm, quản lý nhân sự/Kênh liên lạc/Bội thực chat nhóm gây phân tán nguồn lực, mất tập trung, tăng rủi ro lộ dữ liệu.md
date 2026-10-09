@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-08-14T21:02
+updated: 2026-10-02T15:42
 ---
 Khái niệm:: [Dữ liệu](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md)
 Hơn 11 giờ đêm, màn hình điện thoại của Hồng Vy vẫn sáng bởi thông báo từ gần 20 nhóm chat công việc và trò chuyện cá nhân đang đổ về.
@@ -61,3 +61,5 @@ Còn với Hồng Vy, cô đang tập thói quen tắt và không trả lời ti
 **Quỳnh Nguyễn**
 
 Nguồn:: [Bội thực chat nhóm](https://vnexpress.net/boi-thuc-chat-nhom-4500761.html)
+
+Nhu cầu công nghệ:: [Trích xuất và lọc thông tin từ các nền tảng nhắn tin](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Tr%C3%ADch%20xu%E1%BA%A5t%20v%C3%A0%20l%E1%BB%8Dc%20th%C3%B4ng%20tin%20t%E1%BB%AB%20c%C3%A1c%20n%E1%BB%81n%20t%E1%BA%A3ng%20nh%E1%BA%AFn%20tin.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-10-18T12:02
-updated: 2026-09-29T23:53
+updated: 2026-10-05T16:20
 aliases:
   - Biểu đồ dữ liệu
 ---
@@ -32,3 +32,5 @@ Nhu cầu công nghệ:: [Tài liệu động](../Vi%E1%BA%BFt%20v%C3%A0%20qu%E1
 ## Nơi thảo luận
 Khái niệm:: [Dữ liệu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md)
 [![](https://imagizer.imageshack.com/a/img924/9471/eQpmWA.png)](https://discord.com/channels/898550123007709204/1296474612716146719)
+
+[Minh họa, thị giác hóa thông tin](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Minh%20h%E1%BB%8Da,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-03-11T14:35
-updated: 2026-06-30T21:57
+updated: 2026-10-07T07:02
 aliases:
   - karaoke từ hàng xóm
   - Tiếng TV
@@ -68,3 +68,4 @@ Xem thêm:: [Bảng quan trọng – khẩn cấp](../../../%E2%9A%A1Hi%E1%BB%83
 | Lái xe                                                                                        | ✔   | ✔   | ✔   | ✔   | ✔   |
 
 ### Ngồi họp
+Xếp lịch

@@ -15,7 +15,7 @@ Có nhiều lý do khiến cho một người không tập trung cao độ để
 - Ở trong môi trường có nhiều tiếng ồn (karaoke từ hàng xóm, người nhà không chịu tắt TV, tiếng công trường xây dựng, phải có mặt trong một cuộc họp mà mình không cần phải quan tâm)
 - Ở trong môi trường có thể tập trung nhưng sẽ bị ngắt quãng liên tục (chờ xếp hàng trong bệnh viện, cơ quan, làm bảo vệ)
 - Ở bên cạnh người khác và muốn tám chuyện với họ
-- Ở gần một cuộc tám chuyện mình không tham gia và muốn nghe xem có gì hữu ích cho mình
+- Ở gần một cuộc nói chuyện mình không tham gia và muốn nghe xem có gì hữu ích cho mình, xem một video có thể có ý hay xen lẫn những ý mình đã đoán được
 
 Đâu là những công việc mà nếu làm trong môi trường này thì kết quả cho ra là chấp nhận được? Nói cách khác, đâu là những công việc mình mà việc làm đa nhiệm không phải là vấn đề lớn?
 

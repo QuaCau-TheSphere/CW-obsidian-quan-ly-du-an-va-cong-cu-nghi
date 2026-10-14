@@ -14,7 +14,7 @@ Bạn có thể xem sản phẩm mẫu về mạng kết nối nhu cầu - ngu�
 ### Tổ chức các buổi học tập lẫn nhau
 Từ dữ liệu về các nhu cầu và nguồn lực được ghi nhận, ta có thể tổ chức các buổi thảo luận chung về một chuyên đề nào đó. Số lượng tham gia không cần nhiều. Trong ABG Alumni mình thấy có rất nhiều người sẵn sàng chia sẻ hiểu biết của mình; chúng ta phải sử dụng chúng một cách hiệu quả.
 
-Đây là một ví dụ về các buổi chuyên đề như vậy: [Các buổi thảo luận, đáp ứng nhu cầu công việc, nhu cầu công nghệ](../C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn,%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c,%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87.md)
+Đây là một ví dụ về các buổi chuyên đề như vậy: [Các buổi thảo luận, định hướng, hỗ trợ giải pháp cho các nhu cầu công việc và công nghệ](../C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn,%20%C4%91%E1%BB%8Bnh%20h%C6%B0%E1%BB%9Bng,%20h%E1%BB%97%20tr%E1%BB%A3%20gi%E1%BA%A3i%20ph%C3%A1p%20cho%20c%C3%A1c%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c%20v%C3%A0%20c%C3%B4ng%20ngh%E1%BB%87.md)
 
 ### Kết nối ABG Alumni với các mạng lưới khác 
 Mỗi người đều là thành viên của nhiều mạng lưới khác nhau. Đó có thể là mạng lưới người thân, bạn bè, thú vui, nghề nghiệp, v.v. ABG Alumni chỉ là một trong những mạng lưới đó. Nếu bạn cũng đang muốn phát triển một mạng lưới khác, không có lý do gì ABG Alumni không cùng tham gia được với bạn.

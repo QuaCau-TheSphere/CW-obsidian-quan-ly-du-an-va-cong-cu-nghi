@@ -40,7 +40,7 @@ Sau khi xem xét các đăng ký, Quả Cầu sẽ lựa chọn để trao đổ
 
 Đọc thêm các bài sau đây để hiểu hơn về ý tưởng này:
 - [Khi nào thì chiến lược định giá "trả tuỳ tâm" đạt được sự bền vững?](M%C3%B4%20h%C3%ACnh%20kinh%20doanh%20c%E1%BB%A7a%20c%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh.md)
- - [Các buổi thảo luận, đáp ứng nhu cầu công việc, nhu cầu công nghệ](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn,%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c,%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87.md)
+ - [Các buổi thảo luận, định hướng, hỗ trợ giải pháp cho các nhu cầu công việc và công nghệ](../../../../%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/C%C3%A1c%20bu%E1%BB%95i%20hu%E1%BA%A5n%20luy%E1%BB%87n%20l%E1%BA%ADp%20tr%C3%ACnh/9%20Blog/C%C3%A1c%20bu%E1%BB%95i%20th%E1%BA%A3o%20lu%E1%BA%ADn,%20%C4%91%E1%BB%8Bnh%20h%C6%B0%E1%BB%9Bng,%20h%E1%BB%97%20tr%E1%BB%A3%20gi%E1%BA%A3i%20ph%C3%A1p%20cho%20c%C3%A1c%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c%20v%C3%A0%20c%C3%B4ng%20ngh%E1%BB%87.md)
  - [Tại sao các phần mềm nocode hay ChatGPT vẫn không đủ để thay thế lập trình trong việc quản trị?](L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3.md)
 
 Thông tin liên hệ:

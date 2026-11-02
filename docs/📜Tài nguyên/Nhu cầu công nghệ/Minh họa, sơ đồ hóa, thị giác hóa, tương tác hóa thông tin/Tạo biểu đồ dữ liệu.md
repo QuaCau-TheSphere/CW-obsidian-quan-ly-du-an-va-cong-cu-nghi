@@ -1,12 +1,11 @@
 ---
 share: true
 created: 2024-10-18T12:02
-updated: 2026-10-05T16:20
+updated: 2026-10-17T08:34
 aliases:
   - Biểu đồ dữ liệu
 ---
-Lĩnh vực:: [Thiết kế thông tin](../../L%C4%A9nh%20v%E1%BB%B1c/Thi%E1%BA%BFt%20k%E1%BA%BF%20th%C3%B4ng%20tin/index.md)
-Nhu cầu công nghệ:: [Tài liệu động](../Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md)
+[Tạo biểu đồ dữ liệu](T%E1%BA%A1o%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20d%E1%BB%AF%20li%E1%BB%87u.md) là một phần của [Minh họa, thị giác hóa thông tin](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Minh%20h%E1%BB%8Da,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin.md)
 
 ## Lý thuyết
 - [Scientific visualization](https://en.wikipedia.org/wiki/Scientific_visualization)
@@ -30,7 +29,8 @@ Nhu cầu công nghệ:: [Tài liệu động](../Vi%E1%BA%BFt%20v%C3%A0%20qu%E1
 [Datawrapper: Create charts, maps, and tables](https://www.datawrapper.de/)
 
 ## Nơi thảo luận
-Khái niệm:: [Dữ liệu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md)
 [![](https://imagizer.imageshack.com/a/img924/9471/eQpmWA.png)](https://discord.com/channels/898550123007709204/1296474612716146719)
 
-[Minh họa, thị giác hóa thông tin](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Minh%20h%E1%BB%8Da,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin.md)
+Khái niệm:: [Dữ liệu](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%AF%20li%E1%BB%87u.md)
+Lĩnh vực:: [Thiết kế thông tin](../../L%C4%A9nh%20v%E1%BB%B1c/Thi%E1%BA%BFt%20k%E1%BA%BF%20th%C3%B4ng%20tin/index.md)
+Nhu cầu công nghệ:: [Tài liệu động](../Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md)

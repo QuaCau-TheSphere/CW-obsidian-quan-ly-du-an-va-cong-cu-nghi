@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-09-28T18:29
+updated: 2026-10-23T12:34
 description: Nhân văn số là một lĩnh vực giao thoa giữa ngành khoa học máy tính và các ngành khoa học xã hội và nhân văn.
 ---
 Giới thiệu: [Nhân văn số thức: Một lát cắt của xã hội toàn cầu - Tạp chí Tia sáng](https://tiasang.com.vn/khoa-hoc-cong-nghe/nhan-van-so-thuc-mot-lat-cat-cua-xa-hoi-toan-cau-11139/)

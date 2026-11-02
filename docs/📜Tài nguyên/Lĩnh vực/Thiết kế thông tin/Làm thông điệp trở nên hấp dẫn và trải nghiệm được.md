@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2025-05-26T19:55
+updated: 2026-10-19T14:26
 description: Ngoài việc viết ra thì còn có thể làm được những gì?
-updated: 2026-09-30T13:34
+aliases:
+  - Ảnh minh họa
 ---
 Việc [Làm thông điệp trở nên hấp dẫn và trải nghiệm được](L%C3%A0m%20th%C3%B4ng%20%C4%91i%E1%BB%87p%20tr%E1%BB%9F%20n%C3%AAn%20h%E1%BA%A5p%20d%E1%BA%ABn%20v%C3%A0%20tr%E1%BA%A3i%20nghi%E1%BB%87m%20%C4%91%C6%B0%E1%BB%A3c.md) là một phần của [Minh họa, thị giác hóa thông tin](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Vi%E1%BA%BFt%20v%C3%A0%20chia%20s%E1%BA%BB%20tri%20th%E1%BB%A9c/Minh%20h%E1%BB%8Da,%20th%E1%BB%8B%20gi%C3%A1c%20h%C3%B3a%20th%C3%B4ng%20tin.md). Nó có lẽ là một hình thức tạo ra [Môi trường nghĩ, nhận thức tăng cường](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/index.md).
 
@@ -25,7 +27,7 @@ Kể cả khi là viết chữ thì quan trọng vẫn là tình tiết hoặc �
 	- Ảnh quảng cáo, tuyên truyền có mặt người kế bên để tạo cảm xúc
 	- Ảnh trong phim
 	- Meme
-	- [Nhiếp ảnh ý niệm](https://vi.wikipedia.org/wiki/Nhi%E1%BA%BFp_%E1%BA%A3nh_%C3%BD_ni%E1%BB%87m): [World Press Photo](https://www.worldpressphoto.org/)
+	- [Nhiếp ảnh ý niệm](https://vi.wikipedia.org/wiki/Nhi%E1%BA%BFp_%E1%BA%A3nh_%C3%BD_ni%E1%BB%87m): [World Press Photo](https://www.worldpressphoto.org/), [Title Unavailable \| Site Unreachable](https://www.fubiz.net)
 	- Các trường phái hội họa: [Saatchi Art](https://www.saatchiart.com/), [Avant Arte](https://avantarte.com/), [nghệ thuật tạo sinh](https://avantarte.com/insights/guides/what-is-generative-art), [The Last Museum](https://lastmuseum.com/)
 	- Graphic design
 - [Truyện tranh kiến thức](./Truy%E1%BB%87n%20tranh%20ki%E1%BA%BFn%20th%E1%BB%A9c.md), [comics journalism](https://en.wikipedia.org/wiki/Comics_journalism)

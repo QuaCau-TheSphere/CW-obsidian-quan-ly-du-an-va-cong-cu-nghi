@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-26T19:55
-updated: 2026-08-22T12:02
+updated: 2026-10-17T19:35
 title: Kế toán
 ---
 Khái niệm:: 

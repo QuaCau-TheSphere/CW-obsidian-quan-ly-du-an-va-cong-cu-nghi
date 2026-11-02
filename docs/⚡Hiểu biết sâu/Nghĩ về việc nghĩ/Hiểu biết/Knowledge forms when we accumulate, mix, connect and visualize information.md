@@ -3,7 +3,7 @@ share: true
 created: 2023-09-05T16:17
 updated: 2026-06-01T19:38
 ---
-Khái niệm:: [Kiến thức](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFn%20th%E1%BB%A9c.md)
+Khái niệm:: [Kiến thức, tri thức](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20tri%20th%E1%BB%A9c.md)
 Knowledge forms when we accumulate, mix, connect and visualize information. Indeed we should accumulate facts to generate any insight, this is just a preliminary condition. But what’s next? How we form new knowledge? There are several ways.
 
 ![conceptual framework](https://fibery.io/blog/static/52c0d916c1fb3875a157ce1d35e89788/99f37/conceptual-framework.png)

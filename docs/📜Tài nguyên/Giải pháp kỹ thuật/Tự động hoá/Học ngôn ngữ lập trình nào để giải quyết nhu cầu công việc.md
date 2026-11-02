@@ -2,7 +2,7 @@
 share: true
 blog: working
 created: 2026-07-22T20:41
-updated: 2026-09-05T21:20
+updated: 2026-10-14T15:00
 title: Học ngôn ngữ lập trình nào để giải quyết nhu cầu công việc?
 aliases:
   - gleam
@@ -51,7 +51,7 @@ Danh sách các ngôn ngữ bậc cao bạn thường nghe tới:
 
 Trong hiểu biết của tôi, Gleam là có tiềm năng nhất. Không như JavaScript hay Python là những ngôn ngữ ra đời cách đây 30 năm, và đủ mới để có thể học tập được những cái hay từ các ngôn ngữ khác.
 
-
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=E6_JqYMeNqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Làm website](../Ti%E1%BA%BFp%20th%E1%BB%8B%20s%E1%BB%91/L%C3%A0m%20website.md)
+
+Python ban đầu em thấy thích vì nó nhìn gọn gàng, nhưng sau dùng JS thấy thêm mấy cái ngoặc cũng ko rối lắm, mà nếu làm web thì đằng nào cũng phải đụng tới nó. Nếu dùng nó làm backend luôn thì mình ko phải học nhiều ngôn ngữ. Với Deno thì nó còn có deno deploy đẩy thẳng lên web luôn, ko phải học thêm cả sql :D

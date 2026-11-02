@@ -37,6 +37,7 @@ Không cho thời gian để tự học, hoặc có cho thì thấy bao nhiêu c
 [Nỗi ám ảnh với sự hiệu quả có thể đến từ nỗi sợ chết](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/C%C3%B4ng%20vi%E1%BB%87c/T%E1%BB%91i%20%C6%B0u%20ho%C3%A1/N%E1%BB%97i%20%C3%A1m%20%E1%BA%A3nh%20v%E1%BB%9Bi%20s%E1%BB%B1%20hi%E1%BB%87u%20qu%E1%BA%A3%20c%C3%B3%20th%E1%BB%83%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20n%E1%BB%97i%20s%E1%BB%A3%20ch%E1%BA%BFt.md)
 
 ## Lịch sử tên gọi
+- Các buổi chia sẻ tư duy dữ liệu, công cụ, hệ thống cho nhu cầu công việc
 - Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc
 - Các buổi thảo luận, đáp ứng nhu cầu công việc, nhu cầu công nghệ
 - [14-10-26](14-10-26.md) Các buổi thảo luận, định hướng, hỗ trợ giải pháp cho các nhu cầu công việc và công nghệ

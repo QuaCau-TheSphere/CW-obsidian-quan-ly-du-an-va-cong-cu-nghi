@@ -4,7 +4,7 @@ created: 2024-08-31T22:26
 updated: 2026-01-14T13:11
 ---
 Nhu cầu công nghệ:: [Hệ thống quản lý kiến thức](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/H%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md), [Tài liệu động](../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/T%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BB%99ng.md)
-Lĩnh vực:: [Sắp chữ, thiết kế, xuất bản](../../L%C4%A9nh%20v%E1%BB%B1c/S%E1%BA%AFp%20ch%E1%BB%AF,%20thi%E1%BA%BFt%20k%E1%BA%BF,%20xu%E1%BA%A5t%20b%E1%BA%A3n.md), [Hệ thống thông tin](../../L%C4%A9nh%20v%E1%BB%B1c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/index.md)
+Lĩnh vực:: [Sắp chữ, thiết kế, xuất bản](../../L%C4%A9nh%20v%E1%BB%B1c/S%E1%BA%AFp%20ch%E1%BB%AF,%20thi%E1%BA%BFt%20k%E1%BA%BF,%20xu%E1%BA%A5t%20b%E1%BA%A3n.md), [Hệ thống thông tin](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin.md)
 [Misleading graph - Wikipedia](https://en.wikipedia.org/wiki/Misleading_graph)
 [perceptualedge.com/articles/visual\_business\_intelligence/save\_the\_pies\_for\_dessert.pdf](http://www.perceptualedge.com/articles/visual_business_intelligence/save_the_pies_for_dessert.pdf)
 [Future Text Publishing](https://futuretextpublishing.com)

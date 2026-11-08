@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-06T12:52
-updated: 2026-09-08T13:12
+updated: 2026-11-05T00:58
 description: Nó khác gì với những dự án tương tự khác? Nó chấp nhận những đánh đổi nào?
 aliases:
   - Động lực
@@ -164,9 +164,12 @@ Giải pháp đáp ứng được tất cả các nhu cầu này là một [hệ
 | Người dùng có thể tự triển khai hệ thống của riêng họ cho nhóm người dùng của riêng họ                         | Local first, Deno, Murmuration |
 | Chức năng mới có thể bổ sung dễ dàng                                                                           | Cung cấp API, Deno             |
 
-Về mặt kỹ thuật, nó được viết bằng TypeScript với môi trường thực thi là Deno.
+Về mặt kỹ thuật, nó được viết bằng Gleam 
+[Học ngôn ngữ lập trình nào để giải quyết nhu cầu công việc?](../../T%E1%BB%B1%20%C4%91%E1%BB%99ng%20ho%C3%A1/H%E1%BB%8Dc%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BA%ADp%20tr%C3%ACnh%20n%C3%A0o%20%C4%91%E1%BB%83%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c.md)
 
 - Đa số mọi người sẽ dùng Base? 
 Gold view nâng cao là cần thiết không? Và nếu để vô thì ntn?
 
 [One Venue - Địa điểm tổ chức sự kiện cho cộng đồng và hơn thế nữa](https://venue.evnx.community/)
+[Bản đồ văn hóa \| Ngày Văn hóa Việt Nam 24/11](https://cmap.vn/ban-do-van-hoa)
+[VietnamCraft — Bản đồ tri thức nghề](https://vietnamcraft.org/)

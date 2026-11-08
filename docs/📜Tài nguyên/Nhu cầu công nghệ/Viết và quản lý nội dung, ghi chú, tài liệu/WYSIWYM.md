@@ -3,7 +3,7 @@ share: true
 created: 2023-09-05T16:17
 updated: 2026-01-14T13:11
 ---
-Lĩnh vực:: [Hệ thống thông tin](../../L%C4%A9nh%20v%E1%BB%B1c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/index.md), [Sắp chữ, thiết kế, xuất bản](../../L%C4%A9nh%20v%E1%BB%B1c/S%E1%BA%AFp%20ch%E1%BB%AF,%20thi%E1%BA%BFt%20k%E1%BA%BF,%20xu%E1%BA%A5t%20b%E1%BA%A3n.md)
+Lĩnh vực:: [Hệ thống thông tin](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin.md), [Sắp chữ, thiết kế, xuất bản](../../L%C4%A9nh%20v%E1%BB%B1c/S%E1%BA%AFp%20ch%E1%BB%AF,%20thi%E1%BA%BFt%20k%E1%BA%BF,%20xu%E1%BA%A5t%20b%E1%BA%A3n.md)
 Đáp ứng cho nhu cầu công việc: [Chèn ảnh, bảng, sơ đồ, mục lục, ghi chú, song ngữ, trích dẫn theo đúng ý](./Ch%C3%A8n%20%E1%BA%A3nh,%20b%E1%BA%A3ng,%20s%C6%A1%20%C4%91%E1%BB%93,%20m%E1%BB%A5c%20l%E1%BB%A5c,%20ghi%20ch%C3%BA,%20song%20ng%E1%BB%AF,%20tr%C3%ADch%20d%E1%BA%ABn%20theo%20%C4%91%C3%BAng%20%C3%BD.md)
 
 

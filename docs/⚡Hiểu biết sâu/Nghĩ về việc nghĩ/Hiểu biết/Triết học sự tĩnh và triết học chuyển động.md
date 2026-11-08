@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-24T12:22
-updated: 2026-06-01T19:38
+updated: 2026-11-06T21:03
 ---
 Khái niệm:: 
 Ngày xưa có 2 trường phái:
@@ -15,3 +15,4 @@ Phái thực chứng (positivism) tin rằng vũ trụ của chúng ta giống n
 Ngược lại, phái diễn giải (interpretivism) cho rằng có nhiều góc nhìn khác nhau cho cùng một thực tại. Nó tin rằng kiến thức được lưu truyền qua ý tưởng và tranh luận. Nó từ chối việc sử dụng các phương pháp khoa học cho những hệ xã hội.
 
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/2Ki12Pi3hnc?si=kaO273ShASSoGSlX&t=2249" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Thứ triết lý mặc định của kỹ thuật phần mềm là chủ nghĩa cấu trúc logic, có gốc gác từ triết học sự tĩnh](../../C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/K%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m/Ki%E1%BA%BFn%20tr%C3%BAc/Tri%E1%BA%BFt%20h%E1%BB%8Dc/Th%E1%BB%A9%20tri%E1%BA%BFt%20l%C3%BD%20m%E1%BA%B7c%20%C4%91%E1%BB%8Bnh%20c%E1%BB%A7a%20k%E1%BB%B9%20thu%E1%BA%ADt%20ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0%20ch%E1%BB%A7%20ngh%C4%A9a%20c%E1%BA%A5u%20tr%C3%BAc%20logic,%20c%C3%B3%20g%E1%BB%91c%20g%C3%A1c%20t%E1%BB%AB%20tri%E1%BA%BFt%20h%E1%BB%8Dc%20s%E1%BB%B1%20t%C4%A9nh.md)

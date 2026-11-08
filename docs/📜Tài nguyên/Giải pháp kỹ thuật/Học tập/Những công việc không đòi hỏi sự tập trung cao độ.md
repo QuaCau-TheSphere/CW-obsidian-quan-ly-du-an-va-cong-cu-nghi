@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-03-11T14:35
-updated: 2026-10-20T16:35
+updated: 2026-11-05T00:59
 description: Liệu có những công việc nào mà làm đa nhiệm được tốt không?
 cssclasses:
   - wide-table
@@ -21,6 +21,9 @@ Có nhiều lý do khiến cho một người không tập trung cao độ để
 
 Đâu là những công việc mà nếu làm trong môi trường này thì kết quả cho ra là chấp nhận được? Nói cách khác, trong mỗi môi trường thì những công việc nào cho phép ta làm đa nhiệm với kết quả chấp nhận được?
 
+## Tình huống muốn tranh thủ làm thêm việc khác 
+Đều là những thứ không muốn làm nhưng phải làm
+### Di chuyển
 | Khả năng đạt được →<br>Tình huống ↓ | Suy nghĩ sâu | Tập trung xem | Màn hình lap | Tập trung nghe | Gõ bàn phím |
 | ----------------------------------- | ------------ | ------------- | ------------ | -------------- | ----------- |
 | Ngồi chờ ở sân bay, trên máy bay    | ✔            | ✔             | ✔            | ✔              | ✔           |
@@ -29,6 +32,7 @@ Có nhiều lý do khiến cho một người không tập trung cao độ để
 | Ngồi chờ tên hiện lên trên màn hình | ❌           | ✔             | ❌           | ✔              | ❌          |
 | Ngồi chờ được gọi tên               | ❌           | ✔             | ❌           | ❌             | ❌          |
 
+### Sinh hoạt trong nhà
 | Khả năng đạt được →<br>Tình huống ↓ | Suy nghĩ sâu | Tập trung xem | Màn hình lap | Tập trung nghe | Gõ bàn phím |
 | ----------------------------------- | ------------ | ------------- | ------------ | -------------- | ----------- |
 | Rửa chén                            | ❌           | ❌            | ✔            | ✔              | ❌          |
@@ -36,6 +40,7 @@ Có nhiều lý do khiến cho một người không tập trung cao độ để
 | Ngồi bồn cầu buổi chiều             | ❌           | ✔             | ❌           | ✔              | ❌          |
 | Ngồi bồn cầu buổi tối               | ❌           | ✔             | ❌           | ✔              | ❌          |
 
+### Môi trường
 | Khả năng đạt được →<br>Tình huống ↓                                | Suy nghĩ sâu | Tập trung xem | Màn hình lap | Tập trung nghe | Gõ bàn phím |
 | ------------------------------------------------------------------ | ------------ | ------------- | ------------ | -------------- | ----------- |
 | Làm nhân sự ảo                                                     | ❌           | ❌            | ✔            | ❌             | ✔           |
@@ -43,7 +48,6 @@ Có nhiều lý do khiến cho một người không tập trung cao độ để
 | Ngồi quán cà phê để người khác thao tác máy và cần gì thì hỏi được | ❌           | ❌            | ✔            | ❌             | ✔           |
 | Làm tiếp tân, bảo vệ                                               | ❌           | ❌            | ✔            | ❌             | ✔           |
 
-### Không muốn hoàn toàn
 | Khả năng đạt được →<br>Tình huống ↓                                                  | Suy nghĩ sâu | Tập trung xem | Màn hình lap | Tập trung nghe | Gõ bàn phím |
 | ------------------------------------------------------------------------------------ | ------------ | ------------- | ------------ | -------------- | ----------- |
 | Nhức đầu do đi nắng                                                                  | ❌           | ✔             | ✔            | ✔              | ✔           |
@@ -53,10 +57,9 @@ Có nhiều lý do khiến cho một người không tập trung cao độ để
 | Buồn ngủ nhưng thà không ngủ còn hơn                                                 | ❌           | ✔             | ✔            | ✔              | ✔           |
 | Buổi chiều không làm việc được                                                       | ❌           | ❌            | ✔            | ❌             | ✔           |
 
-
-## Điều có thể làm
+## Những điều có thể làm trong các tình huống khác nhau
 ### Không cần suy nghĩ sâu, không cần tập trung nghe
-| ✔Tập trung xem | ✔Màn hình lap | Tập trung nghe | ✔Gõ bàn phím
+- Suy nghĩ sâu | ✔Tập trung xem | ✔Màn hình lap | - Tập trung nghe | ✔Gõ bàn phím
 
 Sắp xếp dữ liệu:
 - Làm git
@@ -64,12 +67,14 @@ Sắp xếp dữ liệu:
 - tập tin, chương trình, config plugin
 - Xếp lịch
 - Chat, đọc email
+- Dọn Drive
 
 Vọc app:
 - Vim, yazi, sandboxie
 
 Học nội dung ngắn: flashcard, Duolingo
 Lướt mạng xã hội
+Dọn phòng, dọn bàn
 
 ### ❌Suy nghĩ sâu | ✔Tập trung xem | ✔Màn hình lap | ❌Tập trung nghe | ✔Gõ bàn phím
 - Đọc truyện tranh kiến thức

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2026-10-14T14:59
+updated: 2026-11-06T13:43
 ---
 Lĩnh vực:: [Lập trình web](../../../L%C4%A9nh%20v%E1%BB%B1c/L%E1%BA%ADp%20tr%C3%ACnh%20web.md)
 Giải pháp kỹ thuật:: [Làm website](../../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Ti%E1%BA%BFp%20th%E1%BB%8B%20s%E1%BB%91/L%C3%A0m%20website.md)
@@ -17,6 +17,7 @@ Xem thêm:: [WordPress giúp việc tạo web dễ dàng nhất, chứ không ph
 ## Thể hiện bản thân một cách vui vẻ
 [Are.na](https://www.are.na/)
 [Neocities: Create your own free website!](https://neocities.org/)
+
 Đã chết:
 - [Glitch: The friendly community where everyone builds the web](https://glitch.com/)
 - [mmm.dev](https://mmm.dev/)

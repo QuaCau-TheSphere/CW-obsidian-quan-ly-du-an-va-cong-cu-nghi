@@ -13,6 +13,6 @@ Những thứ này là những thứ quen thuộc với người đọc web. Đi
 [Thiết lập môi trường cho việc đọc PDF thường xuyên](./Thi%E1%BA%BFt%20l%E1%BA%ADp%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20cho%20vi%E1%BB%87c%20%C4%91%E1%BB%8Dc%20PDF%20th%C6%B0%E1%BB%9Dng%20xuy%C3%AAn.md)
 
 [Enhanced publication - Wikipedia](https://en.wikipedia.org/wiki/Enhanced_publication)
-[Thiết kế bao trùm](../../../L%C4%A9nh%20v%E1%BB%B1c/Thi%E1%BA%BFt%20k%E1%BA%BF%20bao%20tr%C3%B9m.md)
+[Thiết kế hòa nhập](../../../L%C4%A9nh%20v%E1%BB%B1c/Thi%E1%BA%BFt%20k%E1%BA%BF%20h%C3%B2a%20nh%E1%BA%ADp/index.md)
 
 [accessible HTML - arXiv info](https://info.arxiv.org/about/accessible_HTML.html)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-07-03T15:10
-updated: 2026-10-10T13:31
+updated: 2026-11-10T11:45
 aliases:
   - chat
 ---
@@ -39,3 +39,5 @@ Việc [Trích xuất và lọc thông tin từ các nền tảng nhắn tin](Tr
 [Cách để tìm công cụ đúng nhu cầu của mình](../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/H%E1%BB%8Dc%20t%E1%BA%ADp/C%C3%A1ch%20%C4%91%E1%BB%83%20t%C3%ACm%20c%C3%B4ng%20c%E1%BB%A5%20%C4%91%C3%BAng%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20m%C3%ACnh.md)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ira28fgSF7M?si=g7EDSswXs3JxAA7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Khái niệm:: [Email, chat](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Email,%20chat.md)

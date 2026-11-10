@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-10-02T15:46
+updated: 2026-11-10T11:45
 cssclasses:
   - wide-table
 aliases:
@@ -35,3 +35,4 @@ nhưng ví dụ như cái ⁠CKM là anh mới đẻ ra. Hiện tại thì nó c
 thread dành cho các thảo luận
 
 Nhu cầu công nghệ:: [Trích xuất và lọc thông tin từ các nền tảng nhắn tin](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Tr%C3%ADch%20xu%E1%BA%A5t%20v%C3%A0%20l%E1%BB%8Dc%20th%C3%B4ng%20tin%20t%E1%BB%AB%20c%C3%A1c%20n%E1%BB%81n%20t%E1%BA%A3ng%20nh%E1%BA%AFn%20tin.md)
+Khái niệm:: [Email, chat](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Email,%20chat.md)

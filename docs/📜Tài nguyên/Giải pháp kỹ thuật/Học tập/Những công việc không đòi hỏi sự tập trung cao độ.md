@@ -70,7 +70,7 @@ Sắp xếp dữ liệu:
 - Dọn Drive
 
 Vọc app:
-- Vim, yazi, sandboxie
+- patchwork, Vim, yazi, sandboxie
 
 Học nội dung ngắn: flashcard, Duolingo
 Lướt mạng xã hội

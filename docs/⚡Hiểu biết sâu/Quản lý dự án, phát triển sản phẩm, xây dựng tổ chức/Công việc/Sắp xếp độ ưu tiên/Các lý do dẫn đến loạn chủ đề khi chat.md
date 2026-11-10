@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-03-17T14:48
-updated: 2026-10-02T15:46
+updated: 2026-11-10T11:45
 ---
 Khái niệm:: 
 
@@ -16,3 +16,4 @@ Nguồn::
 [Các nền tảng cho phép tạo các chủ đề nhỏ hơn](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/Ph%E1%BA%A7n%20m%E1%BB%81m%20x%C3%A2y%20d%E1%BB%B1ng%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/C%C3%A1c%20n%E1%BB%81n%20t%E1%BA%A3ng%20cho%20ph%C3%A9p%20t%E1%BA%A1o%20c%C3%A1c%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20nh%E1%BB%8F%20h%C6%A1n.md)
 [Bội thực chat nhóm gây phân tán nguồn lực, mất tập trung, tăng rủi ro lộ dữ liệu](../../X%C3%A2y%20d%E1%BB%B1ng%20nh%C3%B3m,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A2n%20s%E1%BB%B1/K%C3%AAnh%20li%C3%AAn%20l%E1%BA%A1c/B%E1%BB%99i%20th%E1%BB%B1c%20chat%20nh%C3%B3m%20g%C3%A2y%20ph%C3%A2n%20t%C3%A1n%20ngu%E1%BB%93n%20l%E1%BB%B1c,%20m%E1%BA%A5t%20t%E1%BA%ADp%20trung,%20t%C4%83ng%20r%E1%BB%A7i%20ro%20l%E1%BB%99%20d%E1%BB%AF%20li%E1%BB%87u.md)
 Nhu cầu công nghệ:: [Trích xuất và lọc thông tin từ các nền tảng nhắn tin](../../../../%F0%9F%93%9CT%C3%A0i%20nguy%C3%AAn/Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/Tr%C3%ADch%20xu%E1%BA%A5t%20v%C3%A0%20l%E1%BB%8Dc%20th%C3%B4ng%20tin%20t%E1%BB%AB%20c%C3%A1c%20n%E1%BB%81n%20t%E1%BA%A3ng%20nh%E1%BA%AFn%20tin.md)
+Khái niệm:: [Email, chat](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Email,%20chat.md)

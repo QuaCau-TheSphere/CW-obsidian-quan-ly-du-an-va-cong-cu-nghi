@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2024-09-21T21:29
-updated: 2026-09-28T21:16
+updated: 2026-11-11T21:30
 aliases:
   - Xây dựng hệ thống quản lý
 ---
-Lĩnh vực:: [Hệ thống thông tin](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin.md)
+Lĩnh vực:: [Hệ thống thông tin](../L%C4%A9nh%20v%E1%BB%B1c/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/index.md)
 Nhu cầu công nghệ:: [Hệ thống quản lý kiến thức](../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20ngh%E1%BB%87/Vi%E1%BA%BFt%20v%C3%A0%20qu%E1%BA%A3n%20l%C3%BD%20n%E1%BB%99i%20dung,%20ghi%20ch%C3%BA,%20t%C3%A0i%20li%E1%BB%87u/H%E1%BB%87%20th%E1%BB%91ng%20qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c.md)
 Nhu cầu công nghệ:: [Viết tài liệu đặc tả yêu cầu](../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Vi%E1%BA%BFt%20t%C3%A0i%20li%E1%BB%87u%20%C4%91%E1%BA%B7c%20t%E1%BA%A3%20y%C3%AAu%20c%E1%BA%A7u.md)
 

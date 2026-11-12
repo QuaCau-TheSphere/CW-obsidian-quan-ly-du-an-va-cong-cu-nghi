@@ -3,7 +3,7 @@ share: true
 created: 2026-11-10T11:50
 updated: 2026-11-10T11:56
 ---
-Khái niệm:: [Hệ thống thông tin](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin.md)
+Khái niệm:: [Hệ thống thông tin (kn)](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin%20(kn).md)
 The next time I saw Cameron was on the day of his operation. He lay on a stretcher outside the operating room, waiting to be wheeled in. A computer screen on a boom loomed over the bed, showing the safety checks I still had to do.
 
 I shook Cameron’s hand and was introduced to his wife, who was in a chair beside him. They smiled nervously. It was his first time going under anesthesia. I told them about who would be on the surgical team with me and what was going to happen. I reached for the computer. But then I hesitated. I remembered when I’d turned my back on Cameron at our last encounter.

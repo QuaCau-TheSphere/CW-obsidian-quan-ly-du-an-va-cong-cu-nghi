@@ -3,7 +3,7 @@ share: true
 created: 2026-11-08T14:54
 updated: 2026-11-08T15:15
 ---
-Khái niệm:: [Hệ thống thông tin](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin.md)
+Khái niệm:: [Hệ thống thông tin (kn)](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin%20(kn).md)
 As a program adapts and serves more people and more functions, it naturally requires tighter regulation. Software systems govern how we interact as groups, and that makes them unavoidably bureaucratic in nature. There will always be those who want to maintain the system and those who want to push the system’s boundaries. Conservatives and liberals emerge.
 
 Nguồn:: [Why Doctors Hate Their Computers \| The New Yorker](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)

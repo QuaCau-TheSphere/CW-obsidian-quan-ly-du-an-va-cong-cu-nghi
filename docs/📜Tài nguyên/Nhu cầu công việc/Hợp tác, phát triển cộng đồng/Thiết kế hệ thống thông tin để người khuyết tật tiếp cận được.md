@@ -16,7 +16,7 @@ Khi nói đến việc thiết kế tiếp cận được cho người khuyết 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=y6jrL8UCw7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Home - The A11Y Project](https://www.a11yproject.com/)
 
-[Một hệ thống, quy trình có thể điều chỉnh hợp lý được tới đâu?](../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/M%E1%BB%99t%20h%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin%20c%C3%B3%20th%E1%BB%83%20%C4%91i%E1%BB%81u%20ch%E1%BB%89nh%20h%E1%BB%A3p%20l%C3%BD%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BB%9Bi%20%C4%91%C3%A2u.md)
+[Một hệ thống, quy trình có thể điều chỉnh hợp lý được tới đâu?](../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/M%E1%BB%99t%20h%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin%20c%C3%B3%20th%E1%BB%83%20ch%C3%A0o%20%C4%91%C3%B3n%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BB%9Bi%20%C4%91%C3%A2u.md)
 
 ## Một số nỗ lực xây dựng hệ thống thông tin có tính đến thiết kế bao trùm ở Việt Nam
 [Thiết kế một tương lai dành cho mọi người - RMIT University](https://www.rmit.edu.vn/vi/tin-tuc/tat-ca-tin-tuc/2025/oct/thiet-ke-mot-tuong-lai-danh-cho-moi-nguoi)

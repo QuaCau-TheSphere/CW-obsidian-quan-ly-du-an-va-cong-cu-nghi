@@ -70,4 +70,4 @@ $$= a_0 - a_{a_1} + b_0 - c_1 + y $$
 Nếu $a_i$, $a_{a_i}$ và $y$ không đổi thì ta có $b_{i+1} = b_i - c_{i+1} + const$. Nếu $c_i$ luôn tăng thì chắc là $b_i$ sẽ tiến tới $0$.
 
 Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../%CE%9E%20Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)
-Khái niệm:: [Sự không biết](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%B1%20kh%C3%B4ng%20bi%E1%BA%BFt.md), [Thời gian, lịch](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Th%E1%BB%9Di%20gian,%20l%E1%BB%8Bch.md), [Dự đoán](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%B1%20%C4%91o%C3%A1n.md), [Kiến thức, tri thức](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20tri%20th%E1%BB%A9c.md)
+Khái niệm:: [Không biết](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kh%C3%B4ng%20bi%E1%BA%BFt.md), [Thời gian, lịch](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Th%E1%BB%9Di%20gian,%20l%E1%BB%8Bch.md), [Dự đoán](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/D%E1%BB%B1%20%C4%91o%C3%A1n.md), [Kiến thức, tri thức](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20tri%20th%E1%BB%A9c.md)

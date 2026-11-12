@@ -15,7 +15,7 @@ Do tôi chỉ muốn viết nhanh, nên tôi sẽ không tóm tắt lại nhữn
 
 Điểm khác biệt là ở bài nói chuyện, việc vào rừng tìm ý tưởng còn ngụ ý là chỉ dùng logic thì không đủ để ra ý tưởng mới, mà còn phải dùng bản năng, trực giác, trí tưởng tượng, v.v. Còn với ý của CPG Grey thì có lẽ chỉ đơn giản là chịu khó dấn thân vào những thứ mình không biết, đi theo sự tò mò của mình.
 
-Một số ý khác cũng có thể mở rộng thêm: [Ý tưởng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/%C3%9D%20t%C6%B0%E1%BB%9Fng.md), [Trực giác](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%E1%BB%B1c%20gi%C3%A1c.md), [Điều mình không biết là mình không biết](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%B1%20kh%C3%B4ng%20bi%E1%BA%BFt.md)
+Một số ý khác cũng có thể mở rộng thêm: [Ý tưởng](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/%C3%9D%20t%C6%B0%E1%BB%9Fng.md), [Trực giác](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Tr%E1%BB%B1c%20gi%C3%A1c.md), [Điều mình không biết là mình không biết](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kh%C3%B4ng%20bi%E1%BA%BFt.md)
 
 ## Lịch sử của loài người là sự mở rộng nhận thức 
 Ý này có lẽ được triển khai tốt nhất ở các thảo luận về *công cụ nghĩ*. Lập luận của nó có thể bắt đầu bằng nhận định sau:

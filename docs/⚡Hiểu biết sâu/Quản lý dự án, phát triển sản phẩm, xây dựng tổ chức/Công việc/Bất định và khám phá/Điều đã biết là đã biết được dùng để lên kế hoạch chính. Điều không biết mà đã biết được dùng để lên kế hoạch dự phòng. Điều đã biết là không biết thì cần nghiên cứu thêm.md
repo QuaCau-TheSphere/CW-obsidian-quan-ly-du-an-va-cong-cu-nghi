@@ -5,7 +5,7 @@ updated: 2026-07-01T20:16
 aliases:
   - known, unknown
 ---
-Khái niệm:: [Sự không biết](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/S%E1%BB%B1%20kh%C3%B4ng%20bi%E1%BA%BFt.md), [Kế hoạch](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/K%E1%BA%BF%20ho%E1%BA%A1ch%20(kh%C3%A1i%20ni%E1%BB%87m).md), [Kiến thức, tri thức](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20tri%20th%E1%BB%A9c.md), [Nghiên cứu](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nghi%C3%AAn%20c%E1%BB%A9u.md)
+Khái niệm:: [Không biết](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Kh%C3%B4ng%20bi%E1%BA%BFt.md), [Kế hoạch](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20l%C3%AAn%20k%E1%BA%BF%20ho%E1%BA%A1ch,%20c%C3%B4ng%20vi%E1%BB%87c/K%E1%BA%BF%20ho%E1%BA%A1ch%20(kh%C3%A1i%20ni%E1%BB%87m).md), [Kiến thức, tri thức](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20tri%20th%E1%BB%A9c.md), [Nghiên cứu](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nghi%C3%AAn%20c%E1%BB%A9u.md)
 
 Giả sử bạn dự định mở một quán cà phê:
 

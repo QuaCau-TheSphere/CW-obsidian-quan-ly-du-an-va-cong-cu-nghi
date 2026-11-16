@@ -40,4 +40,4 @@ LLM tốt nhất vào thời điểm hiện tại về một nhiệm vụ nào �
 
 Nghi định 80, thông tư 06 cho DNNVV
 
-[local-first](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/T%E1%BB%B1%20tr%E1%BB%8B%20d%E1%BB%AF%20li%E1%BB%87u,%20local-first/index.md)
+[local-first](../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/T%E1%BB%B1%20tr%E1%BB%8B%20d%E1%BB%AF%20li%E1%BB%87u,%20local-first,%20ph%E1%BA%A7n%20m%E1%BB%81m%20d%E1%BA%BBo/index.md)

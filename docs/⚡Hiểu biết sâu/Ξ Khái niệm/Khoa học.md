@@ -4,7 +4,6 @@ created: 2026-02-16T12:20
 updated: 2026-02-16T12:20
 ---
 - \-: 
-    - [Các dự án giáo dục đo lường mức độ thành công của mình thế nào？](C%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20gi%C3%A1o%20d%E1%BB%A5c%20%C4%91o%20l%C6%B0%E1%BB%9Dng%20m%E1%BB%A9c%20%C4%91%E1%BB%99%20th%C3%A0nh%20c%C3%B4ng%20c%E1%BB%A7a%20m%C3%ACnh%20th%E1%BA%BF%20n%C3%A0o%EF%BC%9F.md)
     - [Các dự án nghiên cứu điền dã thuyết phục nhà tài trợ thế nào？](C%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20nghi%C3%AAn%20c%E1%BB%A9u%20%C4%91i%E1%BB%81n%20d%C3%A3%20thuy%E1%BA%BFt%20ph%E1%BB%A5c%20nh%C3%A0%20t%C3%A0i%20tr%E1%BB%A3%20th%E1%BA%BF%20n%C3%A0o%EF%BC%9F.md)
 
 - Kiến trúc: 

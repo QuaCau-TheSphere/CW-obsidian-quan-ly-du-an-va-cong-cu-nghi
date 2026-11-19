@@ -19,4 +19,4 @@ Dữ liệu là thứ trung tâm, cả anh giao diện và logic đều phải l
 Như vậy, nếu phân biệt rõ ba anh này, bạn chắc chắn sẽ thấy chúng nó không thể ở chung với nhau được. Mỗi anh cần không gian riêng cho mình.
 
 
-Nguồn:: [tuhocict](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u.%20Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/tuhocict.md), [Bộ giải pháp dễ học cho lập trình winform giúp bạn làm đề tài | Tự học ICT](https://tuhocict.com/giai-phap-winforms-1-phan-tich-van-de-bai-toan-minh-hoa/)
+Nguồn:: [tuhocict](../../../../%CE%9E%20Meta/Ngu%E1%BB%93n/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u.%20Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/tuhocict.md), [Bộ giải pháp dễ học cho lập trình winform giúp bạn làm đề tài | Tự học ICT](https://tuhocict.com/giai-phap-winforms-1-phan-tich-van-de-bai-toan-minh-hoa/)

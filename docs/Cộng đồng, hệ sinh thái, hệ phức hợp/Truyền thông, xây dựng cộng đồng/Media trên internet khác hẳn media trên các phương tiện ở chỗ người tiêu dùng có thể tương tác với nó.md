@@ -1,0 +1,10 @@
+---
+share: true
+created: 2023-06-25T14:26
+updated: 2026-06-02T20:17
+---
+Khách hàng có thể nhấn vào quảng cáo để lấy thông tin hoặc mua sản phẩm cùng mẫu mã trên quảng cáo đó, thậm chí họ còn có thể mua cả sản phẩm từ các quảng cáo online trên Internet.
+
+Nguồn:: [https://cec13b.files.wordpress.com/2011/11/tatm13b-nhomthezoo-tts.pdf](https://cec13b.files.wordpress.com/2011/11/tatm13b-nhomthezoo-tts.pdf)
+
+Bởi vì [Hành vi và phản ứng là những thứ native trong môi trường máy tính](../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/H%C3%A0nh%20vi%20v%C3%A0%20ph%E1%BA%A3n%20%E1%BB%A9ng%20l%C3%A0%20nh%E1%BB%AFng%20th%E1%BB%A9%20native%20trong%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20m%C3%A1y%20t%C3%ADnh.md), nên [Ta không tận dụng hết được môi trường máy tính khi chỉ bắt chước môi trường giấy](../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ngh%C4%A9,%20nh%E1%BA%ADn%20th%E1%BB%A9c%20t%C4%83ng%20c%C6%B0%E1%BB%9Dng/%C4%90%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt/Ta%20kh%C3%B4ng%20t%E1%BA%ADn%20d%E1%BB%A5ng%20h%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20m%C3%A1y%20t%C3%ADnh%20khi%20ch%E1%BB%89%20b%E1%BA%AFt%20ch%C6%B0%E1%BB%9Bc%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20gi%E1%BA%A5y.md). [Việc web dùng ẩn dụ trang giấy giới hạn cách nghĩ của ta về web](../../C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/T%C6%B0%C6%A1ng%20t%C3%A1c%20ng%C6%B0%E1%BB%9Di%20-%20m%C3%A1y/Web/Vi%E1%BB%87c%20web%20d%C3%B9ng%20%E1%BA%A9n%20d%E1%BB%A5%20trang%20gi%E1%BA%A5y%20gi%E1%BB%9Bi%20h%E1%BA%A1n%20c%C3%A1ch%20ngh%C4%A9%20c%E1%BB%A7a%20ta%20v%E1%BB%81%20web.md). [Media trên internet khác hẳn media trên các phương tiện ở chỗ người tiêu dùng có thể tương tác với nó](Media%20tr%C3%AAn%20internet%20kh%C3%A1c%20h%E1%BA%B3n%20media%20tr%C3%AAn%20c%C3%A1c%20ph%C6%B0%C6%A1ng%20ti%E1%BB%87n%20%E1%BB%9F%20ch%E1%BB%97%20ng%C6%B0%E1%BB%9Di%20ti%C3%AAu%20d%C3%B9ng%20c%C3%B3%20th%E1%BB%83%20t%C6%B0%C6%A1ng%20t%C3%A1c%20v%E1%BB%9Bi%20n%C3%B3.md)

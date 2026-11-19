@@ -11,4 +11,4 @@ Khi so ra, đui xoáy ở đây chính là một dạng interface, là “giao k
 
 Interface khi đó được bên sử dụng xem như một kiểu dữ liệu. Biến của kiểu dữ liệu này có thể tương thích với bất kỳ object nào tạo ra từ class thực thi giao diện tương ứng.
 
-Nguồn:: [tuhocict](../../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u.%20Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/tuhocict.md), [Bộ nguyên lý SOLID - lập trình viên tương lai cần biết | Tự học ICT](https://tuhocict.com/bo-nguyen-ly-solid-lap-trinh-vien-tuong-lai-can-biet/)
+Nguồn:: [tuhocict](../../../../../%CE%9E%20Meta/Ngu%E1%BB%93n/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u.%20Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/tuhocict.md), [Bộ nguyên lý SOLID - lập trình viên tương lai cần biết | Tự học ICT](https://tuhocict.com/bo-nguyen-ly-solid-lap-trinh-vien-tuong-lai-can-biet/)

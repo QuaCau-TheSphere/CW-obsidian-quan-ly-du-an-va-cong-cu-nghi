@@ -3,8 +3,11 @@ aliases:
   - lịch sử phát triển vault
 share: true
 created: 2023-05-26T14:51
-updated: 2026-09-21T15:35
+updated: 2026-11-19T20:29
 ---
+## 2026
+[19-11-2026](19-11-2026.md) Đổi tên kho từ "Obsidian, quản lý dự án và công cụ nghĩ" sang "Công việc và công cụ"
+
 ## 2024
 - [Công nghệ và ký ức: trí nhớ của ta có còn nằm trong não của ta nữa không? - YouTube](https://www.youtube.com/watch?v=anEPsQCBPKI)
 - [Giới hạn của PKM nằm ở đâu: máy móc mình sử dụng hay chính người sử dụng nó?](https://www.youtube.com/watch?v=DIKNl3nVSxw)

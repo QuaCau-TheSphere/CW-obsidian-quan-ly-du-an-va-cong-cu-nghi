@@ -13,4 +13,4 @@ Em dự tính với những ai thể hiện nhu cầu cao em sẽ mời họ tr�
 Em cảm ơn mọi người đã dành thời gian quan tâm.
 
 [Bản khảo sát nhu cầu học lập trình](./Nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh/B%E1%BA%A3n%20kh%E1%BA%A3o%20s%C3%A1t%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20l%E1%BA%ADp%20tr%C3%ACnh.md)
-Khái niệm:: [Nghiên cứu](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/Nghi%C3%AAn%20c%E1%BB%A9u.md)
+Khái niệm:: [Nghiên cứu](../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Nghi%C3%AAn%20c%E1%BB%A9u.md)

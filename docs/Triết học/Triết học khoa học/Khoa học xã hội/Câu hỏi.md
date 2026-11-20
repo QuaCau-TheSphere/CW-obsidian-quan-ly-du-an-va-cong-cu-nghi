@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-11-19T23:04
+updated: 2026-11-20T15:17
 created: 2026-11-19T20:56
 ---
 Khái niệm:: 
@@ -10,6 +10,6 @@ Khái niệm::
 
 > Phương pháp diễn dịch là thói quen của toán học. Phương pháp quy nạp là vũ khí chiến lược của khoa học tự nhiên. Phương pháp suy luận giả định đến từ các nhà thám tử, và là nền tảng của khoa học xã hội
 
-Kho
+Ngụy khoa học hay giả khoa học
 
 Trích từ:: [Cơ sở triết học trong tâm lý học](C%C6%A1%20s%E1%BB%9F%20tri%E1%BA%BFt%20h%E1%BB%8Dc%20trong%20t%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc.md)

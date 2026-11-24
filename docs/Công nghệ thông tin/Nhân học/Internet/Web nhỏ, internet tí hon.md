@@ -6,7 +6,10 @@ aliases:
   - small web
   - cozy web
   - tiny internet
+  - văn hóa internet
 ---
+https://youtu.be/SM-FF0DEl50?si=bHw6eg9Zf3BvuBPI
+https://youtu.be/VUGpvb6Lk6M?si=ISwU9vEdJ79fsGKi
 [alive internet theory - by Spencer Chang](https://news.spencer.place/p/alive-internet-theory)
 [𝓽𝓲𝓷𝔂 𝓲𝓷𝓽𝓮𝓻𝓷𝓮𝓽𝓼](https://tiny-inter.net/?utm_source=invited_by_Spencer_Chang)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=af0OjIkt9dY&pp=0gcJCU0KAYcqIYzv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

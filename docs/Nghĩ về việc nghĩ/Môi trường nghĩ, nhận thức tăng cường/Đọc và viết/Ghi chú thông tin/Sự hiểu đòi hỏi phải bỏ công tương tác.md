@@ -3,7 +3,7 @@ share: true
 created: 2026-09-05T20:19
 updated: 2026-11-19T20:26
 ---
-Khái niệm:: [Hiểu](../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Hi%E1%BB%83u.md)
+Khái niệm:: [Hiểu, lý giải, giải thích](../../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Hi%E1%BB%83u,%20l%C3%BD%20gi%E1%BA%A3i,%20gi%E1%BA%A3i%20th%C3%ADch.md)
 
 Accumulating tabs, saving PDFs, and making bookmarks feels like progress, but we systematically overrate its value. [Understanding requires effortful engagement](https://notes.andymatuschak.org/zX1WtJ4ouE8sjN1NgWHsGVg8ZnVfp5Kz74Vs); you are not likely to draw much understanding from a folder of barely-skimmed PDFs.
 

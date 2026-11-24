@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2023-05-29T13:13
-updated: 2026-08-12T01:41
+updated: 2026-11-21T14:33
 ---
 [Sự hợp tác xã hội của ta hướng đến việc chia việc để cùng tạo ra sản phẩm chung, chứ không phải ở việc giúp đỡ qua lại](../../C%E1%BB%99ng%20%C4%91%E1%BB%93ng,%20h%E1%BB%87%20sinh%20th%C3%A1i,%20h%E1%BB%87%20ph%E1%BB%A9c%20h%E1%BB%A3p/H%E1%BB%87%20sinh%20th%C3%A1i/Gi%C3%BAp%20%C4%91%E1%BB%A1%20nhau/S%E1%BB%B1%20h%E1%BB%A3p%20t%C3%A1c%20x%C3%A3%20h%E1%BB%99i%20c%E1%BB%A7a%20ta%20h%C6%B0%E1%BB%9Bng%20%C4%91%E1%BA%BFn%20vi%E1%BB%87c%20chia%20vi%E1%BB%87c%20%C4%91%E1%BB%83%20c%C3%B9ng%20t%E1%BA%A1o%20ra%20s%E1%BA%A3n%20ph%E1%BA%A9m%20chung,%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20%E1%BB%9F%20vi%E1%BB%87c%20gi%C3%BAp%20%C4%91%E1%BB%A1%20qua%20l%E1%BA%A1i.md)
 [Khi được trò chuyện với người cùng quan tâm thì việc nghĩ không nhức đầu. Khi không có thì việc nghĩ nhức đầu](./Khi%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%B2%20chuy%E1%BB%87n%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20c%C3%B9ng%20quan%20t%C3%A2m%20th%C3%AC%20vi%E1%BB%87c%20ngh%C4%A9%20kh%C3%B4ng%20nh%E1%BB%A9c%20%C4%91%E1%BA%A7u.%20Khi%20kh%C3%B4ng%20c%C3%B3%20th%C3%AC%20vi%E1%BB%87c%20ngh%C4%A9%20nh%E1%BB%A9c%20%C4%91%E1%BA%A7u.md)
+[Giá trị của một hệ thống không nằm ở số lượng lựa chọn nó cung cấp, mà ở chỗ lựa chọn đầu tiên nó bày ra có thực sự đứng về phía người dùng hay không](../../Tri%E1%BA%BFt%20h%E1%BB%8Dc/Tri%E1%BA%BFt%20h%E1%BB%8Dc%20c%C3%B4ng%20ngh%E1%BB%87/Gi%C3%A1%20tr%E1%BB%8B%20c%E1%BB%A7a%20m%E1%BB%99t%20h%E1%BB%87%20th%E1%BB%91ng%20kh%C3%B4ng%20n%E1%BA%B1m%20%E1%BB%9F%20s%E1%BB%91%20l%C6%B0%E1%BB%A3ng%20l%E1%BB%B1a%20ch%E1%BB%8Dn%20n%C3%B3%20cung%20c%E1%BA%A5p,%20m%C3%A0%20%E1%BB%9F%20ch%E1%BB%97%20l%E1%BB%B1a%20ch%E1%BB%8Dn%20%C4%91%E1%BA%A7u%20ti%C3%AAn%20n%C3%B3%20b%C3%A0y%20ra%20c%C3%B3%20th%E1%BB%B1c%20s%E1%BB%B1%20%C4%91%E1%BB%A9ng%20v%E1%BB%81%20ph%C3%ADa%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20hay%20kh%C3%B4ng.md)
+
 Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../%CE%9E%20Meta/Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-12-02T10:29
-updated: 2026-05-12T23:39
+updated: 2026-11-21T14:33
 ---
 [Phản hồi và sự giúp đỡ trả lại là những thứ xa xỉ với người được giúp](./Ph%E1%BA%A3n%20h%E1%BB%93i%20v%C3%A0%20s%E1%BB%B1%20gi%C3%BAp%20%C4%91%E1%BB%A1%20tr%E1%BA%A3%20l%E1%BA%A1i%20l%C3%A0%20nh%E1%BB%AFng%20th%E1%BB%A9%20xa%20x%E1%BB%89%20v%E1%BB%9Bi%20ng%C6%B0%E1%BB%9Di%20%C4%91%C6%B0%E1%BB%A3c%20gi%C3%BAp.md)
 [Tìm được người cùng muốn làm chung với mình và đủ rảnh là rất khó](../../../Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%B1%20%C3%A1n,%20ph%C3%A1t%20tri%E1%BB%83n%20s%E1%BA%A3n%20ph%E1%BA%A9m,%20x%C3%A2y%20d%E1%BB%B1ng%20t%E1%BB%95%20ch%E1%BB%A9c/X%C3%A2y%20d%E1%BB%B1ng%20nh%C3%B3m,%20qu%E1%BA%A3n%20l%C3%BD%20nh%C3%A2n%20s%E1%BB%B1/T%C3%ACm%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m/T%C3%ACm%20%C4%91%C6%B0%E1%BB%A3c%20ng%C6%B0%E1%BB%9Di%20c%C3%B9ng%20mu%E1%BB%91n%20l%C3%A0m%20chung%20v%E1%BB%9Bi%20m%C3%ACnh%20v%C3%A0%20%C4%91%E1%BB%A7%20r%E1%BA%A3nh%20l%C3%A0%20r%E1%BA%A5t%20kh%C3%B3.md)
@@ -9,4 +9,5 @@ updated: 2026-05-12T23:39
 [Để một hệ sinh thái hoạt động thực sự hiệu quả thì lượng năng lượng dành ra để nắm bắt tín hiệu của môi trường phải giảm tới mức gần như bằng 0](../%C4%90%E1%BB%83%20m%E1%BB%99t%20h%E1%BB%87%20sinh%20th%C3%A1i%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20th%E1%BB%B1c%20s%E1%BB%B1%20hi%E1%BB%87u%20qu%E1%BA%A3%20th%C3%AC%20l%C6%B0%E1%BB%A3ng%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20d%C3%A0nh%20ra%20%C4%91%E1%BB%83%20n%E1%BA%AFm%20b%E1%BA%AFt%20t%C3%ADn%20hi%E1%BB%87u%20c%E1%BB%A7a%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20ph%E1%BA%A3i%20gi%E1%BA%A3m%20t%E1%BB%9Bi%20m%E1%BB%A9c%20g%E1%BA%A7n%20nh%C6%B0%20b%E1%BA%B1ng%200.md). [Một hệ sinh thái không hoạt động bằng cách đặt câu hỏi, mà bằng cách không cần hỏi cũng biết câu trả lời là gì](../M%E1%BB%99t%20h%E1%BB%87%20sinh%20th%C3%A1i%20kh%C3%B4ng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20b%E1%BA%B1ng%20c%C3%A1ch%20%C4%91%E1%BA%B7t%20c%C3%A2u%20h%E1%BB%8Fi,%20m%C3%A0%20b%E1%BA%B1ng%20c%C3%A1ch%20kh%C3%B4ng%20c%E1%BA%A7n%20h%E1%BB%8Fi%20c%C5%A9ng%20bi%E1%BA%BFt%20c%C3%A2u%20tr%E1%BA%A3%20l%E1%BB%9Di%20l%C3%A0%20g%C3%AC.md)
 
 [Sự tập trung đòi hỏi người khác phải lo cho những nhu cầu khác của mình](./S%E1%BB%B1%20t%E1%BA%ADp%20trung%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20ph%E1%BA%A3i%20lo%20cho%20nh%E1%BB%AFng%20nhu%20c%E1%BA%A7u%20kh%C3%A1c%20c%E1%BB%A7a%20m%C3%ACnh.md)
+
 Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](../../../%CE%9E%20Meta/Ngu%E1%BB%93n/T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)

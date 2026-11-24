@@ -3,7 +3,7 @@ share: true
 created: 2026-02-03T13:34
 updated: 2026-11-19T20:25
 ---
-Khái niệm:: [Hiểu](../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Hi%E1%BB%83u.md)
+Khái niệm:: [Hiểu, lý giải, giải thích](../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Hi%E1%BB%83u,%20l%C3%BD%20gi%E1%BA%A3i,%20gi%E1%BA%A3i%20th%C3%ADch.md)
 
 Theo _thông diễn học_ (hermeneutics) – một nhánh của triết học, chuyên nghiên cứu về bản chất của sự hiểu và quá trình diễn giải ý nghĩa – sự hiểu không phải là việc lưu trữ, sắp xếp hoặc xâu chuỗi và trình bày lại dữ liệu (điều mà AI đang làm rất tốt). Thay vì thế, hiểu là khả năng tự giải trình vì sao mình tin vào một kết luận, khả năng cân nhắc các phản ví dụ và sự sẵn sàng tự hiệu chỉnh sau những phản biện hợp lý.
 

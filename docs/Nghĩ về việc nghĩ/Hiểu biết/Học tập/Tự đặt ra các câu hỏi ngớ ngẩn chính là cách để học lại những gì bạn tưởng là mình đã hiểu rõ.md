@@ -26,4 +26,4 @@ Hoặc đó cũng có thể là vì người đặt câu hỏi hoàn toàn có t
 > - Giải Ig Nobel **Tâm lý học** được trao cho hai nhà khoa học vì đã phát minh ra phương pháp xác định người tự ái bằng cách kiểm tra lông mày của họ. Các nhà nghiên cứu nhận thấy lông mày là một dấu hiệu phi ngôn ngữ đặc biệt quan trọng để đánh giá các đặc điểm tính cách tự ái. Nghiên cứu của họ được công bố trên Tạp chí Nhân cách năm 2018. Những người tham gia nghiên cứu đánh giá độ dày của lông mày là dấu hiệu rõ ràng nhất của lòng tự ái.
 > - Giải Ig Nobel **Khoa học vật liệu** được trao cho một nhóm các nhà khoa học vì đã "chỉ ra rằng dao được sản xuất từ ​​phân người đông lạnh hoạt động không tốt".
 
-Khái niệm:: [Hiểu](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Hi%E1%BB%83u.md)
+Khái niệm:: [Hiểu, lý giải, giải thích](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Nh%E1%BA%ADn%20th%E1%BB%A9c/Hi%E1%BB%83u,%20l%C3%BD%20gi%E1%BA%A3i,%20gi%E1%BA%A3i%20th%C3%ADch.md)

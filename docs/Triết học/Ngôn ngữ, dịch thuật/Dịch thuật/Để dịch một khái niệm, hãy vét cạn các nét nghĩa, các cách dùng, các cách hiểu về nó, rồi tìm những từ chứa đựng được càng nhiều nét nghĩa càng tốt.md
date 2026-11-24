@@ -55,16 +55,16 @@ Trước đây có một số người đề xuất dịch những từ này nh�
 Nhìn chung những người làm trong lĩnh vực này tránh dùng từ `từ thiện`, vì cảm thấy nó có nét nghĩa `*thường mang tính khẩn cấp, ngắn hạn` mà `philanthropy` không có. Tuy nhiên họ vẫn không cảm thấy những cách dịch trên là chưa đạt, vì với nhiều người tiếp nhận họ vẫn hiểu hoạt động này không khác gì `từ thiện`.
 
 Ta hãy biểu diễn tất cả các nét nghĩa này lên không gian nghĩa:
-![Các nét nghĩa.png](../../attachments/C%C3%A1c%20n%C3%A9t%20ngh%C4%A9a.png)
+![Các nét nghĩa.png](../../../attachments/C%C3%A1c%20n%C3%A9t%20ngh%C4%A9a.png)
 
 Dễ cảm thấy rằng nghĩa mặt chữ của `nhân ái` chỉ bao gồm `*xuất phát từ lòng thương người (thiện)` và không bao gồm những cái khác:
-![Nhân ái.png](../../attachments/Nh%C3%A2n%20%C3%A1i.png)
+![Nhân ái.png](../../../attachments/Nh%C3%A2n%20%C3%A1i.png)
 
 Cả `phúc thiện` cũng vậy:
-![Nhân ái + phúc thiện.png](../../attachments/Nh%C3%A2n%20%C3%A1i%20+%20ph%C3%BAc%20thi%E1%BB%87n.png)
+![Nhân ái + phúc thiện.png](../../../attachments/Nh%C3%A2n%20%C3%A1i%20+%20ph%C3%BAc%20thi%E1%BB%87n.png)
 
 Đối với `thiện nguyện` thì lại có thêm `*làm một cách tự nguyện` trong nghĩa mặt chữ:
-![Nhân ái + phúc thiện + thiện nguyện.png](../../attachments/Nh%C3%A2n%20%C3%A1i%20+%20ph%C3%BAc%20thi%E1%BB%87n%20+%20thi%E1%BB%87n%20nguy%E1%BB%87n.png)
+![Nhân ái + phúc thiện + thiện nguyện.png](../../../attachments/Nh%C3%A2n%20%C3%A1i%20+%20ph%C3%BAc%20thi%E1%BB%87n%20+%20thi%E1%BB%87n%20nguy%E1%BB%87n.png)
 
 Ở đây hãy giả định rằng nghĩa mặt chữ của các từ này đồng nhất với nghĩa thực dùng của chúng. 
 
@@ -75,15 +75,15 @@ Giờ hãy tạm xoá đi làm lại. Ta xét từ `từ thiện`. Nghĩa mặt 
 - `*thường mang tính khẩn cấp, ngắn hạn`
 
 Ta hãy xem nó sẽ được biểu diễn thế nào:
-![Từ thiện.png](../../attachments/T%E1%BB%AB%20thi%E1%BB%87n.png)
+![Từ thiện.png](../../../attachments/T%E1%BB%AB%20thi%E1%BB%87n.png)
 
 Ta bật hết cả 4 từ `từ thiện`, `nhân ái`, `thiện nguyện`, `phúc thiện` này lên:
-![Nhân ái + phúc thiện + thiện nguyện + từ thiện.png](../../attachments/Nh%C3%A2n%20%C3%A1i%20+%20ph%C3%BAc%20thi%E1%BB%87n%20+%20thi%E1%BB%87n%20nguy%E1%BB%87n%20+%20t%E1%BB%AB%20thi%E1%BB%87n.png)
+![Nhân ái + phúc thiện + thiện nguyện + từ thiện.png](../../../attachments/Nh%C3%A2n%20%C3%A1i%20+%20ph%C3%BAc%20thi%E1%BB%87n%20+%20thi%E1%BB%87n%20nguy%E1%BB%87n%20+%20t%E1%BB%AB%20thi%E1%BB%87n.png)
 
 Ta thấy rằng nghĩa thực dùng của `từ thiện` đã ôm hết tất cả nghĩa của các từ kia. Chính vì như vậy, nên nghĩa thực dùng của chúng sẽ dần mở rộng ra cho bằng với `từ thiện` (quan sát 6b). Đây chính là nguyên do của sự chưa thoả mãn của nhiều người với những phương án dịch hiện tại. Để thoát khỏi cái bóng ma của `từ thiện`, ta cần tìm một từ nào có một nét nghĩa mà `từ thiện` không có (quan sát 6a).
 
 Gọi `X` là cách dịch của `philanthropy`. Đây là `X`:
-![Từ thiện + X.png](../../attachments/T%E1%BB%AB%20thi%E1%BB%87n%20+%20X.png)
+![Từ thiện + X.png](../../../attachments/T%E1%BB%AB%20thi%E1%BB%87n%20+%20X.png)
 
 Bởi vì `X` chưa tồn tại trong tiếng Việt, nên tốt nhất khi tạo nó ta nên có càng nhiều nét nghĩa của `X` trên mặt chữ. Và để thoát khỏi cái bóng ma của `từ thiện`, nhất thiết trên mặt chữ đó phải thể hiện ngay được nét nghĩa `*dựa trên tri thức` hoặc `*có tính bền vững và dài hạn`. 
 
@@ -91,7 +91,7 @@ Thấy rằng ta đã có `thiện nguyện` chứa được nhiều nét nghĩa
 - `thiện nguyện dựa trên tri thức`
 - `thiện nguyện có tính bền vững và dài hạn`
 
-![Thiện nguyện dựa trên tri thức + X.png](../../attachments/Thi%E1%BB%87n%20nguy%E1%BB%87n%20d%E1%BB%B1a%20tr%C3%AAn%20tri%20th%E1%BB%A9c%20+%20X.png)
+![Thiện nguyện dựa trên tri thức + X.png](../../../attachments/Thi%E1%BB%87n%20nguy%E1%BB%87n%20d%E1%BB%B1a%20tr%C3%AAn%20tri%20th%E1%BB%A9c%20+%20X.png)
 
 Mặc dù nghĩa mặt chữ của `thiện nguyện dựa trên tri thức` chưa bao hàm được hết tất cả những nghĩa thực dùng của `X`, nhưng ít nhất nó đã thoát ra khỏi cái bóng ma của `từ thiện`. Và vì nghĩa mặt chữ của nó không chứa nét nghĩa nào mà `X` không có, nên việc đồng nhất nó với `X` sẽ dễ dàng được chấp nhận. (Và kể cả như ta tìm được một từ có tất cả các nét nghĩa của `X` đi chăng nữa, thì điều gì sẽ làm cho nó không bị trượt nghĩa trong tương lai?)
 

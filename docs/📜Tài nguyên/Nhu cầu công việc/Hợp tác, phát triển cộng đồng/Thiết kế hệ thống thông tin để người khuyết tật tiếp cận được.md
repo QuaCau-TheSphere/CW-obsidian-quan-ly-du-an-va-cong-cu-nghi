@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2025-07-14T15:00
-updated: 2026-11-13T17:03
+updated: 2026-11-23T20:56
 aliases:
   - Hệ thống thông tin có thiết kế hòa nhập
   - Phần mềm có thiết kế hòa nhập
-title: Thiết kế hòa nhập trong hệ thống thông tin và một số nỗ lực ở Việt Nam
+title: Thiết kế hòa nhập trong hệ thống thông tin, và một số nỗ lực ở Việt Nam
 ---
 Bài này chỉ tập trung nói về [thiết kế hòa nhập](../../L%C4%A9nh%20v%E1%BB%B1c/Thi%E1%BA%BFt%20k%E1%BA%BF%20h%C3%B2a%20nh%E1%BA%ADp/index.md) trong phần mềm hoặc hệ thống thông tin.
 
@@ -16,7 +16,10 @@ Khi nói đến việc thiết kế tiếp cận được cho người khuyết 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=y6jrL8UCw7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Home - The A11Y Project](https://www.a11yproject.com/)
+[Accessibility Fundamentals Overview](https://www.w3.org/WAI/fundamentals/)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/20SHvU2PKsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=3f31oufqFSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Một hệ thống thông tin có thể chào đón người khuyết tật được tới đâu?](../../Gi%E1%BA%A3i%20ph%C3%A1p%20k%E1%BB%B9%20thu%E1%BA%ADt/Ph%E1%BA%A7n%20m%E1%BB%81m%20l%C3%A0m%20vi%E1%BB%87c%20nh%C3%B3m%20(groupware)/H%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin/M%E1%BB%99t%20h%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin%20c%C3%B3%20th%E1%BB%83%20ch%C3%A0o%20%C4%91%C3%B3n%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BB%9Bi%20%C4%91%C3%A2u.md)
 
 ## Một số nỗ lực xây dựng hệ thống thông tin có tính đến thiết kế hòa nhập ở Việt Nam
@@ -30,6 +33,8 @@ Trước đây có bản đồ tiếp cận D.Map hướng đến việc thu th�
 Ứng dụng đặt xe cho người khuyết tật vận động
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6BVNAWVjK1s?si=AwYnIANVhZtIHyLO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Hội nghị lấy ý kiến đóng góp vào báo cáo khuyến nghị và tổng kết dự án “Tiếp cận dịch vụ ngân hàng của người khuyết tật”](https://www.hnmvn.vn/quan-he-quoc-te/hoi-nghi-lay-y-kien-dong-gop-vao-bao-cao-khuyen-nghi-va-tong-ket-du-an-%E2%80%9Ctiep-can-dich-vu-ngan-hang-cua-nguoi-khuyet-tat%E2%80%9D?utm_source=chatgpt.com)
 
 Lĩnh vực:: [Thiết kế hòa nhập](../../L%C4%A9nh%20v%E1%BB%B1c/Thi%E1%BA%BFt%20k%E1%BA%BF%20h%C3%B2a%20nh%E1%BA%ADp/index.md)
 Nhu cầu công nghệ:: 

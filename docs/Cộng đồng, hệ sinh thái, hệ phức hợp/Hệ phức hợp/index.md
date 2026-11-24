@@ -58,7 +58,7 @@ Thế giới hậu công nghiệp bị bão hoà bởi sản phẩm. Con ngườ
 
 Google khám phá vì muốn hỏi be where the next great thing is going to happen
 
-[Sự đáp ứng đòi hỏi ta nhận diện được rằng ta không thể hoàn toàn biết được tương lai của mình](./B%E1%BA%A5t%20%C4%91%E1%BB%8Bnh/S%E1%BB%B1%20%C4%91%C3%A1p%20%E1%BB%A9ng%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20ta%20nh%E1%BA%ADn%20di%E1%BB%87n%20%C4%91%C6%B0%E1%BB%A3c%20r%E1%BA%B1ng%20ta%20kh%C3%B4ng%20th%E1%BB%83%20ho%C3%A0n%20to%C3%A0n%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20t%C6%B0%C6%A1ng%20lai%20c%E1%BB%A7a%20m%C3%ACnh.md). Chuyển chiến lược từ cố gắng đoán tương lai đến việc thích ứng với nó
+[Sự thích nghi đòi hỏi ta nhận diện được rằng ta không thể hoàn toàn biết được tương lai của mình](./B%E1%BA%A5t%20%C4%91%E1%BB%8Bnh/S%E1%BB%B1%20th%C3%ADch%20nghi%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20ta%20nh%E1%BA%ADn%20di%E1%BB%87n%20%C4%91%C6%B0%E1%BB%A3c%20r%E1%BA%B1ng%20ta%20kh%C3%B4ng%20th%E1%BB%83%20ho%C3%A0n%20to%C3%A0n%20bi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20t%C6%B0%C6%A1ng%20lai%20c%E1%BB%A7a%20m%C3%ACnh.md). Chuyển chiến lược từ cố gắng đoán tương lai đến việc thích ứng với nó
 
 Có một biên giới để có sự cân bằng nội môi. Biên giới này sẽ có vòng lặp dương và càng ngày càng khóa mình vào đó
 Sự kháng cự lại với môi trường bằng cách điều chỉnh môi trường để giảm số input có thể có 

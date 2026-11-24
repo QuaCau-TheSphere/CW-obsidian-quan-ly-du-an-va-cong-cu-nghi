@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-09-05T20:24
-updated: 2026-11-19T20:45
+updated: 2026-11-24T15:42
 title: Tự trị dữ liệu, local-first, phần mềm dẻo
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=NMq0vncHJvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -9,7 +9,7 @@ title: Tự trị dữ liệu, local-first, phần mềm dẻo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--Ru7cL22rI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qo5m92-9_QI?si=UYhsarNQ-et0UQTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9s8OA08ggbM?si=M94SSvLA8RwrbP1P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=4UxGijnuXEs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 - [Bạn có quyền chỉnh sửa dữ liệu của mình dưới bất kỳ hình thức nào](./B%E1%BA%A1n%20c%C3%B3%20quy%E1%BB%81n%20ch%E1%BB%89nh%20s%E1%BB%ADa%20d%E1%BB%AF%20li%E1%BB%87u%20c%E1%BB%A7a%20m%C3%ACnh%20d%C6%B0%E1%BB%9Bi%20b%E1%BA%A5t%20k%E1%BB%B3%20h%C3%ACnh%20th%E1%BB%A9c%20n%C3%A0o.md)
 - [Các giao thức bị tái trung tâm hóa](./C%C3%A1c%20giao%20th%E1%BB%A9c%20b%E1%BB%8B%20t%C3%A1i%20trung%20t%C3%A2m%20h%C3%B3a.md)
 - [Local-first là cách để sử dụng và thay đổi dữ liệu nhanh nhất và ít rào cản nhất](./Local-first%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20s%E1%BB%AD%20d%E1%BB%A5ng%20v%C3%A0%20thay%20%C4%91%E1%BB%95i%20d%E1%BB%AF%20li%E1%BB%87u%20nhanh%20nh%E1%BA%A5t%20v%C3%A0%20%C3%ADt%20r%C3%A0o%20c%E1%BA%A3n%20nh%E1%BA%A5t.md)

@@ -5,7 +5,7 @@ updated: 2026-07-01T13:41
 title: Kế hoạch
 ---
 Evaluation Error: TypeError: Cannot read properties of undefined (reading 'path')
-    at eval (eval at <anonymous> (app://obsidian.md/_plugin/38b6c9f4ea08f1d4/.obsidian%2Fplugins%2Fdataview?id=dataview:19027:16), <anonymous>:14:19)
+    at eval (eval at <anonymous> (app://obsidian.md/_plugin/38b6c9f4ea08f1d4/.obsidian%2Fplugins%2Fdataview?id=dataview:19027:16), <anonymous>:13:19)
     at DataviewInlineApi.<anonymous> (plugin:dataview:19027:16)
     at evalInContext (plugin:dataview:19028:7)
     at asyncEvalInContext (plugin:dataview:19038:32)

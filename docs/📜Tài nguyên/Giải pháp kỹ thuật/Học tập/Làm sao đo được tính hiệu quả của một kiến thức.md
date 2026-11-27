@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2026-09-19T16:15
-updated: 2026-09-19T16:19
+updated: 2026-11-26T13:55
 ---
-Khái niệm:: 
+Khái niệm:: [Hiệu quả](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Hi%E1%BB%87u%20qu%E1%BA%A3.md), [Kiến thức, tri thức](../../../%CE%9E%20Meta/Kh%C3%A1i%20ni%E1%BB%87m/Ki%E1%BA%BFn%20th%E1%BB%A9c,%20tri%20th%E1%BB%A9c.md)
+
 [Hiểu biết không chỉ để mình làm một cái gì đó, mà còn để mình không làm một cái gì đó](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Hi%E1%BB%83u%20bi%E1%BA%BFt/Hi%E1%BB%83u%20bi%E1%BA%BFt%20kh%C3%B4ng%20ch%E1%BB%89%20%C4%91%E1%BB%83%20m%C3%ACnh%20l%C3%A0m%20m%E1%BB%99t%20c%C3%A1i%20g%C3%AC%20%C4%91%C3%B3,%20m%C3%A0%20c%C3%B2n%20%C4%91%E1%BB%83%20m%C3%ACnh%20kh%C3%B4ng%20l%C3%A0m%20m%E1%BB%99t%20c%C3%A1i%20g%C3%AC%20%C4%91%C3%B3.md)
 [Chúng ta săn tìm và tích trữ thông tin giống như săn tìm và tích trữ lương thực](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Hi%E1%BB%83u%20bi%E1%BA%BFt/Ch%C3%BAng%20ta%20s%C4%83n%20t%C3%ACm%20v%C3%A0%20t%C3%ADch%20tr%E1%BB%AF%20th%C3%B4ng%20tin%20gi%E1%BB%91ng%20nh%C6%B0%20s%C4%83n%20t%C3%ACm%20v%C3%A0%20t%C3%ADch%20tr%E1%BB%AF%20l%C6%B0%C6%A1ng%20th%E1%BB%B1c.md)
 [Hiểu biết sâu làm ta thấy khoái cảm](../../../Ngh%C4%A9%20v%E1%BB%81%20vi%E1%BB%87c%20ngh%C4%A9/Khoa%20h%E1%BB%8Dc%20nh%E1%BA%ADn%20th%E1%BB%A9c/Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u%20l%C3%A0m%20ta%20th%E1%BA%A5y%20kho%C3%A1i%20c%E1%BA%A3m.md)
@@ -16,4 +17,5 @@ Nếu họ biết rõ mình cần gì. Thứ hoang mang chỉ là vấn đề ko
 Liệt kê các nhu cầu của họ trước khi đến, rồi chấm điểm thỏa mãn các nhu cầu đó
 
 
-[Một số ghi chép và suy nghĩ về điểm số và dữ liệu định lượng trong giáo dục](../../../H%E1%BB%87%20h%C3%ACnh%20nghi%C3%AAn%20c%E1%BB%A9u/Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20lu%E1%BA%ADn/%C4%90%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng/M%E1%BB%99t%20s%E1%BB%91%20ghi%20ch%C3%A9p%20v%C3%A0%20suy%20ngh%C4%A9%20v%E1%BB%81%20%C4%91i%E1%BB%83m%20s%E1%BB%91%20v%C3%A0%20d%E1%BB%AF%20li%E1%BB%87u%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng%20trong%20gi%C3%A1o%20d%E1%BB%A5c.md)
+[Một số suy nghĩ về một buổi chuyên đề về dữ liệu trong giáo dục](../../../H%E1%BB%87%20h%C3%ACnh%20nghi%C3%AAn%20c%E1%BB%A9u/Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20lu%E1%BA%ADn/%C4%90%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng/M%E1%BB%99t%20s%E1%BB%91%20suy%20ngh%C4%A9%20v%E1%BB%81%20m%E1%BB%99t%20bu%E1%BB%95i%20chuy%C3%AAn%20%C4%91%E1%BB%81%20v%E1%BB%81%20d%E1%BB%AF%20li%E1%BB%87u%20trong%20gi%C3%A1o%20d%E1%BB%A5c.md)
+[❓Các dự án giáo dục đo lường mức độ thành công của mình thế nào](../../../H%E1%BB%87%20h%C3%ACnh%20nghi%C3%AAn%20c%E1%BB%A9u/Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20lu%E1%BA%ADn/%C4%90%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng/%E2%9D%93C%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20gi%C3%A1o%20d%E1%BB%A5c%20%C4%91o%20l%C6%B0%E1%BB%9Dng%20m%E1%BB%A9c%20%C4%91%E1%BB%99%20th%C3%A0nh%20c%C3%B4ng%20c%E1%BB%A7a%20m%C3%ACnh%20th%E1%BA%BF%20n%C3%A0o.md)

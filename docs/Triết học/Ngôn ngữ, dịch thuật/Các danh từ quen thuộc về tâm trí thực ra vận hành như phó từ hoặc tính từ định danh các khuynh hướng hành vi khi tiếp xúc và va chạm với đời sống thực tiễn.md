@@ -1,7 +1,8 @@
 ---
 share: true
-updated: 2026-11-26T13:34
+updated: 2026-11-27T16:51
 created: 2026-11-26T13:24
+title: Các danh từ quen thuộc về tâm trí không chỉ về những vật thể hay quy trình bí ẩn khép kín trong não bộ, mà vận hành như phó từ hoặc tính từ định danh các khuynh hướng hành vi của con người khi tiếp xúc và va chạm với đời sống thực tiễn
 ---
 Khái niệm:: [Tâm trí](T%C3%A2m%20tr%C3%AD.md)
 Các danh từ quen thuộc về tâm trí (như trí thông minh, trí nhớ, niềm tin…) không chỉ về những vật thể hay quy trình bí ẩn khép kín trong não bộ. Chúng vận hành như phó từ (adverbs) hoặc tính từ (adjectives), định danh các khuynh hướng hành vi (Dispositional properties) của con người khi tiếp xúc và va chạm với đời sống thực tiễn.

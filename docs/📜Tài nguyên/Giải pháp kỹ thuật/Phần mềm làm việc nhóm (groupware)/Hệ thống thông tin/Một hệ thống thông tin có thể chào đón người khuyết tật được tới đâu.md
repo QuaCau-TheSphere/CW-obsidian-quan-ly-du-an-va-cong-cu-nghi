@@ -2,7 +2,7 @@
 share: true
 created: 2026-11-06T21:39
 title: Một hệ thống thông tin có thể chào đón người khuyết tật được tới đâu?
-updated: 2026-11-27T16:16
+updated: 2026-11-27T16:35
 blog: done
 ---
 Bài viết này là những suy nghĩ của tôi sau khi đọc bài [Người khiếm thị không thể mở tài khoản ngân hàng: Khi hệ thống đủ rộng nhưng chưa đủ tinh](https://vnexpress.net/nguoi-khuyet-tat-khiem-thi-mo-tai-khoan-xa-hoi-bang-cach-nao-5141084.html). Bạn nên đọc bài đó trước rồi mới đọc bài này. Nhưng tóm tắt lại, nó bàn về khái niệm **điều chỉnh hợp lý (reasonable accommodation)**. Bài viết lấy ví dụ bằng việc những người khuyết tật bị loại khỏi hệ thống ngân hàng bởi vì họ không thể ký tên theo cách thông thường được, dù đã có những cách xác thực thay thế khác. Về lâu dài, hệ thống cần phải được thay đổi, nhưng với một người đang đứng trước quầy giao dịch thì việc thay đổi ở cấp hệ thống là quá xa, và họ cần nhân viên tiếp nhận hồ sơ có thể hỗ trợ họ sử dụng các công nghệ hỗ trợ đã có sẵn. Có thể chính các nhân viên cũng rất muốn tạo điều kiện cho họ, nhưng lại không có thẩm quyền để thay đổi quy trình hiện tại. Hệ quả là tuy họ có quyền mở tài khoản (nghĩa là ngân hàng có nghĩa vụ mở tài khoản cho họ) thì họ vẫn không làm được. Một ý trong bài là:
@@ -65,7 +65,7 @@ Trong trường hợp tài chính, có lẽ đó là dùng tiền mã hóa thay 
 
 ## Xem thêm
 - [Tại sao bác sĩ ghét máy tính của họ](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers) 
-- [Một số nỗ lực giúp tiếp cận cho người khuyết tật ở Việt Nam liên quan đến các phần mềm, hệ thống thông tin](../../../Nhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/H%E1%BB%A3p%20t%C3%A1c,%20ph%C3%A1t%20tri%E1%BB%83n%20c%E1%BB%99ng%20%C4%91%E1%BB%93ng/Thi%E1%BA%BFt%20k%E1%BA%BF%20h%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin%20%C4%91%E1%BB%83%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt%20ti%E1%BA%BFp%20c%E1%BA%ADn%20%C4%91%C6%B0%E1%BB%A3c.md)
+- [Một số nỗ lực giúp tăng tính tiếp cận cho người khuyết tật ở Việt Nam có liên quan đến các phần mềm, hệ thống thông tin](./M%E1%BB%99t%20s%E1%BB%91%20n%E1%BB%97%20l%E1%BB%B1c%20gi%C3%BAp%20t%C4%83ng%20t%C3%ADnh%20ti%E1%BA%BFp%20c%E1%BA%ADn%20cho%20ng%C6%B0%E1%BB%9Di%20khuy%E1%BA%BFt%20t%E1%BA%ADt%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam%20c%C3%B3%20li%C3%AAn%20quan%20%C4%91%E1%BA%BFn%20c%C3%A1c%20ph%E1%BA%A7n%20m%E1%BB%81m,%20h%E1%BB%87%20th%E1%BB%91ng%20th%C3%B4ng%20tin.md)
 - [The word "reasonable" is used differently as a legal term. Precisely, what is that difference?](https://law.stackexchange.com/q/114905/26060)
 - [Nhìn trật tự từ góc nhìn nhà nước: Đọc Seeing Like a State của James C. Scott](https://trttvbinng.substack.com/p/nhin-trat-tu-tu-goc-nhin-nha-nuoc)
 - [Công nghệ mới đem lại thêm lựa chọn cho người làm chính sách](../../../../C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/C%C3%B4ng%20ngh%E1%BB%87%20m%E1%BB%9Bi%20%C4%91em%20l%E1%BA%A1i%20th%C3%AAm%20l%E1%BB%B1a%20ch%E1%BB%8Dn%20cho%20ng%C6%B0%E1%BB%9Di%20l%C3%A0m%20ch%C3%ADnh%20s%C3%A1ch.md)

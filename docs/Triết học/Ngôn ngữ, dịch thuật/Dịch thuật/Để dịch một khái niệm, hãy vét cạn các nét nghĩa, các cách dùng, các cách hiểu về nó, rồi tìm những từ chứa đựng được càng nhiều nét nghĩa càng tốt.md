@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2023-06-21T14:21
-updated: 2026-05-12T23:39
+updated: 2026-11-26T13:14
 aliases:
   - Từ cách một từ được đổ nghĩa đến việc dịch khái niệm philanthropy sang tiếng Việt
+blog: done
 ---
 ## Cách một từ được đổ nghĩa
 Tôi chưa tìm hiểu đủ vững về lý luận dịch thuật, nhưng qua những lần tôi tự ngẫm nghĩ về việc dịch thì tôi cảm thấy là mọi người sẽ có xu hướng muốn dịch những khái niệm ngành khoa học xã hội, nhân văn, triết học ra tiếng Việt hơn là mượn luôn từ nước ngoài, còn với những khái niệm ngành khoa học tự nhiên thì việc vay mượn từ nước ngoài không làm mình ngứa ngáy bằng. Tôi không chắc.
@@ -102,7 +103,10 @@ Ta có thể chỉnh sửa chúng thêm một chút cho gọn:
 **Đây chính là những đề xuất của tôi cho việc dịch `philanthropy` sang tiếng Việt.**
 
 Bạn có thể thảo luận hoặc xem những người khác thảo luận về cách dịch của từ này trong [Nhóm chat cộng đồng của SNPO](https://m.me/ch/AbZH9tByxb3Jduot/).
-# Những vấn đề của bài này
+
+---
+
+## Những vấn đề của bài này
 Đầu tiên, tôi cũng không được học một cách bài bản về ngôn ngữ học hay lý luận dịch thuật. Tôi có đọc hết một lần sách nhập môn ngữ nghĩa học và cuốn "Dịch thuật và tự do" của Hồ Đắc Túc, nhưng lúc viết bài này thì không giở ra coi lại. Những gì tôi viết có thể xem hoàn toàn chỉ là ngẫm nghĩ cá nhân, chứ tôi cũng không biết ai hay lý thuyết nào để mà trích cả.
 
 Tất cả những phân tích của tôi trong phần về philotropy hoàn toàn là cảm nhận cá nhân của tôi về nghĩa của những từ này (quan sát 4). Mỗi người sẽ có một nhận định về nghĩa khác nhau, và như vậy sẽ có những hình vẽ khác nhau. Và ngay cả tôi sau khi xem lại cũng thấy nghĩa thực dùng của `thiện nguyện` và `phúc thiện` đúng ra cũng phải có thêm `*làm một cách tự nguyện` và `*giải quyết các vấn đề xã hội`, nhưng vẽ lại mệt quá :)). Mà thấy cũng không ảnh hưởng đến lập luận lắm.
@@ -115,5 +119,3 @@ Tất nhiên, tôi cũng có thấy một số lỗ hổng, ví dụ như
 Ngoài ra, cũng có trường hợp một từ 
 Đổ nghĩa rất chặt 
 nét họ hàng giống nhau của Wittgenstein.
-
-Nguồn::

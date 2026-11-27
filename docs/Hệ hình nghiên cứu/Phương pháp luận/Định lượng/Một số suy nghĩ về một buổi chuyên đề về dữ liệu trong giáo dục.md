@@ -2,8 +2,7 @@
 share: true
 blog: done
 created: 2026-07-11T22:11
-updated: 2026-08-05T19:17
-description: Dữ liệu trong quản lý chất lượng giáo dục. Các bước sử dụng dữ liệu. Nhận thức và thái độ của người dùng dữ liệu đối với các hạn chế của nó. Các yêu cầu chức năng cho một hệ thống quản trị
+updated: 2026-11-25T16:41
 ---
 Hôm nay ngày 11/7/2026 tôi tham gia buổi chuyên đề "Kể chuyện bằng dữ liệu trong giáo dục" do [Lớp học đổi mới](https://www.facebook.com/lophocdoimoi) tổ chức. Tôi biết tới buổi này do một người chị trong nhóm cựu học viên ABG đã mua vé nhưng bị mệt đột xuất nên nhường lại cho ai có hứng thú. Tôi tham gia vì muốn biết thêm về những mối quan tâm của một người làm giáo dục, trong đó có việc sử dụng dữ liệu. Có thể xem đây là một phần trong nghiên cứu của tôi về chủ đề [Người làm dữ liệu nói gì về hạn chế của dữ liệu?](./D%E1%BB%AF%20li%E1%BB%87u%20%C4%91%E1%BA%BFn%20t%E1%BB%AB%20s%E1%BB%B1%20%C4%91%E1%BB%8Bnh%20l%C6%B0%E1%BB%A3ng%20c%E1%BB%A7a%20con%20ng%C6%B0%E1%BB%9Di%20ch%E1%BB%89%20s%E1%BB%AD%20d%E1%BB%A5ng%20th%E1%BB%91ng%20k%C3%AA.%20D%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%AB%20s%E1%BB%B1%20%C4%91o%20l%C6%B0%E1%BB%9Dng%20c%C3%A1c%20%C4%91%E1%BA%A1i%20l%C6%B0%E1%BB%A3ng%20v%E1%BA%ADt%20l%C3%BD%20d%C3%B9ng%20c%E1%BA%A3%20c%C3%A1c%20lo%E1%BA%A1i%20to%C3%A1n%20kh%C3%A1c.md) (Dữ liệu ở đây là nói tắt của dữ liệu định lượng.) 
 

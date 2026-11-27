@@ -1,0 +1,11 @@
+---
+share: true
+updated: 2026-11-26T13:34
+created: 2026-11-26T13:24
+---
+Khái niệm:: [Tâm trí](T%C3%A2m%20tr%C3%AD.md)
+Các danh từ quen thuộc về tâm trí (như trí thông minh, trí nhớ, niềm tin…) không chỉ về những vật thể hay quy trình bí ẩn khép kín trong não bộ. Chúng vận hành như phó từ (adverbs) hoặc tính từ (adjectives), định danh các khuynh hướng hành vi (Dispositional properties) của con người khi tiếp xúc và va chạm với đời sống thực tiễn.
+
+Áp dụng vào con người, chẳng hạn lấy phẩm chất “thông minh” làm ví dụ. Khi một sinh viên giải toán “một cách thông minh”, Descartes ắt sẽ đánh giá một cách huyễn hoặc rằng ở đây có hai tiến trình phân lập: bàn tay viết trên giấy (vật lý) và tâm trí ngấm ngầm tính toán (tinh thần). Ryle bác bỏ sự nhân đôi cồng kềnh này. “Thông minh” không có mặt trong vai trò một thao tác ngầm đi trước hành động; nó chính là phẩm tính của bản thân hành vi giải toán đó. Trí thông minh phơi bày trực tiếp qua thao tác nhận diện lỗi sai, tuần tự thực thi logic ngay tại thời điểm ngòi bút chạm vào giấy. Tương tự, “nhớ” hoặc “tin tưởng” là một trạng thái sẵn sàng hành động. Tin rằng “trời sắp mưa” là khuynh hướng cầm theo áo mưa khi ra khỏi nhà, hủy lịch dã ngoại và trả lời nhất quán về thời tiết. Việc lột bỏ danh xưng “thực thể” của tâm trí để trả nó về hình thái “phức hợp khuynh hướng hành vi” triệt tiêu nhu cầu xâm nhập thế giới nội quan đóng kín. Năng lực tâm lý bộc lộ và phơi bày ngay giữa không gian xã hội, kéo tâm lý học khỏi các cuộc cãi vã hữu thể học vô tận và vô bổ để neo đậu vào thực hành khách quan.
+[Triết học là một cuộc chiến chống lại việc ngôn ngữ mê hoặc trí tuệ của chúng ta](../Tri%E1%BA%BFt%20h%E1%BB%8Dc%20tri%E1%BA%BFt%20h%E1%BB%8Dc/Tri%E1%BA%BFt%20h%E1%BB%8Dc%20l%C3%A0%20m%E1%BB%99t%20cu%E1%BB%99c%20chi%E1%BA%BFn%20ch%E1%BB%91ng%20l%E1%BA%A1i%20vi%E1%BB%87c%20ng%C3%B4n%20ng%E1%BB%AF%20m%C3%AA%20ho%E1%BA%B7c%20tr%C3%AD%20tu%E1%BB%87%20c%E1%BB%A7a%20ch%C3%BAng%20ta.md)
+Trích từ:: [Cơ sở triết học trong tâm lý học](C%C6%A1%20s%E1%BB%9F%20tri%E1%BA%BFt%20h%E1%BB%8Dc%20trong%20t%C3%A2m%20l%C3%BD%20h%E1%BB%8Dc.md)
